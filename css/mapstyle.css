@@ -1,0 +1,47 @@
+.map {
+	height: 100%;
+	width: 100%;
+}
+.map-popup {
+	max-height: 600px;
+	overflow-y: auto;
+}
+.popover {
+	<!--border: 2px black;
+	min-width: 550px;
+	max-height: 450px;
+	overflow-y: auto;-->
+	
+	position: absolute;
+	background-color: white;
+	-webkit-filter: drop-shadow(0 1px 4px rgba(0,0,0,0.2));
+	filter: drop-shadow(0 1px 4px rgba(0,0,0,0.2));
+	<!-- padding: 15px; -->
+	border-radius: 10px;
+	border: 1px solid #000000;
+	min-width: 550px;
+	max-height: 500px;
+}
+
+/* Popover Header */
+.popover-title {
+	background-color: #CCCCCC; 
+	color: #000000; 
+	font-size: 28px;
+	text-align: center;
+}
+
+.popover-closer {
+	text-decoration: none;
+	position: absolute;
+	top: 2px;
+	right: 8px;
+}
+
+.popover-closer:after {
+	content: "✖";
+}
+
+.mfp-bg {
+	opacity: .40;
+}
