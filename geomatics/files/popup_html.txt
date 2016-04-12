@@ -1,0 +1,52 @@
+<table width="500" border="1" cellspacing="0" cellpadding="6"> 
+     <col width="150"> 
+     <col width="350"> 
+
+     <tr align="left" valign="top">
+       <td><b>Date Built:</b></td>
+       <td>${dateBuilt}</td>
+     </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Date Demolished:</b></td>
+       <td>${dateDemolished}</td>
+     </tr>
+
+     <tr align="left" valign="top">
+       <td><b>Status:</b></td>
+       <td>${status}</td>
+     </tr>
+
+     <tr align="left" valign="top">
+       <td><b>History:</b></td>
+       <td>${history}</td>
+     </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>1912 Address:</b></td>
+       <td>${addrss}</td>
+     </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>1912 Occupant(s) (<a href="https://archive.org/details/ottawadirec191200midiuoft">1912 Ottawa Directory</a>):</b></td>
+       <td>${occupant}</td>
+     </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Sources:</b></td>
+       <td>${sources}</td>
+     </tr>
+
+</table><br>
+
+<table width="500" border="1" cellspacing="0" cellpadding="6">
+
+     <tr align="center" valign="top">
+        <td><b>Photos</b></td>
+     </tr>
+
+     <tr align="left" valign="top">
+       <td>${photos}</td>
+     </tr>
+
+</table>
