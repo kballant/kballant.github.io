@@ -227,7 +227,7 @@ function reset_styles(styles) {
 	var key = source.on('change', function(event) {
 		if (source.getState() == 'ready') {
 			source.unByKey(key);
-			$.ajax('http://127.0.0.1:4000/geomatics/files/Lost_Ottawa_Buildings.kml').done(function(data) {
+			$.ajax('files/Lost_Ottawa_Buildings.kml').done(function(data) {
 				vector.getSource().forEachFeature(function(feature) {
 					feature.setId(counter);
 					var properties = feature.getProperties();
