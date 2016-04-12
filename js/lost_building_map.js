@@ -227,11 +227,12 @@ function reset_styles(styles) {
 	var key = source.on('change', function(event) {
 		if (source.getState() == 'ready') {
 			source.unByKey(key);
-			$.ajax('http://kballantyne.altervista.org/Lost_Ottawa_Buildings.kml').done(function(data) {
+			$.ajax('http://127.0.0.1:4000/geomatics/files/Lost_Ottawa_Buildings.kml').done(function(data) {
 				vector.getSource().forEachFeature(function(feature) {
 					feature.setId(counter);
 					var properties = feature.getProperties();
-					var tmpstyle = styles[properties['styleUrl'].replace("#", "")];
+					//var tmpstyle = styles[properties['styleUrl'].replace("#", "")];
+					var tmpstyle = styles[properties['styleUrl'].split("#")[1]];
 					if(typeof tmpstyle !== 'undefined'){
 						feature.setStyle(tmpstyle[0]);
 					} else {
@@ -248,7 +249,8 @@ function styleFunction(feature, resolution) {
 	var style;
 	var properties = feature.getProperties();
 	//var style = feature.getStyle();
-	var tmpstyle = styles[properties['styleUrl'].replace("#", "")];
+	//var tmpstyle = styles[properties['styleUrl'].replace("#", "")];
+	var tmpstyle = styles[properties['styleUrl'].split("#")[1]];
 	if(typeof tmpstyle !== 'undefined'){
 		style = tmpstyle[1];
 	} else {
@@ -294,7 +296,7 @@ var osmLayer = new ol.layer.Tile({source: osmSource});
 
 var vector = new ol.layer.Vector({
     source: new ol.source.Vector({
-        url: 'http://kballantyne.altervista.org/Lost_Ottawa_Buildings.kml',
+        url: 'http://127.0.0.1:4000/geomatics/files/Lost_Ottawa_Buildings.kml',
         format: new ol.format.KML({
 			extractStyles: false, 
             //extractAttributes: true
@@ -322,7 +324,8 @@ function removeHighlight(featId) {
 	var feat = vector.getSource().getFeatureById(featId);
 	var properties = feat.getProperties();
 	//var style = feat.getStyle();
-	var tmpstyle = styles[properties['styleUrl'].replace("#", "")];
+	//var tmpstyle = styles[properties['styleUrl'].replace("#", "")];
+	var tmpstyle = styles[properties['styleUrl'].split("#")[1]];
 	if(typeof tmpstyle !== 'undefined'){
 		feat.setStyle(tmpstyle[0]);
 	} else {
@@ -347,7 +350,7 @@ function getPopupContent() {
 			return out_content;
 		}
 	};
-	xhttp.open("GET", "popup_html.txt", false);
+	xhttp.open("GET", "files/popup_html.txt", false);
 	xhttp.send();
 	out_content = xhttp.responseText;
 	//alert(out_content);
@@ -397,9 +400,23 @@ $(document).on("mfpClose", function(event) {
 	closePopup(featId);
 });
 
-var featureOverlay = new ol.FeatureOverlay({
+// FeatureOverlay no longer used after v3.7
+/* var featureOverlay = new ol.FeatureOverlay({
 	map: map,
 	style: styleFunction
+});
+ */
+
+var collection = new ol.Collection();
+var featureOverlay = new ol.layer.Vector({
+  map: map,
+  source: new ol.source.Vector({
+    features: collection,
+    useSpatialIndex: false // optional, might improve performance
+  }),
+  //style: overlayStyle,
+  updateWhileAnimating: true, // optional, for instant visual feedback
+  updateWhileInteracting: true // optional, for instant visual feedback
 });
 
 //map.addLayer(raster);
@@ -435,10 +452,10 @@ var highlightFeature = function(pixel) {
 
 	if (feature !== highlight) {
 		if (highlight) {
-			featureOverlay.removeFeature(highlight);
+			featureOverlay.getSource().removeFeature(highlight);
 		}
 		if (feature) {
-			featureOverlay.addFeature(feature);
+			featureOverlay.getSource().addFeature(feature);
 		}
 		highlight = feature;
 	}
@@ -459,7 +476,8 @@ map.on('click', function(evt) {
 				//window.alert(evt.coordinate)
 				var properties = feature.getProperties();
 				//var style = feature.getStyle();
-				var tmpstyle = styles[properties['styleUrl'].replace("#", "")];
+				//var tmpstyle = styles[properties['styleUrl'].replace("#", "")];
+				var tmpstyle = styles[properties['styleUrl'].split("#")[1]];
 				if(typeof tmpstyle !== 'undefined'){
 					feature.setStyle(tmpstyle[1]);
 				} else {
