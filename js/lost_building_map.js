@@ -296,7 +296,7 @@ var osmLayer = new ol.layer.Tile({source: osmSource});
 
 var vector = new ol.layer.Vector({
     source: new ol.source.Vector({
-        url: 'http://127.0.0.1:4000/geomatics/files/Lost_Ottawa_Buildings.kml',
+        url: 'files/Lost_Ottawa_Buildings.kml',
         format: new ol.format.KML({
 			extractStyles: false, 
             //extractAttributes: true
