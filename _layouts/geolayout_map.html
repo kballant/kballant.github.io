@@ -80,12 +80,17 @@
 						<ul class="nav navbar-nav nav-font">
 							<li><a href="/">Home</a></li>
 							<li class="dropdown">
-								<a href="/geomatics" class="dropdown-toggle disabled" data-toggle="dropdown" data-hover="dropdown"> <!-- aria-haspopup="true" aria-expanded="false">-->
+								<a href="/geomatics" class="hidden-xs dropdown-toggle disabled" data-toggle="dropdown"> <!-- aria-haspopup="true" aria-expanded="false">-->
+									Geomatics
+									<span class="caret"></span>
+								</a>
+								<a href="/geomatics" class="visible-xs hidden-sm hidden-md hidden-lg dropdown-toggle" data-toggle="dropdown"> <!-- aria-haspopup="true" aria-expanded="false">-->
 									Geomatics
 									<span class="caret"></span>
 								</a>
 								<ul class="dropdown-menu nav-font">
-									<li class="dropdown-submenu">
+									<li><a class="visible-xs hidden-sm hidden-md hidden-lg" href="/geomatics">Projects</a></li>
+									<li class="hidden-xs dropdown-submenu">
 										<a tabindex="-1" href="/geomatics/lost-buildings-ottawa">
 											Lost Buildings of Ottawa
 											<span class="right-caret"></span>
@@ -94,6 +99,8 @@
 											<li><a href="/geomatics/lost-buildings-ottawa-map">Map</a></li>
 										</ul>
 									</li>
+									<li><a class="visible-xs hidden-sm hidden-md hidden-lg" href="/geomatics/lost-buildings-ottawa">Lost Buildings of Ottawa</a></li>
+									<li><a class="visible-xs hidden-sm hidden-md hidden-lg pad-left-40" href="/geomatics/lost-buildings-ottawa-map">	Map</a></li>
 									<li><a href="/geomatics/fire-plans">Fire Insurance Plans</a></li>
 								</ul>
 							</li>
@@ -140,7 +147,7 @@
 		================================================== -->
 		<!-- Placed at the end of the document so the pages load faster -->
 		<!--[if gte IE 9 | !IE ]><!-->
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+		<script src="/wet-boew/js/jquery/2.1.4/jquery.min.js"></script>
 		<script src="/wet-boew/js/wet-boew.min.js"></script>
 		<!--<![endif]-->
 		<!--[if lt IE 9]>
