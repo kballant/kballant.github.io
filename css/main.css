@@ -1,5 +1,11 @@
 @import url("fonts.css");
 
+@media (min-width: 768px) {
+	.dropdown:hover .dropdown-menu {
+		display: block;
+	}
+}
+
 body {
 	background: #666655 !important; 
 	background-image: url("../images/back-blurred_dark.jpg") !important;
@@ -61,6 +67,10 @@ header {
 
 .pad-left-80 {
 	padding-left: 80px !important;
+}
+
+.pad-left-40 {
+	padding-left: 40px !important;
 }
 
 h1 {
@@ -196,14 +206,14 @@ ul.nav-font>li>a {
 }
 
 ul.nav>li>a {
-	font-size: 1.5em;
+	font-size: 1.5em !important;
 	text-decoration: none !important;
 	color: #FFFFFF !important;
 }
 
 ul.nav>li:hover>a {
-	font-weight: bold;
-	font-size: 1.5em;
+	font-weight: bold !important;
+	font-size: 1.5em !important;
 	text-decoration: none !important;
 	color: #AACCFF !important;
 }
