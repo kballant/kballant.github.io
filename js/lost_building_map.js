@@ -227,7 +227,7 @@ function reset_styles(styles) {
 	var key = source.on('change', function(event) {
 		if (source.getState() == 'ready') {
 			source.unByKey(key);
-			$.ajax('files/Lost_Ottawa_Buildings.kml').done(function(data) {
+			$.ajax('../files/Lost_Ottawa_Buildings.kml').done(function(data) {
 				vector.getSource().forEachFeature(function(feature) {
 					feature.setId(counter);
 					var properties = feature.getProperties();
@@ -296,7 +296,7 @@ var osmLayer = new ol.layer.Tile({source: osmSource});
 
 var vector = new ol.layer.Vector({
     source: new ol.source.Vector({
-        url: 'files/Lost_Ottawa_Buildings.kml',
+        url: '../files/Lost_Ottawa_Buildings.kml',
         format: new ol.format.KML({
 			extractStyles: false, 
             //extractAttributes: true
@@ -350,7 +350,7 @@ function getPopupContent() {
 			return out_content;
 		}
 	};
-	xhttp.open("GET", "files/popup_html.txt", false);
+	xhttp.open("GET", "../files/popup_html.txt", false);
 	xhttp.send();
 	out_content = xhttp.responseText;
 	//alert(out_content);
