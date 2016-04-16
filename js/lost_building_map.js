@@ -284,7 +284,7 @@ var projection = ol.proj.get('EPSG:3857');
 var bingLayer = new ol.layer.Tile({
   source: new ol.source.BingMaps({
     imagerySet: 'Aerial',
-    key: 'Ak-dzM4wZjSqTlzveKz5u0d4IQ4bRzVI309GxmkgSVr1ewS6iPSrOvOKhA-CJlm3'
+    key: 'AhCYdXJJqvQnyMnREP6yvB8LBqky1iY8k_ZfEZpFpjKC7mXRduWYXfSnV1683P3_'
 	//crossOrigin: 'anonymous'
   })
 });
@@ -361,7 +361,7 @@ function showPopup(feature) {
 	var props = feature.getProperties();
 	var featId = feature.getId();
 
-	$(".modal-title").html(props['name']);
+	$(".modal-title").html(props['name']).text();
 
 	popup_html = getPopupContent();
 	popup_html = popup_html.replace('${dateBuilt}', props['dateBuilt']);
