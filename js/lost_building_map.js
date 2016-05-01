@@ -1,4 +1,7 @@
 //var closer = document.getElementById('popup-closer');
+
+var POPUP_LOCK = false;
+
 // Declare of styles:
 // Residential:
 var res_normal = new ol.style.Style({
@@ -338,6 +341,7 @@ function closePopup(featId) {
 	//var feature = vector.getSource().getFeatureById(featId);
 	//$(elem).popover("hide");
 	removeHighlight(featId);
+	POPUP_LOCK = false;
 };
 
 function getPopupContent() {
@@ -357,9 +361,15 @@ function getPopupContent() {
 	return out_content;
 }
 
+var info = $('#info');
+
 function showPopup(feature) {
+	POPUP_LOCK = true;
+	
 	var props = feature.getProperties();
 	var featId = feature.getId();
+	
+	info.tooltip('hide');
 
 	$(".modal-title").html(props['name']).text();
 
@@ -409,14 +419,14 @@ $(document).on("mfpClose", function(event) {
 
 var collection = new ol.Collection();
 var featureOverlay = new ol.layer.Vector({
-  map: map,
-  source: new ol.source.Vector({
-    features: collection,
-    useSpatialIndex: false // optional, might improve performance
-  }),
-  //style: overlayStyle,
-  updateWhileAnimating: true, // optional, for instant visual feedback
-  updateWhileInteracting: true // optional, for instant visual feedback
+	map: map,
+	source: new ol.source.Vector({
+		features: collection,
+		useSpatialIndex: false // optional, might improve performance
+	}),
+	//style: overlayStyle,
+	updateWhileAnimating: true, // optional, for instant visual feedback
+	updateWhileInteracting: true // optional, for instant visual feedback
 });
 
 //map.addLayer(raster);
@@ -446,9 +456,33 @@ reset_styles(styles);
 
 var highlight;
 var highlightFeature = function(pixel) {
+	
 	var feature = map.forEachFeatureAtPixel(pixel, function(feature, layer) {
 		return feature;
 	});
+	
+	// Do not show tooltip when popup is showing:
+	if (!POPUP_LOCK) {
+	
+		info.css({
+			left: pixel[0] + 'px',
+			top: (pixel[1] - 15) + 'px'
+		});
+		
+		info.tooltip({
+			animation: false,
+			trigger: 'hover'
+		});
+		
+		if (feature) {
+			info.tooltip('hide')
+				.attr('data-original-title', feature.get('name'))
+				.tooltip('fixTitle')
+				.tooltip('show');
+		} else {
+			info.tooltip('hide');
+		}
+	}
 
 	if (feature !== highlight) {
 		if (highlight) {
@@ -466,8 +500,13 @@ var popup_html = getPopupContent();
 
 //var featId = -1;
 
+// $('#map').mousedown(function() {
+	// POPUP_LOCK = true;
+// });
+
 // display popup on click
 map.on('click', function(evt) {
+	POPUP_LOCK = true;
 	var feature = map.forEachFeatureAtPixel(evt.pixel,
 		function(feature, layer) {
 		// do stuff here with feature
@@ -528,6 +567,8 @@ map.on('click', function(evt) {
 		var featId = $(element_pop).data('fid'); 
 		removeHighlight(featId);
 	};
+	//POPUP_LOCK = false;
+	$('#info').tooltip('hide');
 });
 
 // Set Bing Maps layer visible on load:
@@ -556,8 +597,8 @@ map.on('pointermove', function(e) {
 //	if(typeof feature === 'undefined'){
 //		reset_styles(styles);
 //	};
-  var pixel = map.getEventPixel(e.originalEvent);
-  highlightFeature(pixel);
-  var hit = map.hasFeatureAtPixel(pixel);
-  map.getTarget().style.cursor = hit ? 'pointer' : '';
+	var pixel = map.getEventPixel(e.originalEvent);
+	highlightFeature(pixel);
+	var hit = map.hasFeatureAtPixel(pixel);
+	map.getTarget().style.cursor = hit ? 'pointer' : '';
 });
