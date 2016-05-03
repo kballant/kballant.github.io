@@ -381,6 +381,61 @@ function showPopup(feature) {
 	popup_html = popup_html.replace('${addrss}', props['addrss']);
 	popup_html = popup_html.replace('${occupant}', props['occupant']);
 	popup_html = popup_html.replace('${sources}', props['sources']);
+	
+	// Parse the photos HTML:
+	//alert(props['photos']);
+	// parsed_html = $.parseHTML(props['photos']);
+	// //alert(parsed_html);
+	// nodeNames = [];
+	// nodeData = [];
+	
+	// $.each(parsed_html, function(i, el) {
+		// //alert(el.nodeName);
+		// //alert(el.length);
+		// //alert(el.data);
+		// nodeNames[i] = el.nodeName;
+		// nodeData[i] = el.data;
+	// });
+	
+	photo_html = props['photos'];
+	parser = new DOMParser();
+	htmlDoc = parser.parseFromString(photo_html, "text/html");
+	//td_elements = htmlDoc.getElementsByTagName('td');
+	table_elements = htmlDoc.getElementsByTagName('table');
+	//a_elements = htmlDoc.getElementsByTagName('a');
+	
+	//alert(htmlDoc);
+	//alert(a_elements);
+	// for (var i = 0; i < a_elements.length; i++) {
+	//	alert(a_elements[i]);
+	// }
+	
+	// Grab each photo info:
+	for (var i = 0; i < table_elements.length; i++) {
+		//alert('Node Name: ' + table_elements[i].nodeName);
+		//alert('Text: ' + table_elements[i].innerText);
+		child_elements = table_elements[i].children;
+		//alert(child_elements);
+		for (var j = 0; j < child_elements.length; j++) {
+			//alert(child_elements[j].rows);
+			table_rows = child_elements[j].rows;
+			// Get the caption of the current photo:
+			caption = table_rows[0].innerText;
+			alert('Caption: ' + caption.trim());
+			// Get the link of the current photo:
+			a_element = table_rows[1].getElementsByTagName('a');
+			link = a_element[0].href;
+			alert('Link: ' + link.trim());
+			// Get the source info and parse:
+			source_str = table_rows[2].innerText;
+			sources = source_str.trim().split(/\r?\n/).filter(Boolean);
+			date_taken = sources[0];
+			source = sources[1];
+			alert('Date Taken: ' + date_taken);
+			alert('Source: ' + source);
+		}
+	}
+	
 	popup_html = popup_html.replace('${photos}', props['photos']);
 	popup_html += "\n<!--Feature_ID=" + featId.toString() + "-->"
 	
