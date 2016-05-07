@@ -1,52 +1,60 @@
-<table width="500" border="1" cellspacing="0" cellpadding="6"> 
-     <col width="150"> 
-     <col width="350"> 
-
-     <tr align="left" valign="top">
-       <td><b>Date Built:</b></td>
-       <td>${dateBuilt}</td>
-     </tr>
-	 
-	 <tr align="left" valign="top">
-       <td><b>Date Demolished:</b></td>
-       <td>${dateDemolished}</td>
-     </tr>
-
-     <tr align="left" valign="top">
-       <td><b>Status:</b></td>
-       <td>${status}</td>
-     </tr>
-
-     <tr align="left" valign="top">
-       <td><b>History:</b></td>
-       <td>${history}</td>
-     </tr>
-	 
-	 <tr align="left" valign="top">
-       <td><b>1912 Address:</b></td>
-       <td>${addrss}</td>
-     </tr>
-	 
-	 <tr align="left" valign="top">
-       <td><b>1912 Occupant(s) (<a href="https://archive.org/details/ottawadirec191200midiuoft">1912 Ottawa Directory</a>):</b></td>
-       <td>${occupant}</td>
-     </tr>
-	 
-	 <tr align="left" valign="top">
-       <td><b>Sources:</b></td>
-       <td>${sources}</td>
-     </tr>
-
-</table><br>
-
-<table width="500" border="1" cellspacing="0" cellpadding="6">
-
-     <tr align="center" valign="top">
-        <td><b>Photos</b></td>
-     </tr>
-
-     <tr align="left" valign="top">
-       <td>${photos}</td>
-     </tr>
-
-</table>
+${photos}
+<br>
+<div class="popup-table">
+	<div class="popup-row">
+		<div class="popup-cell heading-cell">
+			<p class="popover-text"><b>Date Built:</b></p>
+		</div>
+		<div class="popup-cell">
+			<p class="popover-text">${dateBuilt}</p>
+		</div>
+	</div>
+	<div class="popup-row">
+		<div class="popup-cell heading-cell">
+			<p class="popover-text"><b>Date Demolished:</b></p>
+		</div>
+		<div class="popup-cell">
+			<p class="popover-text">${dateDemolished}</p>
+		</div>
+	</div>
+	<div class="popup-row">
+		<div class="popup-cell heading-cell">
+			<p class="popover-text"><b>Status:</b></p>
+		</div>
+		<div class="popup-cell">
+			<p class="popover-text">${status}</p>
+		</div>
+	</div>
+	<div class="popup-row">
+		<div class="popup-cell heading-cell">
+			<p class="popover-text"><b>History:</b></p>
+		</div>
+		<div class="popup-cell">
+			<p class="popover-text">${history}</p>
+		</div>
+	</div>
+	<div class="popup-row">
+		<div class="popup-cell heading-cell">
+			<p class="popover-text"><b>1912 Address:</b></p>
+		</div>
+		<div class="popup-cell">
+			<p class="popover-text">${addrss}</p>
+		</div>
+	</div>
+	<div class="popup-row">
+		<div class="popup-cell heading-cell">
+			<p class="popover-text"><b>1912 Occupant(s) <span class="popover-text-sm">(<a class="popup-a" href="https://archive.org/details/ottawadirec191200midiuoft">1912 Ottawa Directory</a>)</span>:</b></p>
+		</div>
+		<div class="popup-cell">
+			<p class="popover-text">${occupant}</p>
+		</div>
+	</div>
+	<div class="popup-row">
+		<div class="popup-cell heading-cell">
+			<p class="popover-text"><b>Sources:</b></p>
+		</div>
+		<div class="popup-cell">
+			<p class="popover-text">${sources}</p>
+		</div>
+	</div>
+</div>
