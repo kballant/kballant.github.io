@@ -238,7 +238,7 @@ ul.dropdown-menu>li:hover>a {
 	border-color: #000000 !important;
 }
 .map-popup {
-	max-height: 600px;
+	max-height: 700px;
 	overflow-y: auto;
 }
 .popover {
@@ -270,7 +270,6 @@ ul.dropdown-menu>li:hover>a {
     box-shadow: 1px 0 0 rgba(0,0,0,0.06);
     /*overflow: auto; */
 	width: 100%;
-	
 }
 .popover-title {
 	/* background-color: #CCCCCC; */
@@ -291,6 +290,31 @@ ul.dropdown-menu>li:hover>a {
 
 .popover-closer:after {
 	content: "✖";
+}
+
+.popover-img {
+	width: 100% !important;
+	padding-left: 10% !important;
+	padding-right: 10% !important;
+	border: 1px !important;
+	background-color: black !important;
+}
+
+.popover-thumb {
+	width: 100px !important;
+	border: 1px !important;
+}
+
+.popover-text {
+	color: black;
+	font-size: 1em !important;
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+	word-break: break-word;
+}
+.popover-text-sm {
+	color: black;
+	font-size: 0.8em !important;
 }
 
 .mfp-bg {
@@ -408,4 +432,84 @@ ul.dropdown-menu>li:hover>a {
 }
 .tooltip-inner {
 	border: 2px solid white;
+}
+.carousel-padding {
+	padding-bottom: 7em !important;
+}
+.carousel-caption {
+    position: relative;
+    left: auto;
+    right: auto;
+}
+.carousel-img-div {
+	background: black;
+}
+.carousel-img {
+	height: 50%;
+	display: block;
+    margin: 0 auto;
+}
+.carousel-container {
+	width: 100%;
+	padding: 0px;
+}
+#photoCarousel {
+	background: linear-gradient(top, #6688BB 0%, #446688 100%) !important;
+	background: -moz-linear-gradient(top, #6688BB 0%, #446688 100%) !important;
+	background: -webkit-linear-gradient(top, #6688BB 0%,#446688 100%) !important;
+	background: -ms-linear-gradient(top, #6688BB 0%,#446688 100%) !important;
+}
+.carousel-item {
+	background: linear-gradient(top, #6688BB 0%, #446688 100%) !important;
+	background: -moz-linear-gradient(top, #6688BB 0%, #446688 100%) !important;
+	background: -webkit-linear-gradient(top, #6688BB 0%,#446688 100%) !important;
+	background: -ms-linear-gradient(top, #6688BB 0%,#446688 100%) !important;
+}
+.carousel-control.left, .carousel-control.right {
+    background-image: none
+}
+.carousel-text-sm {
+	font-size: 0.9em;
+	margin: 0px;
+}
+.carousel-caption-txt {
+	padding-top: 5px;
+	margin: 0px;
+}
+.popup-table {
+	display: table;
+	width: 100%;
+	border-radius: 10px !important;
+}
+.popup-table-title {
+	display: table-caption;
+	text-align: center;
+	font-weight: bold;
+	font-size: larger;
+}
+.popup-table-heading {
+	display: table-row;
+	font-weight: bold;
+	text-align: center;
+}
+.popup-row {
+	display: table-row;
+}
+.popup-cell {
+	display: table-cell;
+	border: solid;
+	border-width: thin;
+	padding-left: 5px;
+	padding-right: 5px;
+	width: 50%;
+}
+.heading-cell {
+	width: 30%;
+	background: #CCCCCC;
+}
+.text-cell {
+	width: 70%;
+}
+.popup-a {
+	color: blue !important;
 }
