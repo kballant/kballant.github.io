@@ -108,34 +108,47 @@ h1 {
 }
 
 h2 {
-	color: #0000AA !important;
+	color: #99BBEE !important;
 	padding: 10px;
-    font-size: 3em !important;
-    font-family: 'Segoe UI', Frutiger, 'Frutiger Linotype', 'Dejavu Sans', 'Helvetica Neue', Arial, sans-serif !important;
+    font-size: 4em !important;
+    /* font-family: 'Segoe UI', Frutiger, 'Frutiger Linotype', 'Dejavu Sans', 'Helvetica Neue', Arial, sans-serif !important; */
 	/* font-family: Scada;*/
+	font-family: Kaushan Script !important;
 	text-align: center;
 	font-weight: bold !important;
-	text-shadow: 1px 1px #CCCCCC;
+	text-shadow: 1px 1px #FFFFFF;
 }
 .pg-title {
 	border-radius: 30px;
 	/* background-color: #DDEEFF; */
-	background: linear-gradient(top, #6688BB 0%, #446688 100%);
+	/* background: linear-gradient(top, #6688BB 0%, #446688 100%);
 	background: -moz-linear-gradient(top, #6688BB 0%, #446688 100%);
 	background: -webkit-linear-gradient(top, #6688BB 0%,#446688 100%);
-	background: -ms-linear-gradient(top, #6688BB 0%,#446688 100%);
-	/* border-style: solid;
-    border-color: #55CCFF; */
+	background: -ms-linear-gradient(top, #6688BB 0%,#446688 100%); */
+	/*border-style: solid;
+    border-color: #55CCFF;*/
 }
 .pg-subtitle {
 	text-align: center;
 	font-size: 2em;
+	font-family: Kaushan Script !important;
+	text-shadow: 1px 1px #FFFFFF;
+	color: #999999 !important;
+}
+.pg-subtitle a {
+	color: #999999 !important;
+	text-decoration: none !important;
+}
+.pg-subtitle a:hover {
+	color: #333333 !important;
+	text-decoration: underline !important;
 }
 h3 {
 	font-family: Catamaran !important;
 	color: #FFFFFF !important;
     font-size: 2em !important;
 	font-weight: bold !important;
+	text-align: left !important; 
 }
 h4 {
 	font-family: Catamaran !important;
