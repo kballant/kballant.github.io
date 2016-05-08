@@ -91,6 +91,7 @@ h1 {
     font-family: 'Pacifico' !important;
 	margin: 0px !important; 
 	padding: 50px 0px !important;
+	text-shadow: 2px 2px black;
 }
 
 .h1-no-bottom-pad {
@@ -114,6 +115,7 @@ h2 {
 	/* font-family: Scada;*/
 	text-align: center;
 	font-weight: bold !important;
+	text-shadow: 1px 1px #CCCCCC;
 }
 .pg-title {
 	border-radius: 30px;
@@ -140,6 +142,7 @@ h4 {
 	color: #FFFFFF !important;
 	font-size: 1.6em !important;
 	font-weight: bold !important;
+	text-shadow: 2px 2px black;
 }
 p {
 	font-family: Catamaran;
