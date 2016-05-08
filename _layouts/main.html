@@ -106,14 +106,18 @@
 		<!-- Placed at the end of the document so the pages load faster -->
 		<!--[if gte IE 9 | !IE ]><!-->
 		<script src="/wet-boew/js/jquery/2.1.4/jquery.min.js"></script>
+		<script src="/bootstrap/js/bootstrap.min.js"></script>
 		<script src="/wet-boew/js/wet-boew.min.js"></script>
 		<!--<![endif]-->
 		<!--[if lt IE 9]>
 		<script src="/wet-boew/js/ie8-wet-boew2.min.js"></script>
 
 		<![endif]-->
-		<script src="/js/lost_building_map.js"></script>
-		<script src="/bootstrap/js/bootstrap.min.js"></script>
+		{% if page.url == "/geomatics/lost-buildings-ottawa/map.html" %}
+			<script src="/wet-boew/js/deps/prettify.min.js"></script>
+			<script src="/js/sql.js"></script>
+			<script src="/js/lost_building_map.js"></script>
+		{% endif %}
 		<!--<script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>-->
 	</body>
 </html>
