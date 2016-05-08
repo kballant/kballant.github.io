@@ -217,6 +217,7 @@ ul.posts li {
 
 ul.nav-font>li>a {
 	font-family: 'Fjalla One' !important;
+	text-shadow: 2px 2px black;
 }
 
 ul.nav>li>a {
