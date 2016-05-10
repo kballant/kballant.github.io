@@ -43,7 +43,7 @@ ${photos}
 	</div>
 	<div class="popup-row">
 		<div class="popup-cell heading-cell">
-			<p class="popover-text"><b>1912 Occupant(s) <span class="popover-text-sm">(<a class="popup-a" href="https://archive.org/details/ottawadirec191200midiuoft">1912 Ottawa Directory</a>)</span>:</b></p>
+			<p class="popover-text"><b>1912 Occupant(s) <span class="popover-text-sm">(<a target="_blank" class="popup-a" href="https://archive.org/details/ottawadirec191200midiuoft">1912 Ottawa Directory</a>)</span>:</b></p>
 		</div>
 		<div class="popup-cell">
 			<p class="popover-text">${occupant}</p>
