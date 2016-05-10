@@ -399,7 +399,7 @@ function create_photo_html(photos) {
 		}
 		photo_html += `\
 			<div class="item${active_str} carousel-item">
-				<a href="${link}">
+				<a target="_blank" href="${link}">
 					<img class="carousel-img" src="${img_src}" alt="">
 				</a>
 				<div class="carousel-caption">
@@ -524,7 +524,7 @@ function showPopup(feature) {
 	start_pos = src_text.indexOf("http");
 	end_pos = src_text.indexOf("\n", start_pos); */
 	sources = checkInput(props['sources']);
-	sources = sources.replace(/<a/g, '<a class="popup-a"');
+	sources = sources.replace(/<a/g, '<a target="_blank" class="popup-a"');
 	popup_html = popup_html.replace('${sources}', sources);
 	
 	// Parse the photos HTML:
