@@ -16,7 +16,7 @@
 		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 		<meta name="description" content="{{ page.description }}" />
-		{% if page.url == "/geomatics/lost-buildings-ottawa/map.html" %}
+		{% if page.url == "/geomatics/bygone-buildings-ottawa/map.html" %}
 			<link rel="stylesheet" href="/ol/ol.css" type="text/css">
 			<script src="/ol/ol.js"></script>
 		{% endif %}
@@ -31,13 +31,13 @@
 		<![endif]-->
 		<noscript><link rel="stylesheet" href="/wet-boew/css/noscript.min.css" /></noscript>
 		<link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap.min.css">
-		{% if page.url == "/geomatics/lost-buildings-ottawa/map.html" %}
+		{% if page.url == "/geomatics/bygone-buildings-ottawa/map.html" %}
 			<link rel="stylesheet" href="/css/mapstyle.css" type="text/css">
 		{% endif %}
 	</head>
 	<body class="main">
 		<!--<a class="wb-lbx" title="Example of inline content" href="#inline_content">Inline content</a>-->
-		{% if page.url == "/geomatics/lost-buildings-ottawa/map.html" %}
+		{% if page.url == "/geomatics/bygone-buildings-ottawa/map.html" %}
 			<section id="inline_content" class="map-popup mfp-hide modal-dialog modal-content overlay-def">
 				<header class="modal-header popover-header">
 					<h2 class="modal-title pg-title popover-title">Title</h2>
@@ -114,10 +114,10 @@
 		<script src="/wet-boew/js/ie8-wet-boew2.min.js"></script>
 
 		<![endif]-->
-		{% if page.url == "/geomatics/lost-buildings-ottawa/map.html" %}
+		{% if page.url == "/geomatics/bygone-buildings-ottawa/map.html" %}
 			<script src="/wet-boew/js/deps/prettify.min.js"></script>
 			<script src="/js/sql.js"></script>
-			<script src="/js/lost_building_map.js"></script>
+			<script src="/js/bygone_building_map.js"></script>
 		{% endif %}
 		<!--<script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>-->
 	</body>
