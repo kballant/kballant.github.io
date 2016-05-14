@@ -4670,11 +4670,11 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <name><![CDATA[54 Main Street "Two Maples"]]></name>
+      <name><![CDATA[54 Main Street, 'Two Maples']]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
         <Data name="name">
-          <value><![CDATA[54 Main Street "Two Maples"]]></value>
+          <value><![CDATA[54 Main Street, 'Two Maples']]></value>
         </Data>
         <Data name="dateBuilt">
           <value><![CDATA[n/a]]></value>
@@ -10107,7 +10107,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[168-170 Cobourg Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[168 Sneyd Ross, 170 Charles P Blair]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -10160,7 +10160,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[Location currently an apartment building.]]></value>
+          <value><![CDATA[Location currently by Options Bytown apartments, owned by the Ottawa Community Housing Corporation.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Incorporated in 1890.]]></value>
@@ -10209,23 +10209,23 @@ gation Notre Dame]]></value>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name><![CDATA[Residence of Robert Laird Borden]]></name>
+      <name><![CDATA[Residence of Robert Laird Borden, 'Glensmere']]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
         <Data name="name">
-          <value><![CDATA[Residence of Robert Laird Borden]]></value>
+          <value><![CDATA[Residence of Robert Laird Borden, 'Glensmere']]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1894]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1970]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Demolished for development. Location currently occupied by the Watergate Apartments.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Built by Hayter Reed, the Deputy Superintendent-General of Indian Affairs, the house was designed by Frederick J. Alexander. It was later purchase by Sir Robert Borden in 1907 while he was still Leader of the Opposition. Borden lived in the house until his death in 1937 while his widow remained in the house until the early 1940s. It was purchased by the Chinese Nationalist Government in 1942 who remained in the building until it was sold in 1969 to Danbury Developments Ltd. The Canadian Government considered purchasing the house as an historic site. However, the house was demolished to build the Watergate Apartments.]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[201 Wurtemburg Street]]></value>
@@ -10234,7 +10234,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="sources">
-          <value/>
+          <value><![CDATA[The Montreal Gazette, September 6, 1969, pg. 2: <a href="https://news.google.com/newspapers?nid=1946&dat=19690906&id=e5cuAAAAIBAJ&sjid=mqEFAAAAIBAJ&pg=2164,986772&hl=en">https://news.google.com/newspapers?nid=1946&dat=19690906&id=e5cuAAAAIBAJ&sjid=mqEFAAAAIBAJ&pg=2164,986772&hl=en</a><br>Urbsite Blog: Sir Robert's House: <a href="http://urbsite.blogspot.ca/2011/07/sir-roberts-house.html">http://urbsite.blogspot.ca/2011/07/sir-roberts-house.html</a><br>Ottawa Citizen, June 7, 1961, pg. 7: <a href="https://news.google.com/newspapers?nid=2194&dat=19610607&id=LTc0AAAAIBAJ&sjid=TvUIAAAAIBAJ&pg=3207,1423143&hl=en">https://news.google.com/newspapers?nid=2194&dat=19610607&id=LTc0AAAAIBAJ&sjid=TvUIAAAAIBAJ&pg=3207,1423143&hl=en</a>]]></value>
         </Data>
         <Data name="photos">
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
@@ -10303,13 +10303,13 @@ gation Notre Dame]]></value>
           <value><![CDATA[1894]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[just after 1943]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Location currently apartment buildings.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[Opened in 1894 with 23 beds. The building cost $9,000 to build. The hospital closed in 1924 when it was amalgamated with the Ottawa Civic Hospital.]]></value>
+          <value><![CDATA[Opened in 1894 with 23 beds, the building cost $9,000 to build. The hospital closed in 1924 when it was amalgamated with the Ottawa Civic Hospital. From 1926 to 1943, it housed the Protestant Children's Hospital. After much efforts to raise funds, The Protestant Children's Hospital closed its doors. The board of the Children's Hospital held its last meeting on July 7, 1943.]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[635 Rideau Street]]></value>
@@ -10318,7 +10318,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="sources">
-          <value><![CDATA[MEDICAL OTTAWA: THE OTTAWA MATERNITY HOSPITAL: <a href="http://canuckhm.ca/the-ottawa-maternity-hospital/">http://canuckhm.ca/the-ottawa-maternity-hospital/</a>]]></value>
+          <value><![CDATA[MEDICAL OTTAWA: THE OTTAWA MATERNITY HOSPITAL: <a href="http://canuckhm.ca/the-ottawa-maternity-hospital/">http://canuckhm.ca/the-ottawa-maternity-hospital/</a><br>Ottawa Evening Citizen, July 8, 1943, pg. 9: <a href="https://news.google.com/newspapers?nid=2194&dat=19430705&id=__0uAAAAIBAJ&sjid=7dsFAAAAIBAJ&pg=6775,1233001&hl=en">https://news.google.com/newspapers?nid=2194&dat=19430705&id=__0uAAAAIBAJ&sjid=7dsFAAAAIBAJ&pg=6775,1233001&hl=en</a>]]></value>
         </Data>
         <Data name="photos">
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
@@ -11718,7 +11718,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location currently occupied by Charlotte Place retirement home, part of Ottawa Community Housing.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Residences of Michael P. Davis, MP ]]></value>
