@@ -344,6 +344,20 @@ function closePopup(featId) {
 	POPUP_LOCK = false;
 };
 
+function resizePopup(img) {
+	//alert("Made it resizePopup()");
+	//alert(img);
+	height = img.height;
+	width = img.width;
+	map_popup = document.getElementById('inline_content').style;
+	alert(map_popup.cssText);
+	popup_height = map_popup.style.height;
+	
+	alert("height: " + height + ", width: " + width + ", popup_height: " + popup_height);
+	
+	//document.getElementById('map-popup').height;
+}
+
 function getPopupContent() {
 	var xhttp = new XMLHttpRequest();
 	xhttp.onreadystatechange = function() {
@@ -367,11 +381,12 @@ function create_photo_html(photos) {
 	var photo_html = `
 <div class="container carousel-container">
 	<br>
-	<div id="photoCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
-		<!-- Indicators -->
-		<ol class="carousel-indicators">`
+	<div id="photoCarousel" class="carousel slide" data-ride="carousel" data-interval="false">`
+		//<!-- Indicators -->
+		//<ol class="carousel-indicators">`
 	
-	for (var i = 0; i < photos.length; i++) {
+	// Create the indicators for each image in the carousel
+	/*for (var i = 0; i < photos.length; i++) {
 		if (i == 0) {
 			active_str = ' class="active"';
 		} else {
@@ -379,13 +394,14 @@ function create_photo_html(photos) {
 		}
 		photo_html += `
 			<li data-target="#photoCarousel" data-slide-to="${i}"${active_str}></li>`
-	}
+	}*/
+	//photo_html += `
+		//</ol>
 	photo_html += `
-		</ol>
-		
 		<!-- Wrapper for slides -->
 		<div class="carousel-inner" role="listbox">`
-			
+	
+	// Create the warppers for each image in the carousel
 	for (var i = 0; i < photos.length; i++) {
 		caption = photos[i]['caption'];
 		link = photos[i]['link'];
@@ -397,7 +413,7 @@ function create_photo_html(photos) {
 		} else {
 			active_str = '';
 		}
-		photo_html += `\
+		photo_html += `
 			<div class="item${active_str} carousel-item">
 				<a target="_blank" href="${link}">
 					<img class="carousel-img" src="${img_src}" alt="">
@@ -414,9 +430,11 @@ function create_photo_html(photos) {
 		</div>
 		
 		<!-- Left and right controls -->`
-		
+	
+	// Create the left and right arrows for the carousel if more than one image
 	if (photos.length > 1) {
-		photo_html += `<a class="left carousel-control" href="#photoCarousel" role="button" data-slide="prev">
+		photo_html += `
+		<a class="left carousel-control" href="#photoCarousel" role="button" data-slide="prev">
 			<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
 			<span class="sr-only">Previous</span>
 		</a>
@@ -425,7 +443,20 @@ function create_photo_html(photos) {
 			<span class="sr-only">Next</span>
 		</a>`
 	}
+	
+	// Create thumbnails for carousel
+	
 	photo_html += `
+		<ul class="thumbnails-carousel clearfix">`
+	
+	for (var i = 0; i < photos.length; i++) {
+		img_src = photos[i]['img_src'];
+		photo_html += `
+			<li><img class="tn" src="${img_src}" height="50px" alt=""></li>`
+	}
+	
+	photo_html += `
+		</ul>
 	</div>
 </div>`
 			
@@ -613,6 +644,64 @@ function showPopup(feature) {
 			}
 		]
 	]);
+	
+	// Added from website to have proper working thumbnails
+	(function(window, $, undefined) {
+
+		var conf = {
+			center: true,
+			backgroundControl: false
+		};
+
+		var cache = {
+			$carouselContainer: $('.thumbnails-carousel').parent(),
+			$thumbnailsLi: $('.thumbnails-carousel li'),
+			$controls: $('.thumbnails-carousel').parent().find('.carousel-control')
+		};
+
+		function init() {
+			cache.$carouselContainer.find('ol.carousel-indicators').addClass('indicators-fix');
+			cache.$thumbnailsLi.first().addClass('active-thumbnail');
+
+			if(!conf.backgroundControl) {
+				cache.$carouselContainer.find('.carousel-control').addClass('controls-background-reset');
+			}
+			else {
+				cache.$controls.height(cache.$carouselContainer.find('.carousel-inner').height());
+			}
+
+			if(conf.center) {
+				cache.$thumbnailsLi.wrapAll("<div class='center clearfix'></div>");
+			}
+		}
+
+		function refreshOpacities(domEl) {
+			cache.$thumbnailsLi.removeClass('active-thumbnail');
+			cache.$thumbnailsLi.eq($(domEl).index()).addClass('active-thumbnail');
+		}	
+
+		function bindUiActions() {
+			cache.$carouselContainer.on('slide.bs.carousel', function(e) {
+				refreshOpacities(e.relatedTarget);
+			});
+
+			cache.$thumbnailsLi.click(function(){
+				cache.$carouselContainer.carousel($(this).index());
+			});
+		}
+
+		$.fn.thumbnailsCarousel = function(options) {
+			conf = $.extend(conf, options);
+
+			init();
+			bindUiActions();
+
+			return this;
+		}
+
+	})(window, jQuery);
+
+	$('.thumbnails-carousel').thumbnailsCarousel();
 }
 
 $(document).on("mfpClose", function(event) {
@@ -627,6 +716,64 @@ $(document).on("mfpClose", function(event) {
 	var featId = parseInt(feat_str)
 
 	closePopup(featId);
+});
+
+$(document).on("mfpOpen", function(event) {
+	var popup_html = $(".modal-body").html();
+	
+	//alert(popup_html);
+	
+	parser = new DOMParser();
+	htmlDoc = parser.parseFromString(popup_html, "text/html");
+	//td_elements = htmlDoc.getElementsByTagName('td');
+	img_elements = htmlDoc.getElementsByTagName('img');
+	
+	//alert(img_elements.length);
+	
+	function calculateWidth(img, height) {
+		img_height = img.height;
+		img_width = img.width;
+		
+		aspect = img_width / img_height;
+		
+		new_width = height * aspect;
+		
+		new_width = parseInt(new_width.toString());
+		
+		return new_width;
+	}
+	
+	var map_popup = document.getElementById('inline_content');
+	
+	map_popup.style.width = "600px";
+	
+	max_width = 0;
+	for (var i = 0; i < img_elements.length; i++) {
+		cur_img = img_elements[i];
+		if (cur_img.height == 0) {
+			var image = new Image();
+			image.src = cur_img.src;
+			//alert(image.width);
+			//alert(map_popup.clientWidth);
+			carousel_classes = document.getElementsByClassName('carousel-img');
+			carousel_class = carousel_classes[0];
+			carousel_style = window.getComputedStyle(carousel_class, null);
+			max_height = parseInt(carousel_style.height.replace("px", ""));
+			img_width = calculateWidth(image, max_height);
+			//alert(img_width > map_popup.clientWidth);
+			if (img_width > max_width){
+				// Get the padding of the modal-body
+				mod_classes = document.getElementsByClassName('modal-body');
+				mod_class = mod_classes[0];
+				mod_style = window.getComputedStyle(mod_class, null);
+				pad_str = mod_style.padding;
+				pad_str = pad_str.replace("px", "");
+				pad_val = parseInt(pad_str);
+				max_width = img_width + (pad_val * 2);
+			}
+		}
+	}
+	map_popup.style.width = max_width + "px";
 });
 
 // FeatureOverlay no longer used after v3.7
