@@ -745,35 +745,43 @@ $(document).on("mfpOpen", function(event) {
 	
 	var map_popup = document.getElementById('inline_content');
 	
-	map_popup.style.width = "600px";
+	if ($(window).width() > 768) {
 	
-	max_width = 0;
-	for (var i = 0; i < img_elements.length; i++) {
-		cur_img = img_elements[i];
-		if (cur_img.height == 0) {
-			var image = new Image();
-			image.src = cur_img.src;
-			//alert(image.width);
-			//alert(map_popup.clientWidth);
-			carousel_classes = document.getElementsByClassName('carousel-img');
-			carousel_class = carousel_classes[0];
-			carousel_style = window.getComputedStyle(carousel_class, null);
-			max_height = parseInt(carousel_style.height.replace("px", ""));
-			img_width = calculateWidth(image, max_height);
-			//alert(img_width > map_popup.clientWidth);
-			if (img_width > max_width){
-				// Get the padding of the modal-body
-				mod_classes = document.getElementsByClassName('modal-body');
-				mod_class = mod_classes[0];
-				mod_style = window.getComputedStyle(mod_class, null);
-				pad_str = mod_style.padding;
-				pad_str = pad_str.replace("px", "");
-				pad_val = parseInt(pad_str);
-				max_width = img_width + (pad_val * 2);
+		map_popup.style.width = "600px";
+		
+		max_width = 0;
+		for (var i = 0; i < img_elements.length; i++) {
+			cur_img = img_elements[i];
+			if (cur_img.height == 0) {
+				var image = new Image();
+				image.src = cur_img.src;
+				//alert(image.width);
+				//alert(map_popup.clientWidth);
+				carousel_classes = document.getElementsByClassName('carousel-img');
+				carousel_class = carousel_classes[0];
+				carousel_style = window.getComputedStyle(carousel_class, null);
+				max_height = parseInt(carousel_style.height.replace("px", ""));
+				img_width = calculateWidth(image, max_height);
+				//alert(img_width > map_popup.clientWidth);
+				if (img_width > max_width){
+					// Get the padding of the modal-body
+					mod_classes = document.getElementsByClassName('modal-body');
+					mod_class = mod_classes[0];
+					mod_style = window.getComputedStyle(mod_class, null);
+					pad_str = mod_style.padding;
+					pad_str = pad_str.replace("px", "");
+					pad_val = parseInt(pad_str);
+					max_width = img_width + (pad_val * 2);
+				}
 			}
 		}
+		map_popup.style.width = max_width + "px";
+	} else {
+		map_popup.style.width = "100% !important";
+		/* car_img = document.getElementById('carousel-img');
+		car_img.style.height = "auto !important";
+		car_img.style.width = "100% important!"; */
 	}
-	map_popup.style.width = max_width + "px";
 });
 
 // FeatureOverlay no longer used after v3.7
