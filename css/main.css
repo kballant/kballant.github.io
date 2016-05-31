@@ -52,8 +52,9 @@ header {
 	background: -moz-linear-gradient(left top, #000022 0%, 0000cc 100%);
 	background: -webkit-linear-gradient(left top, #000022 0%,#0000cc 100%);  */
 	background-image: url("../images/Header_image.jpg");
+	background-size: auto;
 	background-repeat: no-repeat;
-	background-position: top center;
+	background-position: top left;
 }
 
 .title a {
@@ -93,6 +94,12 @@ h1 {
 	padding: 50px 0px !important;
 	text-shadow: 2px 2px black;
 }
+.logo-img {
+	margin: 0px !important; 
+	padding-left: 45px !important;
+	padding-top: 50px !important;
+	padding-bottom: 30px !important;
+}
 
 .h1-no-bottom-pad {
 	padding-bottom: 0px !important;
@@ -102,9 +109,15 @@ h1 {
 	padding: 0px !important;
 	color: #FFFFFF;
     font-size: 2em !important;
-    font-family: 'Pacifico';
+    /* font-family: 'Pacifico'; */
+	font-family: 'Impact' !important;
 	margin: 0px !important; 
 	padding: 0px 0px 30px 0px !important;
+	/* text-shadow: 3px 3px 15px black !important; */
+}
+#geomatics {
+	padding-left: 45px !important;
+	padding-bottom: 25px !important;
 }
 
 h2 {
@@ -409,4 +422,10 @@ ul.resume.posts {
 
 .col-border {
 	border: 1px solid black !important;
+}
+
+@media (min-width: 1031px) {
+	.title {
+		background-size: 100%;
+	}
 }
