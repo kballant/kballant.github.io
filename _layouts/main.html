@@ -4,9 +4,10 @@
 <!--<![endif]-->
 	<head>
 		<title>{{ page.title }}</title>
+		<link rel=icon href=/favicon.png>
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
-		<link href="http://fonts.googleapis.com/css?family=Pacifico|Droid+Sans|Droid+Serif:400,400italic,700" rel="stylesheet" type="text/css">
+		{% include fonts.html %}
 		
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!--[if lt IE 9]>
@@ -69,7 +70,7 @@
 								{% if page.url contains 'geomatics' %}
 									<!--<h1 class="h1-no-bottom-pad main"><a href="/">Kevin Ballantyne</a></h1>-->
 									<div class="row">
-										<a href="/"><img class="logo-img h1-no-bottom-pad main" src="/images/kb_logo.png"></a>
+										<a href="/"><img id="logo" class="logo-img h1-no-bottom-pad main" src="/images/kb_logo.png"></a>
 									</div>
 									<div class="row">
 										<img id="geomatics" src="/images/geomatics.png">
@@ -78,7 +79,7 @@
 									<!--<h1 class="h1-sub">Geomatics</h1>-->
 								{% else %}
 									<div class="row">
-										<a href="/"><img class="logo-img" src="/images/kb_logo.png"></a>
+										<a href="/"><img id="logo" class="logo-img" src="/images/kb_logo.png"></a>
 									</div>
 									<!--<h1><a href="/">Kevin Ballantyne</a></h1>-->
 								{% endif %}
@@ -96,8 +97,10 @@
 				</div>
 				<div class="col-md-3 sidebar">
 					<div class="inner-sidebar">
-						<h4>Contact</h4>
-						<p class="sidebar">Email: <a class="main" href="mailto:geomatics@kballantyne.ca">geomatics@kballantyne.ca</a></p>
+						<h4>Contact & Links</h4>
+						<p class="sidebar"><a target="_blank" class="main" href="https://www.linkedin.com/in/kevin-ballantyne-15658417">Linkedin Profile</a></p>
+						<p class="sidebar">Email<br>
+						<a class="main" href="mailto:geomatics@kballantyne.ca">geomatics@kballantyne.ca</a></p>
 					</div>
 				</div>
 			</div><!-- /.container -->
