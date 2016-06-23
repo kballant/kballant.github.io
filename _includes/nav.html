@@ -16,7 +16,7 @@
 						GEOMATICS
 						<span class="caret"></span>
 					</a>
-					<ul class="dropdown-menu nav-font">
+					<ul class="dropdown-menu nav-font sub-menu">
 						<li> <!-- List of Projects -->
 							<a {% if page.url == "/geomatics/" %}class="active"{% endif %} 
 								href="/geomatics">
@@ -53,7 +53,7 @@
 						ABOUT
 						<span class="caret"></span>
 					</a>
-					<ul class="dropdown-menu nav-font">
+					<ul class="dropdown-menu nav-font sub-menu">
 						<li>
 							<a {% if page.url == "/about/" %}
 									class="active"
@@ -63,6 +63,20 @@
 						<li><a {% if page.url == "/about/resume.html" %}
 									class="active"
 								{% endif %} href="/about/resume">Resume</a></li>
+					</ul>
+				</li>
+				<li class="dropdown"> <!-- Other Interests -->
+					<a href="#" data-toggle="dropdown" data-submenu="" aria-expanded="false"> <!-- aria-haspopup="true" aria-expanded="false">-->
+						OTHER INTERESTS
+						<span class="caret"></span>
+					</a>
+					<ul class="dropdown-menu nav-font sub-menu">
+						<li> <!-- List of Projects -->
+							<a {% if page.url == "/music/" %}class="active"{% endif %} 
+								href="/music">
+								Music
+							</a>
+						</li>
 					</ul>
 				</li>
 				<!-- <li class="dropdown">
