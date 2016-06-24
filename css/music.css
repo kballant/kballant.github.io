@@ -141,7 +141,12 @@ header {
 .pad-left-80 {
 	padding-left: 80px !important;
 }
-
+.pad-bottom-10 {
+	padding-bottom: 10px !important;
+}
+.div-sm-logo {
+	padding-left: 70px !important;
+}
 h1 {
 	color: #FFFFFF;
     font-size: 3em !important;
@@ -154,7 +159,7 @@ h1 {
 	margin: 0px !important; 
 	padding-left: 45px !important;
 	padding-top: 50px !important;
-	padding-bottom: 30px !important;
+	padding-bottom: 0px !important;
 }
 
 #logo {
@@ -686,5 +691,17 @@ ul.thumbnails-carousel li {
 	}
 	.tn {
 		height: 30px;
+	}
+	.small-logo {
+		width: auto !important;
+		height: 20px !important;
+	}
+	.div-sm-logo {
+		padding-left: 10px !important;
+	}
+	.album-thumb {
+		height: auto !important;
+		max-width: 200px !important;
+		box-shadow: 2px 2px 2px #000000;
 	}
 }
