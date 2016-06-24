@@ -4,79 +4,63 @@
 	</button>
 	<div class="container-fluid div-round-borders">
 		<!--alert({{ page.url }})-->
-		<div class="col-md-9 col-xs-6">
-			<div id="navbar-header" class="navbar-collapse collapse">
-				<ul class="nav navbar-nav nav-font">
-					<li> <!-- Music Home -->
-						<a {% if page.url == "/music" %}class="active"{% endif %} href="/music">
-							MUSIC HOME
-						</a>
-					</li>
-					<li> <!-- List of Projects -->
-						<a {% if page.url == "/music/bio" %}class="active"{% endif %} 
-							href="/music/bio">
-							BIO
-						</a>
-					</li>
-					<li class="dropdown"> <!-- Albums -->
-						<a href="#" data-toggle="dropdown" data-submenu="" aria-expanded="false"> <!-- aria-haspopup="true" aria-expanded="false">-->
-							ALBUMS
-							<span class="caret"></span>
-						</a>
-						<ul class="dropdown-menu nav-font">
-							<li> <!-- Drunk On A Bike -->
-								<a {% if page.url == "/music/albums/drunk-on-a-bike" %}class="active"{% endif %} 
-									href="/music/albums/drunk-on-a-bike">
-									Drunk On A Bike
-								</a>
-							</li>
-							<li> <!-- A Poet & A One Man Band -->
-								<a {% if page.url == "/music/albums/a-poet-and-a-one-man-band" %}class="active"{% endif %} 
-									href="/music/albums/a-poet-and-a-one-man-band">
-									A Poet & A One Man Band
-								</a>
-							</li>
-						</ul>
-					</li>
-					<li> <!-- Site Home -->
-						<a {% if page.url == "/" %}class="active"{% endif %} href="/">
-							MAIN PAGE
-						</a>
-					</li>
-					<!-- <li> 
-						<!-- List of Projects
-						<a {% if page.url == "/music/albums" %}class="active"{% endif %} 
-							href="/music/lyrics">
-							LYRICS
-						</a>
-					</li> -->
-					<!-- <li class="dropdown">
-						<a href="#" class="dropdown-toggle disabled" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-							Other Interests
-							<span class="caret"></span>
-						</a>
-						<ul class="dropdown-menu">
-							<li><a href="#">Music</a></li>
-							<li><a href="#">Photography</a></li>
-							<li><a href="#">Scripting</a></li> 
-						</ul>
-					</li> -->
-				</ul>
-			</div>
-		</div>
-		<div class="col-md-3 col-xs-6 text-right">
-			<a class="noline" target="_blank" href="https://www.facebook.com/Kevin-Ballantyne-148426351921423/">
-				<img class="small-logo" alt="Facebook Page" title="Facebook Page" src="../../images/FB-f-Logo__blue_50.png">
-			</a>
-			<a class="noline" target="_blank" href="https://www.youtube.com/channel/UCZ7oeznHpMStZ8S77Nnoyig">
-				<img class="small-logo" alt="Youtube Channel" title="Youtube Channel" src="../../images/YouTube-social-circle_red_48px.png">
-			</a>
-			<a class="noline" target="_blank" href="https://play.spotify.com/artist/0is5OqHl4qKtJTYQpkLPxt">
-				<img class="small-logo" alt="Spotify" title="Spotify" src="../../images/Spotify_Icon_RGB_Green.png">
-			</a>
-			<a class="noline" target="_blank" href="https://soundcloud.com/kevin-ballantyne">
-				<img class="small-logo" alt="Soundcloud" title="Soundcloud" src="../../images/sc_square_42.png">
-			</a>
+		<div id="navbar-header" class="navbar-collapse collapse">
+			<ul class="nav navbar-nav nav-font">
+				<li> <!-- Music Home -->
+					<a {% if page.url == "/music" %}class="active"{% endif %} href="/music">
+						MUSIC HOME
+					</a>
+				</li>
+				<li> <!-- List of Projects -->
+					<a {% if page.url == "/music/bio" %}class="active"{% endif %} 
+						href="/music/bio">
+						BIO
+					</a>
+				</li>
+				<li class="dropdown"> <!-- Albums -->
+					<a href="#" data-toggle="dropdown" data-submenu="" aria-expanded="false"> <!-- aria-haspopup="true" aria-expanded="false">-->
+						ALBUMS
+						<span class="caret"></span>
+					</a>
+					<ul class="dropdown-menu nav-font">
+						<li> <!-- Drunk On A Bike -->
+							<a {% if page.url == "/music/albums/drunk-on-a-bike" %}class="active"{% endif %} 
+								href="/music/albums/drunk-on-a-bike">
+								Drunk On A Bike
+							</a>
+						</li>
+						<li> <!-- A Poet & A One Man Band -->
+							<a {% if page.url == "/music/albums/a-poet-and-a-one-man-band" %}class="active"{% endif %} 
+								href="/music/albums/a-poet-and-a-one-man-band">
+								A Poet & A One Man Band
+							</a>
+						</li>
+					</ul>
+				</li>
+				<li> <!-- Site Home -->
+					<a {% if page.url == "/" %}class="active"{% endif %} href="/">
+						MAIN PAGE
+					</a>
+				</li>
+				<!-- <li> 
+					<!-- List of Projects
+					<a {% if page.url == "/music/albums" %}class="active"{% endif %} 
+						href="/music/lyrics">
+						LYRICS
+					</a>
+				</li> -->
+				<!-- <li class="dropdown">
+					<a href="#" class="dropdown-toggle disabled" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+						Other Interests
+						<span class="caret"></span>
+					</a>
+					<ul class="dropdown-menu">
+						<li><a href="#">Music</a></li>
+						<li><a href="#">Photography</a></li>
+						<li><a href="#">Scripting</a></li> 
+					</ul>
+				</li> -->
+			</ul>
 		</div>
 	</div>
 </nav>
