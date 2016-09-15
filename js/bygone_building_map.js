@@ -3,215 +3,74 @@
 var POPUP_LOCK = false;
 
 // Declare of styles:
+
+function create_stylemap(rgb_color) {
+	var style_normal = new ol.style.Style({
+      fill: new ol.style.Fill({
+        color: 'rgba(' + rgb_color + ',0.5)'
+      }),
+      stroke: new ol.style.Stroke({
+        color: 'black',
+        width: 2
+      })
+    });
+	var style_hl = new ol.style.Style({
+		  fill: new ol.style.Fill({
+			color: 'rgba(' + rgb_color + ',1)'
+		  }),
+		  stroke: new ol.style.Stroke({
+			color: 'black',
+			width: 2
+		  })
+		});
+	var out_map = [style_normal, style_hl]
+	
+	return out_map
+}
+
 // Residential:
-var res_normal = new ol.style.Style({
-      fill: new ol.style.Fill({
-        color: [255,255,0,0.5]
-      }),
-      stroke: new ol.style.Stroke({
-        color: 'black',
-        width: 2
-      })
-    });
-var res_hl = new ol.style.Style({
-      fill: new ol.style.Fill({
-		color: [255,255,0,1]
-      }),
-      stroke: new ol.style.Stroke({
-		color: 'black',
-		width: 2
-      })
-    });
-var residential_map = [res_normal, res_hl]
-
+var residential_map = create_stylemap('255,255,0')
 // Hotel:
-var hotel_normal = new ol.style.Style({
-      fill: new ol.style.Fill({
-        color: 'rgba(255,128,0,0.5)'
-      }),
-      stroke: new ol.style.Stroke({
-        color: 'black',
-        width: 2
-      })
-    });
-var hotel_hl = new ol.style.Style({
-      fill: new ol.style.Fill({
-        color: 'rgba(255,128,0,1)'
-      }),
-      stroke: new ol.style.Stroke({
-        color: 'black',
-        width: 2
-      })
-    });
-var hotel_map = [hotel_normal, hotel_hl]
-
+var hotel_map = create_stylemap('255,128,0')
 // Commercial:
-var comm_normal = new ol.style.Style({
-      fill: new ol.style.Fill({
-        color: 'rgba(255,0,0,0.5)'
-      }),
-      stroke: new ol.style.Stroke({
-        color: 'black',
-        width: 2
-      })
-    });
-var comm_hl = new ol.style.Style({
-      fill: new ol.style.Fill({
-        color: 'rgba(255,0,0,1)'
-      }),
-      stroke: new ol.style.Stroke({
-        color: 'black',
-        width: 2
-      })
-    });
-var comm_map = [comm_normal, comm_hl]
-
+var comm_map = create_stylemap('255,0,0')
 // Industrial:
-var ind_normal = new ol.style.Style({
-      fill: new ol.style.Fill({
-        color: 'rgba(160,32,240,0.5)'
-      }),
-      stroke: new ol.style.Stroke({
-        color: 'black',
-        width: 2
-      })
-    });
-var ind_hl = new ol.style.Style({
-      fill: new ol.style.Fill({
-        color: 'rgba(160,32,240,1)'
-      }),
-      stroke: new ol.style.Stroke({
-        color: 'black',
-        width: 2
-      })
-    });
-var industrial_map = [ind_normal, ind_hl]
-
+var industrial_map = create_stylemap('160,32,240')
 // Institute:
-var inst_normal = new ol.style.Style({
-      fill: new ol.style.Fill({
-        color: 'rgba(0,0,255,0.5)'
-      }),
-      stroke: new ol.style.Stroke({
-        color: 'black',
-        width: 2
-      })
-    });
-var inst_hl = new ol.style.Style({
-      fill: new ol.style.Fill({
-        color: 'rgba(0,0,255,1)'
-      }),
-      stroke: new ol.style.Stroke({
-        color: 'black',
-        width: 2
-      })
-    });
-var institute_map = [inst_normal, inst_hl]
-
+var institute_map = create_stylemap('0,0,255')
 // Health:
-var health_normal = new ol.style.Style({
-      fill: new ol.style.Fill({
-        color: 'rgba(51,204,255,0.5)'
-      }),
-      stroke: new ol.style.Stroke({
-        color: 'black',
-        width: 2
-      })
-    });
-var health_hl = new ol.style.Style({
-      fill: new ol.style.Fill({
-        color: 'rgba(51,204,255,1)'
-      }),
-      stroke: new ol.style.Stroke({
-        color: 'black',
-        width: 2
-      })
-    });
-var health_map = [health_normal, health_hl]
-
+var health_map = create_stylemap('51,204,255')
 // Religious:
-var relig_normal = new ol.style.Style({
-      fill: new ol.style.Fill({
-        color: 'rgba(47,204,79,0.5)'
-      }),
-      stroke: new ol.style.Stroke({
-        color: 'black',
-        width: 2
-      })
-    });
-var relig_hl = new ol.style.Style({
-      fill: new ol.style.Fill({
-        color: 'rgba(47,204,79,1)'
-      }),
-      stroke: new ol.style.Stroke({
-        color: 'black',
-        width: 2
-      })
-    });
-var relig_map = [relig_normal, relig_hl]
-
+var relig_map = create_stylemap('47,204,79')
 // Recreational:
-var rec_normal = new ol.style.Style({
-      fill: new ol.style.Fill({
-        color: 'rgba(0,255,0,0.5)'
-      }),
-      stroke: new ol.style.Stroke({
-        color: 'black',
-        width: 2
-      })
-    });
-var rec_hl = new ol.style.Style({
-      fill: new ol.style.Fill({
-        color: 'rgba(0,255,0,1)'
-      }),
-      stroke: new ol.style.Stroke({
-        color: 'black',
-        width: 2
-      })
-    });
-var rec_map = [rec_normal, rec_hl]
-
+var rec_map = create_stylemap('0,255,0')
 // Transportation:
-var trans_normal = new ol.style.Style({
-      fill: new ol.style.Fill({
-        color: 'rgba(128,128,128,0.5)'
-      }),
-      stroke: new ol.style.Stroke({
-        color: 'black',
-        width: 2
-      })
-    });
-var trans_hl = new ol.style.Style({
-      fill: new ol.style.Fill({
-        color: 'rgba(128,128,128,1)'
-      }),
-      stroke: new ol.style.Stroke({
-        color: 'black',
-        width: 2
-      })
-    });
-var trans_map = [trans_normal, trans_hl]
-
+var trans_map = create_stylemap('128,128,128')
 // Undefined:
-var undef_normal = new ol.style.Style({
-      fill: new ol.style.Fill({
-        color: 'rgba(255,255,255,0.5)'
-      }),
-      stroke: new ol.style.Stroke({
-        color: 'black',
-        width: 2
-      })
-    });
-var undef_hl = new ol.style.Style({
-      fill: new ol.style.Fill({
-        color: 'rgba(255,255,255,1)'
-      }),
-      stroke: new ol.style.Stroke({
-        color: 'black',
-        width: 2
-      })
-    });
-var undef_map = [undef_normal, undef_hl]
+var undef_map = create_stylemap('255,255,255')
+			
+// Create all building layers
+var resLayer = create_vector_layer('residential')
+var hotelLayer = create_vector_layer('hotel')
+var commLayer = create_vector_layer('comm')
+var indLayer = create_vector_layer('industrial')
+var instLayer = create_vector_layer('institute')
+var healthLayer = create_vector_layer('health')
+var relLayer = create_vector_layer('relig')
+var recLayer = create_vector_layer('rec')
+var transLayer = create_vector_layer('trans')
+var unknownLayer = create_vector_layer('undefined')
+
+var lyr_dict = {'residential': resLayer, 
+				'hotel': hotelLayer,
+				'comm': commLayer,
+				'industrial': indLayer,
+				'institute': instLayer,
+				'health': healthLayer,
+				'relig': relLayer,
+				'rec': recLayer,
+				'trans': transLayer,
+				'undefined': unknownLayer}
 
 var styles = {"residential_map": residential_map, 
 				"hotel_map": hotel_map, 
@@ -224,23 +83,77 @@ var styles = {"residential_map": residential_map,
 				"trans_map": trans_map, 
 				"undefined": undef_map};
 
+/* kmlLayer.getSource().forEachFeature(function(feature) {
+	feature.setId(counter);
+	var properties = feature.getProperties();
+	//var tmpstyle = styles[properties['styleUrl'].replace("#", "")];
+	var tmpstyle = styles[properties['styleUrl'].split("#")[1]];
+	// if(typeof tmpstyle !== 'undefined'){
+		// feature.setStyle(tmpstyle[0]);
+	// } else {
+		// feature.setStyle(styles['undefined'][0]);
+	// };
+	
+	resLayer.getSource().addFeature(feature);
+	counter++;
+});		 */		
+				
 function reset_styles(styles) {
-	var source = vector.getSource()
+	var source = kmlLayer.getSource()
 	var counter = 0
 	var key = source.on('change', function(event) {
 		if (source.getState() == 'ready') {
 			source.unByKey(key);
 			$.ajax('../files/Ottawa_Bygone_Buildings.kml').done(function(data) {
-				vector.getSource().forEachFeature(function(feature) {
+				kmlLayer.getSource().forEachFeature(function(feature) {
 					feature.setId(counter);
 					var properties = feature.getProperties();
 					//var tmpstyle = styles[properties['styleUrl'].replace("#", "")];
-					var tmpstyle = styles[properties['styleUrl'].split("#")[1]];
+					style_map = properties['styleUrl'].split("#")[1]
+					var tmpstyle = styles[style_map];
 					if(typeof tmpstyle !== 'undefined'){
 						feature.setStyle(tmpstyle[0]);
 					} else {
 						feature.setStyle(styles['undefined'][0]);
 					};
+					//window.alert(tmpstyle[0]);
+					/* switch(style_map) {
+						case 'residential_map':
+							resLayer.getSource().addFeature(feature);
+							break;
+						case 'hotel_map':
+							hotelLayer.getSource().addFeature(feature);
+							break;
+						case 'comm_map':
+							commLayer.getSource().addFeature(feature);
+							break;
+						case 'industrial_map':
+							indLayer.getSource().addFeature(feature);
+							break;
+						case 'institute_map':
+							instLayer.getSource().addFeature(feature);
+							break;
+						case 'health_map':
+							healthLayer.getSource().addFeature(feature);
+							break;
+						case 'relig_map':
+							relLayer.getSource().addFeature(feature);
+							break;
+						case 'rec_map':
+							recLayer.getSource().addFeature(feature);
+							break;
+						case 'trans_map':
+							transLayer.getSource().addFeature(feature);
+							break;
+						case 'undefined':
+							unknownLayer.getSource().addFeature(feature);
+							break;
+					} */
+					for (var key in lyr_dict) {
+						if (style_map == key + '_map') {
+							lyr_dict[key].getSource().addFeature(feature);
+						}
+					}
 					counter++;
 				});
 			});
@@ -263,23 +176,73 @@ function styleFunction(feature, resolution) {
 };
 
 function refreshLayers() {
-	var bingRad = document.getElementById('bingmaps');
-	var osmRad = document.getElementById('osm');
-	var layers = [];
-    /* map.getLayers().forEach(function (lyr) {
-		layers.push({
-			key: lyr.get('name'), 
-			value: lyr
-		});
-    }); */
-	//alert(map.getLayers().item(0).get('name'));
-	if (bingRad.checked) {
-		map.getLayers().item(1).setVisible(true);
-		map.getLayers().item(0).setVisible(false);
+	var check_rad = $("input[name='base_layer']:checked")[0].id;
+	
+	// Make all layers invisible except the checked one
+	var total_layers = map.getLayers().getLength();
+	for (i = 0; i < 2; i++) {
+		var lyr_name = map.getLayers().item(i).get('name')
+		if (lyr_name == check_rad) {
+			map.getLayers().item(i).setVisible(true);
+		} else {
+			map.getLayers().item(i).setVisible(false);
+		}
+	}
+};
+
+function getLayer(srch_name) {
+	var total_layers = map.getLayers().getLength();
+	for (i = 0; i < total_layers; i++) {
+		var lyr_name = map.getLayers().item(i).get('name')
+		if (lyr_name == srch_name) {
+			return map.getLayers().item(i);
+		}
+	}
+}
+
+function getChkbox(name) {
+	chkBox = document.getElementById(name);
+	return chkBox;
+}
+
+function uncheck_all() {
+	$('input[type=checkbox]').each(function () {
+		cur_lyr = getLayer(this.id);
+		this.checked = false;
+		cur_lyr.setVisible(false);
+	});
+}
+
+function refreshBuildLayers(checkbox) {
+	// For radio button layers
+	/* var check_rad = $("input[name='building_layer']:checked")[0].id;
+	
+	// Make all layers invisible except the checked one
+	var total_layers = map.getLayers().getLength();
+	for (i = 2; i < total_layers; i++) {
+		var lyr_name = map.getLayers().item(i).get('name')
+		if (lyr_name == check_rad) {
+			map.getLayers().item(i).setVisible(true);
+		}
+	} */
+	
+	if (checkbox.id == 'kml') {
+		uncheck_all();
+		checkbox.checked = true;
 	} else {
-		map.getLayers().item(1).setVisible(false);
-		map.getLayers().item(0).setVisible(true);
-	};
+		kml_chkbox = getChkbox('kml');
+		kml_chkbox.checked = false;
+	}
+	
+	// For checkbox layers
+	$('input[type=checkbox]').each(function () {
+		cur_lyr = getLayer(this.id);
+		if (this.checked) {
+			cur_lyr.setVisible(true);
+		} else {
+			cur_lyr.setVisible(false);
+		}
+	});
 };
 
 var projection = ol.proj.get('EPSG:3857');
@@ -297,7 +260,7 @@ var osmLayer = new ol.layer.Tile({source: osmSource});
 
 //window.alert(bing_src.getProjection().getCode());
 
-var vector = new ol.layer.Vector({
+var kmlLayer = new ol.layer.Vector({
     source: new ol.source.Vector({
         url: '../files/Ottawa_Bygone_Buildings.kml',
         format: new ol.format.KML({
@@ -306,13 +269,29 @@ var vector = new ol.layer.Vector({
 		})
     })
 });
-bingLayer.set('name', 'bingMap');
-osmLayer.set('name', 'osm');
 
-//window.alert(vector.getSource().getExtent());
+function create_vector_layer(layer_name) {
+	var outLayer = new ol.layer.Vector({
+		source: new ol.source.Vector({})
+	});
+	outLayer.set('name', layer_name);
+	return outLayer;
+}
+
+bingLayer.set('name', 'bingmap');
+osmLayer.set('name', 'osm');
+kmlLayer.set('name', 'kml');
+
+//window.alert(kmlLayer.getSource().getExtent());
+
+var lyr_list = [osmLayer, bingLayer, kmlLayer]
+
+for (var key in lyr_dict) {
+	lyr_list.push(lyr_dict[key]);
+}
 
 var map = new ol.Map({
-    layers: [osmLayer, bingLayer, vector],
+    layers: lyr_list,
     //target: document.getElementById('map'),
 	target: document.getElementById('map'),
     view: new ol.View({
@@ -324,7 +303,7 @@ var map = new ol.Map({
 });
 
 function removeHighlight(featId) {
-	var feat = vector.getSource().getFeatureById(featId);
+	var feat = kmlLayer.getSource().getFeatureById(featId);
 	var properties = feat.getProperties();
 	//var style = feat.getStyle();
 	//var tmpstyle = styles[properties['styleUrl'].replace("#", "")];
@@ -338,7 +317,7 @@ function removeHighlight(featId) {
 
 function closePopup(featId) {
 	//removeHighlight($(feature));
-	//var feature = vector.getSource().getFeatureById(featId);
+	//var feature = kmlLayer.getSource().getFeatureById(featId);
 	//$(elem).popover("hide");
 	removeHighlight(featId);
 	POPUP_LOCK = false;
@@ -452,73 +431,14 @@ function create_photo_html(photos) {
 	for (var i = 0; i < photos.length; i++) {
 		img_src = photos[i]['img_src'];
 		photo_html += `
-			<li><img class="tn" src="${img_src}" height="50px" alt=""></li>`
+			<li><img class="tn" src="${img_src}" alt=""></li>`
 	}
 	
 	photo_html += `
 		</ul>
 	</div>
 </div>`
-			
-	// Wet-Boew Carousel:
-	/* var photo_html = '\
-		<div class="wb-tabs carousel-s2 show-thumbs carousel-padding"> \
-			<ul role="tablist">';
-	
-	// Create HTML for tab list:
-	for (var i = 0; i < photos.length; i++) {
-		caption = photos[i]['caption'];
-		link = photos[i]['link'];
-		img_src = photos[i]['img_src'];
-		date_taken = photos[i]['date_taken'];
-		source = photos[i]['source'];
-		if (i == 0) {
-			active_str = 'class="active"';
-			//tabindex="0";
-		}
-		else {
-			active_str = '';
-			//tabindex="-1";
-		}
-		photo_html += `<li ${active_str} role="presentation"><a href="#panel${i + 1}">
-			<img class="popover-thumb" src="${img_src}" alt="${caption}" /></a></li>`;
-		//photo_html += `<li role="presentation"><a href="#panel${i + 1}"  tabindex="${tabindex}" role="tab" aria-controls="panel${i + 1}" id="panel${i + 1}-lnk">
-		//	<img class="popover-thumb" src="${img_src}" alt="${caption}" /></a></li>`;
-	}
-	
-	photo_html += '</ul> \
-			<div class="tabpanels">';
-	
-	// Create tab panels:
-	for (var i = 0; i < photos.length; i++) {
-		caption = photos[i]['caption'].trim();
-		link = photos[i]['link'].trim();
-		img_src = photos[i]['img_src'].trim();
-		date_taken = photos[i]['date_taken'].trim();
-		source = photos[i]['source'].trim();
-		if (i == 0) {
-			fade_str = 'in'; 
-		}
-		else {
-			fade_str = 'out';
-		}
-		fade_str += ' slide';
-		photo_html += `<div role="tabpanel" id="panel${i + 1}" class="${fade_str}"> \
-					<figure> \
-						<img class="popover-img" src="${img_src}" alt="" /> \
-						<figcaption> \
-							<p> \
-								${caption} \
-							</p> \
-						</figcaption> \
-					</figure> \
-				</div>`;
-	}
-	
-	photo_html += '</div> \
-			</div>';
-			
-	return photo_html; */
+
 	return photo_html;
 }
 
@@ -532,7 +452,22 @@ function checkInput(in_text) {
 	}
 }
 
-function showPopup(feature) {
+function resizeGeomatics() {
+	$('#geomatics').width($('this').width());
+};
+
+$(function(){
+    // The document object acts as the 'subscription service' - 
+    // it receives all events via bubbling.
+    $(document).bind('layout.resizeCheck', function(){
+        $('#geomatics').width($('this').width());
+    });
+
+    // Whenever you need to update the size:
+    $('#logo').trigger('layout.resizeCheck');
+});
+
+function showPopup(feature, layer) {
 	POPUP_LOCK = true;
 	
 	var props = feature.getProperties();
@@ -804,7 +739,7 @@ var featureOverlay = new ol.layer.Vector({
 });
 
 //map.addLayer(raster);
-//map.addLayer(vector);
+//map.addLayer(kmlLayer);
 
 var element = document.getElementById('popup');
 
@@ -813,11 +748,11 @@ var popup = new ol.Overlay({
 });
 map.addOverlay(popup);
 
-//var source = vector.getSource().getFeatures()
+//var source = kmlLayer.getSource().getFeatures()
 
 //window.alert(source.length)
 
-//vector.getSource().forEachFeature(function(feature) {
+//kmlLayer.getSource().forEachFeature(function(feature) {
 //	var properties = feature.getProperties();
 	//var style = feature.getStyle();
 //	var tmpstyle = styles[properties['styleUrl'].replace("#", "")];
@@ -881,7 +816,7 @@ var popup_html = getPopupContent();
 // display popup on click
 map.on('click', function(evt) {
 	POPUP_LOCK = true;
-	var feature = map.forEachFeatureAtPixel(evt.pixel,
+	var feature, layer = map.forEachFeatureAtPixel(evt.pixel,
 		function(feature, layer) {
 		// do stuff here with feature
 			var element_pop = popup.getElement();
@@ -901,7 +836,7 @@ map.on('click', function(evt) {
 				// Set the view to the building location:
 				var view_tmp = map.getView();
 				var featId = feature.getId();
-				showPopup(feature);
+				showPopup(feature, layer);
 				/* $(element_pop).data('fid', featId);
 				view_tmp.setCenter(evt.coordinate);
 				popup_html = getPopupContent();
@@ -923,7 +858,7 @@ map.on('click', function(evt) {
 				  'content': popup_html
 				});
 				$(element_pop).popover('show'); */
-				return feature;
+				return feature, layer;
 			} else {
 				$(element_pop).popover('destroy');
 			}
@@ -939,7 +874,7 @@ map.on('click', function(evt) {
 		popup_html = '';
 		popup_html = getPopupContent();
 		var featId = $(element_pop).data('fid'); 
-		removeHighlight(featId);
+		removeHighlight(featId, layer);
 	};
 	//POPUP_LOCK = false;
 	$('#info').tooltip('hide');
@@ -948,8 +883,13 @@ map.on('click', function(evt) {
 // Set Bing Maps layer visible on load:
 var osmRad = document.getElementById('osm');
 bingLayer.setVisible(false);
+//kmlLayer.setVisible(false);
 osmLayer.setVisible(true);
 osmRad.click();
+
+// Set the building layer radio button:
+var kmlRad = document.getElementById('kml');
+kmlRad.click();
 
 // change mouse cursor when over marker
 map.on('pointermove', function(e) {
