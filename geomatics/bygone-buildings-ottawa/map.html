@@ -10,7 +10,7 @@ description: An Openlayers map showing the buildings which no longer exist in Ot
 	</div>
 	<hr style="height:1px;border:none;color:#333;background-color:#ffffff">
 	<div class="row-fluid">
-		<div class="col-md-10 map-col">
+		<div class="col-md-9 map-col">
 			<div id="map" class="map"><div id="info"></div></div>
 			<div id="popup" class="ol-popup">
 				<a href="#" id="popup-closer" class="ol-popup-closer"></a>
@@ -18,7 +18,7 @@ description: An Openlayers map showing the buildings which no longer exist in Ot
 			</div>
 			<p style="font-size: smaller">Created using OpenLayers 3</p>
 		</div>
-		<div class="col-md-2 legend-col">
+		<div class="col-md-3 legend-col">
 			<div class="row-fluid legend">
 				<h1 class="legend-title">
 					Background Layers
@@ -37,20 +37,79 @@ description: An Openlayers map showing the buildings which no longer exist in Ot
 				</ul> -->
 				<ul class="ul-leg">
 					<li class="legend-txt li-leg">
-						<input id="osm" name="layer" onclick="refreshLayers()"
-							class="osm legend-radio" type="radio"/>OpenStreetMaps
+						<input id="osm" name="base_layer" onclick="refreshLayers()"
+							class="osm legend-radio" type="radio"/>
+							<label for="osm">OpenStreetMaps</label>
 					</li>
 					<li class="legend-txt li-leg">
-						<input id="bingmaps" name="layer" onclick="refreshLayers()" 
-							class="bingmaps legend-radio" type="radio"/>Air Photo
+						<input id="bingmap" name="base_layer" onclick="refreshLayers()" 
+							class="bingmaps legend-radio" type="radio"/>
+							<label for="bingmap">Air Photo</label>
 					</li>
 				</ul>
 			</div>
 			<div class="row-fluid legend">
 				<h1 class="legend-title">
-					Building Color Legend
+					Building Layers
 				</h1>
 				<ul class="ul-leg">
+					<li class="legend-txt li-leg">
+						<input id="kml" name="building_layer" onclick="refreshBuildLayers(this)"
+							class="kml legend-radio" type="checkbox"/>
+							<label for="kml">All Buildings</label>
+					</li>
+					<li class="legend-txt li-leg">
+						<input id="residential" name="building_layer" onclick="refreshBuildLayers(this)" 
+							class="reslayer legend-radio" type="checkbox"/>
+						<label for="residential">Residential<span class="legend-item res"></span></label>
+					</li>
+					<li class="legend-txt li-leg">
+						<input id="hotel" name="building_layer" onclick="refreshBuildLayers(this)" 
+							class="hotellayer legend-radio" type="checkbox"/>
+						<label for="hotel">Hotel<span class="legend-item hotel"></span></label>
+					</li>
+					<li class="legend-txt li-leg">
+						<input id="comm" name="building_layer" onclick="refreshBuildLayers(this)" 
+							class="commlayer legend-radio" type="checkbox"/>
+						<label for="comm">Commerical<span class="legend-item comm"></span></label>
+					</li>
+					<li class="legend-txt li-leg">
+						<input id="industrial" name="building_layer" onclick="refreshBuildLayers(this)" 
+							class="indlayer legend-radio" type="checkbox"/>
+						<label for="industrial">Industrial<span class="legend-item indust"></span></label>
+					</li>
+					<li class="legend-txt li-leg">
+						<input id="institute" name="building_layer" onclick="refreshBuildLayers(this)" 
+							class="instlayer legend-radio" type="checkbox"/>
+						<label for="institute">Institution<span class="legend-item inst"></span></label>
+					</li>
+					<li class="legend-txt li-leg">
+						<input id="health" name="building_layer" onclick="refreshBuildLayers(this)" 
+							class="healthlayer legend-radio" type="checkbox"/>
+						<label for="health">Health<span class="legend-item health"></span></label>
+					</li>
+					<li class="legend-txt li-leg">
+						<input id="relig" name="building_layer" onclick="refreshBuildLayers(this)" 
+							class="rellayer legend-radio" type="checkbox"/>
+						<label for="relig">Religious<span class="legend-item rel"></span></label>
+					</li>
+					<li class="legend-txt li-leg">
+						<input id="rec" name="building_layer" onclick="refreshBuildLayers(this)" 
+							class="reclayer legend-radio" type="checkbox"/>
+						<label for="rec">Recreational<span class="legend-item rec"></span></label>
+					</li>
+					<li class="legend-txt li-leg">
+						<input id="trans" name="building_layer" onclick="refreshBuildLayers(this)" 
+							class="translayer legend-radio" type="checkbox"/>
+						<label for="trans">Transportation<span class="legend-item trans"></span></label>
+					</li>
+					<li class="legend-txt li-leg">
+						<input id="undefined" name="building_layer" onclick="refreshBuildLayers(this)" 
+							class="unknownlayer legend-radio" type="checkbox"/>
+						<label for="undefined">Unknown<span class="legend-item unknown"></span></label>
+					</li>
+				</ul>
+				<!-- <ul class="ul-leg">
 					<li class="legend-txt li-leg">
 						<span class="legend-item res"></span>
 						Residential
@@ -109,7 +168,7 @@ description: An Openlayers map showing the buildings which no longer exist in Ot
 						<span class="legend-item unknown"></span>
 						Unknown
 					</li>
-				</ul>
+				</ul> -->
 			</div>
 		</div>
 	</div>
