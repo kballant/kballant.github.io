@@ -227,8 +227,9 @@ function refreshBuildLayers(checkbox) {
 	} */
 	
 	if (checkbox.id == 'kml') {
+		check_status = checkbox.checked
 		uncheck_all();
-		checkbox.checked = true;
+		checkbox.checked = check_status;
 	} else {
 		kml_chkbox = getChkbox('kml');
 		kml_chkbox.checked = false;
