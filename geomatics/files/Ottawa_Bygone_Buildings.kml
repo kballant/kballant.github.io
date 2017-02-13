@@ -2296,7 +2296,7 @@
           <value><![CDATA[1972]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[Demolished for development. Location is currently occupied by a high-rise condo apartment. Chapel removed and reconstructed in the National Gallery of Canada.]]></value>
+          <value><![CDATA[Demolished for development. Location is currently occupied by a high-rise condo apartment called the Claridge Plaza. Chapel removed and reconstructed in the National Gallery of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -2526,7 +2526,7 @@
           <value><![CDATA[1960s]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[The building was threatened with demolition in 1907 when the Grand Trunk Railway company expressed at interest in purchasing the property for the construction of Union Station.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -2538,7 +2538,7 @@
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="sources">
-          <value/>
+          <value><![CDATA[Urbsite Blog: The Corry Block: <a href="http://urbsite.blogspot.ca/2011/04/corry-block.html">http://urbsite.blogspot.ca/2011/04/corry-block.html</a>]]></value>
         </Data>
         <Data name="photos">
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
@@ -6582,7 +6582,7 @@
           <value><![CDATA[126 Albert Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[J J Lennie, baths]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -7597,7 +7597,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[120 Rideau Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[C Moreland, grocer]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -7783,7 +7783,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[100-102 Rideau Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Alfred St Laurent, gentleman's furnishings]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -8551,7 +8551,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[183 Albert Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Vacant]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -8840,7 +8840,7 @@ gation Notre Dame]]></value>
     </Placemark>
     <Placemark>
       <name><![CDATA[10-12 Albert Street]]></name>
-      <styleUrl>#residential_map</styleUrl>
+      <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
         <Data name="name">
           <value><![CDATA[10-12 Albert Street]]></value>
@@ -8861,7 +8861,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[10-12 Albert Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[10 Vacant, 12 Customs House Express Office, Customs House Examining Warehouse]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -8870,13 +8870,13 @@ gation Notre Dame]]></value>
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
 		<tr align="left" valign="top">
 			<td>
-			<b>Photo 1</b> - 10-12 Albert Street.
+			<b>Photo 1</b> - 10-12 Albert Street looking across from the north side of Albert Street. 10-12 Albert Street is the building on the far left.
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3326059">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/10-12_Albert_Street_a046853.jpg" title="10-12 Albert Street." border="1" width="500"></a>
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/10-12_Albert_Street_a046853.jpg" title="10-12 Albert Street looking across from the north side of Albert Street. 10-12 Albert Street is the building on the far left." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
@@ -9791,7 +9791,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[170 Queen Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Hyman Friedman, shoemaker]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -10517,7 +10517,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[67 Cartier Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Isabella Whyte]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -10579,7 +10579,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[69 Cartier Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Martin W Maynard]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -10641,7 +10641,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[211 Bronson Avenue]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[John Christie]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -10688,7 +10688,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[St. Patrick's Asylum]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[May 1873]]></value>
         </Data>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
@@ -10889,7 +10889,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[141 Cooper Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Charles A Irvin]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -11039,7 +11039,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[180 Cooper Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Robert W Powell, physician]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -11101,7 +11101,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[245 Cooper Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Vacant]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -11163,7 +11163,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[111 Cooper Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Charles F Whitley]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -11225,7 +11225,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[250 Cooper Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[J Travers Lewis]]></value>
         </Data>
         <Data name="sources">
           <value><![CDATA[1912 City Directory: <a href="https://archive.org/details/ottawadirec191200midiuoft">https://archive.org/details/ottawadirec191200midiuoft</a><br>1914 City Directory: <a href="https://archive.org/details/ottawadirec191400midiuoft">https://archive.org/details/ottawadirec191400midiuoft</a>]]></value>
@@ -11327,23 +11327,23 @@ gation Notre Dame]]></value>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name><![CDATA[50 Somerset Street]]></name>
+      <name><![CDATA[Seybold's Castle]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
         <Data name="name">
-          <value><![CDATA[50 Somerset Street]]></value>
+          <value><![CDATA[Seybold's Castle]]></value>
         </Data>
         <Data name="dateBuilt">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1929]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Demolished for construction of St. Theresa Roman Catholic Church. Location currently occupied by St. Theresa Roman Catholic Church.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[Residence of Edward Seybold]]></value>
+          <value><![CDATA[Built using red sandstone, the building was owned by Edward Seybold. One of the few survivors of the Empress of Ireland sinking, Seybold and his wife were catapulted into the water by an explosion. He survived but his wife did not.]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[50 Somerset Street]]></value>
@@ -11535,7 +11535,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[283-289 Bank Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Queen s Hall]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -11845,7 +11845,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[197-199 Rideau Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[C T (Charles Thomas) Ballantyne]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -11922,7 +11922,7 @@ gation Notre Dame]]></value>
 		<tr align="left" valign="top">
 			<td>
 			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=4169933&rec_nbr_list=4169933">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/357_Sparks_Street_e010934915-v8.jpg" title="Street frontage of Nicholas Sparks' house along Sparks Street" border="1" width="500"></a>
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/357_Sparks_Street_e010934915.jpg" title="Street frontage of Nicholas Sparks' house along Sparks Street" border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
@@ -12072,7 +12072,7 @@ gation Notre Dame]]></value>
     </Placemark>
     <Placemark>
       <name><![CDATA[12 Bank Street]]></name>
-      <styleUrl>#residential_map</styleUrl>
+      <styleUrl>#rec_map</styleUrl>
       <ExtendedData>
         <Data name="name">
           <value><![CDATA[12 Bank Street]]></value>
@@ -12087,13 +12087,13 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Occupied by the Civil Service Club between 1911-1913.]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[12 Bank Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Civil Service Club]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -12177,7 +12177,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[47 Vittoria Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Andrew Holland]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -12345,7 +12345,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[14 Vittoria Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Gertrude Macdonald]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -12407,7 +12407,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[74-76 Vittoria Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[74 James D McLean, 76 Wellington A Macbain]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -12491,7 +12491,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[102 Vittoria Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[James Wigmore]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -12553,7 +12553,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[57 Vittoria Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Daniel Nlchol]]></value>
         </Data>
         <Data name="sources">
           <value/>
