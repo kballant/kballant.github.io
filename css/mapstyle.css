@@ -243,16 +243,6 @@ body.main {
 	display: block;
     margin: 0 auto;
 }
-@media only screen and (max-width: 768px) {
-	.map-popup {
-		width: 100% !important;
-		min-width: 50px !important;
-	}
-	.carousel-img {
-		width: 100% !important;
-		height: auto !important;
-	}
-}
 .carousel-container {
 	width: auto !important;
 	padding: 0px;
@@ -350,4 +340,17 @@ ul.thumbnails-carousel li {
 }
 .indicators-fix {
 	bottom: 70px;
+}
+@media only screen and (max-width: 768px) {
+	.map-popup {
+		width: 100% !important;
+		min-width: 50px !important;
+	}
+	.carousel-img {
+		width: 100% !important;
+		height: auto !important;
+	}
+	.tn {
+		height: 30px;
+	}
 }
