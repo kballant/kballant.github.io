@@ -786,7 +786,8 @@ var highlightFeature = function(pixel) {
 		
 		if (feature) {
 			info.tooltip('hide')
-				.attr('data-original-title', feature.get('name'))
+				//.attr('data-original-title', feature.get('name'))
+				.attr('data-original-title', $('<div>').html(feature.get('name')).html())
 				.tooltip('fixTitle')
 				.tooltip('show');
 		} else {
