@@ -1862,7 +1862,7 @@
           <value><![CDATA[2012]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[Collapsed during the construction for the expansion of the Rideau Centre. Outside fa?ade saved before collapse and integrated into expansion of the Rideau Centre.]]></value>
+          <value><![CDATA[Collapsed during the construction for the expansion of the Rideau Centre. Outside fa&#231;ade saved before collapse and integrated into expansion of the Rideau Centre.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Charles Ogilvy built this 3 storey building in 1907. A fourth floor was added in 1931 and a fifth floor was built in 1934.]]></value>
@@ -4065,7 +4065,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[Currently occupied by the Place Bell building.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[Designed by James Bowes, the inside chapel contained decorative cast-iron columns. The Congr?gation de Notre-Dame moved to 1495 Heron Road just prior to demolition. The congregation shut down after eight years in its Heron Road location.]]></value>
+          <value><![CDATA[Designed by James Bowes, the inside chapel contained decorative cast-iron columns. The Congr&#233;gation de Notre-Dame moved to 1495 Heron Road just prior to demolition. The congregation shut down after eight years in its Heron Road location.]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[34-38 Gloucester Street]]></value>
@@ -4756,11 +4756,11 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       </Polygon>
     </Placemark>
     <Placemark>
-      <name><![CDATA[?cole Ste Famille]]></name>
+      <name><![CDATA[&#201;cole Ste Famille]]></name>
       <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
         <Data name="name">
-          <value><![CDATA[?cole Ste Famille]]></value>
+          <value><![CDATA[&#201;cole Ste Famille]]></value>
         </Data>
         <Data name="dateBuilt">
           <value><![CDATA[n/a]]></value>
@@ -4787,13 +4787,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
 		<tr align="left" valign="top">
 			<td>
-			<b>Photo 1</b> - ?cole Ste Famille located along Sherwood Street near the corner of Ottawa Street.
+			<b>Photo 1</b> - &#201;cole Ste Famille located along Sherwood Street near the corner of Ottawa Street.
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<a href="https://www.facebook.com/LostOttawa/posts/810146205751272">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Ecole_Ste_Famille.jpg" title="?cole Ste Famille located along Sherwood Street near the corner of Ottawa Street." border="1" width="500"></a>
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Ecole_Ste_Famille.jpg" title="&#201;cole Ste Famille located along Sherwood Street near the corner of Ottawa Street." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
@@ -11184,7 +11184,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[Demolished for construction of government buildings. Now occupied by the West Memorial Building.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[The residents of Nicholas Sparks. Nicholas Sparks purchased land in the 1820s that stretched from Bronson Avenue to Nicholas Street and Wellington to Slater Streets. At the time of purchase, the area was entirely forest. However, with the building of the canal, Sparks sold much of his land to the engineers and workers of the canal and also to the church. From Sparks' death in 1862 until its demolition, the building had changed owners several times. There was an effort to preserve the building by the Women?s Canadian Historical Society, however all attempts to save the building were denied by the federal government.]]></value>
+          <value><![CDATA[The residents of Nicholas Sparks. Nicholas Sparks purchased land in the 1820s that stretched from Bronson Avenue to Nicholas Street and Wellington to Slater Streets. At the time of purchase, the area was entirely forest. However, with the building of the canal, Sparks sold much of his land to the engineers and workers of the canal and also to the church. From Sparks' death in 1862 until its demolition, the building had changed owners several times. There was an effort to preserve the building by the Women&#8217;s Canadian Historical Society, however all attempts to save the building were denied by the federal government.]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[357 Sparks Street]]></value>
