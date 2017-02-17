@@ -1473,524 +1473,6 @@
       </Pair>
     </StyleMap>
     <Placemark>
-      <name><![CDATA[New Edinburgh Mills (Hardwood Flooring Storage)]]></name>
-      <styleUrl>#industrial_map</styleUrl>
-      <ExtendedData>
-        <Data name="name">
-          <value><![CDATA[New Edinburgh Mills (Hardwood Flooring Storage)]]></value>
-        </Data>
-        <Data name="dateBuilt">
-          <value><![CDATA[1868]]></value>
-        </Data>
-        <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="status">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="addrss">
-          <value><![CDATA[106 John Street]]></value>
-        </Data>
-        <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="sources">
-          <value/>
-        </Data>
-        <Data name="photos">
-          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
-		<tr align="left" valign="top">
-			<td>
-			<b>Photo 1</b> - The New Edinburgh mills looking from the bottom of the Rideau Falls. The mills were owned by W. C. Edwards.
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3424453">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/New_Edinburgh_Mills_a026069.jpg" title="The New Edinburgh mills looking from the bottom of the Rideau Falls. The mills were owned by W. C. Edwards." border="1" width="500"></a>
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<small><b>Date Taken</b>: c1900<br>
-			<b>Source</b>: Library & Archives Canada, MIKAN no. 3424453</small>
-			</td>
-		</tr>
-	</table>
-			</td>
-     </tr>
-     <tr align="left" valign="top">
-        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
-		<tr align="left" valign="top">
-			<td>
-			<b>Photo 2</b> - The New Edinburgh mills looking from the bottom of the Rideau Falls. The mills were owned by W. C. Edwards.
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3424453">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/New_Edinburgh_Mills_a026069.jpg" title="The New Edinburgh mills looking from the bottom of the Rideau Falls. The mills were owned by W. C. Edwards." border="1" width="500"></a>
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<small><b>Date Taken</b>: c1900<br>
-			<b>Source</b>: Library & Archives Canada, MIKAN no. 3424453</small>
-			</td>
-		</tr>
-	</table>
-		</td>
-      </tr>
-</table>]]></value>
-        </Data>
-      </ExtendedData>
-      <Polygon>
-        <tessellate>1</tessellate>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-75.69598775865636,45.44193027034014,0 -75.69587318487837,45.44189227600507,0 -75.69589644712929,45.44184191484913,0 -75.69500270862778,45.44158311989418,0 -75.69486879152481,45.44177983926219,0 -75.69589977622972,45.44208502984666,0 -75.69598775865636,45.44193027034014,0</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name><![CDATA[New Edinburgh Mills (Lumber Shed)]]></name>
-      <styleUrl>#industrial_map</styleUrl>
-      <ExtendedData>
-        <Data name="name">
-          <value><![CDATA[New Edinburgh Mills (Lumber Shed)]]></value>
-        </Data>
-        <Data name="dateBuilt">
-          <value><![CDATA[1868]]></value>
-        </Data>
-        <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="status">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="addrss">
-          <value><![CDATA[106 John Street]]></value>
-        </Data>
-        <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="sources">
-          <value/>
-        </Data>
-        <Data name="photos">
-          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
-		<tr align="left" valign="top">
-			<td>
-			<b>Photo 1</b> - The New Edinburgh mills looking from the bottom of the Rideau Falls. The mills were owned by W. C. Edwards.
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3424453">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/New_Edinburgh_Mills_a026069.jpg" title="The New Edinburgh mills looking from the bottom of the Rideau Falls. The mills were owned by W. C. Edwards." border="1" width="500"></a>
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<small><b>Date Taken</b>: c1900<br>
-			<b>Source</b>: Library & Archives Canada, MIKAN no. 3424453</small>
-			</td>
-		</tr>
-	</table>
-		</td>
-      </tr>
-</table>]]></value>
-        </Data>
-      </ExtendedData>
-      <Polygon>
-        <tessellate>1</tessellate>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-75.69549111471982,45.4420219547191,0 -75.69500229522149,45.44187585433975,0 -75.69490278513914,45.4420120125952,0 -75.69541080766733,45.44215415691142,0 -75.69549111471982,45.4420219547191,0</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name><![CDATA[New Edinburgh Mills (Dry Kiln)]]></name>
-      <styleUrl>#industrial_map</styleUrl>
-      <ExtendedData>
-        <Data name="name">
-          <value><![CDATA[New Edinburgh Mills (Dry Kiln)]]></value>
-        </Data>
-        <Data name="dateBuilt">
-          <value><![CDATA[1868]]></value>
-        </Data>
-        <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="status">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="addrss">
-          <value><![CDATA[106 John Street]]></value>
-        </Data>
-        <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="sources">
-          <value/>
-        </Data>
-        <Data name="photos">
-          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
-		<tr align="left" valign="top">
-			<td>
-			<b>Photo 1</b> - The New Edinburgh mills looking from the bottom of the Rideau Falls. The mills were owned by W. C. Edwards.
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3424453">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/New_Edinburgh_Mills_a026069.jpg" title="The New Edinburgh mills looking from the bottom of the Rideau Falls. The mills were owned by W. C. Edwards." border="1" width="500"></a>
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<small><b>Date Taken</b>: c1900<br>
-			<b>Source</b>: Library & Archives Canada, MIKAN no. 3424453</small>
-			</td>
-		</tr>
-	</table>
-		</td>
-      </tr>
-</table>]]></value>
-        </Data>
-      </ExtendedData>
-      <Polygon>
-        <tessellate>1</tessellate>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-75.69556306287969,45.44218626586669,0 -75.69592497249897,45.44230406239812,0 -75.69597690150242,45.44220387222235,0 -75.69593042486787,45.44218965910537,0 -75.69594605615006,45.44215191512043,0 -75.6958784674916,45.44213045306672,0 -75.69586909515724,45.44214498595592,0 -75.69563588001583,45.44206488013046,0 -75.69556306287969,45.44218626586669,0</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name><![CDATA[New Edinburgh Mills (Sash & Door Facility)]]></name>
-      <styleUrl>#industrial_map</styleUrl>
-      <ExtendedData>
-        <Data name="name">
-          <value><![CDATA[New Edinburgh Mills (Sash & Door Facility)]]></value>
-        </Data>
-        <Data name="dateBuilt">
-          <value><![CDATA[1868]]></value>
-        </Data>
-        <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="status">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="addrss">
-          <value><![CDATA[106 John Street]]></value>
-        </Data>
-        <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="sources">
-          <value/>
-        </Data>
-        <Data name="photos">
-          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
-		<tr align="left" valign="top">
-			<td>
-			<b>Photo 1</b> - The New Edinburgh mills looking from the bottom of the Rideau Falls. The mills were owned by W. C. Edwards.
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3424453">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/New_Edinburgh_Mills_a026069.jpg" title="The New Edinburgh mills looking from the bottom of the Rideau Falls. The mills were owned by W. C. Edwards." border="1" width="500"></a>
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<small><b>Date Taken</b>: c1900<br>
-			<b>Source</b>: Library & Archives Canada, MIKAN no. 3424453</small>
-			</td>
-		</tr>
-	</table>
-		</td>
-      </tr>
-</table>]]></value>
-        </Data>
-      </ExtendedData>
-      <Polygon>
-        <tessellate>1</tessellate>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-75.69441608177731,45.44245646059657,0 -75.69429914278955,45.44262855848379,0 -75.69533603321385,45.44295711639047,0 -75.69545434714625,45.44278221067072,0 -75.69441608177731,45.44245646059657,0</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name><![CDATA[New Edinburgh Mills (Lumber Shed)]]></name>
-      <styleUrl>#industrial_map</styleUrl>
-      <ExtendedData>
-        <Data name="name">
-          <value><![CDATA[New Edinburgh Mills (Lumber Shed)]]></value>
-        </Data>
-        <Data name="dateBuilt">
-          <value><![CDATA[1868]]></value>
-        </Data>
-        <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="status">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="addrss">
-          <value><![CDATA[106 John Street]]></value>
-        </Data>
-        <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="sources">
-          <value/>
-        </Data>
-        <Data name="photos">
-          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
-		<tr align="left" valign="top">
-			<td>
-			<b>Photo 1</b> - The New Edinburgh mills looking from the bottom of the Rideau Falls. The mills were owned by W. C. Edwards.
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3424453">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/New_Edinburgh_Mills_a026069.jpg" title="The New Edinburgh mills looking from the bottom of the Rideau Falls. The mills were owned by W. C. Edwards." border="1" width="500"></a>
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<small><b>Date Taken</b>: c1900<br>
-			<b>Source</b>: Library & Archives Canada, MIKAN no. 3424453</small>
-			</td>
-		</tr>
-	</table>
-		</td>
-      </tr>
-</table>]]></value>
-        </Data>
-      </ExtendedData>
-      <Polygon>
-        <tessellate>1</tessellate>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-75.6946711670104,45.44234224414761,0 -75.69458946311298,45.44245315545889,0 -75.69527918501022,45.44267154053423,0 -75.6953562003478,45.44255888545105,0 -75.6946711670104,45.44234224414761,0</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name><![CDATA[New Edinburgh Mills (Planning Mill)]]></name>
-      <styleUrl>#industrial_map</styleUrl>
-      <ExtendedData>
-        <Data name="name">
-          <value><![CDATA[New Edinburgh Mills (Planning Mill)]]></value>
-        </Data>
-        <Data name="dateBuilt">
-          <value><![CDATA[1868]]></value>
-        </Data>
-        <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="status">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="addrss">
-          <value><![CDATA[106 John Street]]></value>
-        </Data>
-        <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="sources">
-          <value/>
-        </Data>
-        <Data name="photos">
-          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
-		<tr align="left" valign="top">
-			<td>
-			<b>Photo 1</b> - The New Edinburgh mills looking from the bottom of the Rideau Falls. The mills were owned by W. C. Edwards.
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3424453">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/New_Edinburgh_Mills_a026069.jpg" title="The New Edinburgh mills looking from the bottom of the Rideau Falls. The mills were owned by W. C. Edwards." border="1" width="500"></a>
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<small><b>Date Taken</b>: c1900<br>
-			<b>Source</b>: Library & Archives Canada, MIKAN no. 3424453</small>
-			</td>
-		</tr>
-	</table>
-		</td>
-      </tr>
-</table>]]></value>
-        </Data>
-      </ExtendedData>
-      <Polygon>
-        <tessellate>1</tessellate>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-75.69534138750727,45.44225539894491,0 -75.69491727311215,45.44212244248264,0 -75.69481266856754,45.4422722258569,0 -75.69525021229228,45.44240641894124,0 -75.69534138750727,45.44225539894491,0</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name><![CDATA[New Edinburgh Mills (Boiler House)]]></name>
-      <styleUrl>#industrial_map</styleUrl>
-      <ExtendedData>
-        <Data name="name">
-          <value><![CDATA[New Edinburgh Mills (Boiler House)]]></value>
-        </Data>
-        <Data name="dateBuilt">
-          <value><![CDATA[1868]]></value>
-        </Data>
-        <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="status">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="addrss">
-          <value><![CDATA[106 John Street]]></value>
-        </Data>
-        <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="sources">
-          <value/>
-        </Data>
-        <Data name="photos">
-          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
-		<tr align="left" valign="top">
-			<td>
-			<b>Photo 1</b> - The New Edinburgh mills looking from the bottom of the Rideau Falls. The mills were owned by W. C. Edwards.
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3424453">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/New_Edinburgh_Mills_a026069.jpg" title="The New Edinburgh mills looking from the bottom of the Rideau Falls. The mills were owned by W. C. Edwards." border="1" width="500"></a>
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<small><b>Date Taken</b>: c1900<br>
-			<b>Source</b>: Library & Archives Canada, MIKAN no. 3424453</small>
-			</td>
-		</tr>
-	</table>
-		</td>
-      </tr>
-</table>]]></value>
-        </Data>
-      </ExtendedData>
-      <Polygon>
-        <tessellate>1</tessellate>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-75.69575488052419,45.44246746136659,0 -75.69582807574732,45.44248663531175,0 -75.69586544081849,45.44239287514907,0 -75.69555530389654,45.44228855660833,0 -75.69552976407556,45.44233325001707,0 -75.69550026968857,45.44231957316769,0 -75.69541376955527,45.44244518262229,0 -75.69544577867985,45.44245265694713,0 -75.69541922615352,45.44249898657539,0 -75.6956814428078,45.44258313928206,0 -75.69575488052419,45.44246746136659,0</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name><![CDATA[New Edinburgh Mills (Dry Kiln)]]></name>
-      <styleUrl>#industrial_map</styleUrl>
-      <ExtendedData>
-        <Data name="name">
-          <value><![CDATA[New Edinburgh Mills (Dry Kiln)]]></value>
-        </Data>
-        <Data name="dateBuilt">
-          <value><![CDATA[1868]]></value>
-        </Data>
-        <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="status">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="addrss">
-          <value><![CDATA[106 John Street]]></value>
-        </Data>
-        <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="sources">
-          <value/>
-        </Data>
-        <Data name="photos">
-          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
-		<tr align="left" valign="top">
-			<td>
-			<b>Photo 1</b> - The New Edinburgh mills looking from the bottom of the Rideau Falls. The mills were owned by W. C. Edwards.
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3424453">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/New_Edinburgh_Mills_a026069.jpg" title="The New Edinburgh mills looking from the bottom of the Rideau Falls. The mills were owned by W. C. Edwards." border="1" width="500"></a>
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<small><b>Date Taken</b>: c1900<br>
-			<b>Source</b>: Library & Archives Canada, MIKAN no. 3424453</small>
-			</td>
-		</tr>
-	</table>
-		</td>
-      </tr>
-</table>]]></value>
-        </Data>
-      </ExtendedData>
-      <Polygon>
-        <tessellate>1</tessellate>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-75.69543426143409,45.44256251469952,0 -75.69534994662932,45.44268859559703,0 -75.69548373814705,45.44273471840657,0 -75.69556132177311,45.44260615526648,0 -75.69543426143409,45.44256251469952,0</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
       <name><![CDATA[Fire Station No 6]]></name>
       <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
@@ -2206,13 +1688,13 @@
           <value><![CDATA[Monument National Building]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1906]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1961]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location currently occupied by a parking lot for the Courtyard Marriot Hotel.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -2224,7 +1706,7 @@
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="sources">
-          <value/>
+          <value><![CDATA[Past Ottawa: <a href="http://www.pastottawa.com/comparison/north-west-corner-of-dalhousie-george/301/">http://www.pastottawa.com/comparison/north-west-corner-of-dalhousie-george/301/</a>]]></value>
         </Data>
         <Data name="photos">
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
@@ -2380,7 +1862,7 @@
           <value><![CDATA[2012]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[Collapsed during the construction for the expansion of the Rideau Centre.]]></value>
+          <value><![CDATA[Collapsed during the construction for the expansion of the Rideau Centre. Outside fa?ade saved before collapse and integrated into expansion of the Rideau Centre.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Charles Ogilvy built this 3 storey building in 1907. A fourth floor was added in 1931 and a fifth floor was built in 1934.]]></value>
@@ -2611,14 +2093,14 @@
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<a href="http://www.pastottawa.com/tag/knox-church/364/">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Knox_Church.jpg" title="Knox Church looking across the northwest corner of Albert and Elgin Streets." border="1" width="500"></a>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3325491&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Knox_Church_1_a046854.jpg" title="Knox Church looking across the northwest corner of Albert and Elgin Streets." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<small><b>Date Taken</b>: n/a<br>
-			<b>Source</b>: Past Ottawa</small>
+			<small><b>Date Taken</b>: 06 April 1938<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3325491</small>
 			</td>
 		</tr>
 	</table>
@@ -2633,14 +2115,14 @@
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3319185">
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4161365&lang=eng">
 <img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Knox_Church_2.jpg" title="Knox Church during demolition." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<small><b>Date Taken</b>: n/a<br>
-			<b>Source</b>: Library & Archives Canada MIKAN no. 3319185</small>
+			<small><b>Date Taken</b>: 08 June 1938<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4161365</small>
 			</td>
 		</tr>
 	</table>
@@ -2717,14 +2199,14 @@
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3319185">
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3325799&lang=eng">
 <img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Roxborough_Apartments_1_a042385.jpg" title="Roxborough Apartments looking across Laurier." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<small><b>Date Taken</b>: n/a<br>
-			<b>Source</b>: Library & Archives Canada MIKAN no. 3319185</small>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3325799</small>
 			</td>
 		</tr>
 	</table>
@@ -2753,7 +2235,7 @@
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1950]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Demolished for MacKenzie King Bridge.]]></value>
@@ -2768,7 +2250,7 @@
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="sources">
-          <value/>
+          <value><![CDATA[Urbsite Blog: Interiors At The Aylmer And The Bate: <a href="http://urbsite.blogspot.ca/2013/04/interiors-at-aylmer-and-bate.html">http://urbsite.blogspot.ca/2013/04/interiors-at-aylmer-and-bate.html</a>]]></value>
         </Data>
         <Data name="photos">
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
@@ -2779,14 +2261,14 @@
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3319185">
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3319279&lang=eng">
 <img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Aylmer_Apartments.jpg" title="From left to right: Edge of Knox Church, Aylmer Apartments, Canadian Building, Woods Buidling, back of Roxborough Apartments." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<small><b>Date Taken</b>: n/a<br>
-			<b>Source</b>: Library & Archives Canada MIKAN no. 3319185</small>
+			<small><b>Date Taken</b>: 06 April 1938<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3319279</small>
 			</td>
 		</tr>
 	</table>
@@ -2841,14 +2323,14 @@
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3319185">
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3319279&lang=eng">
 <img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Aylmer_Apartments.jpg" title="From left to right: Edge of Knox Church, Aylmer Apartments, Canadian Building, Woods Buidling, back of Roxborough Apartments." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<small><b>Date Taken</b>: n/a<br>
-			<b>Source</b>: Library & Archives Canada MIKAN no. 3319185</small>
+			<small><b>Date Taken</b>: 06 April 1938<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3319279</small>
 			</td>
 		</tr>
 	</table>
@@ -2863,14 +2345,14 @@
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3319185">
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3319186&lang=eng">
 <img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Woods_Building_1_a008945.jpg" title="Woods Building taken from south side of Slater." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<small><b>Date Taken</b>: n/a<br>
-			<b>Source</b>: Library & Archives Canada MIKAN no. 3319185</small>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3319186</small>
 			</td>
 		</tr>
 	</table>
@@ -2925,14 +2407,14 @@
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3319185">
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3319279&lang=eng">
 <img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Canadian Building_a046857.jpg" title="" border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<small><b>Date Taken</b>: n/a<br>
-			<b>Source</b>: Library & Archives Canada MIKAN no. 3319185</small>
+			<small><b>Date Taken</b>: 06 April 1938<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3319279</small>
 			</td>
 		</tr>
 	</table>
@@ -2947,14 +2429,14 @@
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3319185">
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3319185&lang=eng&rec_nbr_list=3319185">
 <img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Canadian_Building_2_a008940.jpg" title="" border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<small><b>Date Taken</b>: n/a<br>
-			<b>Source</b>: Library & Archives Canada MIKAN no. 3319185</small>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3319185</small>
 			</td>
 		</tr>
 	</table>
@@ -3499,11 +2981,11 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <name><![CDATA[Hope Building]]></name>
+      <name><![CDATA[Royal Bank Building]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
         <Data name="name">
-          <value><![CDATA[Hope Building]]></value>
+          <value><![CDATA[Royal Bank Building]]></value>
         </Data>
         <Data name="dateBuilt">
           <value><![CDATA[n/a]]></value>
@@ -3530,13 +3012,13 @@
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
 		<tr align="left" valign="top">
 			<td>
-			<b>Photo 1</b> - View of the Hope Building.
+			<b>Photo 1</b> - View of the Royal Bank Building.
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3318389">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Hope_Building_a009257.jpg" title="View of the Hope Building." border="1" width="500"></a>
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Hope_Building_a009257.jpg" title="View of the Royal Bank Building." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
@@ -3552,18 +3034,19 @@
         <td><table width="500" border="1" cellspacing="1" cellpadding="6">
 		<tr align="left" valign="top">
 			<td>
-			<b>Photo 2</b> - The Hope Buidling, 1936.
+			<b>Photo 2</b> - The Royal Bank Building, 1936.
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Hope_Building_2.jpg" title="The Hope Buidling, 1936." border="1" width="500">
+			<a href="http://urbsite.blogspot.ca/2013/04/we-noffkes-central-post-office.html">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Hope_Building_2.jpg" title="The Royal Bank Building, 1936." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<small><b>Date Taken</b>: 1936<br>
-			<b>Source</b>: n/a</small>
+			<b>Source</b>: W.E. Noffke's Central Post Office</small>
 			</td>
 		</tr>
 	</table>
@@ -3573,13 +3056,13 @@
         <td><table width="500" border="1" cellspacing="1" cellpadding="6">
 		<tr align="left" valign="top">
 			<td>
-			<b>Photo 3</b> - View of the Hope Building looking across from what was once an extension of Confederation Square.
+			<b>Photo 3</b> - View of the Royal Bank Building looking across from what was once an extension of Confederation Square.
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3319280">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Hope_Building_3_a046866.jpg" title="View of the Hope Building looking across from what was once an extension of Confederation Square." border="1" width="500"></a>
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Hope_Building_3_a046866.jpg" title="View of the Royal Bank Building looking across from what was once an extension of Confederation Square." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
@@ -3614,10 +3097,10 @@
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1950]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Demolished for the MacKenzie King Bridge. Location currently occupied by the National Arts Centre.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -3629,7 +3112,7 @@
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="sources">
-          <value/>
+          <value><![CDATA[Urbsite Blog: Forgotten Architects: Earle Ingrams's Brief But Notable Career (1954-1973): <a href="http://urbsite.blogspot.ca/2015/10/forgotten-architects-earle-ingrams.html">http://urbsite.blogspot.ca/2015/10/forgotten-architects-earle-ingrams.html</a>]]></value>
         </Data>
         <Data name="photos">
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
@@ -3640,14 +3123,14 @@
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3319185">
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3325373&lang=eng">
 <img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Central_Fire_Station.jpg" title="The Central Fire Station, looking from the south side of Albert Street (across from the old City Hall)." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<small><b>Date Taken</b>: n/a<br>
-			<b>Source</b>: Library & Archives Canada MIKAN no. 3319185</small>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3325373</small>
 			</td>
 		</tr>
 	</table>
@@ -3702,14 +3185,14 @@
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3319185">
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4169679&lang=eng&rec_nbr_list=4169679">
 <img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Police_Station_1_e010934810.jpg" title="The Ottawa Police Station & Court Offices looking from the north side of Queen Street." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<small><b>Date Taken</b>: n/a<br>
-			<b>Source</b>: Library & Archives Canada MIKAN no. 3319185</small>
+			<small><b>Date Taken</b>: 05 April 1938<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4169679</small>
 			</td>
 		</tr>
 	</table>
@@ -3724,14 +3207,14 @@
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3319185">
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3325371&lang=eng">
 <img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Police_Station_2.jpg" title="The Ottawa Police Station at the back (from West Canal Street) showing where they parked the police cars." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<small><b>Date Taken</b>: n/a<br>
-			<b>Source</b>: Library & Archives Canada MIKAN no. 3319185</small>
+			<small><b>Date Taken</b>: 05 April 1938<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3325371</small>
 			</td>
 		</tr>
 	</table>
@@ -3786,14 +3269,14 @@
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3319185">
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3325372&lang=eng">
 <img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Registry_Office.jpg" title="The Ottawa Registry Office, looking from down from the Federal Driveway (now the approach to MacKenzie King Bridge)." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<small><b>Date Taken</b>: n/a<br>
-			<b>Source</b>: Library & Archives Canada MIKAN no. 3319185</small>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3325372</small>
 			</td>
 		</tr>
 	</table>
@@ -4118,13 +3601,14 @@
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Victoria_Chambers_1.jpg" title="Victoria Chambers looking across from Wellington Street." border="1" width="500">
+			<a href="http://urbsite.blogspot.ca/2012/10/sparks-department-stores-bryson-graham.html">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Victoria_Chambers_1.jpg" title="Victoria Chambers looking across from Wellington Street." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<small><b>Date Taken</b>: n/a<br>
-			<b>Source</b>: n/a</small>
+			<b>Source</b>: Urbsite Blog: Sparks' Department Stores: Bryson Graham and Company</small>
 			</td>
 		</tr>
 	</table>
@@ -4223,13 +3707,38 @@
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Titus_Block.jpg" title="Titus's Block looking from north side of Sparks Street." border="1" width="500">
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3318390&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Titus_Block_1_a009259.jpg" title="Titus's Block looking from north side of Sparks Street." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<small><b>Date Taken</b>: n/a<br>
-			<b>Source</b>: n/a</small>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3318390</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - 
+Titus Block of Sparks St. between Bank & O'Connor St. 
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3318391&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Titus_Block_2_a009261.jpg" title="
+Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: before 1882<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3318391</small>
 			</td>
 		</tr>
 	</table>
@@ -4317,7 +3826,7 @@
           <value><![CDATA[Garland Dry Goods Warehouse]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1898]]></value>
         </Data>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
@@ -4335,25 +3844,47 @@
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="sources">
-          <value/>
+          <value><![CDATA[Forgotten Ottawa: Old YMCAs: <a href="http://urbsite.blogspot.ca/2012/09/forgotten-ottawa-old-ymcas.html">http://urbsite.blogspot.ca/2012/09/forgotten-ottawa-old-ymcas.html</a>]]></value>
         </Data>
         <Data name="photos">
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
 		<tr align="left" valign="top">
 			<td>
-			<b>Photo 1</b> - The Garland Dry Goods Warehouse building.
+			<b>Photo 1</b> - The Garland Dry Goods Warehouse building under construction.
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<a href="http://urbsite.blogspot.ca/2012/10/the-quiz-3-answer.html">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Garland_Dry_Goods_Warehouse.jpg" title="The Garland Dry Goods Warehouse building." border="1" width="500"></a>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3423949&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Garland_Dry_Goods_1_a028043.jpg" title="The Garland Dry Goods Warehouse building under construction." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<small><b>Date Taken</b>: n/a<br>
-			<b>Source</b>: Urbsite Blog: The Quiz #3 Answer</small>
+			<small><b>Date Taken</b>: November 1898<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3423949</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - Garland Dry Goods building under construction.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3423948&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Garland_Dry_Goods_2_a028042.jpg" title="Garland Dry Goods building under construction." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: November 1898<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3423948</small>
 			</td>
 		</tr>
 	</table>
@@ -4456,68 +3987,6 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <name><![CDATA[Imperial Building]]></name>
-      <styleUrl>#comm_map</styleUrl>
-      <ExtendedData>
-        <Data name="name">
-          <value><![CDATA[Imperial Building]]></value>
-        </Data>
-        <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="status">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="addrss">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="sources">
-          <value/>
-        </Data>
-        <Data name="photos">
-          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
-		<tr align="left" valign="top">
-			<td>
-			<b>Photo 1</b> - The Imperial Building.
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<a href="http://urbsite.blogspot.ca/2012/10/the-quiz-3-answer.html">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Imperial_Building.jpg" title="The Imperial Building." border="1" width="500"></a>
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<small><b>Date Taken</b>: n/a<br>
-			<b>Source</b>: Urbsite Blog: The Quiz #3 Answer</small>
-			</td>
-		</tr>
-	</table>
-		</td>
-      </tr>
-</table>]]></value>
-        </Data>
-      </ExtendedData>
-      <Polygon>
-        <tessellate>1</tessellate>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-75.69843979321134,45.42147707439987,0 -75.69827200207593,45.42128101109276,0 -75.69805266717441,45.42137316694229,0 -75.69821338176855,45.4215693487119,0 -75.69843979321134,45.42147707439987,0</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
       <name><![CDATA[Ottawa Public Library]]></name>
       <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
@@ -4593,7 +4062,7 @@
           <value><![CDATA[1970]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Currently occupied by the Place Bell building.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Designed by James Bowes, the inside chapel contained decorative cast-iron columns. The Congr?gation de Notre-Dame moved to 1495 Heron Road just prior to demolition. The congregation shut down after eight years in its Heron Road location.]]></value>
@@ -5385,14 +4854,14 @@
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<a href="https://www.facebook.com/lebretonflatsremembered?fref=nf">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/The_Perley_Home_1_a027378.jpg" title="The Perley Home located on north side of Wellington Street at the bottom of the cliff." border="1" width="500"></a>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3422939&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Perley_Home_1_a027377.jpg" title="The Perley Home located on north side of Wellington Street at the bottom of the cliff." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<small><b>Date Taken</b>: n/a<br>
-			<b>Source</b>: Facebook: Lebreton Flats Remembered Group</small>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3422939</small>
 			</td>
 		</tr>
 	</table>
@@ -5407,14 +4876,14 @@
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<a href="https://www.facebook.com/lebretonflatsremembered?fref=nf">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/The_Perley_Home_2.jpg" title="The Perley Home." border="1" width="500"></a>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3422939&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Perley_Home_2_a027381.jpg" title="The Perley Home." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<small><b>Date Taken</b>: n/a<br>
-			<b>Source</b>: Facebook: Lebreton Flats Remembered Group</small>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3325724</small>
 			</td>
 		</tr>
 	</table>
@@ -5676,14 +5145,14 @@
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<a href="http://www.scc-csc.gc.ca/court-cour/creation-eng.aspx">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Original_Supreme_Court_Building.jpg" title="The original Supreme Court of Canada taken from across Bank Street." border="1" width="500"></a>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3240134&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Original_Supreme_Court_a008389.jpg" title="The original Supreme Court of Canada taken from across Bank Street." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<small><b>Date Taken</b>: n/a<br>
-			<b>Source</b>: Supreme Court of Canada</small>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3240134</small>
 			</td>
 		</tr>
 	</table>
@@ -5964,10 +5433,10 @@
           <value><![CDATA[1911]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1968]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location currently occupied by the Tom Brown Arena.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Damaged by fire in 1910. Contained 21 stalls for locomotive storage.]]></value>
@@ -11570,192 +11039,6 @@ gation Notre Dame]]></value>
         <outerBoundaryIs>
           <LinearRing>
             <coordinates>-75.69612062903291,45.41564892840951,0 -75.69618783696873,45.41562231562972,0 -75.6962691103103,45.41571565181842,0 -75.6962297581906,45.41573235964849,0 -75.69621960685055,45.41572036353036,0 -75.69612325203461,45.41576069829969,0 -75.6961558979595,45.41579725628532,0 -75.69647679097064,45.41566104833745,0 -75.69632873815925,45.41549182157406,0 -75.6960752210442,45.41559276871354,0 -75.69612062903291,45.41564892840951,0</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name><![CDATA[700 Wellington Street]]></name>
-      <styleUrl>#comm_map</styleUrl>
-      <ExtendedData>
-        <Data name="name">
-          <value><![CDATA[700 Wellington Street]]></value>
-        </Data>
-        <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="status">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="addrss">
-          <value><![CDATA[700 Wellington Street]]></value>
-        </Data>
-        <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="sources">
-          <value/>
-        </Data>
-        <Data name="photos">
-          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
-		<tr align="left" valign="top">
-			<td>
-			<b>Photo 1</b> - 
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<a href="http://www.pastottawa.com/comparison/former-intersection-of-wellington-albert-streets-at-lebreton-flats/487/">
-<img src="" title="" border="1" width="500"></a>
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<small><b>Date Taken</b>: 1962<br>
-			<b>Source</b>: Past Ottawa</small>
-			</td>
-		</tr>
-	</table>
-		</td>
-      </tr>
-</table>]]></value>
-        </Data>
-      </ExtendedData>
-      <Polygon>
-        <tessellate>1</tessellate>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-75.71385807605985,45.41247862860833,0 -75.71383421977167,45.41245883735777,0 -75.71349786873002,45.41260226875129,0 -75.71360599026031,45.41267002320661,0 -75.71385807605985,45.41247862860833,0</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name><![CDATA[547-549 Wellington Street]]></name>
-      <styleUrl>#residential_map</styleUrl>
-      <ExtendedData>
-        <Data name="name">
-          <value><![CDATA[547-549 Wellington Street]]></value>
-        </Data>
-        <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="status">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="addrss">
-          <value><![CDATA[547-549 Wellington Street]]></value>
-        </Data>
-        <Data name="occupant">
-          <value><![CDATA[547 Rev George Edwards]]></value>
-        </Data>
-        <Data name="sources">
-          <value/>
-        </Data>
-        <Data name="photos">
-          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
-		<tr align="left" valign="top">
-			<td>
-			<b>Photo 1</b> - 
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<a href="http://www.pastottawa.com/comparison/547-wellington-street-lebreton-flats/490/">
-<img src="" title="" border="1" width="500"></a>
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<small><b>Date Taken</b>: 1962<br>
-			<b>Source</b>: Past Ottawa</small>
-			</td>
-		</tr>
-	</table>
-		</td>
-      </tr>
-</table>]]></value>
-        </Data>
-      </ExtendedData>
-      <Polygon>
-        <tessellate>1</tessellate>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-75.71038495410522,45.41581813628554,0 -75.71040719227131,45.41578924698141,0 -75.71045739717842,45.41580428261231,0 -75.7104950221932,45.41575540548524,0 -75.71044214282438,45.41574086532372,0 -75.71045679262693,45.41571885445707,0 -75.71034591257595,45.41568623402633,0 -75.71027290121108,45.41578408978952,0 -75.71038495410522,45.41581813628554,0</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
-      <name><![CDATA[112-116 Sherwood Street]]></name>
-      <styleUrl>#residential_map</styleUrl>
-      <ExtendedData>
-        <Data name="name">
-          <value><![CDATA[112-116 Sherwood Street]]></value>
-        </Data>
-        <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="status">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="addrss">
-          <value><![CDATA[112-116 Sherwood Street]]></value>
-        </Data>
-        <Data name="occupant">
-          <value><![CDATA[112 Ernest Laplante, 114 William Skelton & George Farrer, 116 Charles Williams]]></value>
-        </Data>
-        <Data name="sources">
-          <value/>
-        </Data>
-        <Data name="photos">
-          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
-		<tr align="left" valign="top">
-			<td>
-			<b>Photo 1</b> - 
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<a href="http://www.pastottawa.com/comparison/112-sherwood-street-lebreton-flats-ottawa/503/">
-<img src="" title="" border="1" width="500"></a>
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<small><b>Date Taken</b>: 1962<br>
-			<b>Source</b>: Past Ottawa</small>
-			</td>
-		</tr>
-	</table>
-		</td>
-      </tr>
-</table>]]></value>
-        </Data>
-      </ExtendedData>
-      <Polygon>
-        <tessellate>1</tessellate>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-75.71508818371326,45.41456870087812,0 -75.715029031513,45.41458601094396,0 -75.71500043345048,45.41453349668471,0 -75.7150600400888,45.41451686015426,0 -75.71504214915595,45.41448517570453,0 -75.71498093619692,45.41450305605232,0 -75.71496024121734,45.41447050486634,0 -75.71485943543789,45.41449863049258,0 -75.71494271386493,45.41464507784635,0 -75.71510562607331,45.41459958944849,0 -75.71508818371326,45.41456870087812,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
