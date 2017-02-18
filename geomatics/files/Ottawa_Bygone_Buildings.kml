@@ -95,6 +95,11 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
+	 
+	 <tr align="left" valign="top">
        <td><b>1912 Address:</b></td>
        <td>$[addrss]</td>
      </tr>
@@ -166,6 +171,11 @@
      <tr align="left" valign="top">
        <td><b>History:</b></td>
        <td>$[history]</td>
+     </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
      </tr>
 	 
 	 <tr align="left" valign="top">
@@ -253,6 +263,11 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
+	 
+	 <tr align="left" valign="top">
        <td><b>1912 Address:</b></td>
        <td>$[addrss]</td>
      </tr>
@@ -324,6 +339,11 @@
      <tr align="left" valign="top">
        <td><b>History:</b></td>
        <td>$[history]</td>
+     </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
      </tr>
 	 
 	 <tr align="left" valign="top">
@@ -411,6 +431,11 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
+	 
+	 <tr align="left" valign="top">
        <td><b>1912 Address:</b></td>
        <td>$[addrss]</td>
      </tr>
@@ -482,6 +507,11 @@
      <tr align="left" valign="top">
        <td><b>History:</b></td>
        <td>$[history]</td>
+     </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
      </tr>
 	 
 	 <tr align="left" valign="top">
@@ -569,6 +599,11 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
+	 
+	 <tr align="left" valign="top">
        <td><b>1912 Address:</b></td>
        <td>$[addrss]</td>
      </tr>
@@ -640,6 +675,11 @@
      <tr align="left" valign="top">
        <td><b>History:</b></td>
        <td>$[history]</td>
+     </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
      </tr>
 	 
 	 <tr align="left" valign="top">
@@ -727,6 +767,11 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
+	 
+	 <tr align="left" valign="top">
        <td><b>1912 Address:</b></td>
        <td>$[addrss]</td>
      </tr>
@@ -798,6 +843,11 @@
      <tr align="left" valign="top">
        <td><b>History:</b></td>
        <td>$[history]</td>
+     </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
      </tr>
 	 
 	 <tr align="left" valign="top">
@@ -885,6 +935,11 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
+	 
+	 <tr align="left" valign="top">
        <td><b>1912 Address:</b></td>
        <td>$[addrss]</td>
      </tr>
@@ -956,6 +1011,11 @@
      <tr align="left" valign="top">
        <td><b>History:</b></td>
        <td>$[history]</td>
+     </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
      </tr>
 	 
 	 <tr align="left" valign="top">
@@ -1043,6 +1103,11 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
+	 
+	 <tr align="left" valign="top">
        <td><b>1912 Address:</b></td>
        <td>$[addrss]</td>
      </tr>
@@ -1114,6 +1179,11 @@
      <tr align="left" valign="top">
        <td><b>History:</b></td>
        <td>$[history]</td>
+     </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
      </tr>
 	 
 	 <tr align="left" valign="top">
@@ -1201,6 +1271,11 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
+	 
+	 <tr align="left" valign="top">
        <td><b>1912 Address:</b></td>
        <td>$[addrss]</td>
      </tr>
@@ -1272,6 +1347,11 @@
      <tr align="left" valign="top">
        <td><b>History:</b></td>
        <td>$[history]</td>
+     </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
      </tr>
 	 
 	 <tr align="left" valign="top">
@@ -1359,6 +1439,11 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
+	 
+	 <tr align="left" valign="top">
        <td><b>1912 Address:</b></td>
        <td>$[addrss]</td>
      </tr>
@@ -1433,6 +1518,11 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
+	 
+	 <tr align="left" valign="top">
        <td><b>1912 Address:</b></td>
        <td>$[addrss]</td>
      </tr>
@@ -1489,6 +1579,9 @@
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -1575,6 +1668,9 @@
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[33-35 Sussex Street (now Sussex Drive)]]></value>
         </Data>
@@ -1637,6 +1733,9 @@
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[21-25 Sussex Street (now Sussex Drive)]]></value>
         </Data>
@@ -1697,6 +1796,9 @@
           <value><![CDATA[Location currently occupied by a parking lot for the Courtyard Marriot Hotel.]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -1783,6 +1885,9 @@
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[198-210 Rideau Street & 7-15 Waller Street]]></value>
         </Data>
@@ -1867,6 +1972,9 @@
         <Data name="history">
           <value><![CDATA[Charles Ogilvy built this 3 storey building in 1907. A fourth floor was added in 1931 and a fifth floor was built in 1934.]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[128 Rideau Street & 10 Nicholas Street]]></value>
         </Data>
@@ -1928,6 +2036,9 @@
         </Data>
         <Data name="history">
           <value><![CDATA[The second oldest hotel in Ottawa, the property was purchased by Samuel Norton in 1848 who opened Norton's Tavern. The hotel had several names until 1911 when it was renamed the Federal Hotel and expanded to five storeys. It was renamed again to the King Edward and finally the Grand Hotel. The building was given heritage designation in 1978. However, according to a 1980 Ottawa Citizen article, it was slated for demolition in January 1981 and was subsequently demolished before construction began on the Rideau Centre in 1983.]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[583-585 Sussex Street (now Sussex Drive)]]></value>
@@ -2013,6 +2124,9 @@
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[16-24 Rideau Street]]></value>
         </Data>
@@ -2074,6 +2188,9 @@
         </Data>
         <Data name="history">
           <value><![CDATA[Used during the Depression for public relief.]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[38 Albert Street]]></value>
@@ -2181,6 +2298,9 @@
         <Data name="history">
           <value><![CDATA[Mackenzie King lived in the apartments from the time it opened until 1923. Also the residence of Louis St. Laurent.]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[99 Laurier Avenue West]]></value>
         </Data>
@@ -2243,6 +2363,9 @@
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[25 Slater Street]]></value>
         </Data>
@@ -2303,6 +2426,9 @@
           <value><![CDATA[Demolished for Confederation Park.]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -2389,6 +2515,9 @@
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[10 Slater Street]]></value>
         </Data>
@@ -2473,6 +2602,9 @@
         <Data name="history">
           <value><![CDATA[Originally called the Union Hotel, the structure was modified in 1875 and 1880 in order to compete with the Russell House Hotel.]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[60 Elgin Street]]></value>
         </Data>
@@ -2533,6 +2665,9 @@
           <value><![CDATA[Demolished to make room for Confederation Square.]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -2596,6 +2731,9 @@
         </Data>
         <Data name="history">
           <value><![CDATA[Closed its doors in 1925 due to competition with the Chateau Laurier.]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[32 Sparks Street]]></value>
@@ -2681,6 +2819,9 @@
         <Data name="history">
           <value><![CDATA[The structure was designed by Horsey and Sheard. The land was donated by Nicholas Sparks in 1848 and was used as a market.]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
         </Data>
@@ -2765,6 +2906,9 @@
         <Data name="history">
           <value><![CDATA[A 4th floor was added after a fire in 1904.]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
         </Data>
@@ -2778,13 +2922,13 @@
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
 		<tr align="left" valign="top">
 			<td>
-			<b>Photo 1</b> - 
+			<b>Photo 1</b> - The Ottawa Post Office before the 4th floor was added.
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3358763">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Old_Post_Office_1_a012402.jpg" title="" border="1" width="500"></a>
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Old_Post_Office_1_a012402.jpg" title="The Ottawa Post Office before the 4th floor was added." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
@@ -2915,6 +3059,9 @@
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[45 Metcalfe Street]]></value>
         </Data>
@@ -2997,6 +3144,9 @@
           <value><![CDATA[Demolished and replaced with new Post Office.]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -3105,6 +3255,9 @@
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[20 Albert Street]]></value>
         </Data>
@@ -3165,6 +3318,9 @@
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -3251,6 +3407,9 @@
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[25 Albert Street]]></value>
         </Data>
@@ -3311,6 +3470,9 @@
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -3395,6 +3557,9 @@
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[201 West Canal Street]]></value>
         </Data>
@@ -3475,6 +3640,9 @@
           <value><![CDATA[Demolished for the War Memorial.]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -3583,6 +3751,9 @@
         <Data name="history">
           <value><![CDATA[The building started out as the Victoria Hotel. When the Prince of Wales visited Canada to lay the cornerstone of the Parliament Buildings, he lodged at the Victoria Hotel.]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[134-142 Wellington & 3-11 O'Connor Streets]]></value>
         </Data>
@@ -3689,6 +3860,9 @@
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
         </Data>
@@ -3775,6 +3949,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="history">
           <value><![CDATA[The corner stone was laid on July 9, 1875. The church held its first service on December 26, 1875. Some distinquished congregants were Prime Ministers Sir John A MacDonald & Sir Mackenzie Bowell. The church and much of its records burned in a fire on February 4, 1961. The church merged with Chalmers United Church at 355 Cooper Street.]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[101-105 Queen Street]]></value>
         </Data>
@@ -3835,6 +4012,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -3921,6 +4101,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
         </Data>
@@ -4005,6 +4188,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
         </Data>
@@ -4066,6 +4252,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         </Data>
         <Data name="history">
           <value><![CDATA[Designed by James Bowes, the inside chapel contained decorative cast-iron columns. The Congr&#233;gation de Notre-Dame moved to 1495 Heron Road just prior to demolition. The congregation shut down after eight years in its Heron Road location.]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[34-38 Gloucester Street]]></value>
@@ -4129,6 +4318,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[70 Main Street]]></value>
         </Data>
@@ -4190,6 +4382,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         </Data>
         <Data name="history">
           <value><![CDATA[The house was owned by James Ballantyne, reeve of Ottawa East from 1888 to 1895.]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[54 Main Street]]></value>
@@ -4275,6 +4470,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="history">
           <value><![CDATA[Owned by several deparment stores including Lindsay Department Store, Ottawa's first department store, before being bought by the Federal Government in 1921. Used as government offices until 1978.]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[700 Sussex Street (now Sussex Drive)]]></value>
         </Data>
@@ -4335,6 +4533,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         </Data>
         <Data name="history">
           <value><![CDATA[Architect was <a href="http://www.biographi.ca/en/bio/fuller_thomas_12E.html">Thomas Fuller</a>.]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[75 St. Patrick Street]]></value>
@@ -4398,6 +4599,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[406-410 Sussex Street (now Sussex Drive)]]></value>
         </Data>
@@ -4458,6 +4662,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -4566,6 +4773,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[50 Duke Street]]></value>
         </Data>
@@ -4650,6 +4860,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
         </Data>
@@ -4712,6 +4925,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
         </Data>
@@ -4756,11 +4972,11 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       </Polygon>
     </Placemark>
     <Placemark>
-      <name><![CDATA[&#201;cole Ste Famille]]></name>
+      <name><![CDATA[&#201;cole Ste-Famille]]></name>
       <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
         <Data name="name">
-          <value><![CDATA[&#201;cole Ste Famille]]></value>
+          <value><![CDATA[&#201;cole Ste-Famille]]></value>
         </Data>
         <Data name="dateBuilt">
           <value><![CDATA[n/a]]></value>
@@ -4772,6 +4988,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -4835,6 +5054,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         </Data>
         <Data name="history">
           <value><![CDATA[Expropriated by the Federal Government in 1912.]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[415 Wellington Street]]></value>
@@ -4920,6 +5142,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[167 Cartier Street]]></value>
         </Data>
@@ -4980,6 +5205,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         </Data>
         <Data name="history">
           <value><![CDATA[Ottawa's general hospital until the Civic Hospital was built. The building was bought by the city after the hospital relocated and used as a relief house during the depression.]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
@@ -5054,16 +5282,19 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[Rideau Canoe Club]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1905]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1944]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Sunk into the canal and demolished.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[Moses Chamberlain Edey]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
@@ -5126,6 +5357,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         </Data>
         <Data name="history">
           <value><![CDATA[Originally built for workshops for the Board of Works (now Public Works), the Supreme Court occupied this building from 1882 to 1946. However not the entire building was used by the court. The first floor housed the National Gallery for about the first six years despite objections by the chief justice at the time. Even though many complained of a leaking roof, unpleasant smells and cramped accomodations, a new justice building was not available until 1946, although some renovations occurred over time.]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
@@ -5211,6 +5445,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="history">
           <value><![CDATA[This building was opened in 1906 by Governor General Earl Grey who also threw the first stone. The building was expropriated by the federal government in 1914.]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
         </Data>
@@ -5293,6 +5530,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[Demolished to make room for government buildings.]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -5379,6 +5619,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="history">
           <value><![CDATA[The original station was destroyed by the 1900 Hull-Ottawa fire. Service ceased in 1920 at this station when CPR began using the Grand Truck Railway Union Station downtown. The building still stood in 1947 as it was used by CPR to help bring thousands of people by train for the Marian Congress celebration of the centenary of the Ottawa Archdiocese.]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
         </Data>
@@ -5440,6 +5683,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         </Data>
         <Data name="history">
           <value><![CDATA[Damaged by fire in 1910. Contained 21 stalls for locomotive storage.]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
@@ -5525,6 +5771,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="history">
           <value><![CDATA[Designed by Arnoldia & Calderon.]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[72-76 Sparks Street]]></value>
         </Data>
@@ -5608,6 +5857,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         </Data>
         <Data name="history">
           <value><![CDATA[Home of R. J. Devlin who owned a department store on Sparks Street (see the Carleton Chamber building for a photo). After expropriation, the building was used to house the physical testing laboratory of the Interior Department (now defunct) and, after 1932, as offices for the Radio Broadcasting Commission.]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[41 Cliff Street]]></value>
@@ -5715,6 +5967,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[49 Metcalfe Street]]></value>
         </Data>
@@ -5775,6 +6030,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -5861,6 +6119,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[262 Wellington Street]]></value>
         </Data>
@@ -5921,6 +6182,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -5985,6 +6249,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[291 Queen Street]]></value>
         </Data>
@@ -6045,6 +6312,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -6109,6 +6379,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="history">
           <value><![CDATA[Built for Charles T. Bate, the building was later purchased by the Ottawa inventor Thomas Ahearn in 1893. Ahearn was co-founder and president of the Ottawa Electric Railway Company, instrumental in the development of electricity in Ottawa, built the first "electric oven" in Ottawa, and became  chairman of the Federal District Commission, predecessor of the National Capital Commission. He called the property "Buenavista".]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[584 Laurier Avenue]]></value>
         </Data>
@@ -6169,6 +6442,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -6233,6 +6509,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[122-124 Wellington Street]]></value>
         </Data>
@@ -6293,6 +6572,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -6357,6 +6639,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[102-104 Wellington Street]]></value>
         </Data>
@@ -6417,6 +6702,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -6481,6 +6769,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
         </Data>
@@ -6541,6 +6832,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -6605,6 +6899,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[212-214 Wellington Street]]></value>
         </Data>
@@ -6666,6 +6963,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         </Data>
         <Data name="history">
           <value><![CDATA[Incorporated in 1865, two of its founding members were Sir John A. Macdonald and George Etienne Cartier.]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[82-94 Wellington Street]]></value>
@@ -6729,6 +7029,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="history">
           <value><![CDATA[Residence of Robert McGiffin in 1888.]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[412 Somerset Street]]></value>
         </Data>
@@ -6790,6 +7093,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         </Data>
         <Data name="history">
           <value><![CDATA[Residence of Warren Y. Soper in 1893. Warren Soper was the manager of the Dominion Telegraph Company and opened the first telephone exchange in Ottawa in 1880. His company merged with Bell Telephone Company the same year.]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[175 Metcalfe Street]]></value>
@@ -6854,6 +7160,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
         </Data>
@@ -6916,6 +7225,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[45-47 Slater Street]]></value>
         </Data>
@@ -6976,6 +7288,9 @@ gation Notre Dame]]></value>
           <value><![CDATA[Location currently occupied by the Sun Life Financial Centre.]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -7062,6 +7377,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[120 Rideau Street]]></value>
         </Data>
@@ -7122,6 +7440,9 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -7186,6 +7507,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[34-38 Rideau Street & 586-590 Sussex Street]]></value>
         </Data>
@@ -7246,6 +7570,9 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -7310,6 +7637,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
         </Data>
@@ -7370,6 +7700,9 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -7456,6 +7789,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[The first railway station in Ottawa, the Sussex Street Station was opened sometime in December 1854 or January 1855. A fire occurred on 7th May 1860 which was later deemed to be arson. Due to its proximity to Rideau Hall, the station was regularly used for regal and vice-regal occasions, such as the arrival of Prince Arthur in October 1869. The station was in use until the line was abandoned in 1964, The last train to use the Sussex Street Station was on 12th June 1964.]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[None]]></value>
         </Data>
@@ -7539,6 +7875,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[144-146 Wellington & 4-8 Metcalfe Streets]]></value>
         </Data>
@@ -7600,6 +7939,9 @@ gation Notre Dame]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Originally the Wellington Ward Market, the factory was designed by architect James Mather in the traditional basilica gothic revival style. The Wellington Ward market was not as successful as the Byward market so the city closed it two decades after opening. Piano manufacturing began in 1902.]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
@@ -7663,6 +8005,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[Also known as the Victoria Ward Fire Hall.]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
         </Data>
@@ -7723,6 +8068,9 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -7809,6 +8157,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[207-211 Wellington Street]]></value>
         </Data>
@@ -7893,6 +8244,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[121 Metcalfe Road (now Bank Street)]]></value>
         </Data>
@@ -7952,6 +8306,9 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -8016,6 +8373,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[183 Albert Street]]></value>
         </Data>
@@ -8076,6 +8436,9 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -8140,6 +8503,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[224 Wellingston Street]]></value>
         </Data>
@@ -8200,6 +8566,9 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -8264,6 +8633,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[386-390 Wellington Street]]></value>
         </Data>
@@ -8324,6 +8696,9 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -8388,6 +8763,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[68 O'Connor Street]]></value>
         </Data>
@@ -8448,6 +8826,9 @@ gation Notre Dame]]></value>
           <value><![CDATA[Location currently occupied by the Sun Life Financial Centre.]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -8512,6 +8893,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
         </Data>
@@ -8572,6 +8956,9 @@ gation Notre Dame]]></value>
           <value><![CDATA[Location currently occupied by the Sun Life Financial Centre.]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -8636,6 +9023,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[60 O'Connor Street]]></value>
         </Data>
@@ -8696,6 +9086,9 @@ gation Notre Dame]]></value>
           <value><![CDATA[Location currently occupied by the Sun Life Financial Centre.]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -8760,6 +9153,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[32 Chapel Street]]></value>
         </Data>
@@ -8820,6 +9216,9 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -8884,6 +9283,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[219 Bolton Street]]></value>
         </Data>
@@ -8944,6 +9346,9 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -9008,6 +9413,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[120 Elgin Street]]></value>
         </Data>
@@ -9068,6 +9476,9 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -9132,6 +9543,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[47 Elgin Street]]></value>
         </Data>
@@ -9194,6 +9608,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[168 Queen Street]]></value>
         </Data>
@@ -9207,13 +9624,13 @@ gation Notre Dame]]></value>
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
 		<tr align="left" valign="top">
 			<td>
-			<b>Photo 1</b> - None
+			<b>Photo 1</b> - 168 & 170 Queen Street just before demolition.
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=4161385">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/168-170_Queen_Street_e010900655.jpg" title="None" border="1" width="500"></a>
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/168-170_Queen_Street_e010900655.jpg" title="168 & 170 Queen Street just before demolition." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
@@ -9256,6 +9673,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[170 Queen Street]]></value>
         </Data>
@@ -9269,13 +9689,13 @@ gation Notre Dame]]></value>
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
 		<tr align="left" valign="top">
 			<td>
-			<b>Photo 1</b> - None
+			<b>Photo 1</b> - 168 & 170 Queen Street just before demolition.
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=4161385">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/168-170_Queen_Street_e010900655.jpg" title="None" border="1" width="500"></a>
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/168-170_Queen_Street_e010900655.jpg" title="168 & 170 Queen Street just before demolition." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
@@ -9318,6 +9738,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[451 Wellington Street]]></value>
         </Data>
@@ -9331,13 +9754,13 @@ gation Notre Dame]]></value>
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
 		<tr align="left" valign="top">
 			<td>
-			<b>Photo 1</b> - None
+			<b>Photo 1</b> - Brading Breweries looking across from south side of Wellington Street.
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=4160748">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Brading_Breweries_Office_e010900565.jpg" title="None" border="1" width="500"></a>
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Brading_Breweries_Office_e010900565.jpg" title="Brading Breweries looking across from south side of Wellington Street." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
@@ -9380,6 +9803,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[14 Kent Street]]></value>
         </Data>
@@ -9393,13 +9819,13 @@ gation Notre Dame]]></value>
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
 		<tr align="left" valign="top">
 			<td>
-			<b>Photo 1</b> - None
+			<b>Photo 1</b> - Photo of 14 Kent Street taken from the south-east corner of Vittoria & Kent Streets.
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3325954">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/14_Kent_Street_a011252.jpg" title="None" border="1" width="500"></a>
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/14_Kent_Street_a011252.jpg" title="Photo of 14 Kent Street taken from the south-east corner of Vittoria & Kent Streets." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
@@ -9440,6 +9866,9 @@ gation Notre Dame]]></value>
           <value><![CDATA[Destroyed by fire. Now occupied by the C. D. Howe Building.]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -9504,6 +9933,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[165 Kent Street]]></value>
         </Data>
@@ -9517,13 +9949,13 @@ gation Notre Dame]]></value>
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
 		<tr align="left" valign="top">
 			<td>
-			<b>Photo 1</b> - None
+			<b>Photo 1</b> - The Central Ward West School of Ottawa.
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<a href="http://urbsite.blogspot.ca/2011/08/paving-slater-st-and-some-discoveries.html">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Central_Ward_West_School.jpg" title="None" border="1" width="500"></a>
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Central_Ward_West_School.jpg" title="The Central Ward West School of Ottawa." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
@@ -9565,6 +9997,9 @@ gation Notre Dame]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[The corner stone was layed on 8 May 1868 and the church was opened on 21 March 1869. The congregation moved in 1913 to a new building.]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
@@ -9626,6 +10061,9 @@ gation Notre Dame]]></value>
           <value><![CDATA[Location currently a Shawarma King restaurant.]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -9690,6 +10128,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[Incorporated in 1890.]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[625 Rideau Street]]></value>
         </Data>
@@ -9751,6 +10192,9 @@ gation Notre Dame]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Built by Hayter Reed, the Deputy Superintendent-General of Indian Affairs, the house was designed by Frederick J. Alexander. It was later purchase by Sir Robert Borden in 1907 while he was still Leader of the Opposition. Borden lived in the house until his death in 1937 while his widow remained in the house until the early 1940s. It was purchased by the Chinese Nationalist Government in 1942 who remained in the building until it was sold in 1969 to Danbury Developments Ltd. The Canadian Government considered purchasing the house as an historic site. However, the house was demolished to build the Watergate Apartments.]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[201 Wurtemburg Street]]></value>
@@ -9836,6 +10280,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[Opened in 1894 with 23 beds, the building cost $9,000 to build. The hospital closed in 1924 when it was amalgamated with the Ottawa Civic Hospital. From 1926 to 1943, it housed the Protestant Children's Hospital. After much efforts to raise funds, The Protestant Children's Hospital closed its doors. The board of the Children's Hospital held its last meeting on July 7, 1943.]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[635 Rideau Street]]></value>
         </Data>
@@ -9897,6 +10344,9 @@ gation Notre Dame]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Residence of Frederick N. Gisborne in 1890.]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[102 Lisgar Street]]></value>
@@ -9982,6 +10432,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[Residence of J.G. Whyte in 1892.]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[67 Cartier Street]]></value>
         </Data>
@@ -10042,6 +10495,9 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -10106,6 +10562,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[Residence of John Christie in 1892.]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[211 Bronson Avenue]]></value>
         </Data>
@@ -10166,6 +10625,9 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -10230,6 +10692,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[Residence of Rev. William Scott in 1890.]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[108 Lisgar Street]]></value>
         </Data>
@@ -10292,6 +10757,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[The Board of the Protestant Orphans' Home purchased the land, which was a farmer's field, in 1874 but it took ten years to raise the necessary funds to build the structure. A fire in 1925 raised many safety concerns and instead of bringing the building up to code, the Board decided to sell the property in 1930.]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
         </Data>
@@ -10353,6 +10821,9 @@ gation Notre Dame]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Residence of John-George Bourinot in 1888.]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[141 Cooper Street]]></value>
@@ -10504,6 +10975,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[Residence of Mr. A.Z. Palmer in 1884.]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[180 Cooper Street]]></value>
         </Data>
@@ -10565,6 +11039,9 @@ gation Notre Dame]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Residence of Miss Jessie Brown in 1894.]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[245 Cooper Street]]></value>
@@ -10628,6 +11105,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[Residence of Dr. Henry M. Ami in 1894.]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[111 Cooper Street]]></value>
         </Data>
@@ -10689,6 +11169,9 @@ gation Notre Dame]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Residence of J. Travers Lewis in 1891.]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[250 Cooper Street]]></value>
@@ -10752,6 +11235,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[Residence of Hon. Frank Oliver]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[191 Somerset Street]]></value>
         </Data>
@@ -10813,6 +11299,9 @@ gation Notre Dame]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Built using red sandstone, the building was owned by Edward Seybold. One of the few survivors of the Empress of Ireland sinking, Seybold and his wife were catapulted into the water by an explosion. He survived but his wife did not.]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[50 Somerset Street]]></value>
@@ -10876,6 +11365,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[Residence of William J Topley]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[272 Somerset Street]]></value>
         </Data>
@@ -10936,6 +11428,9 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -11000,6 +11495,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[283-289 Bank Street]]></value>
         </Data>
@@ -11062,6 +11560,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[Residences of Michael P. Davis, MP ]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[565 Rideau Street]]></value>
         </Data>
@@ -11122,6 +11623,9 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -11186,6 +11690,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[The residents of Nicholas Sparks. Nicholas Sparks purchased land in the 1820s that stretched from Bronson Avenue to Nicholas Street and Wellington to Slater Streets. At the time of purchase, the area was entirely forest. However, with the building of the canal, Sparks sold much of his land to the engineers and workers of the canal and also to the church. From Sparks' death in 1862 until its demolition, the building had changed owners several times. There was an effort to preserve the building by the Women&#8217;s Canadian Historical Society, however all attempts to save the building were denied by the federal government.]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[357 Sparks Street]]></value>
         </Data>
@@ -11246,6 +11753,9 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -11310,6 +11820,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[Once occupied by John Murphy and Co., Dry Goods Store]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[68 Sparks Street]]></value>
         </Data>
@@ -11371,6 +11884,9 @@ gation Notre Dame]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Occupied by the Civil Service Club between 1911-1913.]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[12 Bank Street]]></value>
@@ -11454,6 +11970,9 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -11562,6 +12081,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[118-120 Vittoria Street]]></value>
         </Data>
@@ -11624,6 +12146,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[14 Vittoria Street]]></value>
         </Data>
@@ -11684,6 +12209,9 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -11770,6 +12298,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[102 Vittoria Street]]></value>
         </Data>
@@ -11832,6 +12363,9 @@ gation Notre Dame]]></value>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="addrss">
           <value><![CDATA[57 Vittoria Street]]></value>
         </Data>
@@ -11892,6 +12426,9 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
