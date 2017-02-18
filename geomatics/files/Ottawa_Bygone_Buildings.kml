@@ -83,6 +83,11 @@
        <td><b>Date Demolished:</b></td>
        <td>$[dateDemolished]</td>
      </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
 
      <tr align="left" valign="top">
        <td><b>Status:</b></td>
@@ -92,11 +97,6 @@
      <tr align="left" valign="top">
        <td><b>History:</b></td>
        <td>$[history]</td>
-     </tr>
-	 
-	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
-       <td>$[architect]</td>
      </tr>
 	 
 	 <tr align="left" valign="top">
@@ -162,6 +162,11 @@
        <td><b>Date Demolished:</b></td>
        <td>$[dateDemolished]</td>
      </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
 
      <tr align="left" valign="top">
        <td><b>Status:</b></td>
@@ -171,11 +176,6 @@
      <tr align="left" valign="top">
        <td><b>History:</b></td>
        <td>$[history]</td>
-     </tr>
-	 
-	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
-       <td>$[architect]</td>
      </tr>
 	 
 	 <tr align="left" valign="top">
@@ -251,6 +251,11 @@
        <td><b>Date Demolished:</b></td>
        <td>$[dateDemolished]</td>
      </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
 
      <tr align="left" valign="top">
        <td><b>Status:</b></td>
@@ -260,11 +265,6 @@
      <tr align="left" valign="top">
        <td><b>History:</b></td>
        <td>$[history]</td>
-     </tr>
-	 
-	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
-       <td>$[architect]</td>
      </tr>
 	 
 	 <tr align="left" valign="top">
@@ -330,6 +330,11 @@
        <td><b>Date Demolished:</b></td>
        <td>$[dateDemolished]</td>
      </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
 
      <tr align="left" valign="top">
        <td><b>Status:</b></td>
@@ -339,11 +344,6 @@
      <tr align="left" valign="top">
        <td><b>History:</b></td>
        <td>$[history]</td>
-     </tr>
-	 
-	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
-       <td>$[architect]</td>
      </tr>
 	 
 	 <tr align="left" valign="top">
@@ -419,6 +419,11 @@
        <td><b>Date Demolished:</b></td>
        <td>$[dateDemolished]</td>
      </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
 
      <tr align="left" valign="top">
        <td><b>Status:</b></td>
@@ -428,11 +433,6 @@
      <tr align="left" valign="top">
        <td><b>History:</b></td>
        <td>$[history]</td>
-     </tr>
-	 
-	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
-       <td>$[architect]</td>
      </tr>
 	 
 	 <tr align="left" valign="top">
@@ -498,6 +498,11 @@
        <td><b>Date Demolished:</b></td>
        <td>$[dateDemolished]</td>
      </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
 
      <tr align="left" valign="top">
        <td><b>Status:</b></td>
@@ -507,11 +512,6 @@
      <tr align="left" valign="top">
        <td><b>History:</b></td>
        <td>$[history]</td>
-     </tr>
-	 
-	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
-       <td>$[architect]</td>
      </tr>
 	 
 	 <tr align="left" valign="top">
@@ -587,6 +587,11 @@
        <td><b>Date Demolished:</b></td>
        <td>$[dateDemolished]</td>
      </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
 
      <tr align="left" valign="top">
        <td><b>Status:</b></td>
@@ -596,11 +601,6 @@
      <tr align="left" valign="top">
        <td><b>History:</b></td>
        <td>$[history]</td>
-     </tr>
-	 
-	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
-       <td>$[architect]</td>
      </tr>
 	 
 	 <tr align="left" valign="top">
@@ -666,6 +666,11 @@
        <td><b>Date Demolished:</b></td>
        <td>$[dateDemolished]</td>
      </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
 
      <tr align="left" valign="top">
        <td><b>Status:</b></td>
@@ -675,11 +680,6 @@
      <tr align="left" valign="top">
        <td><b>History:</b></td>
        <td>$[history]</td>
-     </tr>
-	 
-	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
-       <td>$[architect]</td>
      </tr>
 	 
 	 <tr align="left" valign="top">
@@ -755,6 +755,11 @@
        <td><b>Date Demolished:</b></td>
        <td>$[dateDemolished]</td>
      </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
 
      <tr align="left" valign="top">
        <td><b>Status:</b></td>
@@ -764,11 +769,6 @@
      <tr align="left" valign="top">
        <td><b>History:</b></td>
        <td>$[history]</td>
-     </tr>
-	 
-	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
-       <td>$[architect]</td>
      </tr>
 	 
 	 <tr align="left" valign="top">
@@ -834,6 +834,11 @@
        <td><b>Date Demolished:</b></td>
        <td>$[dateDemolished]</td>
      </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
 
      <tr align="left" valign="top">
        <td><b>Status:</b></td>
@@ -843,11 +848,6 @@
      <tr align="left" valign="top">
        <td><b>History:</b></td>
        <td>$[history]</td>
-     </tr>
-	 
-	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
-       <td>$[architect]</td>
      </tr>
 	 
 	 <tr align="left" valign="top">
@@ -923,6 +923,11 @@
        <td><b>Date Demolished:</b></td>
        <td>$[dateDemolished]</td>
      </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
 
      <tr align="left" valign="top">
        <td><b>Status:</b></td>
@@ -932,11 +937,6 @@
      <tr align="left" valign="top">
        <td><b>History:</b></td>
        <td>$[history]</td>
-     </tr>
-	 
-	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
-       <td>$[architect]</td>
      </tr>
 	 
 	 <tr align="left" valign="top">
@@ -1002,6 +1002,11 @@
        <td><b>Date Demolished:</b></td>
        <td>$[dateDemolished]</td>
      </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
 
      <tr align="left" valign="top">
        <td><b>Status:</b></td>
@@ -1011,11 +1016,6 @@
      <tr align="left" valign="top">
        <td><b>History:</b></td>
        <td>$[history]</td>
-     </tr>
-	 
-	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
-       <td>$[architect]</td>
      </tr>
 	 
 	 <tr align="left" valign="top">
@@ -1091,6 +1091,11 @@
        <td><b>Date Demolished:</b></td>
        <td>$[dateDemolished]</td>
      </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
 
      <tr align="left" valign="top">
        <td><b>Status:</b></td>
@@ -1100,11 +1105,6 @@
      <tr align="left" valign="top">
        <td><b>History:</b></td>
        <td>$[history]</td>
-     </tr>
-	 
-	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
-       <td>$[architect]</td>
      </tr>
 	 
 	 <tr align="left" valign="top">
@@ -1170,6 +1170,11 @@
        <td><b>Date Demolished:</b></td>
        <td>$[dateDemolished]</td>
      </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
 
      <tr align="left" valign="top">
        <td><b>Status:</b></td>
@@ -1179,11 +1184,6 @@
      <tr align="left" valign="top">
        <td><b>History:</b></td>
        <td>$[history]</td>
-     </tr>
-	 
-	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
-       <td>$[architect]</td>
      </tr>
 	 
 	 <tr align="left" valign="top">
@@ -1259,6 +1259,11 @@
        <td><b>Date Demolished:</b></td>
        <td>$[dateDemolished]</td>
      </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
 
      <tr align="left" valign="top">
        <td><b>Status:</b></td>
@@ -1268,11 +1273,6 @@
      <tr align="left" valign="top">
        <td><b>History:</b></td>
        <td>$[history]</td>
-     </tr>
-	 
-	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
-       <td>$[architect]</td>
      </tr>
 	 
 	 <tr align="left" valign="top">
@@ -1338,6 +1338,11 @@
        <td><b>Date Demolished:</b></td>
        <td>$[dateDemolished]</td>
      </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
 
      <tr align="left" valign="top">
        <td><b>Status:</b></td>
@@ -1347,11 +1352,6 @@
      <tr align="left" valign="top">
        <td><b>History:</b></td>
        <td>$[history]</td>
-     </tr>
-	 
-	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
-       <td>$[architect]</td>
      </tr>
 	 
 	 <tr align="left" valign="top">
@@ -1427,6 +1427,11 @@
        <td><b>Date Demolished:</b></td>
        <td>$[dateDemolished]</td>
      </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
 
      <tr align="left" valign="top">
        <td><b>Status:</b></td>
@@ -1436,11 +1441,6 @@
      <tr align="left" valign="top">
        <td><b>History:</b></td>
        <td>$[history]</td>
-     </tr>
-	 
-	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
-       <td>$[architect]</td>
      </tr>
 	 
 	 <tr align="left" valign="top">
@@ -1506,6 +1506,11 @@
        <td><b>Date Demolished:</b></td>
        <td>$[dateDemolished]</td>
      </tr>
+	 
+	 <tr align="left" valign="top">
+       <td><b>Architect:</b></td>
+       <td>$[architect]</td>
+     </tr>
 
      <tr align="left" valign="top">
        <td><b>Status:</b></td>
@@ -1515,11 +1520,6 @@
      <tr align="left" valign="top">
        <td><b>History:</b></td>
        <td>$[history]</td>
-     </tr>
-	 
-	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
-       <td>$[architect]</td>
      </tr>
 	 
 	 <tr align="left" valign="top">
@@ -1575,13 +1575,13 @@
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -1662,13 +1662,13 @@
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -1727,13 +1727,13 @@
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -1792,13 +1792,13 @@
         <Data name="dateDemolished">
           <value><![CDATA[1961]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Location currently occupied by a parking lot for the Courtyard Marriot Hotel.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -1879,13 +1879,13 @@
         <Data name="dateDemolished">
           <value><![CDATA[1972]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished for development. Location is currently occupied by a high-rise condo apartment called the Claridge Plaza. Chapel removed and reconstructed in the National Gallery of Canada.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -1966,14 +1966,14 @@
         <Data name="dateDemolished">
           <value><![CDATA[2012]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Collapsed during the construction for the expansion of the Rideau Centre. Outside fa&#231;ade saved before collapse and integrated into expansion of the Rideau Centre.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Charles Ogilvy built this 3 storey building in 1907. A fourth floor was added in 1931 and a fifth floor was built in 1934.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[128 Rideau Street & 10 Nicholas Street]]></value>
@@ -2031,14 +2031,14 @@
         <Data name="dateDemolished">
           <value><![CDATA[1981]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Property currently occupied by the Westin Hotel.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[The second oldest hotel in Ottawa, the property was purchased by Samuel Norton in 1848 who opened Norton's Tavern. The hotel had several names until 1911 when it was renamed the Federal Hotel and expanded to five storeys. It was renamed again to the King Edward and finally the Grand Hotel. The building was given heritage designation in 1978. However, according to a 1980 Ottawa Citizen article, it was slated for demolition in January 1981 and was subsequently demolished before construction began on the Rideau Centre in 1983.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[583-585 Sussex Street (now Sussex Drive)]]></value>
@@ -2118,13 +2118,13 @@
         <Data name="dateDemolished">
           <value><![CDATA[1960s]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[The building was threatened with demolition in 1907 when the Grand Trunk Railway company expressed at interest in purchasing the property for the construction of Union Station.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -2183,14 +2183,14 @@
         <Data name="dateDemolished">
           <value><![CDATA[1938]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished for Elgin Street expansion.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Used during the Depression for public relief.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[38 Albert Street]]></value>
@@ -2292,14 +2292,14 @@
         <Data name="dateDemolished">
           <value><![CDATA[1966]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished for Confederation Park.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Mackenzie King lived in the apartments from the time it opened until 1923. Also the residence of Louis St. Laurent.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[99 Laurier Avenue West]]></value>
@@ -2357,13 +2357,13 @@
         <Data name="dateDemolished">
           <value><![CDATA[1950]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished for MacKenzie King Bridge.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -2422,13 +2422,13 @@
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished for Confederation Park.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -2509,13 +2509,13 @@
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished for Confederation Park.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -2596,14 +2596,14 @@
         <Data name="dateDemolished">
           <value><![CDATA[1962]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished to make way for British High Commission.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Originally called the Union Hotel, the structure was modified in 1875 and 1880 in order to compete with the Russell House Hotel.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[60 Elgin Street]]></value>
@@ -2661,13 +2661,13 @@
         <Data name="dateDemolished">
           <value><![CDATA[1928]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished to make room for Confederation Square.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -2726,14 +2726,14 @@
         <Data name="dateDemolished">
           <value><![CDATA[1928]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Burned and demolished.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Closed its doors in 1925 due to competition with the Chateau Laurier.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[32 Sparks Street]]></value>
@@ -2813,14 +2813,14 @@
         <Data name="dateDemolished">
           <value><![CDATA[1931]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Destroyed by fire.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[The structure was designed by Horsey and Sheard. The land was donated by Nicholas Sparks in 1848 and was used as a market.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
@@ -2900,14 +2900,14 @@
         <Data name="dateDemolished">
           <value><![CDATA[1938]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished to make way for the War Memorial.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[A 4th floor was added after a fire in 1904.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
@@ -3053,13 +3053,13 @@
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Closed its doors on 31 August 1957. Location currently occupied by the Thomas D'Arcy McGee Building.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -3140,13 +3140,13 @@
         <Data name="dateDemolished">
           <value><![CDATA[1938]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished and replaced with new Post Office.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -3249,13 +3249,13 @@
         <Data name="dateDemolished">
           <value><![CDATA[1950]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished for the MacKenzie King Bridge. Location currently occupied by the National Arts Centre.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -3314,13 +3314,13 @@
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -3401,13 +3401,13 @@
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -3466,13 +3466,13 @@
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -3551,13 +3551,13 @@
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -3636,13 +3636,13 @@
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished for the War Memorial.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -3745,14 +3745,14 @@
         <Data name="dateDemolished">
           <value><![CDATA[1927]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished. Replaced with the current Victoria Building.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[The building started out as the Victoria Hotel. When the Prince of Wales visited Canada to lay the cornerstone of the Parliament Buildings, he lodged at the Victoria Hotel.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[134-142 Wellington & 3-11 O'Connor Streets]]></value>
@@ -3854,13 +3854,13 @@
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -3943,14 +3943,14 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[04 February 1961]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Destroyed by fire. Site currently occupied by the Canada Permanent Life Insurance building.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[The corner stone was laid on July 9, 1875. The church held its first service on December 26, 1875. Some distinquished congregants were Prime Ministers Sir John A MacDonald & Sir Mackenzie Bowell. The church and much of its records burned in a fire on February 4, 1961. The church merged with Chalmers United Church at 355 Cooper Street.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[101-105 Queen Street]]></value>
@@ -4008,13 +4008,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -4095,13 +4095,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[1960]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished for the current Montreal Trust building.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -4182,13 +4182,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[1960s]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished for new building in order to expand the main branch.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -4247,14 +4247,14 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[1970]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Currently occupied by the Place Bell building.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Designed by James Bowes, the inside chapel contained decorative cast-iron columns. The Congr&#233;gation de Notre-Dame moved to 1495 Heron Road just prior to demolition. The congregation shut down after eight years in its Heron Road location.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[34-38 Gloucester Street]]></value>
@@ -4312,13 +4312,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -4377,14 +4377,14 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[1929]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished by the surviving family in 1929 and donated the land to the city as a park.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[The house was owned by James Ballantyne, reeve of Ottawa East from 1888 to 1895.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[54 Main Street]]></value>
@@ -4464,14 +4464,14 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[1991]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Left vacant for over a decade before being demolished. Currently occupied by a condo building, called 700 Sussex, built in 2005.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Owned by several deparment stores including Lindsay Department Store, Ottawa's first department store, before being bought by the Federal Government in 1921. Used as government offices until 1978.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[700 Sussex Street (now Sussex Drive)]]></value>
@@ -4528,14 +4528,14 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[1950s]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Location currently occupied by the National Art Gallery of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Architect was <a href="http://www.biographi.ca/en/bio/fuller_thomas_12E.html">Thomas Fuller</a>.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[75 St. Patrick Street]]></value>
@@ -4593,13 +4593,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -4658,13 +4658,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -4767,13 +4767,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -4854,13 +4854,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -4919,13 +4919,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -4984,13 +4984,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -5049,14 +5049,14 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[1938]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Expropriated by the Federal Government in 1912.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[415 Wellington Street]]></value>
@@ -5136,13 +5136,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -5200,14 +5200,14 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[1930s]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished as a make-work project during the Depression and the land turned into a city park.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Ottawa's general hospital until the Civic Hospital was built. The building was bought by the city after the hospital relocated and used as a relief house during the depression.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
@@ -5287,14 +5287,14 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[1944]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[Moses Chamberlain Edey]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Sunk into the canal and demolished.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[Moses Chamberlain Edey]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
@@ -5352,14 +5352,14 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[December 1956]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished for extra parking space. Currently occupied by a parking lot and security checkpoint.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Originally built for workshops for the Board of Works (now Public Works), the Supreme Court occupied this building from 1882 to 1946. However not the entire building was used by the court. The first floor housed the National Gallery for about the first six years despite objections by the chief justice at the time. Even though many complained of a leaking roof, unpleasant smells and cramped accomodations, a new justice building was not available until 1946, although some renovations occurred over time.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
@@ -5439,14 +5439,14 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[c1938]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished by the federal government. Currently occupied by the access road to the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[This building was opened in 1906 by Governor General Earl Grey who also threw the first stone. The building was expropriated by the federal government in 1914.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
@@ -5526,13 +5526,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished to make room for government buildings.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -5613,14 +5613,14 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[The original station was destroyed by the 1900 Hull-Ottawa fire. Service ceased in 1920 at this station when CPR began using the Grand Truck Railway Union Station downtown. The building still stood in 1947 as it was used by CPR to help bring thousands of people by train for the Marian Congress celebration of the centenary of the Ottawa Archdiocese.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
@@ -5678,14 +5678,14 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[1968]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Location currently occupied by the Tom Brown Arena.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Damaged by fire in 1910. Contained 21 stalls for locomotive storage.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
@@ -5765,14 +5765,14 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[1980s]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished to build the Royal Bank main branch.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Designed by Arnoldia & Calderon.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[72-76 Sparks Street]]></value>
@@ -5852,14 +5852,14 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[1938]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Home of R. J. Devlin who owned a department store on Sparks Street (see the Carleton Chamber building for a photo). After expropriation, the building was used to house the physical testing laboratory of the Interior Department (now defunct) and, after 1932, as offices for the Radio Broadcasting Commission.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[41 Cliff Street]]></value>
@@ -5961,13 +5961,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -6026,13 +6026,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -6113,13 +6113,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -6178,13 +6178,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -6243,13 +6243,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Now occupied by the Ottawa Marriott Hotel.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -6308,13 +6308,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -6373,14 +6373,14 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[1963]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Location currently occupied by Stonecliffe Apartments.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Built for Charles T. Bate, the building was later purchased by the Ottawa inventor Thomas Ahearn in 1893. Ahearn was co-founder and president of the Ottawa Electric Railway Company, instrumental in the development of electricity in Ottawa, built the first "electric oven" in Ottawa, and became  chairman of the Federal District Commission, predecessor of the National Capital Commission. He called the property "Buenavista".]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[584 Laurier Avenue]]></value>
@@ -6438,13 +6438,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -6503,13 +6503,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -6568,13 +6568,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -6633,13 +6633,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -6698,13 +6698,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -6763,13 +6763,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -6828,13 +6828,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -6893,13 +6893,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -6958,14 +6958,14 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[1979]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Destroyed by fire.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Incorporated in 1865, two of its founding members were Sir John A. Macdonald and George Etienne Cartier.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[82-94 Wellington Street]]></value>
@@ -7023,14 +7023,14 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Residence of Robert McGiffin in 1888.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[412 Somerset Street]]></value>
@@ -7088,14 +7088,14 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Residence of Warren Y. Soper in 1893. Warren Soper was the manager of the Dominion Telegraph Company and opened the first telephone exchange in Ottawa in 1880. His company merged with Bell Telephone Company the same year.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[175 Metcalfe Street]]></value>
@@ -7154,13 +7154,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -7219,13 +7219,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -7284,13 +7284,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Location currently occupied by the Sun Life Financial Centre.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -7371,13 +7371,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -7436,13 +7436,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -7501,13 +7501,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -7566,13 +7566,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -7631,13 +7631,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -7696,13 +7696,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -7783,14 +7783,14 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[1964]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Location currently occupied by Sussex Square apartments. ]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[The first railway station in Ottawa, the Sussex Street Station was opened sometime in December 1854 or January 1855. A fire occurred on 7th May 1860 which was later deemed to be arson. Due to its proximity to Rideau Hall, the station was regularly used for regal and vice-regal occasions, such as the arrival of Prince Arthur in October 1869. The station was in use until the line was abandoned in 1964, The last train to use the Sussex Street Station was on 12th June 1964.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[None]]></value>
@@ -7869,13 +7869,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -7934,14 +7934,14 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[1926]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Originally the Wellington Ward Market, the factory was designed by architect James Mather in the traditional basilica gothic revival style. The Wellington Ward market was not as successful as the Byward market so the city closed it two decades after opening. Piano manufacturing began in 1902.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
@@ -7999,14 +7999,14 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Also known as the Victoria Ward Fire Hall.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
@@ -8064,13 +8064,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -8151,13 +8151,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -8238,13 +8238,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -8302,13 +8302,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -8367,13 +8367,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Location currently occupied by the Sun Life Financial Centre.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -8432,13 +8432,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -8497,13 +8497,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -8562,13 +8562,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -8627,13 +8627,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -8692,13 +8692,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -8757,13 +8757,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Location currently occupied by the Sun Life Financial Centre.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -8822,13 +8822,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Location currently occupied by the Sun Life Financial Centre.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -8887,13 +8887,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Location currently occupied by University of Ottawa's Simard Hall, built in 1957.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -8952,13 +8952,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Location currently occupied by the Sun Life Financial Centre.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -9017,13 +9017,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Location currently occupied by the Sun Life Financial Centre.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -9082,13 +9082,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Location currently occupied by the Sun Life Financial Centre.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -9147,13 +9147,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -9212,13 +9212,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -9277,13 +9277,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -9342,13 +9342,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -9407,13 +9407,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -9472,13 +9472,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -9537,13 +9537,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -9602,13 +9602,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Location currently occupied by the Sun Life Financial Centre.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -9667,13 +9667,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Location currently occupied by the Sun Life Financial Centre.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -9732,13 +9732,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -9797,13 +9797,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished by the Government of Canada to make way for government buildings. Location currently occupied by the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -9862,13 +9862,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[14 December 1924]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Destroyed by fire. Now occupied by the C. D. Howe Building.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -9927,13 +9927,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -9992,14 +9992,14 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[c1919]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished for construction of the Jackson Building. Location currently occupied by the Jackson Building.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[The corner stone was layed on 8 May 1868 and the church was opened on 21 March 1869. The congregation moved in 1913 to a new building.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
@@ -10057,13 +10057,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Location currently a Shawarma King restaurant.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -10122,14 +10122,14 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Location currently by Options Bytown apartments, owned by the Ottawa Community Housing Corporation.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Incorporated in 1890.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[625 Rideau Street]]></value>
@@ -10187,14 +10187,14 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[1970]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished for development. Location currently occupied by the Watergate Apartments.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Built by Hayter Reed, the Deputy Superintendent-General of Indian Affairs, the house was designed by Frederick J. Alexander. It was later purchase by Sir Robert Borden in 1907 while he was still Leader of the Opposition. Borden lived in the house until his death in 1937 while his widow remained in the house until the early 1940s. It was purchased by the Chinese Nationalist Government in 1942 who remained in the building until it was sold in 1969 to Danbury Developments Ltd. The Canadian Government considered purchasing the house as an historic site. However, the house was demolished to build the Watergate Apartments.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[201 Wurtemburg Street]]></value>
@@ -10274,14 +10274,14 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[just after 1943]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Location currently apartment buildings.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Opened in 1894 with 23 beds, the building cost $9,000 to build. The hospital closed in 1924 when it was amalgamated with the Ottawa Civic Hospital. From 1926 to 1943, it housed the Protestant Children's Hospital. After much efforts to raise funds, The Protestant Children's Hospital closed its doors. The board of the Children's Hospital held its last meeting on July 7, 1943.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[635 Rideau Street]]></value>
@@ -10339,14 +10339,14 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Residence of Frederick N. Gisborne in 1890.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[102 Lisgar Street]]></value>
@@ -10426,14 +10426,14 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Residence of J.G. Whyte in 1892.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[67 Cartier Street]]></value>
@@ -10491,13 +10491,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -10556,14 +10556,14 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Residence of John Christie in 1892.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[211 Bronson Avenue]]></value>
@@ -10621,13 +10621,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -10686,14 +10686,14 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Residence of Rev. William Scott in 1890.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[108 Lisgar Street]]></value>
@@ -10751,14 +10751,14 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[1930]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished and replaced with stores and the Elgin Theatre.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[The Board of the Protestant Orphans' Home purchased the land, which was a farmer's field, in 1874 but it took ten years to raise the necessary funds to build the structure. A fire in 1925 raised many safety concerns and instead of bringing the building up to code, the Board decided to sell the property in 1930.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
@@ -10816,14 +10816,14 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Residence of John-George Bourinot in 1888.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[141 Cooper Street]]></value>
@@ -10969,14 +10969,14 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Residence of Mr. A.Z. Palmer in 1884.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[180 Cooper Street]]></value>
@@ -11034,14 +11034,14 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Residence of Miss Jessie Brown in 1894.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[245 Cooper Street]]></value>
@@ -11099,14 +11099,14 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Residence of Dr. Henry M. Ami in 1894.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[111 Cooper Street]]></value>
@@ -11164,14 +11164,14 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[c1913]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished to build apartments.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Residence of J. Travers Lewis in 1891.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[250 Cooper Street]]></value>
@@ -11229,14 +11229,14 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Residence of Hon. Frank Oliver]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[191 Somerset Street]]></value>
@@ -11294,14 +11294,14 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[1929]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished for construction of St. Theresa Roman Catholic Church. Location currently occupied by St. Theresa Roman Catholic Church.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Built using red sandstone, the building was owned by Edward Seybold. One of the few survivors of the Empress of Ireland sinking, Seybold and his wife were catapulted into the water by an explosion. He survived but his wife did not.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[50 Somerset Street]]></value>
@@ -11359,14 +11359,14 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Residence of William J Topley]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[272 Somerset Street]]></value>
@@ -11424,13 +11424,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -11489,13 +11489,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -11554,14 +11554,14 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Location currently occupied by Charlotte Place retirement home, part of Ottawa Community Housing.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Residences of Michael P. Davis, MP ]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[565 Rideau Street]]></value>
@@ -11619,13 +11619,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -11684,14 +11684,14 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[1954]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[Demolished for construction of government buildings. Now occupied by the West Memorial Building.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[The residents of Nicholas Sparks. Nicholas Sparks purchased land in the 1820s that stretched from Bronson Avenue to Nicholas Street and Wellington to Slater Streets. At the time of purchase, the area was entirely forest. However, with the building of the canal, Sparks sold much of his land to the engineers and workers of the canal and also to the church. From Sparks' death in 1862 until its demolition, the building had changed owners several times. There was an effort to preserve the building by the Women&#8217;s Canadian Historical Society, however all attempts to save the building were denied by the federal government.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[357 Sparks Street]]></value>
@@ -11749,13 +11749,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -11814,14 +11814,14 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Once occupied by John Murphy and Co., Dry Goods Store]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[68 Sparks Street]]></value>
@@ -11879,14 +11879,14 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Occupied by the Civil Service Club between 1911-1913.]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[12 Bank Street]]></value>
@@ -11966,13 +11966,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -12075,13 +12075,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -12140,13 +12140,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -12205,13 +12205,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -12292,13 +12292,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -12357,13 +12357,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
@@ -12422,13 +12422,13 @@ gation Notre Dame]]></value>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
