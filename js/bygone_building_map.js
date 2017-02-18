@@ -481,6 +481,7 @@ function showPopup(feature, layer) {
 	popup_html = getPopupContent();
 	popup_html = popup_html.replace('${dateBuilt}', checkInput(props['dateBuilt']));
 	popup_html = popup_html.replace('${dateDemolished}', checkInput(props['dateDemolished']));
+	popup_html = popup_html.replace('${architect}', checkInput(props['architect']));
 	popup_html = popup_html.replace('${status}', checkInput(props['status']));
 	popup_html = popup_html.replace('${history}', checkInput(props['history']));
 	popup_html = popup_html.replace('${addrss}', checkInput(props['addrss']));
