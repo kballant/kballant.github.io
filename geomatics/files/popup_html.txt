@@ -26,6 +26,14 @@ ${photos}
 		</div>
 	</div>
 	<div class="popup-row">
+			<div class="popup-cell heading-cell">
+				<p class="popover-text"><b>Architect:</b></p>
+			</div>
+			<div class="popup-cell">
+				<p class="popover-text">${architect}</p>
+			</div>
+	</div>
+	<div class="popup-row">
 		<div class="popup-cell heading-cell">
 			<p class="popover-text"><b>History:</b></p>
 		</div>
