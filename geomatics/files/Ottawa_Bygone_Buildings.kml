@@ -85,7 +85,7 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
+       <td><b>Architect(s):</b></td>
        <td>$[architect]</td>
      </tr>
 
@@ -164,7 +164,7 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
+       <td><b>Architect(s):</b></td>
        <td>$[architect]</td>
      </tr>
 
@@ -253,7 +253,7 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
+       <td><b>Architect(s):</b></td>
        <td>$[architect]</td>
      </tr>
 
@@ -332,7 +332,7 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
+       <td><b>Architect(s):</b></td>
        <td>$[architect]</td>
      </tr>
 
@@ -421,7 +421,7 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
+       <td><b>Architect(s):</b></td>
        <td>$[architect]</td>
      </tr>
 
@@ -500,7 +500,7 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
+       <td><b>Architect(s):</b></td>
        <td>$[architect]</td>
      </tr>
 
@@ -589,7 +589,7 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
+       <td><b>Architect(s):</b></td>
        <td>$[architect]</td>
      </tr>
 
@@ -668,7 +668,7 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
+       <td><b>Architect(s):</b></td>
        <td>$[architect]</td>
      </tr>
 
@@ -757,7 +757,7 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
+       <td><b>Architect(s):</b></td>
        <td>$[architect]</td>
      </tr>
 
@@ -836,7 +836,7 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
+       <td><b>Architect(s):</b></td>
        <td>$[architect]</td>
      </tr>
 
@@ -925,7 +925,7 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
+       <td><b>Architect(s):</b></td>
        <td>$[architect]</td>
      </tr>
 
@@ -1004,7 +1004,7 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
+       <td><b>Architect(s):</b></td>
        <td>$[architect]</td>
      </tr>
 
@@ -1093,7 +1093,7 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
+       <td><b>Architect(s):</b></td>
        <td>$[architect]</td>
      </tr>
 
@@ -1172,7 +1172,7 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
+       <td><b>Architect(s):</b></td>
        <td>$[architect]</td>
      </tr>
 
@@ -1261,7 +1261,7 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
+       <td><b>Architect(s):</b></td>
        <td>$[architect]</td>
      </tr>
 
@@ -1340,7 +1340,7 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
+       <td><b>Architect(s):</b></td>
        <td>$[architect]</td>
      </tr>
 
@@ -1429,7 +1429,7 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
+       <td><b>Architect(s):</b></td>
        <td>$[architect]</td>
      </tr>
 
@@ -1508,7 +1508,7 @@
      </tr>
 	 
 	 <tr align="left" valign="top">
-       <td><b>Architect:</b></td>
+       <td><b>Architect(s):</b></td>
        <td>$[architect]</td>
      </tr>
 
@@ -1576,7 +1576,7 @@
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1549">Moses Chamberlain Edey</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
@@ -2184,7 +2184,7 @@
           <value><![CDATA[1938]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1433">Henry Langley</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Demolished for Elgin Street expansion.]]></value>
@@ -2727,7 +2727,7 @@
           <value><![CDATA[1928]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1299">Matthew Sheard</a>, <a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1528">Henry Hodge Horsey</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Burned and demolished.]]></value>
@@ -2814,7 +2814,7 @@
           <value><![CDATA[1931]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1299">Matthew Sheard</a>, <a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1528">Henry Hodge Horsey</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Destroyed by fire.]]></value>
@@ -3552,7 +3552,7 @@
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1549">Moses Chamberlain Edey</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
@@ -3944,7 +3944,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[04 February 1961]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1299">Matthew Sheard</a>, <a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1528">Henry Hodge Horsey</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Destroyed by fire. Site currently occupied by the Canada Permanent Life Insurance building.]]></value>
@@ -4009,7 +4009,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1549">Moses Chamberlain Edey</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
@@ -4096,7 +4096,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[1960]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/864">Alfred Merigon Calderon</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Demolished for the current Montreal Trust building.]]></value>
@@ -4248,7 +4248,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[1970]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1178">James R. Bowes</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Currently occupied by the Place Bell building.]]></value>
@@ -4465,7 +4465,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[1991]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1549">Moses Chamberlain Edey</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Left vacant for over a decade before being demolished. Currently occupied by a condo building, called 700 Sussex, built in 2005.]]></value>
@@ -5766,13 +5766,13 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[1980s]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1267">King McCord Arnoldi</a>, <a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/864">Alfred Merigon Calderon</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Demolished to build the Royal Bank main branch.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[Designed by Arnoldia & Calderon.]]></value>
+          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[72-76 Sparks Street]]></value>
@@ -5853,7 +5853,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[1938]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1267">King McCord Arnoldi</a>, <a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/864">Alfred Merigon Calderon</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
@@ -5962,7 +5962,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1267">King McCord Arnoldi</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
@@ -7935,7 +7935,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[1926]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1467">James Mather</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
@@ -7994,13 +7994,13 @@ gation Notre Dame]]></value>
           <value><![CDATA[Fire Station No 2]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1897]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[mid-1960s]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1549">Moses Chamberlain Edey</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
@@ -8015,7 +8015,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="sources">
-          <value/>
+          <value><![CDATA[Urbsite: More Moses Chamberlain Edey: To The Daly Building And Beyond: <a href="http://urbsite.blogspot.ca/2016/04/more-moses-chamberlain-edey-to-daly.html">http://urbsite.blogspot.ca/2016/04/more-moses-chamberlain-edey-to-daly.html</a>]]></value>
         </Data>
         <Data name="photos">
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
@@ -8303,7 +8303,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1453">Werner Edgar Noffke</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
@@ -9863,7 +9863,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[14 December 1924]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1549">Moses Chamberlain Edey</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Destroyed by fire. Now occupied by the C. D. Howe Building.]]></value>
@@ -10123,7 +10123,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1267">King McCord Arnoldi</a>, <a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/864">Alfred Merigon Calderon</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Location currently by Options Bytown apartments, owned by the Ottawa Community Housing Corporation.]]></value>
@@ -10188,13 +10188,13 @@ gation Notre Dame]]></value>
           <value><![CDATA[1970]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1266">Frederick John Alexander</a>, <a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/2299">Francis Laurens Vinton Hoppin</a>, <a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/2299">Terence A. Koen</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Demolished for development. Location currently occupied by the Watergate Apartments.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[Built by Hayter Reed, the Deputy Superintendent-General of Indian Affairs, the house was designed by Frederick J. Alexander. It was later purchase by Sir Robert Borden in 1907 while he was still Leader of the Opposition. Borden lived in the house until his death in 1937 while his widow remained in the house until the early 1940s. It was purchased by the Chinese Nationalist Government in 1942 who remained in the building until it was sold in 1969 to Danbury Developments Ltd. The Canadian Government considered purchasing the house as an historic site. However, the house was demolished to build the Watergate Apartments.]]></value>
+          <value><![CDATA[Built by Hayter Reed, the Deputy Superintendent-General of Indian Affairs, it was later purchase by Sir Robert Borden in 1907 while he was still Leader of the Opposition. Borden lived in the house until his death in 1937 while his widow remained in the house until the early 1940s. It was purchased by the Chinese Nationalist Government in 1942 who remained in the building until it was sold in 1969 to Danbury Developments Ltd. The Canadian Government considered purchasing the house as an historic site. However, the house was demolished to build the Watergate Apartments.]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[201 Wurtemburg Street]]></value>
@@ -10275,7 +10275,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[just after 1943]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1267">King McCord Arnoldi</a>, <a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/864">Alfred Merigon Calderon</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Location currently apartment buildings.]]></value>
@@ -10817,7 +10817,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1266">Frederick John Alexander</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
