@@ -3150,7 +3150,7 @@
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[18-20 Elgin & 45-49 Sparks Streets]]></value>
         </Data>
         <Data name="occupant">
           <value><![CDATA[n/a]]></value>
@@ -3864,7 +3864,7 @@
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[168-182 Sparks Street]]></value>
         </Data>
         <Data name="occupant">
           <value><![CDATA[n/a]]></value>
@@ -4105,7 +4105,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[96-100 Sparks Street]]></value>
         </Data>
         <Data name="occupant">
           <value><![CDATA[n/a]]></value>
@@ -4864,7 +4864,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[181-185 Broad Street]]></value>
         </Data>
         <Data name="occupant">
           <value><![CDATA[n/a]]></value>
@@ -4929,7 +4929,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[173-177 Broad Street]]></value>
         </Data>
         <Data name="occupant">
           <value><![CDATA[n/a]]></value>
@@ -5449,7 +5449,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[This building was opened in 1906 by Governor General Earl Grey who also threw the first stone. The building was expropriated by the federal government in 1914.]]></value>
         </Data>
         <Data name="addrss">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[92 Vittoria Street]]></value>
         </Data>
         <Data name="occupant">
           <value><![CDATA[n/a]]></value>
@@ -6036,7 +6036,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[102-104 Sparks Street]]></value>
         </Data>
         <Data name="occupant">
           <value><![CDATA[n/a]]></value>
@@ -6773,7 +6773,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[10-12 Metcalfe Street]]></value>
         </Data>
         <Data name="occupant">
           <value><![CDATA[n/a]]></value>
@@ -7164,7 +7164,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[160 Elgin Street]]></value>
         </Data>
         <Data name="occupant">
           <value><![CDATA[n/a]]></value>
@@ -8139,93 +8139,6 @@ gation Notre Dame]]></value>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name><![CDATA[207-211 Wellington Street]]></name>
-      <styleUrl>#comm_map</styleUrl>
-      <ExtendedData>
-        <Data name="name">
-          <value><![CDATA[207-211 Wellington Street]]></value>
-        </Data>
-        <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="status">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="addrss">
-          <value><![CDATA[207-211 Wellington Street]]></value>
-        </Data>
-        <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="sources">
-          <value/>
-        </Data>
-        <Data name="photos">
-          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
-		<tr align="left" valign="top">
-			<td>
-			<b>Photo 1</b> - 203-211 Wellington Street, October 1900.
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3424255&rec_nbr_list=3424255,3325996">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/203-211_Wellington_Street_a028188.jpg" title="203-211 Wellington Street, October 1900." border="1" width="500"></a>
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<small><b>Date Taken</b>: October 1900<br>
-			<b>Source</b>: Library & Archives Canada, MIKAN no. 3424255</small>
-			</td>
-		</tr>
-	</table>
-			</td>
-     </tr>
-     <tr align="left" valign="top">
-        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
-		<tr align="left" valign="top">
-			<td>
-			<b>Photo 2</b> - 207-211 Wellington Street, close-up of photo 1.
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3424255&rec_nbr_list=3424255,3325996">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/207-211_Wellington_Street.jpg" title="207-211 Wellington Street, close-up of photo 1." border="1" width="500"></a>
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<small><b>Date Taken</b>: October 1900<br>
-			<b>Source</b>: Library & Archives Canada, MIKAN no. 3424255</small>
-			</td>
-		</tr>
-	</table>
-		</td>
-      </tr>
-</table>]]></value>
-        </Data>
-      </ExtendedData>
-      <Polygon>
-        <tessellate>1</tessellate>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-75.70232575761385,45.4217301890544,0 -75.70243327970043,45.42186599262011,0 -75.70255798640068,45.42181126591109,0 -75.70244989549528,45.42167770493565,0 -75.70232575761385,45.4217301890544,0</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
       <name><![CDATA[121 Metcalfe Road (Bank Street)]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
@@ -8557,28 +8470,28 @@ gation Notre Dame]]></value>
           <value><![CDATA[Broadview Apartments]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1898]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[June 1944]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location currently occupied by Bronson Park.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Constructed as a conversion (or replacement) of the home of David Manchester, it was sold to a real estate dealer named John Y. Caldwell in the Spring of 1911, with the intent of demolishing the apartments. However, he then decided to sell the apartments, except as a factory. The apartments were given the name "Broadview" in 1914. In July of 1924, a fire broke out in the basement and spread through the dumbwaiter. The fire was contained with minimal damage and all occupants escaped unharmed. In 1940, the federal government bought the property and removed it 4 years later to make way for the Greber Plan.]]></value>
         </Data>
         <Data name="addrss">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[441-443 Wellington Street]]></value>
         </Data>
         <Data name="occupant">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="sources">
-          <value/>
+          <value><![CDATA[Demolished Ottawa: Broadview Apartments: <a href="http://www.historynerd.ca/?p=3391">http://www.historynerd.ca/?p=3391</a>]]></value>
         </Data>
         <Data name="photos">
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
@@ -8681,7 +8594,7 @@ gation Notre Dame]]></value>
     </Placemark>
     <Placemark>
       <name><![CDATA[10-12 Albert Street]]></name>
-      <styleUrl>#comm_map</styleUrl>
+      <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
         <Data name="name">
           <value><![CDATA[10-12 Albert Street]]></value>
@@ -9092,7 +9005,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[189-193 Albert Street]]></value>
         </Data>
         <Data name="occupant">
           <value><![CDATA[n/a]]></value>
@@ -12470,6 +12383,873 @@ gation Notre Dame]]></value>
         <outerBoundaryIs>
           <LinearRing>
             <coordinates>-75.70502445859987,45.42179381438153,0 -75.7050630113126,45.42177713288771,0 -75.7050421447322,45.42174872655991,0 -75.70490024242118,45.42180626680422,0 -75.70495266975512,45.42186889078256,0 -75.70505202169399,45.42182805527018,0 -75.70502445859987,45.42179381438153,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[A.A. Fournier Dry Goods]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="name">
+          <value><![CDATA[A.A. Fournier Dry Goods]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[327-331 Wellington Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Front view A.A. Fournier Ltd.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3593776&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Fournier_Dry_Goods_e011168072.jpg" title="Front view A.A. Fournier Ltd." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: c1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3593776</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70588877910754,45.42021964493387,0 -75.70559074369999,45.42034419538837,0 -75.705790275027,45.42058285696461,0 -75.70595238214594,45.42051594608582,0 -75.70593360437334,45.42049373660471,0 -75.70606587977213,45.42043815899964,0 -75.70588877910754,45.42021964493387,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[299-303 Wellington Street]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="name">
+          <value><![CDATA[299-303 Wellington Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[299-303 Wellington Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Commercial building, 299-303 Wellington Street [A. Workman & Co. Ltd., 299 - 301 Wellington Street; 303 Wellington, dwelling over stores]
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600256&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/299-303_Wellington_Street_e011168060.jpg" title="Commercial building, 299-303 Wellington Street [A. Workman & Co. Ltd., 299 - 301 Wellington Street; 303 Wellington, dwelling over stores]" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600256</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70515532390847,45.42052614657195,0 -75.70493995339804,45.42061580566194,0 -75.70504484662241,45.42074202797387,0 -75.70512122235041,45.4207084314378,0 -75.70514520262753,45.42073770919232,0 -75.70516119058968,45.42073127728516,0 -75.70521461009916,45.42079650790028,0 -75.70533952729349,45.42074279518115,0 -75.70515532390847,45.42052614657195,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[207-215 Wellington Street]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="name">
+          <value><![CDATA[207-215 Wellington Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[207-215 Wellington Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Commercial building, owned by J.L. Orme
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600204&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/207-215_Wellington_Street_e011168006.jpg" title="Commercial building, owned by J.L. Orme" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: c1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600204</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70259897602796,45.42161352276928,0 -75.70232616902662,45.42173064326487,0 -75.70243191169161,45.4218662466009,0 -75.70256178889805,45.42181119828162,0 -75.70251858816421,45.42176088877488,0 -75.70266704137418,45.42169810073866,0 -75.70259897602796,45.42161352276928,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[The Vandome Hotel]]></name>
+      <styleUrl>#hotel_map</styleUrl>
+      <ExtendedData>
+        <Data name="name">
+          <value><![CDATA[The Vandome Hotel]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[287-291 Wellington Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Commercial buildings, including Vandome Hotel and Burwash and MacDonald Clothing
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600253&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Vandome_Hotel_e011168057.jpg" title="Commercial buildings, including Vandome Hotel and Burwash and MacDonald Clothing" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600253</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70493778419397,45.42061640912654,0 -75.70472566908505,45.4207052943965,0 -75.70494174229827,45.42095319308006,0 -75.70499714573685,45.42093041616048,0 -75.7048950448516,45.42081430985497,0 -75.70496469471632,45.42078708868166,0 -75.70492353788202,45.42074097949745,0 -75.70495836277183,45.42072653560002,0 -75.70503355329161,45.42081597628965,0 -75.70509053955175,45.42079264378516,0 -75.70493778419397,45.42061640912654,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Almonte House Hotel]]></name>
+      <styleUrl>#hotel_map</styleUrl>
+      <ExtendedData>
+        <Data name="name">
+          <value><![CDATA[Almonte House Hotel]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[223-229 Wellington Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Commercial Building owned by R.H. Pounder, [containing Almonte House Hotel, 223 - 225 Wellington Street and New Almonte Lunch 229 Wellinton Street]
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600209&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Almonte_House_Hotel_e011168011.jpg" title="Commercial Building owned by R.H. Pounder, [containing Almonte House Hotel, 223 - 225 Wellington Street and New Almonte Lunch 229 Wellinton Street]" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: c1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600209</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70275566231024,45.42154376897033,0 -75.70288919013358,45.42170666529789,0 -75.70294602662668,45.42168181295804,0 -75.70290474876363,45.4216338565817,0 -75.70300947769363,45.4215894508873,0 -75.7030448932972,45.42163573164872,0 -75.70311658407668,45.42160563552915,0 -75.70298361559532,45.42144607458226,0 -75.70275566231024,45.42154376897033,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[255-263 Wellington Street]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="name">
+          <value><![CDATA[255-263 Wellington Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[255-263 Wellington Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Commerical Building owned by Mrs. H. McCarthy, Front Facade
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600219&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/255-263_Wellington_Street_1_e011168021.jpg" title="Commerical Building owned by Mrs. H. McCarthy, Front Facade" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600219</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - Commerical Building owned by Mrs. H. McCarthy, West Facade, [Kent Street Facade, part of 263 Wellington Street, Ottawa]
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600218&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/255-263_Wellington_Street_2_e011168022.jpg" title="Commerical Building owned by Mrs. H. McCarthy, West Facade, [Kent Street Facade, part of 263 Wellington Street, Ottawa]" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600218</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70396437509925,45.42101732449251,0 -75.70367250071877,45.42114262699794,0 -75.70379175587695,45.42128458805804,0 -75.70381337830692,45.42127706394459,0 -75.7038200465235,45.42128526220669,0 -75.70384172795083,45.42127647834238,0 -75.70383339159731,45.42126769544903,0 -75.70385423632888,45.42125832800977,0 -75.703864240797,45.42127179396898,0 -75.70392009583355,45.42124603477621,0 -75.70395930145904,45.42128819009396,0 -75.70413262655264,45.42121443165468,0 -75.70396437509925,45.42101732449251,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Wellington Apartments]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="name">
+          <value><![CDATA[Wellington Apartments]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[277-283 Wellington Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - 
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600250&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Wellington_Apartments_e011168054.jpg" title="" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600250</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70472470349847,45.42070572958108,0 -75.70451368835319,45.42079371614575,0 -75.70468291892136,45.4209931521652,0 -75.70489706857897,45.42090443206842,0 -75.70472470349847,45.42070572958108,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[265-275 Wellington Street]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="name">
+          <value><![CDATA[265-275 Wellington Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[265-275 Wellington Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Commercial building owned by Wm. Arnold
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600246&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/265-275_Wellington_Street_e011168050.jpg" title="Commercial building owned by Wm. Arnold" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600246</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70468659057123,45.42099299719605,0 -75.70451455934663,45.420793374601,0 -75.70417882139985,45.42093164904414,0 -75.70416633516173,45.42094917682716,0 -75.70432726657974,45.4211380885178,0 -75.70468659057123,45.42099299719605,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[217-221 Wellington Street]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="name">
+          <value><![CDATA[217-221 Wellington Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[217-221 Wellington Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Commerical Building owned by G.A. Sinclair, with Clothier's Shop
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600207&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/217-221_Wellington_Street_e011168009.jpg" title="Commerical Building owned by G.A. Sinclair, with Clothier's Shop" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: c1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600207</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70275665839053,45.42154487916815,0 -75.70259890606715,45.42161362246956,0 -75.70271778120539,45.42175845581192,0 -75.70287329091583,45.42168918755758,0 -75.70275665839053,45.42154487916815,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[251-253 Wellington Street]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="name">
+          <value><![CDATA[251-253 Wellington Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[251-253 Wellington Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Commercial Building owned by W.D. Morris
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600217&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/251-253_Wellington_Street_e011168019.jpg" title="Commercial Building owned by W.D. Morris" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: c1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600217</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70355366281127,45.42119568065482,0 -75.70362030238093,45.42127268581172,0 -75.70369181787267,45.42124074283932,0 -75.7037015700415,45.42125386223228,0 -75.70372432497881,45.42124530606264,0 -75.70374789275361,45.42127439689068,0 -75.70377471107177,45.42126469988511,0 -75.70367231335803,45.42114377336855,0 -75.70355366281127,45.42119568065482,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[247-249 Wellington Street]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="name">
+          <value><![CDATA[247-249 Wellington Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[247-249 Wellington Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Commerical Building Owned by W.C. Edwards
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600215&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/247-249_Wellington_Street_e011168017.jpg" title="Commerical Building Owned by W.C. Edwards" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: c1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600215</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70352320615756,45.42120829725428,0 -75.70341333585628,45.4212566115703,0 -75.70351791173854,45.42137925507054,0 -75.70363042971013,45.42133094066783,0 -75.70352320615756,45.42120829725428,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[309-311 Wellington Street]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="name">
+          <value><![CDATA[309-311 Wellington Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[309-311 Wellington Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Commercial building with business of T.J. Seaton, Jeweller and Watchmaker
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3363763&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/309-311_Wellington_Street_e011168065.jpg" title="Commercial building with business of T.J. Seaton, Jeweller and Watchmaker" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3363763</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70536478974036,45.4204399810284,0 -75.70528189879661,45.42047400632684,0 -75.70541986758185,45.42063421778163,0 -75.70543841009082,45.42062671432736,0 -75.70546624011126,45.42066091884029,0 -75.70551338539698,45.42064240713869,0 -75.70548411254677,45.42060758293728,0 -75.70549597140371,45.4206008805338,0 -75.70536478974036,45.4204399810284,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Hawkesbury Lumber]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="name">
+          <value><![CDATA[Hawkesbury Lumber]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[241 Wellington Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - 
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600213&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Hawkesbury_Lumber_e011168015.jpg" title="" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: c1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600213</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70338232683777,45.42145843514913,0 -75.70345680234306,45.42155366420501,0 -75.70351686825278,45.42152734844944,0 -75.70344110018588,45.42143463512299,0 -75.70351195344377,45.42140353716516,0 -75.70343953733418,45.42131796872526,0 -75.7034175902685,45.42132736746466,0 -75.70338594944404,45.42129087955827,0 -75.70332886654514,45.421315809427,0 -75.70332173075029,45.42130792245147,0 -75.70328926105036,45.4213215756315,0 -75.70329735490635,45.42132954607355,0 -75.7032489010271,45.42135227292,0 -75.70335256488411,45.4214712997284,0 -75.70338232683777,45.42145843514913,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
