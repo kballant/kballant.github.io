@@ -5499,6 +5499,50 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
 			</td>
 		</tr>
 	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 3</b> - Vittoria St looking E toward Justice Bldg., 19 Aug 1937.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4169818&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Ottawa_Curling_Club_4_e010934896.jpg" title="Vittoria St looking E toward Justice Bldg., 19 Aug 1937." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 19 August 1937<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4169818</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 4</b> - East side view of Clubhouse, Ottawa Curling Club
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600275&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Ottawa_Curling_Club_3_e011168089.jpg" title="East side view of Clubhouse, Ottawa Curling Club" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600275</small>
+			</td>
+		</tr>
+	</table>
 		</td>
       </tr>
 </table>]]></value>
@@ -5583,6 +5627,28 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
 			<td>
 			<small><b>Date Taken</b>: 1912<br>
 			<b>Source</b>: Library & Archives Canada, MIKAN no 3600237</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 3</b> - East side facade of house owned by Mrs. Gemmill House
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600236&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/22_Vittoria_Street_2_e011168040.jpg" title="East side facade of house owned by Mrs. Gemmill House" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600236</small>
 			</td>
 		</tr>
 	</table>
@@ -8052,11 +8118,11 @@ gation Notre Dame]]></value>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name><![CDATA[203-205 Wellington Street]]></name>
-      <styleUrl>#comm_map</styleUrl>
+      <name><![CDATA[The Capital Hotel]]></name>
+      <styleUrl>#hotel_map</styleUrl>
       <ExtendedData>
         <Data name="name">
-          <value><![CDATA[203-205 Wellington Street]]></value>
+          <value><![CDATA[The Capital Hotel]]></value>
         </Data>
         <Data name="dateBuilt">
           <value><![CDATA[n/a]]></value>
@@ -8108,19 +8174,19 @@ gation Notre Dame]]></value>
         <td><table width="500" border="1" cellspacing="1" cellpadding="6">
 		<tr align="left" valign="top">
 			<td>
-			<b>Photo 2</b> - 203-205 Wellington Street, close-up of photo 1.
+			<b>Photo 2</b> - The Capital Hotel, E.C. Hillman, Proprietor
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3424255&rec_nbr_list=3424255,3325996">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/203-205_Wellington_Street.jpg" title="203-205 Wellington Street, close-up of photo 1." border="1" width="500"></a>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600201&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/203-205_Wellington_Street_e011168003.jpg" title="The Capital Hotel, E.C. Hillman, Proprietor" border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<small><b>Date Taken</b>: October 1900<br>
-			<b>Source</b>: Library & Archives Canada, MIKAN no. 3424255</small>
+			<small><b>Date Taken</b>: c1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600201</small>
 			</td>
 		</tr>
 	</table>
@@ -8510,6 +8576,28 @@ gation Notre Dame]]></value>
 			<td>
 			<small><b>Date Taken</b>: 1938<br>
 			<b>Source</b>: Library & Archives Canada, MIKAN no. 4160747</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - Rear yard of frame house
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600273&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/102_Vittoria_Street_2_e011168087.jpg" title="Rear yard of frame house" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600273</small>
 			</td>
 		</tr>
 	</table>
@@ -12091,6 +12179,50 @@ gation Notre Dame]]></value>
 			</td>
 		</tr>
 	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - East facade of house owned by Hon. W. Pugsley
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600241&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/14_Vittoria_Street_2_e011168045.jpg" title="East facade of house owned by Hon. W. Pugsley" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600241</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 3</b> - Rear view (west side) of house by the Hon. W. Pugsley
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600240&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/14_Vittoria_Street_3_e011168044.jpg" title="Rear view (west side) of house by the Hon. W. Pugsley" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600240</small>
+			</td>
+		</tr>
+	</table>
 		</td>
       </tr>
 </table>]]></value>
@@ -12175,6 +12307,28 @@ gation Notre Dame]]></value>
 			<td>
 			<small><b>Date Taken</b>: 1912<br>
 			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600280</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 3</b> - Rear yard
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600281&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/74-76_Vittoria_Street_2_e011168095.jpg" title="Rear yard" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600281</small>
 			</td>
 		</tr>
 	</table>
@@ -12370,6 +12524,28 @@ gation Notre Dame]]></value>
 			<td>
 			<small><b>Date Taken</b>: 1912<br>
 			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600284</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - Part of brick house and frame house (north side of 20 Kent Street on left, 70 Vittoria Street on the right)
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600285&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/20_Kent_Street_2_e011168099.jpg" title="Part of brick house and frame house (north side of 20 Kent Street on left, 70 Vittoria Street on the right)" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600285</small>
 			</td>
 		</tr>
 	</table>
@@ -13250,6 +13426,810 @@ gation Notre Dame]]></value>
         <outerBoundaryIs>
           <LinearRing>
             <coordinates>-75.70338232683777,45.42145843514913,0 -75.70345680234306,45.42155366420501,0 -75.70351686825278,45.42152734844944,0 -75.70344110018588,45.42143463512299,0 -75.70351195344377,45.42140353716516,0 -75.70343953733418,45.42131796872526,0 -75.7034175902685,45.42132736746466,0 -75.70338594944404,45.42129087955827,0 -75.70332886654514,45.421315809427,0 -75.70332173075029,45.42130792245147,0 -75.70328926105036,45.4213215756315,0 -75.70329735490635,45.42132954607355,0 -75.7032489010271,45.42135227292,0 -75.70335256488411,45.4214712997284,0 -75.70338232683777,45.42145843514913,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[305-307 Wellington Street]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="name">
+          <value><![CDATA[305-307 Wellington Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[305-307 Wellington Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Front view of Goodall Bros. Grocers 
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3593770&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/305-307_Wellington_Street_e011168062.jpg" title="Front view of Goodall Bros. Grocers " border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3593770</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70527748260545,45.42047346957168,0 -75.70515472643193,45.4205255262068,0 -75.70529282804617,45.42068708058636,0 -75.70533886174668,45.42066733492851,0 -75.70540919177817,45.42075259975602,0 -75.70549102952832,45.42072028856663,0 -75.70527748260545,45.42047346957168,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[New Arlington Hotel]]></name>
+      <styleUrl>#hotel_map</styleUrl>
+      <ExtendedData>
+        <Data name="name">
+          <value><![CDATA[New Arlington Hotel]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[319-325 Wellington Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - The New Arlington Hotel (showing only the front of 319-321 Wellington)
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3593772&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/New_Arlington_Hotel_1_e011168067.jpg" title="The New Arlington Hotel (showing only the front of 319-321 Wellington)" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: c1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3593772</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - Rear view of 325 Wellington.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3593775&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/New_Arlington_Hotel_2_e011168071.jpg" title="Rear view of 325 Wellington." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: c1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3593775</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70559089647554,45.4203451346843,0 -75.7053630998939,45.42043919668857,0 -75.70548315782311,45.42058459191049,0 -75.70553864881671,45.42056041254371,0 -75.70556521442042,45.42058995621682,0 -75.70573405212402,45.42052023947153,0 -75.70559089647554,45.4203451346843,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[34 Vittoria Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="name">
+          <value><![CDATA[34 Vittoria Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[34 Vittoria Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Front of house owned by John Manuel
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600233&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/34_Vittoria_Street_1_e011168034.jpg" title="Front of house owned by John Manuel" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600233</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - Rear yard of house owned by John Manuel
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600234&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/34_Vittoria_Street_2_e011168035.jpg" title="Rear yard of house owned by John Manuel" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600234</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70358464941107,45.42181440188158,0 -75.70339182488613,45.42189370287662,0 -75.70353795040326,45.42206499251753,0 -75.70329390556729,45.42217284176093,0 -75.7033375926184,45.42222042232825,0 -75.70340688944683,45.42218975930508,0 -75.70341592816334,45.42219821806288,0 -75.70344605719211,45.42218341520986,0 -75.70344003137684,45.42217601382109,0 -75.70351384743226,45.42214535074232,0 -75.70356657345818,45.4222087914194,0 -75.70362833792608,45.42218341501651,0 -75.70364189608722,45.42219821783951,0 -75.70367805086048,45.42218024291049,0 -75.70368558316548,45.42218975899382,0 -75.70369462188904,45.42218658693167,0 -75.70371420579203,45.42218764425568,0 -75.70373680252479,45.42217812807279,0 -75.70373919049274,45.42216663498418,0 -75.70375337336975,45.4221590958037,0 -75.70367202436557,45.42206287759991,0 -75.70366665385755,45.42206513959042,0 -75.70361263227423,45.42199864284858,0 -75.70360253634158,45.42200266471993,0 -75.70355211728806,45.42194362576837,0 -75.70353906940717,45.42194913184675,0 -75.70350213369254,45.4219062785575,0 -75.7035653593062,45.42187885605823,0 -75.70361878720237,45.42194197853244,0 -75.70367278876473,45.42191914246496,0 -75.70358464941107,45.42181440188158,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[3 Kent Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="name">
+          <value><![CDATA[3 Kent Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[3 Kent Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Front view of a two and a half storey stone house
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3576587&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/3_Kent_Street_e011168111.jpg" title="Front view of a two and a half storey stone house" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3576587</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70504980257545,45.42230771775223,0 -75.70494648083923,45.42235031341625,0 -75.70502144625736,45.42244305137093,0 -75.70512255295266,45.42240170061296,0 -75.70504980257545,45.42230771775223,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[72 Vittoria Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="name">
+          <value><![CDATA[72 Vittoria Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[72 Vittoria Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Frame house and brick house
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600282&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/72_Vittoria_Street_e011168096.jpg" title="Frame house and brick house" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600282</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70517449242891,45.42157425302575,0 -75.7051253370731,45.42159352848286,0 -75.70517347585322,45.42165010413194,0 -75.70515223174439,45.42165967475852,0 -75.705226081813,45.42174607943292,0 -75.70529626111818,45.42171822436867,0 -75.70517449242891,45.42157425302575,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[70 Vittoria Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="name">
+          <value><![CDATA[70 Vittoria Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[70 Vittoria Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Frame house and brick house	
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600282&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/70_Vittoria_Street_e011168096.jpg" title="Frame house and brick house	" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600282</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.7051325477855,45.42168252744141,0 -75.70505144093058,45.42171920753229,0 -75.70512044584802,45.42180096198727,0 -75.70520260259796,45.42176788411353,0 -75.7051325477855,45.42168252744141,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[13 Kent Street & 59 Vittoria Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="name">
+          <value><![CDATA[13 Kent Street & 59 Vittoria Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[13 Kent Street & 59 Vittoria Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Front view of two and a half storey stone house
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3576589&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/13_Kent_Street_e011168113.jpg" title="Front view of two and a half storey stone house" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3576589</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - Rear yard of houses
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3576591&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/13_Kent_&_59_Vittoria_e011168115.jpg" title="Rear yard of houses" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: c1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3576591</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70467065151941,45.42215997106493,0 -75.70474442093193,45.42225487158456,0 -75.70479642872981,45.42223462509129,0 -75.70476719878944,45.42219841372478,0 -75.70481978284892,45.42217754468549,0 -75.70487659523437,45.42225010056286,0 -75.70489905078705,45.42224066631572,0 -75.70492804522156,45.42227565104361,0 -75.70500073461807,45.42224664793873,0 -75.70496067559677,45.4221963289226,0 -75.70493415383513,45.42220625052703,0 -75.70492244722462,45.42219028968299,0 -75.70494665324033,45.42218061292542,0 -75.7048651956476,45.42208235877464,0 -75.70467065151941,45.42215997106493,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Victoria Lawn Bowling Club]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="name">
+          <value><![CDATA[Victoria Lawn Bowling Club]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Club House of Bowling Green, near south east corner of Vittoria and Kent Streets; owner John Manuel
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600232&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Victoria_Lawn_Bowling_e011168033.jpg" title="Club House of Bowling Green, near south east corner of Vittoria and Kent Streets; owner John Manuel" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600232</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - Bowling Green, south east corner of Vittoria and Kent Streets; owner John Manuel
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600231&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Victoria_Lawn_Green_e011168032.jpg" title="Bowling Green, south east corner of Vittoria and Kent Streets; owner John Manuel" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600231</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70412070706601,45.42196037542873,0 -75.70404742155336,45.4219911679058,0 -75.70413090606526,45.42208577429951,0 -75.70420398580586,45.42205636470018,0 -75.70412070706601,45.42196037542873,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[84-88 Vittoria Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="name">
+          <value><![CDATA[84-88 Vittoria Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[84-88 Vittoria Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Stone triplex
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600277&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/84-88_Vittoria_Street_1_e011168091.jpg" title="Stone triplex" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600277</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - Rear yard of triplex
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600278&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/84-88_Vittoria_Street_2_e011168092.jpg" title="Rear yard of triplex" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600278</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70552526859767,45.42133766604705,0 -75.70549178567013,45.42135042113117,0 -75.70555377143714,45.42142627108958,0 -75.70552683760786,45.42143887163243,0 -75.70547323914947,45.42137386843932,0 -75.70543718058123,45.42138760466122,0 -75.70545814887133,45.42141472153763,0 -75.70548680554234,45.42145178122795,0 -75.70546115949239,45.42146389117544,0 -75.70540825997475,45.42139979187338,0 -75.70537606479851,45.4214120563362,0 -75.7054283754552,45.42147755011591,0 -75.70540272938386,45.42148966004841,0 -75.70546412634427,45.42156690429539,0 -75.7056506380933,45.42149117354649,0 -75.70552526859767,45.42133766604705,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[110-114 Vittoria Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="name">
+          <value><![CDATA[110-114 Vittoria Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[110-114 Vittoria Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Residential triplex
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600269&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/110-114_Vittoria_Street_1_e011168083.jpg" title="Residential triplex" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600269</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - East side of residential triplex
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600270&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/110-114_Vittoria_Street_2_e011168084.jpg" title="East side of residential triplex" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600270</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 3</b> - Laneway and rear yard
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600271&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/110-114_Vittoria_Street_3_e011168085.jpg" title="Laneway and rear yard" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600271</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70624805454145,45.42116396584697,0 -75.7062025673643,45.42118147425918,0 -75.70623704969991,45.42122627502336,0 -75.70621870808405,45.42123451427301,0 -75.70618275842581,45.42118971350684,0 -75.7061394722205,45.42120928169644,0 -75.70617322085292,45.42125305256758,0 -75.70615414555762,45.4212607768506,0 -75.7061203969372,45.42121700597136,0 -75.70607270870362,45.42123708908198,0 -75.70610792463306,45.42127983006823,0 -75.70609471864876,45.42128446463115,0 -75.70615634664388,45.42135707280789,0 -75.70616515064326,45.42135449804314,0 -75.70617101997985,45.42135861765286,0 -75.7061878943092,45.42135140831793,0 -75.70618789429844,45.42134471395033,0 -75.7062267785975,45.42132772051455,0 -75.70623338160746,45.42132978031129,0 -75.70625465791899,45.42132205601087,0 -75.70625515232874,45.4213169064895,0 -75.706288900931,45.42130300274548,0 -75.70629697126097,45.42130403263671,0 -75.70631678021219,45.42129527842552,0 -75.70631604652351,45.42128961395959,0 -75.70634025745817,45.42128034478431,0 -75.70624805454145,45.42116396584697,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
