@@ -786,9 +786,10 @@ var highlightFeature = function(pixel) {
 		});
 		
 		if (feature) {
+			var toolname = $('<div>').html(feature.get('name')).html().replace(/&amp;/g, '&');
 			info.tooltip('hide')
 				//.attr('data-original-title', feature.get('name'))
-				.attr('data-original-title', $('<div>').html(feature.get('name')).html())
+				.attr('data-original-title', toolname)
 				.tooltip('fixTitle')
 				.tooltip('show');
 		} else {
