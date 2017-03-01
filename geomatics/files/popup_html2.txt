@@ -1,0 +1,69 @@
+${photos}
+<br>
+<p class="center"><a class="popup-a" href="./map.html?id=${id}"><img src="../../images/map-map-marker-icon.png" alt="Locate on map" title="Locate on map"/></a></p>
+<div class="popup-table">
+	<div class="popup-row">
+		<div class="popup-cell heading-cell">
+			<p class="popover-text"><b>Date Built:</b></p>
+		</div>
+		<div class="popup-cell">
+			<p class="popover-text">${dateBuilt}</p>
+		</div>
+	</div>
+	<div class="popup-row">
+		<div class="popup-cell heading-cell">
+			<p class="popover-text"><b>Date Demolished:</b></p>
+		</div>
+		<div class="popup-cell">
+			<p class="popover-text">${dateDemolished}</p>
+		</div>
+	</div>
+	<div class="popup-row">
+		<div class="popup-cell heading-cell">
+			<p class="popover-text"><b>Architect:</b></p>
+		</div>
+		<div class="popup-cell">
+			<p class="popover-text">${architect}</p>
+		</div>
+	</div>
+	<div class="popup-row">
+		<div class="popup-cell heading-cell">
+			<p class="popover-text"><b>Status:</b></p>
+		</div>
+		<div class="popup-cell">
+			<p class="popover-text">${status}</p>
+		</div>
+	</div>
+	<div class="popup-row">
+		<div class="popup-cell heading-cell">
+			<p class="popover-text"><b>History:</b></p>
+		</div>
+		<div class="popup-cell">
+			<p class="popover-text">${history}</p>
+		</div>
+	</div>
+	<div class="popup-row">
+		<div class="popup-cell heading-cell">
+			<p class="popover-text"><b>1912 Address:</b></p>
+		</div>
+		<div class="popup-cell">
+			<p class="popover-text">${addrss}</p>
+		</div>
+	</div>
+	<div class="popup-row">
+		<div class="popup-cell heading-cell">
+			<p class="popover-text"><b>1912 Occupant(s) <span class="popover-text-sm">(<a target="_blank" class="popup-a" href="https://archive.org/details/ottawadirec191200midiuoft">1912 Ottawa Directory</a>)</span>:</b></p>
+		</div>
+		<div class="popup-cell">
+			<p class="popover-text">${occupant}</p>
+		</div>
+	</div>
+	<div class="popup-row">
+		<div class="popup-cell heading-cell">
+			<p class="popover-text"><b>Sources:</b></p>
+		</div>
+		<div class="popup-cell">
+			<p class="popover-text">${sources}</p>
+		</div>
+	</div>
+</div>
