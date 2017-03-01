@@ -67,6 +67,7 @@
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
+	<!--feature_id:$[id]-->
 	<font size="5"><b>$[name]</b></font>
 	<br>
 	<br>
@@ -146,6 +147,7 @@
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
+	<!--feature_id:$[id]-->
 	<font size="5"><b>$[name]</b></font>
 	<br>
 	<br>
@@ -235,6 +237,7 @@
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
+	<!--feature_id:$[id]-->
 	<font size="5"><b>$[name]</b></font>
 	<br>
 	<br>
@@ -314,6 +317,7 @@
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
+	<!--feature_id:$[id]-->
 	<font size="5"><b>$[name]</b></font>
 	<br>
 	<br>
@@ -403,6 +407,7 @@
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
+	<!--feature_id:$[id]-->
 	<font size="5"><b>$[name]</b></font>
 	<br>
 	<br>
@@ -482,6 +487,7 @@
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
+	<!--feature_id:$[id]-->
 	<font size="5"><b>$[name]</b></font>
 	<br>
 	<br>
@@ -571,6 +577,7 @@
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
+	<!--feature_id:$[id]-->
 	<font size="5"><b>$[name]</b></font>
 	<br>
 	<br>
@@ -650,6 +657,7 @@
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
+	<!--feature_id:$[id]-->
 	<font size="5"><b>$[name]</b></font>
 	<br>
 	<br>
@@ -739,6 +747,7 @@
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
+	<!--feature_id:$[id]-->
 	<font size="5"><b>$[name]</b></font>
 	<br>
 	<br>
@@ -818,6 +827,7 @@
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
+	<!--feature_id:$[id]-->
 	<font size="5"><b>$[name]</b></font>
 	<br>
 	<br>
@@ -907,6 +917,7 @@
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
+	<!--feature_id:$[id]-->
 	<font size="5"><b>$[name]</b></font>
 	<br>
 	<br>
@@ -986,6 +997,7 @@
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
+	<!--feature_id:$[id]-->
 	<font size="5"><b>$[name]</b></font>
 	<br>
 	<br>
@@ -1075,6 +1087,7 @@
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
+	<!--feature_id:$[id]-->
 	<font size="5"><b>$[name]</b></font>
 	<br>
 	<br>
@@ -1154,6 +1167,7 @@
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
+	<!--feature_id:$[id]-->
 	<font size="5"><b>$[name]</b></font>
 	<br>
 	<br>
@@ -1243,6 +1257,7 @@
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
+	<!--feature_id:$[id]-->
 	<font size="5"><b>$[name]</b></font>
 	<br>
 	<br>
@@ -1322,6 +1337,7 @@
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
+	<!--feature_id:$[id]-->
 	<font size="5"><b>$[name]</b></font>
 	<br>
 	<br>
@@ -1411,6 +1427,7 @@
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
+	<!--feature_id:$[id]-->
 	<font size="5"><b>$[name]</b></font>
 	<br>
 	<br>
@@ -1490,6 +1507,7 @@
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
+	<!--feature_id:$[id]-->
 	<font size="5"><b>$[name]</b></font>
 	<br>
 	<br>
@@ -1566,6 +1584,9 @@
       <name><![CDATA[Fire Station No 6]]></name>
       <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[9]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Fire Station No 6]]></value>
         </Data>
@@ -1653,6 +1674,9 @@
       <name><![CDATA[33-35 Sussex Drive]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[10]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[33-35 Sussex Drive]]></value>
         </Data>
@@ -1718,6 +1742,9 @@
       <name><![CDATA[W.C. Edwards General Offices]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[11]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[W.C. Edwards General Offices]]></value>
         </Data>
@@ -1783,6 +1810,9 @@
       <name><![CDATA[Monument National Building]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[12]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Monument National Building]]></value>
         </Data>
@@ -1870,6 +1900,9 @@
       <name><![CDATA[Grey Nuns Convent School (Rideau Street Convent)]]></name>
       <styleUrl>#relig_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[13]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Grey Nuns Convent School (Rideau Street Convent)]]></value>
         </Data>
@@ -1957,6 +1990,9 @@
       <name><![CDATA[Ogilvy's]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[14]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Ogilvy's]]></value>
         </Data>
@@ -2022,6 +2058,9 @@
       <name><![CDATA[Federal Hotel]]></name>
       <styleUrl>#hotel_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[15]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Federal Hotel]]></value>
         </Data>
@@ -2109,6 +2148,9 @@
       <name><![CDATA[Corry Block]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[16]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Corry Block]]></value>
         </Data>
@@ -2174,6 +2216,9 @@
       <name><![CDATA[Knox Church]]></name>
       <styleUrl>#relig_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[17]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Knox Church]]></value>
         </Data>
@@ -2283,6 +2328,9 @@
       <name><![CDATA[Roxborough Apartments]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[18]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Roxborough Apartments]]></value>
         </Data>
@@ -2348,6 +2396,9 @@
       <name><![CDATA[Aylmer Apartments]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[19]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Aylmer Apartments]]></value>
         </Data>
@@ -2413,6 +2464,9 @@
       <name><![CDATA[Woods Building]]></name>
       <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[20]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Woods Building]]></value>
         </Data>
@@ -2500,6 +2554,9 @@
       <name><![CDATA[Canadian Building]]></name>
       <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[21]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Canadian Building]]></value>
         </Data>
@@ -2587,6 +2644,9 @@
       <name><![CDATA[Grand Union Hotel]]></name>
       <styleUrl>#hotel_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[22]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Grand Union Hotel]]></value>
         </Data>
@@ -2652,6 +2712,9 @@
       <name><![CDATA[Russell Theatre]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[23]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Russell Theatre]]></value>
         </Data>
@@ -2717,6 +2780,9 @@
       <name><![CDATA[Russell House Hotel]]></name>
       <styleUrl>#hotel_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[24]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Russell House Hotel]]></value>
         </Data>
@@ -2804,6 +2870,9 @@
       <name><![CDATA[Old City Hall]]></name>
       <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[25]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Old City Hall]]></value>
         </Data>
@@ -2891,6 +2960,9 @@
       <name><![CDATA[Old Post Office]]></name>
       <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[26]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Old Post Office]]></value>
         </Data>
@@ -3044,6 +3116,9 @@
       <name><![CDATA[Windsor Hotel]]></name>
       <styleUrl>#hotel_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[27]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Windsor Hotel]]></value>
         </Data>
@@ -3131,6 +3206,9 @@
       <name><![CDATA[Royal Bank Building]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[28]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Royal Bank Building]]></value>
         </Data>
@@ -3240,6 +3318,9 @@
       <name><![CDATA[Fire Station No 8 (Central Fire Station)]]></name>
       <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[29]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Fire Station No 8 (Central Fire Station)]]></value>
         </Data>
@@ -3305,6 +3386,9 @@
       <name><![CDATA[Police Court Offices]]></name>
       <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[30]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Police Court Offices]]></value>
         </Data>
@@ -3392,6 +3476,9 @@
       <name><![CDATA[Registry Office]]></name>
       <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[31]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Registry Office]]></value>
         </Data>
@@ -3457,6 +3544,9 @@
       <name><![CDATA[Forwarding Company Freight Shed]]></name>
       <styleUrl>#industrial_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[32]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Forwarding Company Freight Shed]]></value>
         </Data>
@@ -3542,6 +3632,9 @@
       <name><![CDATA[Birkett & Son Warehouse]]></name>
       <styleUrl>#industrial_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[33]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Birkett & Son Warehouse]]></value>
         </Data>
@@ -3627,6 +3720,9 @@
       <name><![CDATA[37-41 Sparks Street]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[34]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[37-41 Sparks Street]]></value>
         </Data>
@@ -3736,6 +3832,9 @@
       <name><![CDATA[Victoria Chambers]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[35]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Victoria Chambers]]></value>
         </Data>
@@ -3845,6 +3944,9 @@
       <name><![CDATA[Titus Block]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[36]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Titus Block]]></value>
         </Data>
@@ -3934,6 +4036,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[Dominion Methodist Church]]></name>
       <styleUrl>#relig_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[37]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Dominion Methodist Church]]></value>
         </Data>
@@ -3999,6 +4104,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[Garland Dry Goods Warehouse]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[38]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Garland Dry Goods Warehouse]]></value>
         </Data>
@@ -4086,6 +4194,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[Ross Building]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[39]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Ross Building]]></value>
         </Data>
@@ -4173,6 +4284,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[Ottawa Public Library]]></name>
       <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[41]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Ottawa Public Library]]></value>
         </Data>
@@ -4238,6 +4352,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[Gloucester Street Convent (Congregation de Notre Dame)]]></name>
       <styleUrl>#relig_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[42]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Gloucester Street Convent (Congregation de Notre Dame)]]></value>
         </Data>
@@ -4303,6 +4420,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[Martin O'Gara's House]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[43]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Martin O'Gara's House]]></value>
         </Data>
@@ -4368,6 +4488,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[54 Main Street, 'Two Maples']]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[44]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[54 Main Street, 'Two Maples']]></value>
         </Data>
@@ -4455,6 +4578,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[Daly Building]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[45]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Daly Building]]></value>
         </Data>
@@ -4519,6 +4645,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[Government Printing Bureau]]></name>
       <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[46]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Government Printing Bureau]]></value>
         </Data>
@@ -4584,6 +4713,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[406-410 Sussex Drive]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[47]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[406-410 Sussex Drive]]></value>
         </Data>
@@ -4649,6 +4781,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[469-487 Wellington Street]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[48]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[469-487 Wellington Street]]></value>
         </Data>
@@ -4758,6 +4893,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[Ottawa Electric Railway Car Shed]]></name>
       <styleUrl>#trans_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[49]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Ottawa Electric Railway Car Shed]]></value>
         </Data>
@@ -4845,6 +4983,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[Palace Hotel]]></name>
       <styleUrl>#hotel_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[50]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Palace Hotel]]></value>
         </Data>
@@ -4910,6 +5051,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[Pacific Hotel]]></name>
       <styleUrl>#hotel_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[51]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Pacific Hotel]]></value>
         </Data>
@@ -4975,6 +5119,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[&#201;cole Ste-Famille]]></name>
       <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[52]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[&#201;cole Ste-Famille]]></value>
         </Data>
@@ -5040,6 +5187,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[The Perley Home]]></name>
       <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[53]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[The Perley Home]]></value>
         </Data>
@@ -5127,6 +5277,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[167 Cartier Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[54]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[167 Cartier Street]]></value>
         </Data>
@@ -5191,6 +5344,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[St. Luke's Hospital]]></name>
       <styleUrl>#health_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[55]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[St. Luke's Hospital]]></value>
         </Data>
@@ -5278,6 +5434,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[Rideau Canoe Club]]></name>
       <styleUrl>#rec_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[56]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Rideau Canoe Club]]></value>
         </Data>
@@ -5343,6 +5502,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[Original Supreme Court of Canada Building]]></name>
       <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[57]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Original Supreme Court of Canada Building]]></value>
         </Data>
@@ -5430,6 +5592,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[Ottawa Curling Club Rink]]></name>
       <styleUrl>#rec_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[58]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Ottawa Curling Club Rink]]></value>
         </Data>
@@ -5561,6 +5726,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[22 Vittoria Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[59]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[22 Vittoria Street]]></value>
         </Data>
@@ -5670,6 +5838,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[Union Station CPR]]></name>
       <styleUrl>#trans_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[60]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Union Station CPR]]></value>
         </Data>
@@ -5695,7 +5866,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="sources">
-          <value><![CDATA[The Railways of Ottawa: <a href="http://www.railways.incanada.net/circle/findings.htm">http://www.railways.incanada.net/circle/findings.htm</a><br>"Special Trains Bring Thousands To City", The Evening Citizen, 20 June 1947, pp. 1, 16.: <a href="https://news.google.com/newspapers?id=36suAAAAIBAJ&sjid=JtwFAAAAIBAJ&pg=6660%2C4654399">https://news.google.com/newspapers?id=36suAAAAIBAJ&sjid=JtwFAAAAIBAJ&pg=6660%2C4654399</a>]]></value>
+          <value><![CDATA[The Railways of Ottawa: <a href="http://churcher.crcml.org/circle/findings.htm">http://churcher.crcml.org/circle/findings.htm</a><br>"Special Trains Bring Thousands To City", The Evening Citizen, 20 June 1947, pp. 1, 16.: <a href="https://news.google.com/newspapers?id=36suAAAAIBAJ&sjid=JtwFAAAAIBAJ&pg=6660%2C4654399">https://news.google.com/newspapers?id=36suAAAAIBAJ&sjid=JtwFAAAAIBAJ&pg=6660%2C4654399</a>]]></value>
         </Data>
         <Data name="photos">
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
@@ -5735,6 +5906,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[CPR Round House]]></name>
       <styleUrl>#trans_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[61]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[CPR Round House]]></value>
         </Data>
@@ -5760,7 +5934,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="sources">
-          <value><![CDATA[Railways of Ottawa - Roundhouses and Enginehouses: <a href="http://www.railways.incanada.net/circle/Findings_Enginehouses.htm#CPROttawaWestshop">http://www.railways.incanada.net/circle/Findings_Enginehouses.htm#CPROttawaWestshop</a>]]></value>
+          <value><![CDATA[Railways of Ottawa - Roundhouses and Enginehouses: <a href="http://churcher.crcml.org/circle/Findings_Enginehouses.htm#CPROttawaWestshop">http://churcher.crcml.org/circle/Findings_Enginehouses.htm#CPROttawaWestshop</a>]]></value>
         </Data>
         <Data name="photos">
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
@@ -5822,6 +5996,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[Carleton Chambers]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[62]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Carleton Chambers]]></value>
         </Data>
@@ -5909,6 +6086,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[41 Cliff Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[63]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[41 Cliff Street]]></value>
         </Data>
@@ -6018,6 +6198,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[William Topley's Studio]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[64]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[William Topley's Studio]]></value>
         </Data>
@@ -6083,6 +6266,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[Holbrook Chambers]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[65]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Holbrook Chambers]]></value>
         </Data>
@@ -6170,6 +6356,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[British American Bank Note Co.]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[66]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[British American Bank Note Co.]]></value>
         </Data>
@@ -6235,6 +6424,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[Family Theatre]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[67]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Family Theatre]]></value>
         </Data>
@@ -6300,6 +6492,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[291 Queen Street (Residence of R.J. Wickstead)]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[68]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[291 Queen Street (Residence of R.J. Wickstead)]]></value>
         </Data>
@@ -6365,6 +6560,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[Turkish Baths (Residence of George Logan)]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[69]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Turkish Baths (Residence of George Logan)]]></value>
         </Data>
@@ -6430,6 +6628,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[584 Laurier Avenue]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[70]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[584 Laurier Avenue]]></value>
         </Data>
@@ -6495,6 +6696,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[Y.M.C.A.]]></name>
       <styleUrl>#rec_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[71]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Y.M.C.A.]]></value>
         </Data>
@@ -6560,6 +6764,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[Bank of Quebec]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[72]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Bank of Quebec]]></value>
         </Data>
@@ -6625,6 +6832,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[Bank of Ottawa]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[73]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Bank of Ottawa]]></value>
         </Data>
@@ -6690,6 +6900,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[Imperial Bank of Canada]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[74]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Imperial Bank of Canada]]></value>
         </Data>
@@ -6755,6 +6968,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[National Bank]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[75]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[National Bank]]></value>
         </Data>
@@ -6820,6 +7036,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[Merchant's Bank]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[76]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Merchant's Bank]]></value>
         </Data>
@@ -6885,6 +7104,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[Gowling Business College]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[77]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Gowling Business College]]></value>
         </Data>
@@ -6950,6 +7172,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[American Bank Note Co.]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[78]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[American Bank Note Co.]]></value>
         </Data>
@@ -7015,6 +7240,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[Rideau Club]]></name>
       <styleUrl>#rec_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[79]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Rideau Club]]></value>
         </Data>
@@ -7080,6 +7308,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[412 Somerset Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[80]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[412 Somerset Street]]></value>
         </Data>
@@ -7145,6 +7376,9 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       <name><![CDATA[175 Metcalfe Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[81]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[175 Metcalfe Street]]></value>
         </Data>
@@ -7211,6 +7445,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Reformed Episcopal Church]]></name>
       <styleUrl>#relig_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[82]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Reformed Episcopal Church]]></value>
         </Data>
@@ -7276,6 +7513,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Laurentian Club]]></name>
       <styleUrl>#rec_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[83]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Laurentian Club]]></value>
         </Data>
@@ -7341,6 +7581,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Canadian Fisheries Exhibit & National Art Gallery]]></name>
       <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[84]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Canadian Fisheries Exhibit & National Art Gallery]]></value>
         </Data>
@@ -7428,6 +7671,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[120 Rideau Street (Store of William Borthwick)]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[85]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[120 Rideau Street (Store of William Borthwick)]]></value>
         </Data>
@@ -7493,6 +7739,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[74 Rideau Street]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[86]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[74 Rideau Street]]></value>
         </Data>
@@ -7558,6 +7807,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[34-38 Rideau Street]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[87]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[34-38 Rideau Street]]></value>
         </Data>
@@ -7623,6 +7875,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[100-102 Rideau Street, Mason & Co.]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[88]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[100-102 Rideau Street, Mason & Co.]]></value>
         </Data>
@@ -7688,6 +7943,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Gloucester Township Hall]]></name>
       <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[89]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Gloucester Township Hall]]></value>
         </Data>
@@ -7753,6 +8011,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[43 Rideau Street]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[90]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[43 Rideau Street]]></value>
         </Data>
@@ -7840,6 +8101,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Sussex Street Station]]></name>
       <styleUrl>#trans_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[91]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Sussex Street Station]]></value>
         </Data>
@@ -7865,7 +8129,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="sources">
-          <value><![CDATA[Colin Churcher's Railway Pages - The Sussex Street Station: <a href="http://www.railways.incanada.net/Articles/Article2004_6.html">http://www.railways.incanada.net/Articles/Article2004_6.html</a>]]></value>
+          <value><![CDATA[Colin Churcher's Railway Pages - The Sussex Street Station: <a href="http://churcher.crcml.org/Articles/Article2004_6.html">http://churcher.crcml.org/Articles/Article2004_6.html</a>]]></value>
         </Data>
         <Data name="photos">
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
@@ -7926,6 +8190,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Bank of Montreal]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[92]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Bank of Montreal]]></value>
         </Data>
@@ -7991,6 +8258,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Martin Orme Piano Factory]]></name>
       <styleUrl>#industrial_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[93]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Martin Orme Piano Factory]]></value>
         </Data>
@@ -8056,6 +8326,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Fire Station No 2]]></name>
       <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[94]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Fire Station No 2]]></value>
         </Data>
@@ -8121,6 +8394,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[The Capital Hotel]]></name>
       <styleUrl>#hotel_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[95]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[The Capital Hotel]]></value>
         </Data>
@@ -8208,6 +8484,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[121 Metcalfe Road (Bank Street)]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[97]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[121 Metcalfe Road (Bank Street)]]></value>
         </Data>
@@ -8272,6 +8551,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Agricultural Building]]></name>
       <styleUrl>#rec_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[98]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Agricultural Building]]></value>
         </Data>
@@ -8337,6 +8619,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[183 Albert Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[99]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[183 Albert Street]]></value>
         </Data>
@@ -8402,6 +8687,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[377 Sparks Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[100]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[377 Sparks Street]]></value>
         </Data>
@@ -8467,6 +8755,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[American Bank Note Co. Building]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[101]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[American Bank Note Co. Building]]></value>
         </Data>
@@ -8532,6 +8823,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Broadview Apartments]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[102]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Broadview Apartments]]></value>
         </Data>
@@ -8619,6 +8913,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[386-390 Wellington Street]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[103]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[386-390 Wellington Street]]></value>
         </Data>
@@ -8684,6 +8981,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[10-12 Albert Street]]></name>
       <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[104]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[10-12 Albert Street]]></value>
         </Data>
@@ -8749,6 +9049,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[68 O'Connor Street]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[105]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[68 O'Connor Street]]></value>
         </Data>
@@ -8814,6 +9117,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[64-66 O'Connor Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[106]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[64-66 O'Connor Street]]></value>
         </Data>
@@ -8879,6 +9185,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Rideau Skating Rink]]></name>
       <styleUrl>#rec_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[107]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Rideau Skating Rink]]></value>
         </Data>
@@ -8944,6 +9253,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[58 O'Connor Street]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[108]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[58 O'Connor Street]]></value>
         </Data>
@@ -9009,6 +9321,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[60 O'Connor Street]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[109]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[60 O'Connor Street]]></value>
         </Data>
@@ -9074,6 +9389,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Orange Hall (Albert Street)]]></name>
       <styleUrl>#rec_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[110]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Orange Hall (Albert Street)]]></value>
         </Data>
@@ -9139,6 +9457,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Ste. Anne's School]]></name>
       <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[111]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Ste. Anne's School]]></value>
         </Data>
@@ -9204,6 +9525,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Ste. Anne's Hall]]></name>
       <styleUrl>#relig_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[112]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Ste. Anne's Hall]]></value>
         </Data>
@@ -9269,6 +9593,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Bolton Street School]]></name>
       <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[113]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Bolton Street School]]></value>
         </Data>
@@ -9334,6 +9661,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[267-276 Cathcart Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[114]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[267-276 Cathcart Street]]></value>
         </Data>
@@ -9399,6 +9729,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Ottawa Amateur Athletics]]></name>
       <styleUrl>#rec_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[115]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Ottawa Amateur Athletics]]></value>
         </Data>
@@ -9464,6 +9797,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[110-114 Elgin Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[116]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[110-114 Elgin Street]]></value>
         </Data>
@@ -9529,6 +9865,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Office of the Free Press]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[117]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Office of the Free Press]]></value>
         </Data>
@@ -9594,6 +9933,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[168 Queen Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[118]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[168 Queen Street]]></value>
         </Data>
@@ -9659,6 +10001,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[170 Queen Street (Shoe Hospital)]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[119]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[170 Queen Street (Shoe Hospital)]]></value>
         </Data>
@@ -9724,6 +10069,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Brading Breweries]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[120]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Brading Breweries]]></value>
         </Data>
@@ -9789,6 +10137,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[14 Kent Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[121]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[14 Kent Street]]></value>
         </Data>
@@ -9854,6 +10205,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Cecil Hotel]]></name>
       <styleUrl>#hotel_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[122]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Cecil Hotel]]></value>
         </Data>
@@ -9919,6 +10273,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Central Ward West School]]></name>
       <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[123]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Central Ward West School]]></value>
         </Data>
@@ -9984,6 +10341,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Bank Street Presbyterian Church]]></name>
       <styleUrl>#relig_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[124]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Bank Street Presbyterian Church]]></value>
         </Data>
@@ -10049,6 +10409,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[168-170 Cobourg Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[125]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[168-170 Cobourg Street]]></value>
         </Data>
@@ -10114,6 +10477,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Lady Stanley Institute]]></name>
       <styleUrl>#health_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[126]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Lady Stanley Institute]]></value>
         </Data>
@@ -10179,6 +10545,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Residence of Robert Laird Borden, 'Glensmere']]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[127]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Residence of Robert Laird Borden, 'Glensmere']]></value>
         </Data>
@@ -10266,6 +10635,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Ottawa Maternity Hospital]]></name>
       <styleUrl>#health_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[128]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Ottawa Maternity Hospital]]></value>
         </Data>
@@ -10331,6 +10703,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[102 Lisgar Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[129]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[102 Lisgar Street]]></value>
         </Data>
@@ -10418,6 +10793,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[67 Cartier Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[130]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[67 Cartier Street]]></value>
         </Data>
@@ -10483,6 +10861,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[69 Cartier Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[131]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[69 Cartier Street]]></value>
         </Data>
@@ -10548,6 +10929,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[211 Bronson Avenue]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[132]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[211 Bronson Avenue]]></value>
         </Data>
@@ -10613,6 +10997,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[St. Patrick's Asylum]]></name>
       <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[133]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[St. Patrick's Asylum]]></value>
         </Data>
@@ -10678,6 +11065,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[108 Lisgar Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[134]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[108 Lisgar Street]]></value>
         </Data>
@@ -10743,6 +11133,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Protestant Orphans Home]]></name>
       <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[135]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Protestant Orphans Home]]></value>
         </Data>
@@ -10808,6 +11201,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[141 Cooper Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[136]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[141 Cooper Street]]></value>
         </Data>
@@ -10961,6 +11357,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[180 Cooper Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[137]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[180 Cooper Street]]></value>
         </Data>
@@ -11026,6 +11425,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[245 Cooper Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[138]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[245 Cooper Street]]></value>
         </Data>
@@ -11091,6 +11493,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[111 Cooper Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[140]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[111 Cooper Street]]></value>
         </Data>
@@ -11156,6 +11561,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[250 Cooper Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[141]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[250 Cooper Street]]></value>
         </Data>
@@ -11221,6 +11629,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[191 Somerset Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[164]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[191 Somerset Street]]></value>
         </Data>
@@ -11286,6 +11697,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Seybold's Castle]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[165]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Seybold's Castle]]></value>
         </Data>
@@ -11351,6 +11765,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[272 Somerset Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[166]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[272 Somerset Street]]></value>
         </Data>
@@ -11416,6 +11833,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[467 Rideau Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[167]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[467 Rideau Street]]></value>
         </Data>
@@ -11481,6 +11901,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Queen's Hall]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[168]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Queen's Hall]]></value>
         </Data>
@@ -11546,6 +11969,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Residence of Michael P. Davis]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[172]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Residence of Michael P. Davis]]></value>
         </Data>
@@ -11611,6 +12037,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[197-199 Rideau Street]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[173]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[197-199 Rideau Street]]></value>
         </Data>
@@ -11676,6 +12105,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Nicholas Sparks' House]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[174]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Nicholas Sparks' House]]></value>
         </Data>
@@ -11741,6 +12173,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Citizen Building]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[175]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Citizen Building]]></value>
         </Data>
@@ -11806,6 +12241,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[68 Sparks Street]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[176]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[68 Sparks Street]]></value>
         </Data>
@@ -11871,6 +12309,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[12 Bank Street]]></name>
       <styleUrl>#rec_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[177]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[12 Bank Street]]></value>
         </Data>
@@ -11958,6 +12399,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[47 Vittoria Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[178]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[47 Vittoria Street]]></value>
         </Data>
@@ -12067,6 +12511,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[118-120 Vittoria Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[179]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[118-120 Vittoria Street]]></value>
         </Data>
@@ -12132,6 +12579,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[14 Vittoria Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[180]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[14 Vittoria Street]]></value>
         </Data>
@@ -12241,6 +12691,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[74-76 Vittoria Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[181]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[74-76 Vittoria Street]]></value>
         </Data>
@@ -12350,6 +12803,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[102 Vittoria Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[182]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[102 Vittoria Street]]></value>
         </Data>
@@ -12415,6 +12871,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[57 Vittoria Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[183]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[57 Vittoria Street]]></value>
         </Data>
@@ -12480,6 +12939,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[20 Kent Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[184]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[20 Kent Street]]></value>
         </Data>
@@ -12567,6 +13029,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[A.A. Fournier Dry Goods]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[185]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[A.A. Fournier Dry Goods]]></value>
         </Data>
@@ -12632,6 +13097,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[299-303 Wellington Street]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[186]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[299-303 Wellington Street]]></value>
         </Data>
@@ -12697,6 +13165,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[207-215 Wellington Street]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[187]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[207-215 Wellington Street]]></value>
         </Data>
@@ -12762,6 +13233,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[The Vandome Hotel]]></name>
       <styleUrl>#hotel_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[188]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[The Vandome Hotel]]></value>
         </Data>
@@ -12827,6 +13301,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Almonte House Hotel]]></name>
       <styleUrl>#hotel_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[189]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Almonte House Hotel]]></value>
         </Data>
@@ -12892,6 +13369,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[255-263 Wellington Street]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[190]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[255-263 Wellington Street]]></value>
         </Data>
@@ -12979,6 +13459,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Wellington Apartments]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[191]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Wellington Apartments]]></value>
         </Data>
@@ -13044,6 +13527,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[265-275 Wellington Street]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[192]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[265-275 Wellington Street]]></value>
         </Data>
@@ -13109,6 +13595,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[217-221 Wellington Street]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[193]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[217-221 Wellington Street]]></value>
         </Data>
@@ -13174,6 +13663,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[251-253 Wellington Street]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[194]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[251-253 Wellington Street]]></value>
         </Data>
@@ -13239,6 +13731,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[247-249 Wellington Street]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[195]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[247-249 Wellington Street]]></value>
         </Data>
@@ -13304,6 +13799,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[309-311 Wellington Street]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[196]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[309-311 Wellington Street]]></value>
         </Data>
@@ -13369,6 +13867,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Hawkesbury Lumber]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[197]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Hawkesbury Lumber]]></value>
         </Data>
@@ -13434,6 +13935,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[305-307 Wellington Street]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[198]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[305-307 Wellington Street]]></value>
         </Data>
@@ -13499,6 +14003,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[New Arlington Hotel]]></name>
       <styleUrl>#hotel_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[199]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[New Arlington Hotel]]></value>
         </Data>
@@ -13586,6 +14093,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[34 Vittoria Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[200]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[34 Vittoria Street]]></value>
         </Data>
@@ -13673,6 +14183,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[3 Kent Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[201]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[3 Kent Street]]></value>
         </Data>
@@ -13738,6 +14251,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[72 Vittoria Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[202]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[72 Vittoria Street]]></value>
         </Data>
@@ -13803,6 +14319,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[70 Vittoria Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[203]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[70 Vittoria Street]]></value>
         </Data>
@@ -13868,6 +14387,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[13 Kent Street & 59 Vittoria Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[204]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[13 Kent Street & 59 Vittoria Street]]></value>
         </Data>
@@ -13955,6 +14477,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[Victoria Lawn Bowling Club]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[205]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[Victoria Lawn Bowling Club]]></value>
         </Data>
@@ -14042,6 +14567,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[84-88 Vittoria Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[206]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[84-88 Vittoria Street]]></value>
         </Data>
@@ -14129,6 +14657,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[110-114 Vittoria Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[207]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[110-114 Vittoria Street]]></value>
         </Data>
@@ -14238,6 +14769,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[The Continental Bag & Paper Co.]]></name>
       <styleUrl>#industrial_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[208]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[The Continental Bag & Paper Co.]]></value>
         </Data>
@@ -14303,6 +14837,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[598 Wellington Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[209]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[598 Wellington Street]]></value>
         </Data>
@@ -14368,6 +14905,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[112-116 Sherwood Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[210]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[112-116 Sherwood Street]]></value>
         </Data>
@@ -14433,6 +14973,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[594 Wellington Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[211]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[594 Wellington Street]]></value>
         </Data>
@@ -14498,6 +15041,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[143-141 Queen Street West]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[212]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[143-141 Queen Street West]]></value>
         </Data>
@@ -14563,6 +15109,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[677 Wellington Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[213]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[677 Wellington Street]]></value>
         </Data>
@@ -14628,6 +15177,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[664 Wellington Street]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[214]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[664 Wellington Street]]></value>
         </Data>
@@ -14693,6 +15245,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[179 Broad Street]]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[215]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[179 Broad Street]]></value>
         </Data>
@@ -14758,6 +15313,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[675 Wellington Street]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[216]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[675 Wellington Street]]></value>
         </Data>
@@ -14823,6 +15381,9 @@ gation Notre Dame]]></value>
       <name><![CDATA[50-52 Ottawa Street]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[217]]></value>
+        </Data>
         <Data name="name">
           <value><![CDATA[50-52 Ottawa Street]]></value>
         </Data>
