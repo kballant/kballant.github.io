@@ -941,14 +941,18 @@ kmlLayer.getSource().on('change', function(evt){
 			queryString = location.search.substring(1);
 			id_val = queryString.split('=')[1];
 			//alert(id_val);
-			var feat = query_by_prop('id', id_val)
-			//var centre = feat.geometry.getCentroid();
-			var extent = feat.getGeometry().getExtent();
-			var featId = feat.getId();
-			map.getView().fit(extent, map.getSize());
-			//map.getView().setCenter(ol.proj.fromLonLat([lon, lat]))
-			map.getView().setZoom(20);
-			cleanURL();
+			if (isNaN(id_val)) {
+				cleanURL();
+			} else {
+				var feat = query_by_prop('id', id_val)
+				//var centre = feat.geometry.getCentroid();
+				var extent = feat.getGeometry().getExtent();
+				var featId = feat.getId();
+				map.getView().fit(extent, map.getSize());
+				//map.getView().setCenter(ol.proj.fromLonLat([lon, lat]))
+				map.getView().setZoom(20);
+				cleanURL();
+			}
 		}
     }
 });
