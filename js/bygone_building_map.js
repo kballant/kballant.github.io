@@ -249,11 +249,11 @@ function refreshBuildLayers(checkbox) {
 var projection = ol.proj.get('EPSG:3857');
 
 var bingLayer = new ol.layer.Tile({
-  source: new ol.source.BingMaps({
-    imagerySet: 'Aerial',
-    key: 'AhCYdXJJqvQnyMnREP6yvB8LBqky1iY8k_ZfEZpFpjKC7mXRduWYXfSnV1683P3_'
-	//crossOrigin: 'anonymous'
-  })
+	source: new ol.source.BingMaps({
+		imagerySet: 'Aerial',
+		key: 'AhCYdXJJqvQnyMnREP6yvB8LBqky1iY8k_ZfEZpFpjKC7mXRduWYXfSnV1683P3_'
+		//crossOrigin: 'anonymous'
+	})
 });
 
 var osmSource = new ol.source.OSM();
@@ -316,6 +316,18 @@ function removeHighlight(featId) {
 	};
 };
 
+function query_by_prop(property, value) {
+	var features = kmlLayer.getSource().getFeatures();
+	
+	for (var i=0; i<features.length; i++) {
+		var feat = features[i];
+		var properties = feat.getProperties();
+		if (properties[property] == value) {
+			return feat;
+		}
+	}
+}
+
 function closePopup(featId) {
 	//removeHighlight($(feature));
 	//var feature = kmlLayer.getSource().getFeatureById(featId);
@@ -355,6 +367,7 @@ function getPopupContent() {
 	return out_content;
 }
 
+/* ****Now part of popup.js****
 function create_photo_html(photos) {
 	
 	// Bootstrap Carousel:
@@ -366,15 +379,15 @@ function create_photo_html(photos) {
 		//<ol class="carousel-indicators">`
 	
 	// Create the indicators for each image in the carousel
-	/*for (var i = 0; i < photos.length; i++) {
-		if (i == 0) {
-			active_str = ' class="active"';
-		} else {
-			active_str = '';
-		}
-		photo_html += `
-			<li data-target="#photoCarousel" data-slide-to="${i}"${active_str}></li>`
-	}*/
+	//for (var i = 0; i < photos.length; i++) {
+	//	if (i == 0) {
+	//		active_str = ' class="active"';
+	//	} else {
+	//		active_str = '';
+	//	}
+	//	photo_html += `
+	//		<li data-target="#photoCarousel" data-slide-to="${i}"${active_str}></li>`
+	//}
 	//photo_html += `
 		//</ol>
 	photo_html += `
@@ -441,17 +454,18 @@ function create_photo_html(photos) {
 </div>`
 
 	return photo_html;
-}
+} */
 
 var info = $('#info');
 
+/* ****Now part of popup.js****
 function checkInput(in_text) {
 	if (in_text) {
 		return in_text;
 	} else {
 		return "n/a";
 	}
-}
+} */
 
 function resizeGeomatics() {
 	$('#geomatics').width($('this').width());
@@ -468,14 +482,34 @@ $(function(){
     $('#logo').trigger('layout.resizeCheck');
 });
 
-function showPopup(feature, layer) {
+function cleanURL() {
+	if (location.search.indexOf("?") > -1) {
+		var clean_url = location.protocol + "//" + location.host + location.pathname;
+		/*
+		var hash_pos = location.href.indexOf("#");
+		if (hash_pos > 0) {
+			var hash = location.href.substring(hash_pos, location.href.length);
+			clean_uri += hash;
+		}
+		*/
+		window.history.replaceState({}, document.title, clean_url);
+	}
+}
+
+function getPopup(feature, layer) {
+	
 	POPUP_LOCK = true;
 	
 	var props = feature.getProperties();
 	var featId = feature.getId();
 	
 	info.tooltip('hide');
+	
+	//popup_html = "\n<!--Feature_ID=" + featId.toString() + "-->"
+	
+	showPopup(props, featId);
 
+	/* ****Now part of popup.js****
 	$(".modal-title").html(props['name']).text();
 
 	popup_html = getPopupContent();
@@ -490,7 +524,7 @@ function showPopup(feature, layer) {
 	// Create links for sources:
 	/* src_text = props['sources'];
 	start_pos = src_text.indexOf("http");
-	end_pos = src_text.indexOf("\n", start_pos); */
+	end_pos = src_text.indexOf("\n", start_pos); /*
 	sources = checkInput(props['sources']);
 	sources = sources.replace(/<a/g, '<a target="_blank" class="popup-a"');
 	popup_html = popup_html.replace('${sources}', sources);
@@ -638,7 +672,7 @@ function showPopup(feature, layer) {
 
 	})(window, jQuery);
 
-	$('.thumbnails-carousel').thumbnailsCarousel();
+	$('.thumbnails-carousel').thumbnailsCarousel(); */
 }
 
 $(document).on("mfpClose", function(event) {
@@ -817,6 +851,10 @@ var popup_html = getPopupContent();
 	// POPUP_LOCK = true;
 // });
 
+/* map.on('moveend', function(e){
+    cleanURL();
+}); */
+
 // display popup on click
 map.on('click', function(evt) {
 	POPUP_LOCK = true;
@@ -840,7 +878,7 @@ map.on('click', function(evt) {
 				// Set the view to the building location:
 				var view_tmp = map.getView();
 				var featId = feature.getId();
-				showPopup(feature, layer);
+				getPopup(feature, layer);
 				/* $(element_pop).data('fid', featId);
 				view_tmp.setCenter(evt.coordinate);
 				popup_html = getPopupContent();
@@ -894,6 +932,26 @@ osmRad.click();
 // Set the building layer radio button:
 var kmlRad = document.getElementById('kml');
 kmlRad.click();
+
+kmlLayer.getSource().on('change', function(evt){
+    var source = evt.target;
+    if(source.getState() === 'ready'){
+        if (location.search.substring(1) != "") {
+			// Get the 'id' passed in from the URL
+			queryString = location.search.substring(1);
+			id_val = queryString.split('=')[1];
+			//alert(id_val);
+			var feat = query_by_prop('id', id_val)
+			//var centre = feat.geometry.getCentroid();
+			var extent = feat.getGeometry().getExtent();
+			var featId = feat.getId();
+			map.getView().fit(extent, map.getSize());
+			//map.getView().setCenter(ol.proj.fromLonLat([lon, lat]))
+			map.getView().setZoom(20);
+			cleanURL();
+		}
+    }
+});
 
 // change mouse cursor when over marker
 map.on('pointermove', function(e) {
