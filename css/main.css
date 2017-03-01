@@ -214,6 +214,9 @@ p.small {
 	padding-left: 10px !important;
 	padding-right: 10px !important;
 }
+p.center {
+	text-align: center !important;
+}
 footer {
 	/* background: rgba(50, 113, 231, 0.6);  */
 	background-color: #3355AA;
