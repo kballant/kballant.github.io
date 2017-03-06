@@ -3426,10 +3426,10 @@
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location currently occupied by the National Arts Centre.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Although not built for police functions, the Ottawa Police Department took over the building in 1889. By 1947, the building was in much need of repair (according to an Evening Citizen writer who wrote an unflattering article about the condition of the building).]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[10 Queen Street]]></value>
@@ -3438,7 +3438,7 @@
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="sources">
-          <value/>
+          <value><![CDATA[Phil Thompson, "Ottawa Police Station Grows Old Disgracefully", The Evening Citizen, 14 November 1947, pp. 16: <a href="https://news.google.com/newspapers?nid=2194&dat=19471114&id=rP4uAAAAIBAJ&sjid=R9wFAAAAIBAJ&pg=6295,3165449&hl=en">https://news.google.com/newspapers?nid=2194&dat=19471114&id=rP4uAAAAIBAJ&sjid=R9wFAAAAIBAJ&pg=6295,3165449&hl=en</a>]]></value>
         </Data>
         <Data name="photos">
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
@@ -5227,7 +5227,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location currently occupied by a parking lot for the Library & Archives of Canada building.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Expropriated by the Federal Government in 1912.]]></value>
@@ -6396,7 +6396,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location currently occupied by the Bank of Canada Building.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -7144,7 +7144,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location currently occupied by the Bank of Canada Building.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -7212,7 +7212,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location currently occupied by the Bank of Canada Building.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -7351,7 +7351,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[Residence of Robert McGiffin in 1888.]]></value>
+          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[412 Somerset Street]]></value>
@@ -7366,13 +7366,35 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
 		<tr align="left" valign="top">
 			<td>
-			<b>Photo 1</b> - 412 Somerset Street, Residence of McGiffin, August 1888.
+			<b>Photo 1</b> - Front (north) view of 412 Somerset Street, residence of McGiffin.
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3422235&rec_nbr_list=3422235">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/412_Somerset_Street_a027129.jpg" title="412 Somerset Street, Residence of McGiffin, August 1888." border="1" width="500"></a>
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/412_Somerset_Street_a027129.jpg" title="Front (north) view of 412 Somerset Street, residence of McGiffin." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: August 1888<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3422235</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - Front (north) view of 412 Somerset Street, residence of McGiffin.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3422235&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/412_Somerset_Street_a027129.jpg" title="Front (north) view of 412 Somerset Street, residence of McGiffin." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
@@ -7391,7 +7413,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.69743452011106,45.41468638874562,0 -75.69740608204937,45.4146974080809,0 -75.6973061722439,45.4145847007313,0 -75.6972586982114,45.41460416116178,0 -75.69731432711483,45.41467166161489,0 -75.69729617933905,45.41468008253889,0 -75.69737291547425,45.41477294456848,0 -75.69739101927266,45.41476647641535,0 -75.69740262912016,45.41477878949072,0 -75.6974438724896,45.41476432967642,0 -75.69744914186083,45.41477039524062,0 -75.6974787871592,45.41475833919606,0 -75.69747304284823,45.41475255255449,0 -75.69748573588977,45.41474640014444,0 -75.69743452011106,45.41468638874562,0</coordinates>
+            <coordinates>-75.69730546698339,45.41458402825231,0 -75.69725894684699,45.41460412042832,0 -75.69731514652445,45.41467218905233,0 -75.69729597622394,45.41468115414397,0 -75.69737287289277,45.41477227899513,0 -75.69739027735209,45.41476519812719,0 -75.69740304869315,45.414778655092,0 -75.69742346216462,45.41476918421802,0 -75.69743412807868,45.41476601067541,0 -75.6974473512131,45.4147699573819,0 -75.6974784305917,45.41475731295088,0 -75.69747266650796,45.41475033158329,0 -75.69748509824925,45.41474527381124,0 -75.69743361722205,45.41468694368728,0 -75.69740502420338,45.41469857656303,0 -75.69730546698339,45.41458402825231,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -7711,7 +7733,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location currently occupied by the Rideau Centre.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -7779,7 +7801,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location currently occupied by the Rideau Centre.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -7915,7 +7937,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location currently occupied by the Rideau Centre.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -8141,7 +8163,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[Location currently occupied by Sussex Square apartments. ]]></value>
+          <value><![CDATA[Location currently occupied by the Delegation of the Ismaili Imamat. ]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[The first railway station in Ottawa, the Sussex Street Station was opened sometime in December 1854 or January 1855. A fire occurred on 7th May 1860 which was later deemed to be arson. Due to its proximity to Rideau Hall, the station was regularly used for regal and vice-regal occasions, such as the arrival of Prince Arthur in October 1869. The station was in use until the line was abandoned in 1964, The last train to use the Sussex Street Station was on 12th June 1964.]]></value>
@@ -8230,7 +8252,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location currently occupied by the Sir John A. Macdonald Building.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -8751,7 +8773,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by the West Memorial Building.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -8819,7 +8841,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location currently occupied by the Bank of Canada Building.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -9635,7 +9657,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location currently occupied by Sussex Square apartments.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -11674,7 +11696,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[Residence of Hon. Frank Oliver]]></value>
+          <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[191 Somerset Street]]></value>
@@ -11689,13 +11711,57 @@ gation Notre Dame]]></value>
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
 		<tr align="left" valign="top">
 			<td>
-			<b>Photo 1</b> - 
+			<b>Photo 1</b> - Front (south) view of 191 Somerset Street, residence of Hon. Frank Oliver.
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3427688">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/191_Somerset_Street_a027985.jpg" title="" border="1" width="500"></a>
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/191_Somerset_Street_a027984.jpg" title="Front (south) view of 191 Somerset Street, residence of Hon. Frank Oliver." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: August 1907<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3427688</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - Front (south) view of 191 Somerset Street, residence of Hon. Frank Oliver.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3427687&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/191_Somerset_Street_a027984.jpg" title="Front (south) view of 191 Somerset Street, residence of Hon. Frank Oliver." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: August 1907<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3427687</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 3</b> - Side (west) view of 191 Somerset Street, residence of Hon. Frank Oliver.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3427688&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/191_Somerset_Street_2_a027985.jpg" title="Side (west) view of 191 Somerset Street, residence of Hon. Frank Oliver." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
@@ -11714,7 +11780,7 @@ gation Notre Dame]]></value>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.69112302728024,45.41785493930477,0 -75.69119981859828,45.41782005034477,0 -75.69112067244683,45.41772499363625,0 -75.69111042569114,45.41772910024492,0 -75.69109285934479,45.4177265984278,0 -75.69107173662258,45.41773642705423,0 -75.69106792621584,45.41774615221483,0 -75.69097742474473,45.4177822794151,0 -75.6910748349766,45.41789605604055,0 -75.69113795097564,45.41787075114178,0 -75.69112302728024,45.41785493930477,0</coordinates>
+            <coordinates>-75.69111796800951,45.41772537446454,0 -75.69110628404131,45.41772995299527,0 -75.69109339319452,45.41772613700006,0 -75.69107102464757,45.41773530550751,0 -75.69106682103752,45.41774527693232,0 -75.69097845422589,45.4177816689951,0 -75.69107247226205,45.41789660753457,0 -75.69113829879537,45.41787141428588,0 -75.69112469607484,45.41785127940391,0 -75.69120039481084,45.41782098096692,0 -75.69111796800951,45.41772537446454,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -12981,43 +13047,21 @@ gation Notre Dame]]></value>
         <td><table width="500" border="1" cellspacing="1" cellpadding="6">
 		<tr align="left" valign="top">
 			<td>
-			<b>Photo 2</b> - Rear yard of frame house
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600273&lang=eng">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/102_Vittoria_Street_2_e011168087.jpg" title="Rear yard of frame house" border="1" width="500"></a>
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<small><b>Date Taken</b>: n/a<br>
-			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600273</small>
-			</td>
-		</tr>
-	</table>
-			</td>
-     </tr>
-     <tr align="left" valign="top">
-        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
-		<tr align="left" valign="top">
-			<td>
-			<b>Photo 3</b> - Rear yard of 102 Vittoria Street.
+			<b>Photo 2</b> - Rear yard of 102 Vittoria Street.
 
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600289&lang=eng">
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600273&lang=eng">
 <img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/102_Vittoria_Street_2_e011168087.jpg" title="Rear yard of 102 Vittoria Street.
 " border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<small><b>Date Taken</b>: 1912<br>
-			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600289</small>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600273</small>
 			</td>
 		</tr>
 	</table>
@@ -17166,14 +17210,14 @@ gation Notre Dame]]></value>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name><![CDATA[71 Lyon Street (Waggon Warehouse)]]></name>
+      <name><![CDATA[71 Lyon Street (Wagon Warehouse)]]></name>
       <styleUrl>#industrial_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[230]]></value>
         </Data>
         <Data name="name">
-          <value><![CDATA[71 Lyon Street (Waggon Warehouse)]]></value>
+          <value><![CDATA[71 Lyon Street (Wagon Warehouse)]]></value>
         </Data>
         <Data name="dateBuilt">
           <value><![CDATA[n/a]]></value>
@@ -17203,13 +17247,13 @@ gation Notre Dame]]></value>
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
 		<tr align="left" valign="top">
 			<td>
-			<b>Photo 1</b> - Stone warehouse (waggon)
+			<b>Photo 1</b> - Stone warehouse (wagon)
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600261&lang=eng">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/71_Lyon_Street_e011168074.jpg" title="Stone warehouse (waggon)" border="1" width="500"></a>
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/71_Lyon_Street_e011168074.jpg" title="Stone warehouse (wagon)" border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
@@ -17568,7 +17612,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location currently occupied by the East Memorial Building (Department of Justice of Canada) which was completed in 1954.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -17636,7 +17680,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location currently occupied by the East Memorial Building (Department of Justice of Canada) which was completed in 1954.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -17792,6 +17836,683 @@ gation Notre Dame]]></value>
         <outerBoundaryIs>
           <LinearRing>
             <coordinates>-75.6754908433593,45.42791124950902,0 -75.67536726112185,45.42795903183256,0 -75.67537662734988,45.42797127809276,0 -75.67531843329037,45.42799490767154,0 -75.67535462376391,45.42803674060524,0 -75.67534509729256,45.42804151432953,0 -75.67536259463516,45.42806448492662,0 -75.67537756348354,45.4280606489865,0 -75.67539109277384,45.42807792671205,0 -75.67537746237179,45.42808273688204,0 -75.67539781726009,45.42810684422346,0 -75.67541010414351,45.42810201449751,0 -75.67542100436475,45.42811651643145,0 -75.67543192751066,45.42811361311613,0 -75.67546730537333,45.42815943544279,0 -75.67547411362108,45.42815725930517,0 -75.67548492862466,45.42816234036835,0 -75.67550814501311,45.42815219289315,0 -75.67550696795968,45.42814355030514,0 -75.67553761406302,45.42813067670692,0 -75.67554749750799,45.42813638384901,0 -75.67557130400174,45.42812712088207,0 -75.67556989302511,45.42811720917374,0 -75.67564013272451,45.42808856933661,0 -75.67561424042457,45.42805503803616,0 -75.67562704362744,45.42804896644094,0 -75.67560688238739,45.42802624123119,0 -75.67559223306921,45.4280315537108,0 -75.67555390945083,45.4279869857933,0 -75.67556836831763,45.42798119236682,0 -75.67555293211585,45.42796331811561,0 -75.67553851043914,45.42796840213655,0 -75.6754908433593,45.42791124950902,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[McLeod Street Methodist Church]]></name>
+      <styleUrl>#relig_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[238]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[McLeod Street Methodist Church]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[1890]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[1965]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Photo taken from northwest corner of McLeod and Bank Streets.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/McLeod_Street_Methodist.jpg" title="Photo taken from northwest corner of McLeod and Bank Streets." border="1" width="500">
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Private postcard collection</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.69298993939876,45.41140599296129,0 -75.69296033453034,45.41141738993827,0 -75.69291067532105,45.41136040447037,0 -75.69292595523024,45.41135504119885,0 -75.69286292637358,45.41128397693018,0 -75.69284764647395,45.41129001062038,0 -75.69280562733626,45.41124241092365,0 -75.69271967790654,45.411276601733,0 -75.69270535322686,45.41126051167812,0 -75.69263277366922,45.41128866872407,0 -75.69264614332879,45.41130609960467,0 -75.69256019371059,45.41134163108688,0 -75.69259075300592,45.41137582247032,0 -75.69257738303855,45.41138185612037,0 -75.69267001604881,45.41148711186638,0 -75.6926910260199,45.41147638533878,0 -75.69272349540523,45.41151325834274,0 -75.69270057544316,45.41152331445545,0 -75.69274259471895,45.41156957334642,0 -75.69280466960068,45.41154543867406,0 -75.69279605417563,45.4115351009663,0 -75.69293226597475,45.41148008303166,0 -75.69295136260618,45.41150291072303,0 -75.69303921134438,45.4114675249667,0 -75.69298993939876,45.41140599296129,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Bank of Ottawa (Gladstone & Bank)]]></name>
+      <styleUrl>#relig_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[239]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[Bank of Ottawa (Gladstone & Bank)]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[370 Gladstone Avenue & 440 Bank Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Bank of Ottawa at the southwest corner of Gladstone Avenue & Bank Street.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3319146&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Bank_of_Ottawa_a009106.jpg" title="Bank of Ottawa at the southwest corner of Gladstone Avenue & Bank Street." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3319146</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - Inside the Bank of Ottawa at Gladstone Avenue & Bank Street.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3381880&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Bank_of_Ottawa_2_a009107.jpg" title="Inside the Bank of Ottawa at Gladstone Avenue & Bank Street." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3381880</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 3</b> - Inside the Bank of Ottawa at Gladstone Avenue & Bank Street.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3381881&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Bank_of_Ottawa_3_a009108.jpg" title="Inside the Bank of Ottawa at Gladstone Avenue & Bank Street." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3381881</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.69381505040728,45.41185264167199,0 -75.6936013204833,45.41193916855546,0 -75.69365116465156,45.41202583718304,0 -75.69367411226679,45.41202583722459,0 -75.6938634159887,45.41194549610346,0 -75.69381505040728,45.41185264167199,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[25 Cliff Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[240]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[25 Cliff Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[25 Cliff Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Front (south) view of 25 Cliff Street.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://apt613.ca/streetscape-memory-bank-the-lost-neighbourhood-of-uppertown-pt-3/">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/25_Cliff_Street.jpg" title="Front (south) view of 25 Cliff Street." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Streetscape Memory Bank: The lost neighbourhood of Uppertown, Pt. 3</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70606863529525,45.4223482431305,0 -75.70606095455345,45.42235121558703,0 -75.70605471446014,45.42234381139167,0 -75.7060363041597,45.42235093552076,0 -75.70604207447065,45.42235781987465,0 -75.70602517459591,45.4223643600955,0 -75.70601854271025,45.42235640791505,0 -75.70597952308086,45.42237290774212,0 -75.70598609885094,45.42238088740381,0 -75.70595501829025,45.4223936184987,0 -75.70601346005728,45.4224664685303,0 -75.70600947999407,45.42247668826489,0 -75.70601857663871,45.42248912925348,0 -75.70603259271125,45.42249243698096,0 -75.70605294171976,45.42248455199594,0 -75.7060579406584,45.42249064339899,0 -75.70605040109913,45.42250161206565,0 -75.70605976858559,45.4225156019173,0 -75.70607850797261,45.42251570545993,0 -75.70608356436159,45.42252186685904,0 -75.70611586321037,45.42250934550436,0 -75.70615306969083,45.42255679045303,0 -75.70622978212785,45.42252778515596,0 -75.70611534628456,45.42238894366985,0 -75.70610295683666,45.42239374112848,0 -75.70606863529525,45.4223482431305,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[9 Lyon Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[241]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[9 Lyon Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[9 Lyon Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Front (south) view of 9 Lyon Street.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://apt613.ca/streetscape-memory-bank-uppertown-pt-2/">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/9_Lyon_Street.jpg" title="Front (south) view of 9 Lyon Street." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Streetscape Memory Bank: The lost Ottawa community of Uppertown, Pt. 2</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.7075063520216,45.42116945957722,0 -75.70732904811705,45.42114618829076,0 -75.7072935912129,45.42122741199126,0 -75.7073297341064,45.42123282011577,0 -75.70732228305542,45.42124935604087,0 -75.70741070317756,45.42126042437968,0 -75.70741490088902,45.42124360428493,0 -75.70748103102483,45.42125274561117,0 -75.7075063520216,45.42116945957722,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[115 Vittoria Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[242]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[115 Vittoria Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[115 Vittoria Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Front (south) view of 115 Vittoria Street.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://apt613.ca/streetscape-memory-bank-uppertown-pt-2/">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/115_Vittoria_Street.jpg" title="Front (south) view of 115 Vittoria Street." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Streetscape Memory Bank: The lost Ottawa community of Uppertown, Pt. 2</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70688415254639,45.42156488633932,0 -75.70681084781059,45.42147531256986,0 -75.70679805720444,45.42148032941518,0 -75.70676579331658,45.42144184969387,0 -75.70665107193523,45.4214869533426,0 -75.70675438461541,45.42161443569866,0 -75.70688415254639,45.42156488633932,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[107-111 Vittoria Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[243]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[107-111 Vittoria Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[107-111 Vittoria Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Front (south) view of 107-111 Vittoria Street.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://apt613.ca/streetscape-memory-bank-uppertown-pt-2/">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/107-111_Vittoria_Street.jpg" title="Front (south) view of 107-111 Vittoria Street." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Streetscape Memory Bank: The lost Ottawa community of Uppertown, Pt. 2</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70655225000309,45.42143899825963,0 -75.70631679795031,45.42153216836127,0 -75.70642051626152,45.42165985009036,0 -75.70646697629326,45.42164048117132,0 -75.70643238305992,45.42159680231725,0 -75.70646212674077,45.42158469203264,0 -75.70649778893831,45.42163012431823,0 -75.70653539178831,45.42161579433358,0 -75.70649958278874,45.42157058656074,0 -75.70653147906612,45.42155881541183,0 -75.70656812758047,45.42160756940614,0 -75.70662159518881,45.42158473917694,0 -75.70658349930487,45.421536260003,0 -75.70662184329463,45.42151988919394,0 -75.70655225000309,45.42143899825963,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[105 Vittoria Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[244]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[105 Vittoria Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[105 Vittoria Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Front (south) view of 105 Vittoria Street.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://apt613.ca/streetscape-memory-bank-uppertown-pt-2/">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/105_Vittoria_Street.jpg" title="Front (south) view of 105 Vittoria Street." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Streetscape Memory Bank: The lost Ottawa community of Uppertown, Pt. 2</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70631449641236,45.42158182161687,0 -75.70617907084393,45.42163483391262,0 -75.70624027353965,45.42170958985759,0 -75.70622427219436,45.42171698114084,0 -75.70630327402358,45.42181881570017,0 -75.7063841397552,45.42178751223582,0 -75.70631073581244,45.42169588559224,0 -75.70638361046458,45.42166710280116,0 -75.70631449641236,45.42158182161687,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[95 Vittoria Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[245]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[95 Vittoria Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[95 Vittoria Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Front (south) view of 95 Vittoria Street.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://apt613.ca/streetscape-memory-bank-uppertown-pt-2/">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/95_Vittoria_Street.jpg" title="Front (south) view of 95 Vittoria Street." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Streetscape Memory Bank: The lost Ottawa community of Uppertown, Pt. 2</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - Back (north) view of 95 Vittoria Street.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://apt613.ca/streetscape-memory-bank-uppertown-pt-2/">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/95_Vittoria_Street_2.jpg" title="Back (north) view of 95 Vittoria Street." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Streetscape Memory Bank: The lost Ottawa community of Uppertown, Pt. 2</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70605291123081,45.42169230793063,0 -75.70603090701276,45.42170096770236,0 -75.70602201803554,45.42169694178957,0 -75.70600817816356,45.42170238810581,0 -75.70600678949958,45.42170970585155,0 -75.70599551911022,45.42171564813849,0 -75.70604721636538,45.42177546825096,0 -75.7060596038243,45.42177058961663,0 -75.70614999667147,45.42188229614369,0 -75.70619426109312,45.42186402926703,0 -75.70605291123081,45.42169230793063,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[89 Vittoria Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[246]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[89 Vittoria Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[89 Vittoria Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Rear (north) view of 89 Vittoria Street.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://apt613.ca/streetscape-memory-bank-uppertown-pt-2/">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/89_Vittoria_Street_2.jpg" title="Rear (north) view of 89 Vittoria Street." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Streetscape Memory Bank: The lost Ottawa community of Uppertown, Pt. 2</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70596861029377,45.42172623816789,0 -75.70594332764907,45.42173618820474,0 -75.70592987352389,45.42173169970614,0 -75.70591765701958,45.42173650710913,0 -75.70591640887349,45.42174678213499,0 -75.7059082506599,45.42174999281203,0 -75.7059586872892,45.42180878684988,0 -75.70597569185125,45.42180286346428,0 -75.70604188705082,45.42188302155335,0 -75.70608556739101,45.42186580235155,0 -75.70596861029377,45.42172623816789,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
