@@ -10303,6 +10303,30 @@ gation Notre Dame]]></value>
 			</td>
 		</tr>
 	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - Front view of the Cecil Hotel.
+
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://urbsite.blogspot.ca/2013/04/cecils-many-fires.html">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Cecil_Hotel_pa42642.jpg" title="Front view of the Cecil Hotel.
+" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Urbsite Blog: Cecil's Many Fires</small>
+			</td>
+		</tr>
+	</table>
 		</td>
       </tr>
 </table>]]></value>
@@ -11733,29 +11757,7 @@ gation Notre Dame]]></value>
         <td><table width="500" border="1" cellspacing="1" cellpadding="6">
 		<tr align="left" valign="top">
 			<td>
-			<b>Photo 2</b> - Front (south) view of 191 Somerset Street, residence of Hon. Frank Oliver.
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3427687&lang=eng">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/191_Somerset_Street_a027984.jpg" title="Front (south) view of 191 Somerset Street, residence of Hon. Frank Oliver." border="1" width="500"></a>
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<small><b>Date Taken</b>: August 1907<br>
-			<b>Source</b>: Library & Archives Canada, MIKAN no. 3427687</small>
-			</td>
-		</tr>
-	</table>
-			</td>
-     </tr>
-     <tr align="left" valign="top">
-        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
-		<tr align="left" valign="top">
-			<td>
-			<b>Photo 3</b> - Side (west) view of 191 Somerset Street, residence of Hon. Frank Oliver.
+			<b>Photo 2</b> - Side (west) view of 191 Somerset Street, residence of Hon. Frank Oliver.
 			</td>
 		</tr>
 		<tr align="left" valign="top">
@@ -17857,7 +17859,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[1965]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1549">Moses Chamberlain Edey</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
@@ -17872,7 +17874,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="sources">
-          <value/>
+          <value><![CDATA[Bank&#8217;s Heritage: the churches: <a href="http://www.centretownbuzz.com/2016/01/15/banks-heritage-the-churches/">http://www.centretownbuzz.com/2016/01/15/banks-heritage-the-churches/</a>]]></value>
         </Data>
         <Data name="photos">
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
@@ -17909,7 +17911,7 @@ gation Notre Dame]]></value>
     </Placemark>
     <Placemark>
       <name><![CDATA[Bank of Ottawa (Gladstone & Bank)]]></name>
-      <styleUrl>#relig_map</styleUrl>
+      <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[239]]></value>
