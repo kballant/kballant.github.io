@@ -1600,7 +1600,7 @@
           <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1549">Moses Chamberlain Edey</a>]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by parkland.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -1690,7 +1690,7 @@
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by parkland.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -1758,7 +1758,7 @@
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by parkland.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -1952,7 +1952,7 @@
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="sources">
-          <value><![CDATA[National Gallery of Canada - The Rideau Street Convent Chapel: <a href="http://cybermuse.gallery.ca/cybermuse/showcases/chapel/index_e.jsp">http://cybermuse.gallery.ca/cybermuse/showcases/chapel/index_e.jsp</a>]]></value>
+          <value><![CDATA[National Gallery of Canada - The Rideau Street Convent Chapel: <a href="https://www.gallery.ca/en/about/rideau-street-convent-chapel.php">https://www.gallery.ca/en/about/rideau-street-convent-chapel.php</a>]]></value>
         </Data>
         <Data name="photos">
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
@@ -2773,9 +2773,19 @@
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.69538923192829,45.42279909761082,0 -75.69513859712902,45.42250611460495,0 -75.69471203727221,45.42267629106949,0 -75.69496772934488,45.42297366233363,0 -75.69538923192829,45.42279909761082,0</coordinates>
+            <coordinates>-75.695393530116,45.4227847703185,0 -75.6949687557735,45.4229674967738,0 -75.6949573606069,45.4229693471396,0 -75.6949491038648,45.4229650659582,0 -75.6946876808752,45.422664112871,0 -75.695129284389,45.4224745945618,0 -75.695393530116,45.4227847703185,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
+        <innerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6950504880072,45.4227243504403,0 -75.6950748444042,45.4227136049711,0 -75.695043324361,45.422676354011,0 -75.6951457645013,45.4226326557693,0 -75.6950841571442,45.4225595865783,0 -75.6949681060761,45.4226111648307,0 -75.6950426079964,45.4226964122202,0 -75.6950311461625,45.4227021431372,0 -75.6950504880072,45.4227243504403,0</coordinates>
+          </LinearRing>
+        </innerBoundaryIs>
+        <innerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6951865972845,45.4227293649927,0 -75.6952568010171,45.4226971285849,0 -75.6952181173277,45.4226484157909,0 -75.6951772845445,45.4226691903648,0 -75.6952023573061,45.4226985613141,0 -75.6951729863568,45.4227128886065,0 -75.6951865972845,45.4227293649927,0</coordinates>
+          </LinearRing>
+        </innerBoundaryIs>
       </Polygon>
     </Placemark>
     <Placemark>
@@ -2931,9 +2941,19 @@
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.69560587724826,45.42352104058291,0 -75.69513995900174,45.42332530932223,0 -75.6950282392893,45.42339137472748,0 -75.69490989700789,45.42344095952858,0 -75.69474950938866,45.42325954958094,0 -75.69467071554335,45.42329107217534,0 -75.69479620403345,45.42344292232897,0 -75.69470614558406,45.42347960499183,0 -75.6947254374883,45.42350331307716,0 -75.69469127254816,45.42351670788558,0 -75.69466222419663,45.42349068588068,0 -75.69463546548381,45.42350123006483,0 -75.69470082025681,45.42357578928522,0 -75.69478423013202,45.42363145389901,0 -75.69476501162221,45.42364770175701,0 -75.694741760903,45.42364355372597,0 -75.69469929598999,45.42367639999718,0 -75.69466716203314,45.42365275128654,0 -75.69469008552679,45.42363196979767,0 -75.69466141168876,45.4236159993265,0 -75.69449597884747,45.42374311292244,0 -75.6950706114466,45.42394528868643,0 -75.69560587724826,45.42352104058291,0</coordinates>
+            <coordinates>-75.6956015790606,45.4235167423952,0 -75.6950684623527,45.4239452886864,0 -75.6944959788475,45.4237431129224,0 -75.6946614116888,45.4236159993265,0 -75.6946900855268,45.4236319697977,0 -75.6946671620331,45.4236527512865,0 -75.69469929599,45.4236763999972,0 -75.694741760903,45.423643553726,0 -75.6947650116222,45.423647701757,0 -75.694784230132,45.423631453899,0 -75.6947008202568,45.4235757892852,0 -75.6946354654838,45.4235012300648,0 -75.6946622241966,45.4234906858807,0 -75.6946912725482,45.4235167078856,0 -75.6947254374883,45.4235033130772,0 -75.6947061455841,45.4234796049918,0 -75.6947962040335,45.423442922329,0 -75.6946707155434,45.4232910721753,0 -75.6947495093887,45.4232595495809,0 -75.6949098970079,45.4234409595286,0 -75.6950260901955,45.4233899419982,0 -75.6951399590017,45.4233253093222,0 -75.6956015790606,45.4235167423952,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
+        <innerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.695024698881,45.4237802718869,0 -75.6950461898195,45.4237630791361,0 -75.6949974770255,45.4237322754575,0 -75.6949738369931,45.4237509009376,0 -75.695024698881,45.4237802718869,0</coordinates>
+          </LinearRing>
+        </innerBoundaryIs>
+        <innerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6952396082663,45.4235875698047,0 -75.6952954847064,45.4235474533861,0 -75.695277575591,45.4235359915523,0 -75.6952238482447,45.4235768243355,0 -75.6952396082663,45.4235875698047,0</coordinates>
+          </LinearRing>
+        </innerBoundaryIs>
       </Polygon>
     </Placemark>
     <Placemark>
@@ -3562,7 +3582,7 @@
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location currently occupied by the National Arts Centre.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -3630,7 +3650,7 @@
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location currently occupied by the National Arts Centre.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -3718,7 +3738,7 @@
           <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1549">Moses Chamberlain Edey</a>]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location currently occupied by the National Arts Centre.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -4030,7 +4050,7 @@
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by CBC Headquarters.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -4214,7 +4234,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1549">Moses Chamberlain Edey</a>]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by the World Exchange Plaza.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -4598,7 +4618,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[Demolished by the surviving family in 1929 and donated the land to the city as a park.]]></value>
+          <value><![CDATA[Demolished by the surviving family in 1929 and donated the land to the city as a park. Location now occupied by the Queensway.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[The house was owned by James Ballantyne, reeve of Ottawa East from 1888 to 1895.]]></value>
@@ -4823,7 +4843,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the National Art Gallery of Canada grounds.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -4891,7 +4911,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now parkland.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -5003,7 +5023,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by new Claridge buildings in Lebreton Flats.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -5093,7 +5113,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now vacant pending Lebreton Flats redevelopment.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -5161,7 +5181,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now vacant pending Lebreton Flats redevelopment.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -5229,7 +5249,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now vacant pending Lebreton Flats redevelopment.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -5300,7 +5320,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[Location currently occupied by a parking lot for the Library & Archives of Canada building.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[Expropriated by the Federal Government in 1912.]]></value>
+          <value><![CDATA[The Perley Home was given by the heirs of William Goodhue Perley as a Home for Incurables. The home officially opened on January 21, 1897 by the Governor General, Earl of Aberdeen, at the time and his wife. Expropriated by the Federal Government in 1912.]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[415 Wellington Street]]></value>
@@ -5387,7 +5407,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by 4-storey condos.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -5641,7 +5661,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<small><b>Date Taken</b>: n/a<br>
+			<small><b>Date Taken</b>: 1881<br>
 			<b>Source</b>: Library & Archives Canada, MIKAN no. 3240134</small>
 			</td>
 		</tr>
@@ -5657,14 +5677,38 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayEcopies&lang=eng&rec_nbr=3422514&title=Interior+of+the+old+Supreme+Court+of+Canada.+&ecopy=a027194">
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3422514">
 <img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Original_Supreme_Court_Building_Interior_a027194.jpg" title="Interior of the original Supreme Court of Canada." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
-			<small><b>Date Taken</b>: n/a<br>
+			<small><b>Date Taken</b>: April 1890<br>
 			<b>Source</b>: Library & Archives Canada, MIKAN no. 3422514</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 3</b> - Old Supreme Court, behind Confederation building looking toward Met Life building on Wellington.
+
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4169926&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Original_Supreme_Court_Rear_e010934910.jpg" title="Old Supreme Court, behind Confederation building looking toward Met Life building on Wellington.
+" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 23 August 1938<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4169926</small>
 			</td>
 		</tr>
 	</table>
@@ -5677,7 +5721,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70207435287736,45.42213857903674,0 -75.70193656795989,45.42219924958431,0 -75.70214499643137,45.42244148575737,0 -75.70212356596902,45.42245421861506,0 -75.70213740663296,45.42246966988061,0 -75.70212222963333,45.42247635596171,0 -75.70216392368241,45.42252298788052,0 -75.70217744683887,45.42251700165964,0 -75.70235219711528,45.42270814892268,0 -75.7025082869713,45.42263903660693,0 -75.70207435287736,45.42213857903674,0</coordinates>
+            <coordinates>-75.7020737915115,45.42208553494841,0 -75.70193717317657,45.42214633601297,0 -75.70212746320073,45.42237477354203,0 -75.70210689865056,45.42238457115936,0 -75.70212214810431,45.42240118131188,0 -75.70210974112294,45.42240698632148,0 -75.70214706096131,45.42245235816617,0 -75.7021577241711,45.42244743195668,0 -75.70231828565612,45.42263205258598,0 -75.70247451533075,45.42256011719787,0 -75.7020737915115,45.42208553494841,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -5764,29 +5808,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <td><table width="500" border="1" cellspacing="1" cellpadding="6">
 		<tr align="left" valign="top">
 			<td>
-			<b>Photo 3</b> - Vittoria St looking E toward Justice Bldg., 19 Aug 1937.
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4169818&lang=eng">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Ottawa_Curling_Club_4_e010934896.jpg" title="Vittoria St looking E toward Justice Bldg., 19 Aug 1937." border="1" width="500"></a>
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<small><b>Date Taken</b>: 19 August 1937<br>
-			<b>Source</b>: Library & Archives Canada, MIKAN no. 4169818</small>
-			</td>
-		</tr>
-	</table>
-			</td>
-     </tr>
-     <tr align="left" valign="top">
-        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
-		<tr align="left" valign="top">
-			<td>
-			<b>Photo 4</b> - East side view of Clubhouse, Ottawa Curling Club
+			<b>Photo 3</b> - East side view of Clubhouse, Ottawa Curling Club
 			</td>
 		</tr>
 		<tr align="left" valign="top">
@@ -5799,6 +5821,28 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
 			<td>
 			<small><b>Date Taken</b>: 1912<br>
 			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600275</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 4</b> - Vittoria St looking E toward Justice Bldg., 19 Aug 1937.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4169818&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Ottawa_Curling_Club_4_e010934896.jpg" title="Vittoria St looking E toward Justice Bldg., 19 Aug 1937." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 19 August 1937<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4169818</small>
 			</td>
 		</tr>
 	</table>
@@ -5929,14 +5973,14 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
       </Polygon>
     </Placemark>
     <Placemark>
-      <name><![CDATA[Union Station CPR]]></name>
+      <name><![CDATA[CPR Union Station]]></name>
       <styleUrl>#trans_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[60]]></value>
         </Data>
         <Data name="name">
-          <value><![CDATA[Union Station CPR]]></value>
+          <value><![CDATA[CPR Union Station]]></value>
         </Data>
         <Data name="dateBuilt">
           <value><![CDATA[July 1900]]></value>
@@ -5948,7 +5992,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now vacant pending Lebreton Flats redevelopment.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[The original station was destroyed by the 1900 Hull-Ottawa fire. Service ceased in 1920 at this station when CPR began using the Grand Truck Railway Union Station downtown. The building still stood in 1947 as it was used by CPR to help bring thousands of people by train for the Marian Congress celebration of the centenary of the Ottawa Archdiocese.]]></value>
@@ -5979,6 +6023,30 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
 			<td>
 			<small><b>Date Taken</b>: n/a<br>
 			<b>Source</b>: Library & Archives Canada, MIKAN no. 3325384</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - A postcard showing the back of CPR Union Station on Broad Street.
+
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://numerique.banq.qc.ca/patrimoine/details/52327/2247482">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/CPR_Union_Station_Rear_2247482.jpg" title="A postcard showing the back of CPR Union Station on Broad Street.
+" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: BAnQ, Entry #: 0004144891</small>
 			</td>
 		</tr>
 	</table>
@@ -6171,9 +6239,14 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.69638668883952,45.4225491140098,0 -75.69617000724128,45.42264205564557,0 -75.69657035122697,45.42310446715156,0 -75.69679356178554,45.42300427868494,0 -75.69638668883952,45.4225491140098,0</coordinates>
+            <coordinates>-75.6963938524857,45.4225541285621,0 -75.6967935617855,45.4230042786849,0 -75.6965789476024,45.4231016016931,0 -75.6961814690752,45.4226456374687,0 -75.6963938524857,45.4225541285621,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
+        <innerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6964409517302,45.4228181942053,0 -75.6964839336073,45.4227988523606,0 -75.6964201771563,45.4227236340757,0 -75.696360718893,45.4227487068373,0 -75.6963908062069,45.4227601686712,0 -75.6964409517302,45.4228181942053,0</coordinates>
+          </LinearRing>
+        </innerBoundaryIs>
       </Polygon>
     </Placemark>
     <Placemark>
@@ -6196,7 +6269,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1267">King McCord Arnoldi</a>, <a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/864">Alfred Merigon Calderon</a>]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by grounds surrounding the Supreme Court of Canada building.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Home of R. J. Devlin who owned a department store on Sparks Street (see the Carleton Chamber building for a photo). After expropriation, the building was used to house the physical testing laboratory of the Interior Department (now defunct) and, after 1932, as offices for the Radio Broadcasting Commission.]]></value>
@@ -6308,7 +6381,7 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
           <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1267">King McCord Arnoldi</a>]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by the Manulife Place building.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -6908,6 +6981,30 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
 			</td>
 		</tr>
 	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - View of north side of Bank of Quebec facing onto Wellington Street.
+
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4169936&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Bank_of_Quebec_2_e010934917.jpg" title="View of north side of Bank of Quebec facing onto Wellington Street.
+" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1938<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4169936</small>
+			</td>
+		</tr>
+	</table>
 		</td>
       </tr>
 </table>]]></value>
@@ -7381,6 +7478,54 @@ Titus Block of Sparks St. between Bank & O'Connor St. " border="1" width="500"><
 			<td>
 			<small><b>Date Taken</b>: n/a<br>
 			<b>Source</b>: Library & Archives Canada, MIKAN no. 3325408</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - North and east side of the Rideau Club, taken from across Wellington Street at the corner of Metcalfe.
+
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://www.ottawahh.com/ottawahh.pl?x=galleryitem&g=apa&i=30">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Rideau_Club_3_a042337.jpg" title="North and east side of the Rideau Club, taken from across Wellington Street at the corner of Metcalfe.
+" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: September 1909<br>
+			<b>Source</b>: OttawaHH (LAC PA-042337, MIKAN: 3325425</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 3</b> - View of Ottawa from the Peace Tower (or Victoria Tower depending the date). The white building in the middle is the Rideau Club building.
+
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3358791">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Rideau_Club_2_a023296.jpg" title="View of Ottawa from the Peace Tower (or Victoria Tower depending the date). The white building in the middle is the Rideau Club building.
+" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3358791</small>
 			</td>
 		</tr>
 	</table>
@@ -8501,7 +8646,7 @@ gation Notre Dame]]></value>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.7045361948263,45.41865550619558,0 -75.70448253592782,45.41859580822022,0 -75.70452512094795,45.41857279090784,0 -75.70440877364857,45.41843645202094,0 -75.7044481620071,45.41841666309113,0 -75.70441713771497,45.41838089801958,0 -75.70436393273609,45.41840654912162,0 -75.70437455712721,45.41841661857124,0 -75.70422541058817,45.41848657989979,0 -75.70441628187118,45.41871352019156,0 -75.7045361948263,45.41865550619558,0</coordinates>
+            <coordinates>-75.70453918812463,45.41865338880613,0 -75.70448653551667,45.41859264069726,0 -75.70452983808445,45.41857412185181,0 -75.70441490384178,45.41843816740099,0 -75.70445475298989,45.41842011200497,0 -75.70442414007869,45.41838240203575,0 -75.70436875676509,45.41840556413932,0 -75.70437862092544,45.41841723646976,0 -75.70422801076059,45.41848171618916,0 -75.70442033852812,45.41870679182115,0 -75.70453918812463,45.41865338880613,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -9609,13 +9754,13 @@ gation Notre Dame]]></value>
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
 		<tr align="left" valign="top">
 			<td>
-			<b>Photo 1</b> - 
+			<b>Photo 1</b> - West and south side of Ste. Anne's School.
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3319125">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Ste_Annes_School_e011083858.jpg" title="" border="1" width="500"></a>
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Ste_Annes_School_e011083858.jpg" title="West and south side of Ste. Anne's School." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
@@ -9677,13 +9822,13 @@ gation Notre Dame]]></value>
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
 		<tr align="left" valign="top">
 			<td>
-			<b>Photo 1</b> - 
+			<b>Photo 1</b> - The Ste. Anne's Hall just west of Ste. Anne's Catholic Church.
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<a href="https://www.flickr.com/photos/rdb466/12548088983/in/set-72157629596009739">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Ste_Annes_Hall.jpg" title="" border="1" width="500"></a>
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Ste_Annes_Hall.jpg" title="The Ste. Anne's Hall just west of Ste. Anne's Catholic Church." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
@@ -10517,13 +10662,13 @@ gation Notre Dame]]></value>
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
 		<tr align="left" valign="top">
 			<td>
-			<b>Photo 1</b> - None
+			<b>Photo 1</b> - Bank Street Presbyterian Church taken from the south side of Slater Street.
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3423461">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Bank_Street_Church_a027786.jpg" title="None" border="1" width="500"></a>
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Bank_Street_Church_a027786.jpg" title="Bank Street Presbyterian Church taken from the south side of Slater Street." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
@@ -10609,13 +10754,13 @@ gation Notre Dame]]></value>
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
 		<tr align="left" valign="top">
 			<td>
-			<b>Photo 1</b> - None
+			<b>Photo 1</b> - East view of 168-170 Cobourg Street.
 			</td>
 		</tr>
 		<tr align="left" valign="top">
 			<td>
 			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3325848">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/168-170_Cobourg_Street_a043138.jpg" title="None" border="1" width="500"></a>
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/168-170_Cobourg_Street_a043138.jpg" title="East view of 168-170 Cobourg Street." border="1" width="500"></a>
 			</td>
 		</tr>
 		<tr align="left" valign="top">
@@ -10708,14 +10853,14 @@ gation Notre Dame]]></value>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name><![CDATA[Residence of Robert Laird Borden, 'Glensmere']]></name>
+      <name><![CDATA[Residence of Sir Robert Laird Borden, 'Glensmere']]></name>
       <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[127]]></value>
         </Data>
         <Data name="name">
-          <value><![CDATA[Residence of Robert Laird Borden, 'Glensmere']]></value>
+          <value><![CDATA[Residence of Sir Robert Laird Borden, 'Glensmere']]></value>
         </Data>
         <Data name="dateBuilt">
           <value><![CDATA[1894]]></value>
@@ -17189,29 +17334,7 @@ gation Notre Dame]]></value>
           <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
 		<tr align="left" valign="top">
 			<td>
-			<b>Photo 1</b> - Frame house on stone foundation with brick veneer on front
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600248&lang=eng">
-<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/50_Kent_Street_e011168052.jpg" title="Frame house on stone foundation with brick veneer on front" border="1" width="500"></a>
-			</td>
-		</tr>
-		<tr align="left" valign="top">
-			<td>
-			<small><b>Date Taken</b>: 1912<br>
-			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600248</small>
-			</td>
-		</tr>
-	</table>
-			</td>
-     </tr>
-     <tr align="left" valign="top">
-        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
-		<tr align="left" valign="top">
-			<td>
-			<b>Photo 2</b> - Rear yard area (50, 54, 56 Kent Street and 265 - 267 Wellington Street, Ottawa)
+			<b>Photo 1</b> - Rear yard area (50, 54, 56 Kent Street and 265 - 267 Wellington Street, Ottawa)
 			</td>
 		</tr>
 		<tr align="left" valign="top">
@@ -17224,6 +17347,28 @@ gation Notre Dame]]></value>
 			<td>
 			<small><b>Date Taken</b>: 1912<br>
 			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600249</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - Frame house on stone foundation with brick veneer on front
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3600248&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/50_Kent_Street_e011168052.jpg" title="Frame house on stone foundation with brick veneer on front" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1912<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3600248</small>
 			</td>
 		</tr>
 	</table>
@@ -19528,7 +19673,7 @@ gation Notre Dame]]></value>
 		<tr align="left" valign="top">
 			<td>
 			<small><b>Date Taken</b>: 1926<br>
-			<b>Source</b>: Bytown Museum, ID # 2014.004.01.93</small>
+			<b>Source</b>: Bytown Museum, ID #: 2014.004.01.93</small>
 			</td>
 		</tr>
 	</table>
@@ -19596,7 +19741,7 @@ gation Notre Dame]]></value>
 		<tr align="left" valign="top">
 			<td>
 			<small><b>Date Taken</b>: 1926<br>
-			<b>Source</b>: Bytown Museum, ID # 2014.004.01.93</small>
+			<b>Source</b>: Bytown Museum, ID #: 2014.004.01.93</small>
 			</td>
 		</tr>
 	</table>
@@ -20336,6 +20481,3172 @@ gation Notre Dame]]></value>
             <coordinates>-75.6898207050692,45.42624087280998,0 -75.68989132776447,45.42632056274533,0 -75.6900153509325,45.42626535440908,0 -75.6899491190789,45.42618569927956,0 -75.6898207050692,45.42624087280998,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[609 Somerset Street]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[270]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[609 Somerset Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[609 Somerset Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Percy Street looking north. 609 Somerset Street is the building on the left, 603-607 Somerset is on the right.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4170112&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/609_Somerset_Street_e010934973.jpg" title="Percy Street looking north. 609 Somerset Street is the building on the left, 603-607 Somerset is on the right." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4170112</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - Close-up of 609 Somerset Street.
+
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4170112&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/609_Somerset_Street_2_e010934973.jpg" title="Close-up of 609 Somerset Street.
+" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4170112</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70406796584,45.41228623133109,0 -75.70400144863538,45.41231236870959,0 -75.70410134862831,45.41243790207592,0 -75.70415059508434,45.41241876874219,0 -75.70415398189002,45.41242175153811,0 -75.70421663047436,45.41239766963579,0 -75.70419665885038,45.4123721653209,0 -75.70413256182413,45.41239615957728,0 -75.7040997654865,45.41235609895332,0 -75.7041187840203,45.41234818152708,0 -75.70406796584,45.41228623133109,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[378 Division Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[271]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[378 Division Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[378 Division Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Old house which was demolished for Energy Mines & Resources (now NRCan) Booth Street expansion.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4169801&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/378_Division_Street_e010934889.jpg" title="Old house which was demolished for Energy Mines & Resources (now NRCan) Booth Street expansion." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4169801</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70671898234399,45.40267509740697,0 -75.70681489940297,45.40264637004902,0 -75.7068037969335,45.40263262204387,0 -75.70686243089523,45.40261630939984,0 -75.70684173541392,45.40258397675166,0 -75.7066872319306,45.40262920168684,0 -75.70671898234399,45.40267509740697,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[603-607 Somerset Street]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[272]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[603-607 Somerset Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[603-607 Somerset Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Percy Street looking north. 609 Somerset Street is the building on the left, 603-607 Somerset is on the right.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4170112&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/609_Somerset_Street_e010934973.jpg" title="Percy Street looking north. 609 Somerset Street is the building on the left, 603-607 Somerset is on the right." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4170112</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - Close-up of 603-607 Somerset Street.
+
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4170112&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/603-607_Somerset_Street_e010934973.jpg" title="Close-up of 603-607 Somerset Street.
+" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4170112</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.7038015171576,45.41237714431794,0 -75.70365364872832,45.41243857364359,0 -75.70376172084117,45.41257534227861,0 -75.70391568020115,45.41251508882438,0 -75.7038015171576,45.41237714431794,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Bank St. Chambers]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[273]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[Bank St. Chambers]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[96-106 Bank Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Corner of Bank & Albert Streets looking west. The Bank St. Chambers is the building on the right and 108-110 Bank Street is on the left.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4169752&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Bank_St_Chambers_e010934856.jpg" title="Corner of Bank & Albert Streets looking west. The Bank St. Chambers is the building on the right and 108-110 Bank Street is on the left." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4169752</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - Close-up of Bank St. Chambers.
+
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4169752&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Bank_St_Chambers_2_e010934856.jpg" title="Close-up of Bank St. Chambers.
+" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4169752</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70062952820192,45.41989222740337,0 -75.70061958341765,45.41989674287245,0 -75.70060538187249,45.41989317678147,0 -75.700579066041,45.41990336253761,0 -75.7005786729255,45.41991397002813,0 -75.70052450163458,45.41993618288014,0 -75.70051053599877,45.41993353534092,0 -75.70048944886862,45.41994228430909,0 -75.70049017062173,45.41995242014277,0 -75.70046907215117,45.41996173727564,0 -75.7004582213463,45.41995975982783,0 -75.70044780200482,45.41995979194736,0 -75.70043747981283,45.41996391638764,0 -75.70043203481832,45.4199701219063,0 -75.70043105146186,45.41998002204166,0 -75.70043688871215,45.4199866804458,0 -75.70044526835976,45.41999102458715,0 -75.70045534653191,45.41999260396615,0 -75.70047321770923,45.42001330165118,0 -75.70046977354183,45.42002208894736,0 -75.70048206303,45.42003728623392,0 -75.70049451548361,45.42003868690046,0 -75.70050661549648,45.42005244076761,0 -75.70050349742364,45.42005921020452,0 -75.70051418988483,45.42007325829425,0 -75.70052602677158,45.42007477075861,0 -75.70055076219103,45.42010288890803,0 -75.70054739671119,45.42011206162526,0 -75.70056054808133,45.42012571172273,0 -75.70057282100849,45.42012836815134,0 -75.7005830640265,45.42014244431874,0 -75.70058063117736,45.42014887949053,0 -75.70059056834113,45.42016143384861,0 -75.7006014425202,45.42016430203499,0 -75.70061445105097,45.42017951270532,0 -75.70061153143483,45.42018725969659,0 -75.70062061976006,45.42019900386542,0 -75.7006350912292,45.42019984616766,0 -75.70063804413771,45.4202051132301,0 -75.70083098392128,45.42012307313151,0 -75.70062952820192,45.41989222740337,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[108-110 Bank Street]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[274]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[108-110 Bank Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[108-110 Bank Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Corner of Bank & Albert Streets looking west. The Bank St. Chambers is the building on the right and 108-110 Bank Street is on the left.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4169752&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Bank_St_Chambers_e010934856.jpg" title="Corner of Bank & Albert Streets looking west. The Bank St. Chambers is the building on the right and 108-110 Bank Street is on the left." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4169752</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - Close-up of 108-110 Bank Street.
+
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4169752&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/108-110_Bank_Street_e010934856.jpg" title="Close-up of 108-110 Bank Street.
+" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4169752</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70031710103862,45.41983539708548,0 -75.70045899014041,45.41977495967291,0 -75.70038625442432,45.41968872070006,0 -75.70033860913829,45.41970899705574,0 -75.70032496750997,45.41969437119898,0 -75.70023132515486,45.41973529775289,0 -75.70031710103862,45.41983539708548,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[35 Sparks Street]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[275]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[35 Sparks Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[Location now part of the National War Memorial.]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[35 Sparks Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - View (south) of 31-35 Sparks Street. 35 Sparks Street is on the left.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://ottawa.minisisinc.com/ottawa/scripts/mwimain.dll?get&file=[ottawa_web]NewOPAC\search.html#/144/COLLECTIONS/WEB_DETAIL_COLL/SISN%203881677?SESSIONSEARCH">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/31-35_Sparks_Street.jpg" title="View (south) of 31-35 Sparks Street. 35 Sparks Street is on the left." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1926<br>
+			<b>Source</b>: Bytown Museum, ID #: 2014.004.01.88</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.69568560302184,45.42373265370912,0 -75.69559818552851,45.42380206786739,0 -75.69582046320392,45.42393260459124,0 -75.69585681516678,45.42390402362152,0 -75.69589631705661,45.42392554036029,0 -75.69592447351742,45.42390335895509,0 -75.69588635361454,45.42388049507252,0 -75.69590612026332,45.42386347830363,0 -75.69568560302184,45.42373265370912,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[31 Sparks Street]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[276]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[31 Sparks Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[Location now part of the National War Memorial.]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[31 Sparks Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - View (south) of 31-35 Sparks Street. 35 Sparks Street is on the left.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://ottawa.minisisinc.com/ottawa/scripts/mwimain.dll?get&file=[ottawa_web]NewOPAC\search.html#/144/COLLECTIONS/WEB_DETAIL_COLL/SISN%203881677?SESSIONSEARCH">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/31-35_Sparks_Street.jpg" title="View (south) of 31-35 Sparks Street. 35 Sparks Street is on the left." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1926<br>
+			<b>Source</b>: Bytown Museum, ID #: 2014.004.01.88</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.69577966469871,45.4239634794977,0 -75.69582040456955,45.4239315111296,0 -75.69559609013615,45.42380227000573,0 -75.69555720497975,45.42383299994596,0 -75.69577966469871,45.4239634794977,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[218 Albert Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[277]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[218 Albert Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[Location now occupied by the Sunlife Financial Centre.]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[218 Albert Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Buildings along Albert Street. Addresses from left to right: 218, 211, 205, 201.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4125025&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/201-218_Albert_Street_e010900603.jpg" title="Buildings along Albert Street. Addresses from left to right: 218, 211, 205, 201." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 14 June 1938<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4125025</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.69969249313226,45.42034267864945,0 -75.69960837329313,45.42038020104118,0 -75.69974061880546,45.42053628266243,0 -75.699787504483,45.42051594542386,0 -75.69971981103484,45.42043589749198,0 -75.69975826306414,45.42041921281781,0 -75.69969249313226,45.42034267864945,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[211 Albert Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[278]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[211 Albert Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[Location now occupied by the Sunlife Financial Centre.]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[211 Albert Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Buildings along Albert Street. Addresses from left to right: 218, 211, 205, 201.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4125025&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/201-218_Albert_Street_e010900603.jpg" title="Buildings along Albert Street. Addresses from left to right: 218, 211, 205, 201." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 14 June 1938<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4125025</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.69951701409239,45.42041780251832,0 -75.6995864210013,45.42050228177083,0 -75.69961278565276,45.4204919074138,0 -75.69966309235672,45.42055118663068,0 -75.69972900628358,45.42052369160156,0 -75.69960732623812,45.42038065539011,0 -75.69951701409239,45.42041780251832,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[205 Albert Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[279]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[205 Albert Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[Location now occupied by the Sunlife Financial Centre.]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[205 Albert Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Buildings along Albert Street. Addresses from left to right: 218, 211, 205, 201.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4125025&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/201-218_Albert_Street_e010900603.jpg" title="Buildings along Albert Street. Addresses from left to right: 218, 211, 205, 201." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 14 June 1938<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4125025</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.69939436147516,45.42047408936127,0 -75.69949265521549,45.42059024282575,0 -75.69954446357843,45.42056776143046,0 -75.69951073501206,45.42052874493136,0 -75.69953958375655,45.42051622529706,0 -75.69947499978788,45.42043909686328,0 -75.69939436147516,45.42047408936127,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[189-201 Albert Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[280]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[189-201 Albert Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[Location now occupied by the Sunlife Financial Centre.]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[189-201 Albert Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Buildings along Albert Street. Addresses from left to right: 218, 211, 205, 201.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4125025&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/201-218_Albert_Street_e010900603.jpg" title="Buildings along Albert Street. Addresses from left to right: 218, 211, 205, 201." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 14 June 1938<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4125025</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.69936888429965,45.42050383845606,0 -75.69932232558504,45.42052210202436,0 -75.69931025104766,45.42050849984456,0 -75.699252114275,45.420533924971,0 -75.69926418887451,45.42054752720026,0 -75.69921897109629,45.42056730230426,0 -75.69929007715933,45.4206474040419,0 -75.6993159161038,45.42063610355823,0 -75.69935709984192,45.4206841805679,0 -75.69944927904241,45.42064491432031,0 -75.6994095785886,45.42059514019314,0 -75.69943649331998,45.42058336941755,0 -75.69936888429965,45.42050383845606,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Department of Agriculture Exhibition Branch]]></name>
+      <styleUrl>#institute_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[281]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[Department of Agriculture Exhibition Branch]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[Location now occupied by the grounds of the World Exchange Plaza.]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[94-96 Queen Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Corner of Queen and Metcalfe Streets looking west. The agriculture building is on the left.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4125094&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Dept_Agric_Exhibition_Branch_e010900607.jpg" title="Corner of Queen and Metcalfe Streets looking west. The agriculture building is on the left." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 27 June 1938<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4125094</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.69698634708527,45.42197196176848,0 -75.69693811007518,45.42191443416057,0 -75.69684568700484,45.42195550478149,0 -75.696893138663,45.42201217457423,0 -75.69683646089665,45.42203808411446,0 -75.6969126162419,45.42212382185238,0 -75.69712236568959,45.42203151769056,0 -75.69704820499905,45.42194608671164,0 -75.69698634708527,45.42197196176848,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[132-140 Nepean Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[282]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[132-140 Nepean Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[132-140 Nepean Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - View of the corner of Nepean & O'Connor Streets looking west. 132-140 Nepean Street is on the left.	
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4170127&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/132-140_Nepean_Street_e010934979.jpg" title="View of the corner of Nepean & O'Connor Streets looking west. 132-140 Nepean Street is on the left.	" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4170127</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - Close-up of 132-140 Nepean Street.	
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4170127&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/132-140_Nepean_Street_2.jpg" title="Close-up of 132-140 Nepean Street.	" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4170127</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.69628919582499,45.4178223658389,0 -75.69624676897833,45.41777220439873,0 -75.69615494751689,45.41781224769637,0 -75.6961974983342,45.41786110107018,0 -75.69615240679346,45.41787690381676,0 -75.69611170524127,45.41782812820409,0 -75.6960265354047,45.41786648789494,0 -75.69606637646368,45.41791456927741,0 -75.69604803372396,45.41792231761018,0 -75.6960231021268,45.41790821152208,0 -75.69599682829809,45.41787638605049,0 -75.69594964843037,45.41789472430358,0 -75.69597680289405,45.41792723877083,0 -75.69597003290669,45.41793023094243,0 -75.69604325334937,45.41801432195942,0 -75.69636622551307,45.41788178364302,0 -75.69630851661789,45.41781400560105,0 -75.69628919582499,45.4178223658389,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Elgin Street School]]></name>
+      <styleUrl>#institute_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[283]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[Elgin Street School]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Front (east) side of Elgin Street School facing onto Elgin Street.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://www.pastottawa.com/comparison/elgin-street-public-school/482/">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Elgin_Street_School.jpg" title="Front (east) side of Elgin Street School facing onto Elgin Street." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: c1900<br>
+			<b>Source</b>: Past Ottawa (Library & Archives Canada)</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.68933233744667,45.41633559338348,0 -75.68935985384636,45.41636624599808,0 -75.68947849313365,45.41632015675919,0 -75.68948736867421,45.41632848589173,0 -75.68954354797343,45.41630694202994,0 -75.68953643871393,45.41629744925023,0 -75.68959082827038,45.41627523438379,0 -75.68960003802515,45.41628472513459,0 -75.68965623333475,45.41626020617193,0 -75.68962687291888,45.41622629936266,0 -75.68978193212945,45.41616315706276,0 -75.68977506442565,45.41615466541659,0 -75.6898039039647,45.4161420334873,0 -75.68969695524781,45.41601623027407,0 -75.6896674329966,45.41602776446737,0 -75.68966185014523,45.41602188195078,0 -75.68950748376079,45.41608674489275,0 -75.68948106857516,45.41605798580021,0 -75.68942429291148,45.4160811788522,0 -75.68942887065228,45.41608737560757,0 -75.68937359620149,45.41610923471422,0 -75.68936937555863,45.41610483357288,0 -75.6893099736277,45.4161290946984,0 -75.68931355125842,45.41613307029451,0 -75.68919701110436,45.41618187059726,0 -75.68922658658624,45.41621432276106,0 -75.68919527442444,45.41622882770017,0 -75.68921367505496,45.41625231187346,0 -75.68921046770549,45.41628177168795,0 -75.68923223520174,45.41630491880735,0 -75.68927434044072,45.41632055501028,0 -75.68929914885169,45.41634796366643,0 -75.68933233744667,45.41633559338348,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[100 Percy Street]]></name>
+      <styleUrl>#industrial_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[284]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[100 Percy Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[Location now occupied by the Rideau Curling Club.]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[100 Percy Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Southwest corner of Percy & Lisgar Streets.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://www.pastottawa.com/comparison/south-west-corner-of-percy-lisgar/339/">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/100_Percy_Street.jpg" title="Southwest corner of Percy & Lisgar Streets." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1938<br>
+			<b>Source</b>: Past Ottawa (Urbsite)</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.7050532262294,45.41340508458882,0 -75.70504192029313,45.4134102537823,0 -75.70498074529408,45.4133421495251,0 -75.70488612280884,45.41338117196266,0 -75.70498723783329,45.41349883503338,0 -75.7050929183809,45.41345546048422,0 -75.7050532262294,45.41340508458882,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[411-413 St. Patrick Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[285]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[411-413 St. Patrick Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[411-413 St. Patrick Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Front (south) view of 409-413 St. Patrick Street. 409 is on the left and 411-413 St. Patrick Street is on the right.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://www.pastottawa.com/comparison/saint-patrick-street-near-king-edward-avenue/402/">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/409-413_St_Patrick_Street.jpg" title="Front (south) view of 409-413 St. Patrick Street. 409 is on the left and 411-413 St. Patrick Street is on the right." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1960<br>
+			<b>Source</b>: Past Ottawa (City of Ottawa)</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.68734062564029,45.43329924614669,0 -75.68724141295273,45.43334003606205,0 -75.68729339193347,45.43340011178061,0 -75.68731601537054,45.43339137613079,0 -75.68734586847452,45.4334269799129,0 -75.68741314091693,45.43339792384127,0 -75.68738103390862,45.43336342656304,0 -75.68739057952477,45.43335953177418,0 -75.68734062564029,45.43329924614669,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[409 St. Patrick Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[286]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[409 St. Patrick Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[409 St. Patrick Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Front (south) view of 409-413 St. Patrick Street. 409 is on the left and 411-413 St. Patrick Street is on the right.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://www.pastottawa.com/comparison/saint-patrick-street-near-king-edward-avenue/402/">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/409-413_St_Patrick_Street.jpg" title="Front (south) view of 409-413 St. Patrick Street. 409 is on the left and 411-413 St. Patrick Street is on the right." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1960<br>
+			<b>Source</b>: Past Ottawa (City of Ottawa)</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.68741580332581,45.43326878864237,0 -75.68735268356653,45.4332944772225,0 -75.68750832364481,45.43347115528677,0 -75.68755089563034,45.43345359679994,0 -75.68750587754978,45.4334022265535,0 -75.68751511818395,45.43339769684457,0 -75.68745628091926,45.43333163315087,0 -75.68746543628527,45.43332714455312,0 -75.68741580332581,45.43326878864237,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Second ByWard Market Building]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[287]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[Second ByWard Market Building]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[60 York Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - South view of the Second Byward Market building facing onto York Street.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4169934&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Second_Byward_Market_e010934916.jpg" title="South view of the Second Byward Market building facing onto York Street." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1938<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4169934</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.69343765517616,45.42879309109422,0 -75.69304453924431,45.42831564037223,0 -75.6928159055182,45.42841424847136,0 -75.6932040686101,45.42889084174759,0 -75.69343765517616,45.42879309109422,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[374-386 Sussex Drive]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[288]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[374-386 Sussex Drive]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[374-386 Sussex Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Front (east) view of 374-386 Sussex Street.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4101980&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/374-386_Sussex_Drive_e010869319.jpg" title="Front (east) view of 374-386 Sussex Street." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1940<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4101980</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - Close-up of 374-386 Sussex Street (Drive).
+
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4101980&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/374-386_Sussex_Drive_2.jpg" title="Close-up of 374-386 Sussex Street (Drive).
+" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1940<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4101980</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.69782988372242,45.42982844282962,0 -75.69781058007115,45.42980304191053,0 -75.69787762246016,45.42977306509062,0 -75.6976509711255,45.42950621532746,0 -75.69760252546622,45.429527223636,0 -75.69765465305427,45.42958966608566,0 -75.69763813956587,45.42959656704925,0 -75.69761211571456,45.42956436203649,0 -75.69751672585164,45.42960499087429,0 -75.69761195627252,45.42971454078078,0 -75.69770379213541,45.42967479300788,0 -75.69767778928572,45.42964466024524,0 -75.69769562386998,45.42963741900443,0 -75.6977248393397,45.42967175233441,0 -75.69761745748117,45.42972177938572,0 -75.69763762869059,45.42974832079901,0 -75.69774788115964,45.42970001637397,0 -75.69777902775164,45.42973657151903,0 -75.69776389961092,45.42974384410614,0 -75.69774019543792,45.4297156724048,0 -75.6976447789918,45.42975621436302,0 -75.69774412355696,45.42986881930332,0 -75.69782988372242,45.42982844282962,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Royal Exchange Hotel]]></name>
+      <styleUrl>#hotel_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[289]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[Royal Exchange Hotel]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[61 York Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Hay market, the Royal Exchange Hotel on the left, the Commercial Hotel in the middle of the photo.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3318792&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Royal_Exchange_Commercial_Hotels_e011083854.jpg" title="Hay market, the Royal Exchange Hotel on the left, the Commercial Hotel in the middle of the photo." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 21 February 1918<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3318792</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - Close-up of the Royal Exchange Hotel.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3318792&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Royal_Exchange_Hotel.jpg" title="Close-up of the Royal Exchange Hotel." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 21 February 1918<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3318792</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.69249283242148,45.42854679070526,0 -75.69238272051051,45.42859252603196,0 -75.69245238431732,45.42867532229738,0 -75.69248384435643,45.42866349388763,0 -75.69254003059785,45.428730523046,0 -75.69261643773197,45.42869661530386,0 -75.69249283242148,45.42854679070526,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[78-81 Dalhousie Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[290]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[78-81 Dalhousie Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[Location now occupied by the Embassy Of United Arab Emirates.]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[78-81 Dalhousie Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Buildings along Dalhousie Street starting from 78 on the left to 99 on the far right.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4511684&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/78-99_Dalhousie_Street_e011074465.jpg" title="Buildings along Dalhousie Street starting from 78 on the left to 99 on the far right." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4511684</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - Corner of Dalhousie and Boteler from top of Florence Paper Co. warehouse.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4511687&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/78-99_Dalhousie_Street_2_e011074467.jpg" title="Corner of Dalhousie and Boteler from top of Florence Paper Co. warehouse." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4511687</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.69638192487473,45.4352881407933,0 -75.69631601194219,45.43531611585685,0 -75.69632454657261,45.43532771894612,0 -75.69622769691721,45.43536821264981,0 -75.69624409776166,45.43538774958506,0 -75.69625894460731,45.43538303192577,0 -75.6962805735853,45.43541281520504,0 -75.69643026656686,45.43534852200677,0 -75.69638192487473,45.4352881407933,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[83-93 Dalhousie Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[291]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[83-93 Dalhousie Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[Location now occupied by the Embassy Of United Arab Emirates.]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[83-93 Dalhousie Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Buildings along Dalhousie Street starting from 78 on the left to 99 on the far right.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4511684&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/78-99_Dalhousie_Street_e011074465.jpg" title="Buildings along Dalhousie Street starting from 78 on the left to 99 on the far right." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4511684</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - Corner of Dalhousie and Boteler from top of Florence Paper Co. warehouse.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4511687&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/78-99_Dalhousie_Street_2_e011074467.jpg" title="Corner of Dalhousie and Boteler from top of Florence Paper Co. warehouse." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4511687</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.696175099651,45.43503162780237,0 -75.69609928679904,45.43506308398381,0 -75.69610619910226,45.43507177486547,0 -75.69607366997585,45.43508665602317,0 -75.69611134263124,45.4351327889209,0 -75.69614363530179,45.43511952968519,0 -75.69617439649785,45.43515697230072,0 -75.69613804704245,45.43517403839765,0 -75.69616937416193,45.43521561788808,0 -75.69611208057583,45.43524019713766,0 -75.69612946582764,45.43526520672283,0 -75.69618397644514,45.43524370638418,0 -75.69624191007125,45.43531914407469,0 -75.69636586290417,45.43526983939688,0 -75.696175099651,45.43503162780237,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[95-99 Dalhousie Street]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[292]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[95-99 Dalhousie Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[Location now occupied by the Embassy Of United Arab Emirates.]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[95-99 Dalhousie Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Buildings along Dalhousie Street starting from 78 on the left to 99 on the far right.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4511684&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/78-99_Dalhousie_Street_e011074465.jpg" title="Buildings along Dalhousie Street starting from 78 on the left to 99 on the far right." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4511684</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - Corner of Dalhousie and Boteler from top of Florence Paper Co. warehouse.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4511687&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/78-99_Dalhousie_Street_2_e011074467.jpg" title="Corner of Dalhousie and Boteler from top of Florence Paper Co. warehouse." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4511687</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.69604708977177,45.43487328460746,0 -75.69585307412787,45.43495446736061,0 -75.69587404799501,45.43497891949136,0 -75.69596619745184,45.43494208059821,0 -75.69599385035318,45.43497684770868,0 -75.69590298365854,45.4350154207262,0 -75.69594654691906,45.43506935817062,0 -75.6960385616824,45.4350308678312,0 -75.69605134923756,45.43504735616494,0 -75.69615459887557,45.43500393242462,0 -75.69604708977177,45.43487328460746,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[211-217 Dalhousie Street]]></name>
+      <styleUrl>#industrial_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[293]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[211-217 Dalhousie Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[211-217 Dalhousie Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Mica Manufacturing Co. Ltd.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3424229&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/211-217_Dalhousie_Street_a027939.jpg" title="Mica Manufacturing Co. Ltd." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: July 1900<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3424229</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.69341298573221,45.43171886840057,0 -75.69329168458948,45.43177010435561,0 -75.69343064731416,45.43192381581342,0 -75.69355194246938,45.43187175208342,0 -75.69341298573221,45.43171886840057,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[St. Charles Hospital]]></name>
+      <styleUrl>#health_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[294]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[St. Charles Hospital]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[1871]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[Between 1965-1976]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[Hospital renamed to Saint-Louis Residence and moved out to Orleans. Location now occupied by townhouses built in the 1980s.]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[158-159 Water Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - St. Charles Hospital facing onto Water Street (Bruyere Street) before the addition on the back.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3421996&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/St_Charles_Hospital_a027088.jpg" title="St. Charles Hospital facing onto Water Street (Bruyere Street) before the addition on the back." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: April 1886<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3421996</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.69344716244606,45.43348709599256,0 -75.69342703701403,45.43346416736365,0 -75.69350031846678,45.43343110705963,0 -75.6935685175464,45.43351254445657,0 -75.69353623267595,45.43352445560244,0 -75.69356661965429,45.43355720815241,0 -75.69359650428679,45.43354397646391,0 -75.69379295593163,45.43378290359042,0 -75.69397032917507,45.43371146138445,0 -75.69376804235117,45.4334744572272,0 -75.693802637096,45.4334608803258,0 -75.69377683368202,45.43342667842504,0 -75.69373966295784,45.4334414009961,0 -75.69364917006499,45.43333876282139,0 -75.69361515016804,45.43335163552776,0 -75.69354833349517,45.43327187056785,0 -75.69333790389682,45.43335760578605,0 -75.69334537733658,45.43336678762505,0 -75.69330188269842,45.43338496962691,0 -75.69329239737776,45.43337645555852,0 -75.69326200122063,45.43338939828905,0 -75.69326850042154,45.4333972278985,0 -75.69321834206143,45.43342018171492,0 -75.69332010000365,45.43353962394723,0 -75.69344716244606,45.43348709599256,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[262-264 Water Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[295]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[262-264 Water Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[262-264 Water Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - 
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/262-264_Water_Street_a051831.jpg" title="" border="1" width="500">
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3358725</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.68969456476891,45.43459541479252,0 -75.68963930842575,45.43453288859892,0 -75.68962755681476,45.43453778797955,0 -75.68959128343104,45.43449967816453,0 -75.68960183925921,45.43449527846979,0 -75.68959012854138,45.43448303661014,0 -75.68950249314153,45.43452057545851,0 -75.68951308742484,45.43453531375561,0 -75.68952681633259,45.43452958990949,0 -75.68955917782103,45.43456629110401,0 -75.68953567546144,45.43457608956271,0 -75.68958891933342,45.43463945840337,0 -75.68969456476891,45.43459541479252,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Brebeuf School]]></name>
+      <styleUrl>#institute_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[296]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[Brebeuf School]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[28 Chelsea Square]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Front view (north) of the Brebeuf School.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3319097&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Brebeuf_School_a009025.jpg" title="Front view (north) of the Brebeuf School." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3319097</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.68151599699282,45.43311233583986,0 -75.68168552187652,45.4330422354851,0 -75.68153598621305,45.43287349474309,0 -75.68136772106412,45.43294485659133,0 -75.68151599699282,45.43311233583986,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Commercial Hotel]]></name>
+      <styleUrl>#hotel_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[297]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[Commercial Hotel]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[71-73 York Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Hay market, the Royal Exchange Hotel on the left, the Commercial Hotel in the middle of the photo.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3318792&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Royal_Exchange_Commercial_Hotels_e011083854.jpg" title="Hay market, the Royal Exchange Hotel on the left, the Commercial Hotel in the middle of the photo." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 21 February 1918<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3318792</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - Close-up of the Commercial Hotel.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3318792&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Commercial_Hotel.jpg" title="Close-up of the Commercial Hotel." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 21 February 1918<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3318792</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.69204619268717,45.42873298121253,0 -75.69219615609234,45.42891373452796,0 -75.69226753639515,45.42888523650317,0 -75.6922388093914,45.4288520862013,0 -75.69225345601763,45.42884679680439,0 -75.69218752067292,45.42877022037096,0 -75.69221473514567,45.42875793929412,0 -75.69215671500975,45.4286869569121,0 -75.69204619268717,45.42873298121253,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[42 O'Connor Street]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[298]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[42 O'Connor Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[42 O'Connor Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - View of the building facing onto Queen Street.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3318415&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/42_OConnor_Street_a033936.jpg" title="View of the building facing onto Queen Street." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: April 1892<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3318415</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.69900426018604,45.42142298390761,0 -75.69906194314014,45.42148964887578,0 -75.69926646344146,45.42140608288867,0 -75.69939776305922,45.42156502055217,0 -75.699599190599,45.42147998782752,0 -75.69948565830265,45.42134010281342,0 -75.69952254415669,45.42132380367852,0 -75.69944717272779,45.42123176689459,0 -75.69900426018604,45.42142298390761,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[155 Sparks Street]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[299]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[155 Sparks Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[155 Sparks Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - View from Sparks Street.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3319163&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/155_Sparks_Street_a042986.jpg" title="View from Sparks Street." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: March 1922<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3319163</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6995176226949,45.42203140086517,0 -75.69970978774201,45.42225219914519,0 -75.69983880156188,45.42219631053317,0 -75.69965108798689,45.42197408984985,0 -75.6995176226949,45.42203140086517,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Central Park Bridge 'Cedar Lodge']]></name>
+      <styleUrl>#rec_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[300]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[Central Park Bridge 'Cedar Lodge']]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[1900s]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[1930s]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Bridge crossing Patterson's Creek in Central Park.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3318552&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Central_Park_Bridge_a009947.jpg" title="Bridge crossing Patterson's Creek in Central Park." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: 1911<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3318552</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.68408354431909,45.40737491984756,0 -75.68413361500726,45.40743603233714,0 -75.68416100636604,45.40742490749559,0 -75.6841109805485,45.40736385889895,0 -75.68413653717178,45.40731978293994,0 -75.68411330752332,45.40728694789863,0 -75.68403990564606,45.4072758255795,0 -75.68399560461801,45.40721595769398,0 -75.68396339082847,45.40722703108025,0 -75.684011575447,45.40728881362001,0 -75.68398857467625,45.40733350019919,0 -75.68401372156228,45.40736575411164,0 -75.68408354431909,45.40737491984756,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[117-123 St. Andrew Street]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[301]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[117-123 St. Andrew Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[117-123 St. Andrew Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - View of 117-123 St. Andrew Street and 186-196 Dalhousie Street.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://urbsite.blogspot.ca/2015/07/dalhowzie-or-dalhoozie-its-time-for.html">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/117-123_St_Andrew_Street.jpg" title="View of 117-123 St. Andrew Street and 186-196 Dalhousie Street." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Urbsite: Dalhowzie or Dalhoozie, It's Time For A Tour of Dalhousie</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.69407905398063,45.43216701474965,0 -75.69427592279223,45.432395858521,0 -75.69434726975098,45.43236607255805,0 -75.694323931009,45.43234249405857,0 -75.69436408607729,45.43232436747349,0 -75.69429727691421,45.43224955409933,0 -75.69425836795493,45.43226743961069,0 -75.69425217438439,45.43225989158624,0 -75.69429325229217,45.43224193990617,0 -75.69425875250303,45.43220148255256,0 -75.69429840479378,45.43218219101328,0 -75.69428721673178,45.43216802184294,0 -75.69431548385437,45.43215616430086,0 -75.69430321500688,45.43214209400571,0 -75.69434070006561,45.43212533229795,0 -75.69429441351365,45.43207308773485,0 -75.69407905398063,45.43216701474965,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[199 Dalhousie Street]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[302]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[199 Dalhousie Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[199 Dalhousie Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - The building on the far left is 199 Dalhousie, the building in the middle is 201-205 Dalhousie and the building on the right is 209 Dalhousie.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4232211&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/199-209_Dalhousie_Street.jpg" title="The building on the far left is 199 Dalhousie, the building in the middle is 201-205 Dalhousie and the building on the right is 209 Dalhousie." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4232211</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.69370912684002,45.43205078688624,0 -75.69356734482371,45.43211280950331,0 -75.69361516740604,45.43216716615014,0 -75.6937569474219,45.43210545110117,0 -75.69370912684002,45.43205078688624,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[201-205 Dalhousie Street]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[303]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[201-205 Dalhousie Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[201-205 Dalhousie Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - The building on the far left is 199 Dalhousie, the building in the middle is 201-205 Dalhousie and the building on the right is 209 Dalhousie.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4232211&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/199-209_Dalhousie_Street.jpg" title="The building on the far left is 199 Dalhousie, the building in the middle is 201-205 Dalhousie and the building on the right is 209 Dalhousie." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4232211</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.69361212578568,45.4319424391211,0 -75.69351676192636,45.4319849399109,0 -75.6935240250229,45.43199434841254,0 -75.69348855291707,45.43201075962384,0 -75.69352907439863,45.4320561640942,0 -75.69356706199568,45.43203950829478,0 -75.69357621750316,45.43205006390836,0 -75.69353734045637,45.43206679478509,0 -75.69357417944421,45.43210954323251,0 -75.69370774346849,45.43205095049584,0 -75.69361212578568,45.4319424391211,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[209 Dalhousie Street]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[304]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[209 Dalhousie Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[209 Dalhousie Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - The building on the far left is 199 Dalhousie, the building in the middle is 201-205 Dalhousie and the building on the right is 209 Dalhousie.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4232211&lang=eng">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/199-209_Dalhousie_Street.jpg" title="The building on the far left is 199 Dalhousie, the building in the middle is 201-205 Dalhousie and the building on the right is 209 Dalhousie." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 4232211</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6936127143659,45.43194218905047,0 -75.69355147482519,45.43187160568786,0 -75.69331767783369,45.43197262815805,0 -75.69338103171693,45.43204444218178,0 -75.6936127143659,45.43194218905047,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[St. Patrick's School]]></name>
+      <styleUrl>#institute_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[305]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[St. Patrick's School]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - A view of St. Patrick's School (for boys according to 1912 Fire Plans)
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://urbsite.blogspot.ca/2012/05/then-fri-st-patricks-school.html">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/St_Patrick's_School.jpg" title="A view of St. Patrick's School (for boys according to 1912 Fire Plans)" border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Urbsite: Then&Now Fri: St. Patrick's School</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70134840859366,45.41579804217769,0 -75.70135397552684,45.41580663959923,0 -75.7014029655215,45.41578709965947,0 -75.70139739869934,45.41577850227517,0 -75.70146642896606,45.41575036539685,0 -75.70138514902411,45.41565735818843,0 -75.7013372729097,45.41567689687557,0 -75.70132725205589,45.41567220738937,0 -75.70131277778289,45.41567924133436,0 -75.7013127778197,45.41568549382551,0 -75.70120143408278,45.41573316992566,0 -75.70127603494089,45.41582617992516,0 -75.70134840859366,45.41579804217769,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Mortimer Co. Ltd.]]></name>
+      <styleUrl>#industrial_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[306]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[Mortimer Co. Ltd.]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[1937]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1549">Moses Chamberlain Edey</a>]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[257 Sparks Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - The Mortimer Co. Ltd. Printers & Lithographers building.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://www.ottawahh.com/ottawahh.pl?x=galleryitem&g=apa&i=28">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Mortimer_Co_Ltd_a042331.jpg" title="The Mortimer Co. Ltd. Printers & Lithographers building." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: June 1908<br>
+			<b>Source</b>: OttawaHH (LAC PA-042331, MIKAN: 3318421)</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - View of entire Mortimer Co. buildings.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://www.ottawahh.com/ottawahh.pl?x=galleryitem&g=apa&i=27">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Mortimer_Co_Ltd_2_a042327.jpg" title="View of entire Mortimer Co. buildings." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: June 1908<br>
+			<b>Source</b>: OttawaHH (LAC PA-042327, MIKAN: 3318420)</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70351239038992,45.4208227425758,0 -75.70319570661941,45.42044585299526,0 -75.70281004859432,45.42060822908915,0 -75.70315381607166,45.4209757784523,0 -75.70351239038992,45.4208227425758,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Campbell's Boiler Works]]></name>
+      <styleUrl>#industrial_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[307]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[Campbell's Boiler Works]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - The Campbell's Boiler Works looking from Broad Street with CPR Station to the far right.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="https://www.facebook.com/photo.php?fbid=10212434999055680">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Campbell's_Boiler_Works.jpg" title="The Campbell's Boiler Works looking from Broad Street with CPR Station to the far right." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: September 1907<br>
+			<b>Source</b>: Facebook (LAC PA-042274)</small>
+			</td>
+		</tr>
+	</table>
+			</td>
+     </tr>
+     <tr align="left" valign="top">
+        <td><table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 2</b> - The Campbell's Boiler Works again looking from Broad Street.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://www.ottawahh.com/ottawahh.pl?x=galleryitem&g=apa&i=11">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Campbell's_Boiler_Works_2_a042275.jpg" title="The Campbell's Boiler Works again looking from Broad Street." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: September 1907<br>
+			<b>Source</b>: OttawaHH (LAC PA-042275, Mikan 3326037)</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.71589721219162,45.41176873218025,0 -75.71593291898068,45.41180843578332,0 -75.71611175732558,45.41172854956597,0 -75.71612586563911,45.41174720414889,0 -75.71808808140315,45.41086389317602,0 -75.71793466034379,45.41066459953836,0 -75.71463759550441,45.41212858055769,0 -75.71475906316131,45.41228290893042,0 -75.71589721219162,45.41176873218025,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Ottawa University Wash House]]></name>
+      <styleUrl>#institute_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[308]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[Ottawa University Wash House]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - The back of the wash house for the University of Ottawa.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://www.ottawahh.com/ottawahh.pl?x=galleryitem&g=apa&i=40">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Ottawa_U_Wash_House_a042367.jpg" title="The back of the wash house for the University of Ottawa." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: March 1904<br>
+			<b>Source</b>: OttawaHH (LAC PA-042367, MIKAN: 3319122)</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.68687722239255,45.42450908777725,0 -75.6868654352883,45.42451404488613,0 -75.68678406131042,45.42436929880319,0 -75.68679099983976,45.42436506919788,0 -75.68676293991477,45.42431903265925,0 -75.68661855606577,45.42437780494167,0 -75.68664487545379,45.42442644822757,0 -75.68665324429988,45.42442404492946,0 -75.68668585050482,45.4244839120382,0 -75.68657433699215,45.42451336778122,0 -75.68660437364223,45.42456693954828,0 -75.68663300602017,45.42455907209243,0 -75.6866407414111,45.42456497978709,0 -75.68665640330406,45.42457000429675,0 -75.68667338264403,45.4245745047082,0 -75.68669395237339,45.42457506278948,0 -75.68671093928879,45.42457345676571,0 -75.68673103369584,45.42456932256883,0 -75.68675561378757,45.42461041726097,0 -75.68691129799758,45.42456429269181,0 -75.68687722239255,45.42450908777725,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[126-128 Sparks Street]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[309]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[126-128 Sparks Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[126-128 Sparks Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - View of 126-128 Sparks Street facing onto Sparks Street.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://www.ottawahh.com/ottawahh.pl?x=galleryitem&g=apa&i=34">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/126-128_Sparks_Street_a042358.jpg" title="View of 126-128 Sparks Street facing onto Sparks Street." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: September 1914<br>
+			<b>Source</b>: OttawaHH (LAC PA-042358, MIKAN: 3574285)</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.69840758830416,45.42231246223646,0 -75.69828312656657,45.42216991391639,0 -75.69829456914235,45.42216587378772,0 -75.69822261801456,45.4220841123438,0 -75.6981124715653,45.42213077118758,0 -75.69831247063711,45.4223539803971,0 -75.69840758830416,45.42231246223646,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Grand Central Hotel]]></name>
+      <styleUrl>#hotel_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[310]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[Grand Central Hotel]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[553-557 Sussex Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - View of the Grand Central Hotel from the corner of George and Sussex Streets.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://www.ottawahh.com/ottawahh.pl?x=galleryitem&g=apa&i=55">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Grand_Central_Hotel_a042420.jpg" title="View of the Grand Central Hotel from the corner of George and Sussex Streets." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: June 1910<br>
+			<b>Source</b>: OttawaHH (LAC PA-042420, MIKAN: 3428547)</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.69373294736228,45.4261299850499,0 -75.69359322006828,45.4259680324109,0 -75.69329703035909,45.42610289010337,0 -75.69343389442989,45.42626534943666,0 -75.69373294736228,45.4261299850499,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Davidson Sash & Door Factory]]></name>
+      <styleUrl>#industrial_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[312]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[Davidson Sash & Door Factory]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[<table width="500" border="1" cellspacing="1" cellpadding="6">
+		<tr align="left" valign="top">
+			<td>
+			<b>Photo 1</b> - Northeast corner of the building at the corner of Wellington and Rochester Streets.
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3318386">
+<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Davidson_Sash&Door_Factory_a009054.jpg" title="Northeast corner of the building at the corner of Wellington and Rochester Streets." border="1" width="500"></a>
+			</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>
+			<small><b>Date Taken</b>: n/a<br>
+			<b>Source</b>: Library & Archives Canada, MIKAN no. 3318386</small>
+			</td>
+		</tr>
+	</table>
+		</td>
+      </tr>
+</table>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.71522466449603,45.41166927810717,0 -75.71405202816305,45.41216874228999,0 -75.71399834847249,45.41215767512836,0 -75.71336570266207,45.41107268662983,0 -75.71461455508106,45.41068770490058,0 -75.71522466449603,45.41166927810717,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+        <innerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.71482239676685,45.41171553581812,0 -75.71508505513558,45.41160174879917,0 -75.71492290863358,45.41140925909213,0 -75.71455215259684,45.4108090325672,0 -75.71404674858771,45.4109664379434,0 -75.71413280002079,45.411103693535,0 -75.71418400417932,45.41108757370731,0 -75.71423351772931,45.41116144959891,0 -75.71428571667977,45.41114594956372,0 -75.71431817803912,45.41119472315015,0 -75.71421245093403,45.41123075570615,0 -75.71440422947221,45.41153537303813,0 -75.71443741735274,45.41152589078654,0 -75.71443267622695,45.41151735676012,0 -75.71450948246473,45.41149175468086,0 -75.71452749874274,45.41152304611106,0 -75.71445069250495,45.41154675174002,0 -75.71444547726657,45.41153726948844,0 -75.71441276349863,45.41154769996518,0 -75.71449668142509,45.41168234793759,0 -75.7145438556267,45.41166599105362,0 -75.71453010636191,45.41163612196114,0 -75.71459316333491,45.41161526100767,0 -75.71460928316259,45.41164418187499,0 -75.71472378135042,45.41160459347465,0 -75.71482239676685,45.41171553581812,0</coordinates>
+          </LinearRing>
+        </innerBoundaryIs>
+        <innerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.71429542063534,45.4117494348675,0 -75.71434425423097,45.41173189270209,0 -75.7141882711925,45.41148914706167,0 -75.71416077266292,45.41149957753841,0 -75.71414797162329,45.41151711970383,0 -75.71429542063534,45.4117494348675,0</coordinates>
+          </LinearRing>
+        </innerBoundaryIs>
+        <innerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.71381751515581,45.411265840037,0 -75.71370230579913,45.41107524678026,0 -75.71362028432297,45.41110179708468,0 -75.71365536865382,45.41116106115705,0 -75.71369377177271,45.41114873423,0 -75.71372032207714,45.41119330081242,0 -75.71368191895824,45.41120705007721,0 -75.71369519411044,45.41122838514326,0 -75.71376204398408,45.41120799830237,0 -75.71379807654007,45.41127200350052,0 -75.71381751515581,45.411265840037,0</coordinates>
+          </LinearRing>
+        </innerBoundaryIs>
       </Polygon>
     </Placemark>
   </Document>
