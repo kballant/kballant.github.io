@@ -3329,6 +3329,25 @@ Library & Archives Canada, MIKAN no. 3325359</a></small>
 			.container {
 				padding: 3px;
 			}
+			#cf2 {
+				position: relative;
+				width: 500px;
+				height: 425px;
+			}
+			#cf2 img {
+				position: absolute;
+				left: 0;
+				-webkit-transition: opacity 1s ease-in-out;
+				-moz-transition: opacity 1s ease-in-out;
+				-o-transition: opacity 1s ease-in-out;
+				transition: opacity 1s ease-in-out;
+			}
+			#cf2 img.transparent {
+				opacity:0;
+			}
+			#cf_onclick {
+				cursor:pointer;
+			}
 		</style>
 		<div class="container">
 			<div class="row">
@@ -3354,8 +3373,12 @@ Library & Archives Canada, MIKAN no. 3358763</a></small>
 				<b>Photo 2</b> - The post office just before demolition.
 			</div>
 			
-			<div>
-				<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Old_Post_Office_2_a046845.jpg" title="The post office just before demolition." border="1" width="500">
+			<div class="row">
+				<div id="cf2" class="shadow">
+					<img class="bottom" src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/present/Old_Post_Office_2.jpg" title="The post office just before demolition." border="1" width="500">
+					<img class="top" src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Old_Post_Office_2_a046845.jpg" title="The post office just before demolition." border="1" width="500">
+				</div>
+				<p>Click on image to see today</p>
 			</div>
 			
 			<div class="row">
