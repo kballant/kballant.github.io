@@ -110,15 +110,31 @@ function create_photo_html(photos) {
 		} else {
 			active_str = '';
 		}
-		photo_html += `
-			<div class="item${active_str} carousel-item">
-				<img class="carousel-img" src="${img_src}" alt="">
-				<div class="carousel-caption">
-					<p class="carousel-caption-txt">${caption}</p>
-					<p class="carousel-text-sm">Date Taken: ${date_taken}</p>
-					<p class="carousel-text-sm">Source: <a href="${link}">${source}</a></p>
-				</div>
-			</div>`
+		if (img_src.length > 1) {
+			photo_html += `
+				<div class="item${active_str} carousel-item">
+					<div id="cf2">
+						<img class="bottom carousel-img" src="${img_src[1]}" alt="" onclick="imgClick()">
+						<img class="top carousel-img" src="${img_src[0]}" alt="" onclick="imgClick()">
+					</div>
+					<div class="carousel-caption">
+						<p class="carousel-text-sm">***Click on image to toggle between then & now***</p>
+						<p class="carousel-caption-txt">${caption}</p>
+						<p class="carousel-text-sm">Date Taken: ${date_taken}</p>
+						<p class="carousel-text-sm">Source: <a href="${link}">${source}</a></p>
+					</div>
+				</div>`
+		} else {
+			photo_html += `
+				<div class="item${active_str} carousel-item">
+					<img class="carousel-img" src="${img_src[0]}" alt="">
+					<div class="carousel-caption">
+						<p class="carousel-caption-txt">${caption}</p>
+						<p class="carousel-text-sm">Date Taken: ${date_taken}</p>
+						<p class="carousel-text-sm">Source: <a href="${link}">${source}</a></p>
+					</div>
+				</div>`
+		}
 	}
 	
 	photo_html += `
@@ -145,7 +161,7 @@ function create_photo_html(photos) {
 		<ul class="thumbnails-carousel clearfix">`
 	
 	for (var i = 0; i < photos.length; i++) {
-		img_src = photos[i]['img_src'];
+		img_src = photos[i]['img_src'][0];
 		photo_html += `
 			<li><img class="tn" src="${img_src}" alt=""></li>`
 	}
@@ -156,6 +172,10 @@ function create_photo_html(photos) {
 </div>`
 
 	return photo_html;
+}
+
+function imgClick() {
+	$("#cf2 img.top").toggleClass("transparent");
 }
 
 function showPopup(props, featId=-1) {
@@ -224,7 +244,13 @@ function showPopup(props, featId=-1) {
 		
 		// Get the source URL of photo
 		img_element = child_elements[1].getElementsByTagName('img');
-		img_src = img_element[0].src;
+		var img_src = [];
+		if (img_element.length > 1) {
+			img_src.push(img_element[1].src);
+			img_src.push(img_element[0].src);
+		} else {
+			img_src.push(img_element[0].src);
+		}
 		photo['img_src'] = img_src;
 		
 		// Parse source info
