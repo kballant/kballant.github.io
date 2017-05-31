@@ -702,8 +702,25 @@ $(document).on("mfpOpen", function(event) {
 	//alert(img_elements.length);
 	
 	function calculateWidth(img, height) {
-		img_height = img.height;
-		img_width = img.width;
+		var new_img = document.createElement('img');
+		new_img.src = img.src;
+		
+		// var img_height = 0;
+		// var img_width = 0;
+
+		/* var poll = setInterval(function () {
+			if (new_img.naturalWidth) {
+				clearInterval(poll);
+				console.log(new_img.naturalWidth, new_img.naturalHeight);
+				img_height = new_img.naturalHeight;
+				img_width = new_img.naturalWidth;
+			}
+		}, 10); */
+		
+		if (new_img.naturalWidth) {
+			img_height = new_img.naturalHeight;
+			img_width = new_img.naturalWidth;
+		}
 		
 		aspect = img_width / img_height;
 		
@@ -720,7 +737,7 @@ $(document).on("mfpOpen", function(event) {
 	
 		map_popup.style.width = "600px";
 		
-		max_width = 0;
+		/* max_width = 0;
 		for (var i = 0; i < img_elements.length; i++) {
 			cur_img = img_elements[i];
 			if (cur_img.height == 0) {
@@ -746,7 +763,7 @@ $(document).on("mfpOpen", function(event) {
 				}
 			}
 		}
-		map_popup.style.width = max_width + "px";
+		map_popup.style.width = max_width + "px"; */
 	} else {
 		map_popup.style.width = "100% !important";
 		/* car_img = document.getElementById('carousel-img');

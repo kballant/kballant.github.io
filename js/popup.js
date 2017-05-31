@@ -112,13 +112,11 @@ function create_photo_html(photos) {
 		}
 		photo_html += `
 			<div class="item${active_str} carousel-item">
-				<a target="_blank" href="${link}">
-					<img class="carousel-img" src="${img_src}" alt="">
-				</a>
+				<img class="carousel-img" src="${img_src}" alt="">
 				<div class="carousel-caption">
 					<p class="carousel-caption-txt">${caption}</p>
 					<p class="carousel-text-sm">Date Taken: ${date_taken}</p>
-					<p class="carousel-text-sm">Source: ${source}</p>
+					<p class="carousel-text-sm">Source: <a href="${link}">${source}</a></p>
 				</div>
 			</div>`
 	}
@@ -203,10 +201,10 @@ function showPopup(props, featId=-1) {
 	parser = new DOMParser();
 	htmlDoc = parser.parseFromString(photo_html, "text/html");
 	//td_elements = htmlDoc.getElementsByTagName('td');
-	table_elements = htmlDoc.getElementsByTagName('table');
+	table_elements = htmlDoc.getElementsByClassName('container');
 	//a_elements = htmlDoc.getElementsByTagName('a');
 	
-	//alert(htmlDoc);
+	//alert(table_elements.length);
 	//alert(a_elements);
 	// for (var i = 0; i < a_elements.length; i++) {
 	//	alert(a_elements[i]);
@@ -219,6 +217,40 @@ function showPopup(props, featId=-1) {
 		//alert('Text: ' + table_elements[i].innerText);
 		var photo = {};
 		child_elements = table_elements[i].children;
+		
+		// Get the caption
+		caption = child_elements[0].innerText;
+		photo['caption'] = caption;
+		
+		// Get the source URL of photo
+		img_element = child_elements[1].getElementsByTagName('img');
+		img_src = img_element[0].src;
+		photo['img_src'] = img_src;
+		
+		// Parse source info
+		source_str = child_elements[2].innerText;
+		sources = source_str.trim().split(/\r?\n/).filter(Boolean);
+		var filter_srcs = sources.filter(function(v){return v.replace(/\s/g,'')!==''});
+		date_taken = filter_srcs[0];
+		if (filter_srcs.length == 3) {
+			source = filter_srcs[2];
+		} else {
+			source = "";
+		}
+		photo['date_taken'] = date_taken;
+		photo['source'] = source;
+		
+		// Get the link info from source
+		a_element = child_elements[2].getElementsByTagName('a');
+		if (a_element.length == 0) {
+			photo['link'] = "";
+		} else {
+			link = a_element[0].href;
+			photo['link'] = link;
+		}
+		photos.push(photo);
+		
+		/* child_elements = table_elements[i].children;
 		//alert(child_elements);
 		for (var j = 0; j < child_elements.length; j++) {
 			//alert(child_elements[j].rows);
@@ -251,7 +283,7 @@ function showPopup(props, featId=-1) {
 			//alert('Date Taken: ' + date_taken);
 			//alert('Source: ' + source);
 			photos.push(photo);
-		}
+		} */
 	}
 	
 	new_ph_html = create_photo_html(photos);
