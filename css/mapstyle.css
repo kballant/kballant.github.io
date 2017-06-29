@@ -1,3 +1,6 @@
+html.full {
+	/* height: 100vh !important; -->
+}
 body.main {
 	background: #666655; 
 	background-image: url("../images/back-blurred_dark.jpg");
@@ -6,11 +9,27 @@ body.main {
     /* margin: 20px auto;
     /* width: 60%; */
 }
+body.main-full {
+	/* height: 100vh !important; */
+}
 .map {
 	height: 50vh !important;
 	width: 100% !important;
 	border-width: 2px !important;
 	border-color: #000000 !important;
+}
+.map-full {
+	min-height: 100% !important;
+    height: 90vh !important;
+}
+div.full {
+	height: 100% !important;
+}
+div.round-border {
+	border: 1px solid #000000;
+	border-radius: 5px;
+	margin: 0 0 0 0 !important;
+	padding: 0 0 0 0 !important;
 }
 .map-popup {
 	max-height: 800px;
@@ -24,6 +43,21 @@ body.main {
 	border: 1px solid #000000;
 	min-width: 550px !important;
 	/*width: auto !important;*/
+}
+.map:-moz-full-screen {
+	height: 100%;
+}
+.map:-webkit-full-screen {
+	height: 100%;
+}
+.map:-ms-fullscreen {
+	height: 100%;
+}
+.map:fullscreen {
+	height: 100%;
+}
+.ol-rotate {
+	top: 3em;
 }
 .popover {
 	/* border: 2px black;
@@ -374,6 +408,17 @@ ul.thumbnails-carousel li {
 .indicators-fix {
 	bottom: 70px;
 }
+.container-full {
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	height: 100% !important;
+}
+.foot-full {
+	margin: 0 0 0 0 !important;
+	padding: 5px 5px 5px 5px !important;
+	text-align: center;
+	font-size: small;
+}
 @media only screen and (max-width: 768px) {
 	.map-popup {
 		width: 100% !important;
@@ -385,5 +430,9 @@ ul.thumbnails-carousel li {
 	}
 	.tn {
 		height: 30px;
+	}
+	.container-full {
+		padding-right: 15px;
+		padding-left: 30px;
 	}
 }

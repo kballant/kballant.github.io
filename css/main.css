@@ -102,6 +102,11 @@ h1 {
 	padding-top: 50px !important;
 	padding-bottom: 30px !important;
 }
+.logo-full {
+	margin: 0px !important; 
+	padding-left: 20px !important;
+	padding-top: 10px !important;
+}
 
 #logo {
 	max-width: 300px !important;
@@ -132,6 +137,12 @@ h1 {
 	max-width: 163px !important;
 	width: 80% !important;
 }
+.geo-logo {
+	padding-left: 20px !important;
+	padding-bottom: 10px !important;
+	max-width: 163px !important;
+	width: 80% !important;
+}
 
 h2 {
 	color: #99BBEE !important;
@@ -144,6 +155,22 @@ h2 {
 	text-align: center;
 	font-weight: bold !important;
 	text-shadow: 1px 1px #FFFFFF;
+}
+h2.full {
+	color: #99BBEE !important;
+	padding: 0px;
+    font-size: 2em !important;
+    /* font-family: 'Segoe UI', Frutiger, 'Frutiger Linotype', 'Dejavu Sans', 'Helvetica Neue', Arial, sans-serif !important; */
+	/* font-family: Scada;*/
+	/* font-family: Kaushan Script !important; */
+	font-family: 'Yanone Kaffeesatz' !important;
+	text-align: center;
+	font-weight: bold !important;
+	text-shadow: 0px 1px #FFFFFF;
+	margin-top: 0px;
+}
+.right-align {
+	text-align: right !important;
 }
 .pg-title {
 	border-radius: 30px;
@@ -254,6 +281,9 @@ ul.posts li {
 	/* height: 90vh; */
 	/* margin-right: 18px; */
 }
+.sidebar-full {
+	padding-left: 30px !important;
+}
 
 .inner-sidebar {
 	/* background-color: cornflowerblue; */
@@ -285,6 +315,11 @@ ul.posts li {
 	display: inline-table;
 	width: 100%;
 	margin: 0px;
+}
+.nav>li>a.full {
+    position: relative;
+    display: block;
+    padding: 15px 0px;
 }
 .sub-menu {
 	font-size: 1.3em !important;
@@ -483,5 +518,19 @@ ul.resume.posts {
 @media only screen and (max-width: 768px) {
 	#geomatics {
 		width: 50% !important;
+	}
+	.geo-logo {
+		width: 50% !important;
+	}
+	.sidebar-full {
+		padding-left: 0px !important;
+	}
+	.map-full {
+		height: 70vh !important;
+	}
+	.nav>li>a.full {
+		position: relative;
+		display: block;
+		padding: 10px 10px;
 	}
 }

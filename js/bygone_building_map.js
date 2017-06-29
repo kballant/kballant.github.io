@@ -291,15 +291,37 @@ for (var key in lyr_dict) {
 	lyr_list.push(lyr_dict[key]);
 }
 
+var zoom = 15;
+var center = ol.proj.transform([-75.697840, 45.420619], "EPSG:4326", "EPSG:3857");
+var rotation = 0;
+
+function get_center() {
+	if (location.search.substring(1) != "") {
+		// Get the 'id' passed in from the URL
+		queryString = location.search.substring(1);
+		coordinates = queryString.split('/');
+		zoom = parseInt(coordinates[0].replace('map=', ''));
+		center = coordinates[1].split(',').map(function(item) {
+			return parseFloat(item);
+		});
+		rotation = parseInt(coordinates[2]);
+	}
+}
+
+get_center();
+
 var map = new ol.Map({
+	/* controls: ol.control.defaults().extend([
+		new ol.control.FullScreen()
+	]), */
     layers: lyr_list,
     //target: document.getElementById('map'),
 	target: document.getElementById('map'),
     view: new ol.View({
         //center: [-8426422.45316044, 5688395.36969644],
-		center:ol.proj.transform([-75.697840, 45.420619], "EPSG:4326", "EPSG:3857"), 
+		center: center, 
         projection: projection,
-        zoom: 15
+        zoom: zoom
     })
 });
 
@@ -493,6 +515,18 @@ function cleanURL() {
 		}
 		*/
 		window.history.replaceState({}, document.title, clean_url);
+	}
+}
+
+function change_size(size) {
+	var view = map.getView();
+	var zoom = view.getZoom();
+	var center = view.getCenter();
+	var rotation = view.getRotation();
+	if (size == "small") {
+		window.location.href = './map?map=' + zoom + '/' + center + '/' + rotation;
+	} else {
+		window.location.href = './map-full?map=' + zoom + '/' + center + '/' + rotation;
 	}
 }
 
@@ -967,7 +1001,7 @@ kmlLayer.getSource().on('change', function(evt){
 				var featId = feat.getId();
 				map.getView().fit(extent, map.getSize());
 				//map.getView().setCenter(ol.proj.fromLonLat([lon, lat]))
-				map.getView().setZoom(20);
+				map.getView().setZoom(18);
 				cleanURL();
 			}
 		}

@@ -3490,7 +3490,7 @@ Library & Archives Canada MIKAN no. 3319303</a></small>
           <value><![CDATA[Closed its doors on 31 August 1957. Location currently occupied by the Thomas D'Arcy McGee Building.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[The first meal prepared entirely by electricity in Canada was at the Windsor Hotel in 1892. The meal was prepared by Thomas Ahearn using his patented electric oven.]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[45 Metcalfe Street]]></value>
@@ -3592,7 +3592,7 @@ Past Ottawa (City of Ottawa)</a></small>
           <value><![CDATA[Demolished and replaced with new Post Office.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[First built by James Hope and Company, the Royal Bank later occupied the building.]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[18-20 Elgin & 45-49 Sparks Streets]]></value>
@@ -16289,14 +16289,37 @@ Library & Archives Canada, MIKAN no. 3600222</a></small>
 			.container {
 				padding: 3px;
 			}
+			#cf2 {
+				position: relative;
+				width: 500px;
+				height: 425px;
+			}
+			#cf2 img {
+				position: absolute;
+				left: 0;
+				-webkit-transition: opacity 1s ease-in-out;
+				-moz-transition: opacity 1s ease-in-out;
+				-o-transition: opacity 1s ease-in-out;
+				transition: opacity 1s ease-in-out;
+			}
+			#cf2 img.transparent {
+				opacity:0;
+			}
+			#cf_onclick {
+				cursor:pointer;
+			}
 		</style>
 		<div class="container">
 			<div class="row">
 				<b>Photo 1</b> - 
 			</div>
 			
-			<div>
-				<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Wellington_Apartments_e011168054.jpg" title="" border="1" width="500">
+			<div class="row">
+				<div id="cf2" class="shadow">
+					<img class="bottom" src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/present/Wellington_Apartments.jpg" title="" border="1" width="500">
+					<img class="top" src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Wellington_Apartments_e011168054.jpg" title="" border="1" width="500">
+				</div>
+				<p>Click on image to see today</p>
 			</div>
 			
 			<div class="row">
@@ -20159,7 +20182,7 @@ Library & Archives Canada, MIKAN no. 4166253</a></small>
           <value><![CDATA[71 Lyon Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Storeroom]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -20261,7 +20284,7 @@ Library & Archives Canada, MIKAN no. 3600262</a></small>
           <value><![CDATA[41 Lyon Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Northcliffe Apartments]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -20363,7 +20386,7 @@ Library & Archives Canada, MIKAN no. 3600265</a></small>
           <value><![CDATA[333-335 Wellington Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Hugh Hobbs, carriages]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -21184,7 +21207,7 @@ Streetscape Memory Bank: The lost neighbourhood of Uppertown, Pt. 3</a></small>
           <value><![CDATA[9 Lyon Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[R E Douglas]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -22651,13 +22674,13 @@ Library & Archives Canada, MIKAN no. 3325682</a></small>
 		</style>
 		<div class="container">
 			<div class="row">
-				<b>Photo 1</b> - The Bodega Hotel is the building on the left and 11-13 Elgin Street is on the left.
+				<b>Photo 1</b> - The Bodega Hotel is the building on the left and 11-13 Elgin Street is on the right.
 			</div>
 			
 			<div class="row">
 				<div id="cf2" class="shadow">
-					<img class="bottom" src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/present/3-13_Elgin_Street.jpg" title="The Bodega Hotel is the building on the left and 11-13 Elgin Street is on the left." border="1" width="500">
-					<img class="top" src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/3-13_Elgin_Street.jpg" title="The Bodega Hotel is the building on the left and 11-13 Elgin Street is on the left." border="1" width="500">
+					<img class="bottom" src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/present/3-13_Elgin_Street.jpg" title="The Bodega Hotel is the building on the left and 11-13 Elgin Street is on the right." border="1" width="500">
+					<img class="top" src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/3-13_Elgin_Street.jpg" title="The Bodega Hotel is the building on the left and 11-13 Elgin Street is on the right." border="1" width="500">
 				</div>
 				<p>Click on image to see today</p>
 			</div>
@@ -22757,13 +22780,13 @@ Bytown Museum, ID #: 2014.004.01.93</a></small>
 		</style>
 		<div class="container">
 			<div class="row">
-				<b>Photo 1</b> - The Bodega Hotel is the building on the left and 11-13 Elgin Street is on the left.
+				<b>Photo 1</b> - The Bodega Hotel is the building on the left and 11-13 Elgin Street is on the right.
 			</div>
 			
 			<div class="row">
 				<div id="cf2" class="shadow">
-					<img class="bottom" src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/present/3-13_Elgin_Street.jpg" title="The Bodega Hotel is the building on the left and 11-13 Elgin Street is on the left." border="1" width="500">
-					<img class="top" src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/3-13_Elgin_Street.jpg" title="The Bodega Hotel is the building on the left and 11-13 Elgin Street is on the left." border="1" width="500">
+					<img class="bottom" src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/present/3-13_Elgin_Street.jpg" title="The Bodega Hotel is the building on the left and 11-13 Elgin Street is on the right." border="1" width="500">
+					<img class="top" src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/3-13_Elgin_Street.jpg" title="The Bodega Hotel is the building on the left and 11-13 Elgin Street is on the right." border="1" width="500">
 				</div>
 				<p>Click on image to see today</p>
 			</div>
