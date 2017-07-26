@@ -295,7 +295,8 @@ var center = ol.proj.transform([-75.697840, 45.420619], "EPSG:4326", "EPSG:3857"
 var rotation = 0;
 
 function get_center() {
-	if (location.search.substring(1) != "") {
+	var loc_val = location.search.substring(1);
+	if (loc_val != "" && loc_val.indexOf("id") == -1) {
 		// Get the 'id' passed in from the URL
 		queryString = location.search.substring(1);
 		coordinates = queryString.split('/');
@@ -724,7 +725,8 @@ kmlRad.click();
 kmlLayer.getSource().on('change', function(evt){
     var source = evt.target;
     if(source.getState() === 'ready'){
-        if (location.search.substring(1) != "") {
+		loc_val = location.search.substring(1)
+        if (loc_val != "" && loc_val.indexOf("id") > -1) {
 			// Get the 'id' passed in from the URL
 			queryString = location.search.substring(1);
 			id_val = queryString.split('=')[1];
