@@ -10754,89 +10754,6 @@ Library & Archives Canada, MIKAN no. 4161382</a></small>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name><![CDATA[Rideau Skating Rink]]></name>
-      <styleUrl>#rec_map</styleUrl>
-      <ExtendedData>
-        <Data name="id">
-          <value><![CDATA[107]]></value>
-        </Data>
-        <Data name="name">
-          <value><![CDATA[Rideau Skating Rink]]></value>
-        </Data>
-        <Data name="dateBuilt">
-          <value><![CDATA[1889]]></value>
-        </Data>
-        <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="architect">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="status">
-          <value><![CDATA[Location currently occupied by University of Ottawa's Simard Hall, built in 1957.]]></value>
-        </Data>
-        <Data name="history">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="addrss">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
-        </Data>
-        <Data name="sources">
-          <value><![CDATA[Simard - University of Ottawa website: <a href="http://www.uottawa.ca/maps/building/simard.html">http://www.uottawa.ca/maps/building/simard.html</a>]]></value>
-        </Data>
-        <Data name="photos">
-          <value><![CDATA[
-		<style type="text/css">
-			.row {
-				border: solid black 1px;
-				padding: 3px;
-			}
-			.container {
-				padding: 3px;
-			}
-		</style>
-		<div class="container">
-			<div class="row">
-				<b>Photo 1</b> - Rideau Skating Rink.
-			</div>
-			
-			<div>
-				<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Rideau_Skating_Rink.jpg" title="Rideau Skating Rink." border="1" width="500">
-			</div>
-			
-			<div class="row">
-				<div>
-					<small><b>Date Taken</b>: n/a<br>
-				</div>
-				<div>
-					<b>Source</b>: <a href="http://en.wikipedia.org/wiki/Rideau_Skating_Rink">
-Wikipedia which modified an image from Library & Archives Canada, PA-042365</a></small>
-				</div>
-			</div>
-		</div>
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-		<script type="text/javascript">
-			$(document).ready(function() {
-				$("img").click(function() {
-					$("#cf2 img.top").toggleClass("transparent");
-				});
-			});
-		</script>]]></value>
-        </Data>
-      </ExtendedData>
-      <Polygon>
-        <tessellate>1</tessellate>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-75.68626572531252,45.42346082128609,0 -75.6861069130232,45.42317837497566,0 -75.68527506066009,45.42350812533973,0 -75.6854941936777,45.42377737604519,0 -75.68626572531252,45.42346082128609,0</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-    </Placemark>
-    <Placemark>
       <name><![CDATA[58 O'Connor Street]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
@@ -29720,6 +29637,504 @@ City of Ottawa Archives, 2009.0413.1 CA011778</a></small>
         <outerBoundaryIs>
           <LinearRing>
             <coordinates>-75.68491926366097,45.4191682192922,0 -75.68483305686679,45.419133727303,0 -75.6848287465577,45.41913864877509,0 -75.68476538412749,45.41911275511638,0 -75.68471224216212,45.41917346062473,0 -75.68477697255773,45.41919878458379,0 -75.6847802071935,45.41919509269651,0 -75.68485446837117,45.41922396050202,0 -75.68487760085672,45.41919900769608,0 -75.68488893677223,45.41920347910013,0 -75.68491926366097,45.4191682192922,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[110 Sparks Street]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[340]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[110 Sparks Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[110 Sparks Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+		<style type="text/css">
+			.row {
+				border: solid black 1px;
+				padding: 3px;
+			}
+			.container {
+				padding: 3px;
+			}
+		</style>
+		<div class="container">
+			<div class="row">
+				<b>Photo 1</b> - Sims, Henry, J. & Co., 110 Sparks Ottawa Exterior
+			</div>
+			
+			<div>
+				<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/" title="Sims, Henry, J. & Co., 110 Sparks Ottawa Exterior" border="1" width="500">
+			</div>
+			
+			<div class="row">
+				<div>
+					<small><b>Date Taken</b>: September 1909<br>
+				</div>
+				<div>
+					<b>Source</b>: <a href="http://www.ottawahh.com/ottawahh.pl?x=galleryitem&g=apa&i=29">
+OttawaHH (LAC, Mikan: 3428286)</a></small>
+				</div>
+			</div>
+		</div>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$("img").click(function() {
+					$("#cf2 img.top").toggleClass("transparent");
+				});
+			});
+		</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6980132022946,45.42248039296466,0 -75.69784155425226,45.42228169289157,0 -75.69780337787769,45.42229811905276,0 -75.6978239966692,45.42232317871557,0 -75.6977974732539,45.42233392883643,0 -75.69774605066392,45.4222697833826,0 -75.69769037175651,45.42229139684475,0 -75.69771673602526,45.42232177694791,0 -75.69767956748231,45.42233778882546,0 -75.69785789172866,45.42254620602662,0 -75.6980132022946,45.42248039296466,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Ketchum & Co.]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[341]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[Ketchum & Co.]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[213 Sparks Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+		<style type="text/css">
+			.row {
+				border: solid black 1px;
+				padding: 3px;
+			}
+			.container {
+				padding: 3px;
+			}
+		</style>
+		<div class="container">
+			<div class="row">
+				<b>Photo 1</b> - Ketchum's corner of Bank and Sparks Streets, Ottawa, Ontario
+			</div>
+			
+			<div>
+				<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/KetchumCo_a042338.jpg" title="Ketchum's corner of Bank and Sparks Streets, Ottawa, Ontario" border="1" width="500">
+			</div>
+			
+			<div class="row">
+				<div>
+					<small><b>Date Taken</b>: September 1905<br>
+				</div>
+				<div>
+					<b>Source</b>: <a href="http://www.ottawahh.com/ottawahh.pl?x=galleryitem&g=apa&i=31">
+OttawaHH (LAC, MIKAN no. 3318423)</a></small>
+				</div>
+			</div>
+		</div>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$("img").click(function() {
+					$("#cf2 img.top").toggleClass("transparent");
+				});
+			});
+		</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70171748336868,45.42107988973736,0 -75.70149838201839,45.42117584366932,0 -75.70170140856635,45.42141257150901,0 -75.70191735001453,45.42131740793471,0 -75.70171748336868,45.42107988973736,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[84 Laurier Avenue East]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[342]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[84 Laurier Avenue East]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[84 Laurier Avenue East]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+		<style type="text/css">
+			.row {
+				border: solid black 1px;
+				padding: 3px;
+			}
+			.container {
+				padding: 3px;
+			}
+		</style>
+		<div class="container">
+			<div class="row">
+				<b>Photo 1</b> - View of both 84 Laurier Avenue East and the Rideau Skating Rink (demolished before 1912 and replaced with a larger facility).
+			</div>
+			
+			<div>
+				<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/84_Laurier_Avenue_East_a042366.jpg" title="View of both 84 Laurier Avenue East and the Rideau Skating Rink (demolished before 1912 and replaced with a larger facility)." border="1" width="500">
+			</div>
+			
+			<div class="row">
+				<div>
+					<small><b>Date Taken</b>: March 1904<br>
+				</div>
+				<div>
+					<b>Source</b>: <a href="http://www.ottawahh.com/ottawahh.pl?x=galleryitem&g=apa&i=39">
+OttawaHH (LAC, MIKAN no. 3326042)</a></small>
+				</div>
+			</div>
+		</div>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$("img").click(function() {
+					$("#cf2 img.top").toggleClass("transparent");
+				});
+			});
+		</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6852465793465,45.42393555674687,0 -75.68528745505472,45.42398762594374,0 -75.68528105649841,45.42399071578835,0 -75.68532041212107,45.42403694178737,0 -75.68522658957082,45.42407490447879,0 -75.68531883760022,45.42418826440945,0 -75.68550038074172,45.42411331833194,0 -75.68532594140585,45.42390082724187,0 -75.6852465793465,45.42393555674687,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[42-48 Murray Street]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[343]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[42-48 Murray Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[42-48 Murray Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+		<style type="text/css">
+			.row {
+				border: solid black 1px;
+				padding: 3px;
+			}
+			.container {
+				padding: 3px;
+			}
+		</style>
+		<div class="container">
+			<div class="row">
+				<b>Photo 1</b> - The Mortimer Co.
+			</div>
+			
+			<div>
+				<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/42-48_Murray_Street_a042571.jpg" title="The Mortimer Co." border="1" width="500">
+			</div>
+			
+			<div class="row">
+				<div>
+					<small><b>Date Taken</b>: December 1909<br>
+				</div>
+				<div>
+					<b>Source</b>: <a href="http://www.ottawahh.com/ottawahh.pl?x=galleryitem&g=apa&i=76">
+OttawaHH (LAC, MIKAN no. 3428380)</a></small>
+				</div>
+			</div>
+		</div>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$("img").click(function() {
+					$("#cf2 img.top").toggleClass("transparent");
+				});
+			});
+		</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.69456237064743,45.42893163565925,0 -75.69465037498219,45.42903493951989,0 -75.69451563237448,45.42909206309061,0 -75.69445508567763,45.42902090903096,0 -75.69441005290194,45.42903985305836,0 -75.69453901673926,45.42919067062488,0 -75.69476361532755,45.42909483102977,0 -75.69460673317475,45.42891186247388,0 -75.69456237064743,45.42893163565925,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[General Supply Co.]]></name>
+      <styleUrl>#industrial_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[344]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[General Supply Co.]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[356-360 Sparks Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+		<style type="text/css">
+			.row {
+				border: solid black 1px;
+				padding: 3px;
+			}
+			.container {
+				padding: 3px;
+			}
+		</style>
+		<div class="container">
+			<div class="row">
+				<b>Photo 1</b> - Front of the General Supply Company of Canada.
+			</div>
+			
+			<div>
+				<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/General_Supply_Co_a042382.jpg" title="Front of the General Supply Company of Canada." border="1" width="500">
+			</div>
+			
+			<div class="row">
+				<div>
+					<small><b>Date Taken</b>: May 1910<br>
+				</div>
+				<div>
+					<b>Source</b>: <a href="http://www.ottawahh.com/ottawahh.pl?x=galleryitem&g=apa&i=49">
+OttawaHH (LAC, MIKAN no. 3428505)</a></small>
+				</div>
+			</div>
+		</div>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$("img").click(function() {
+					$("#cf2 img.top").toggleClass("transparent");
+				});
+			});
+		</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70605926575115,45.41880824237623,0 -75.70619677621808,45.41896408312952,0 -75.70641857208875,45.41886915547477,0 -75.70628255485909,45.41871168944692,0 -75.70605926575115,45.41880824237623,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[343 Wellington Street]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[345]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[343 Wellington Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[343 Wellington Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+		<style type="text/css">
+			.row {
+				border: solid black 1px;
+				padding: 3px;
+			}
+			.container {
+				padding: 3px;
+			}
+		</style>
+		<div class="container">
+			<div class="row">
+				<b>Photo 1</b> - Modern, Machine Co. per Mather
+			</div>
+			
+			<div>
+				<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/343_Wellington_Street_a042589.jpg" title="Modern, Machine Co. per Mather" border="1" width="500">
+			</div>
+			
+			<div class="row">
+				<div>
+					<small><b>Date Taken</b>: January 1907<br>
+				</div>
+				<div>
+					<b>Source</b>: <a href="http://www.ottawahh.com/ottawahh.pl?x=galleryitem&g=apa&i=78">
+OttawaHH (LAC, MIKAN no. 3427466)</a></small>
+				</div>
+			</div>
+		</div>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$("img").click(function() {
+					$("#cf2 img.top").toggleClass("transparent");
+				});
+			});
+		</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.70651932260638,45.4202077883576,0 -75.70642747502782,45.42010051277728,0 -75.70646841329018,45.42008158091347,0 -75.7064007254445,45.42000439320134,0 -75.70624638867768,45.42006899271873,0 -75.70641601422317,45.42025412872564,0 -75.70651932260638,45.4202077883576,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
