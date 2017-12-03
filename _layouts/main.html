@@ -4,7 +4,7 @@
 <!--<![endif]-->
 	<head>
 		<title>{{ page.title }}</title>
-		<link rel=icon href=/favicon.png>
+		<link rel=icon href="/favicon.png">
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 		{% include fonts.html %}
@@ -75,6 +75,7 @@
 				</div>
 			</section>
 		{% endif %}
+		{% if page.url != "/geomatics/bygone-buildings-ottawa/map.html" %}
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
@@ -118,6 +119,15 @@
 					</footer>
 				</div>
 			</div>
+		{% else %}
+			<div class="container-map title-map">
+				<div class="row" style="padding-left:15px !important">
+					<a href="/"><img id="logo-sm" class="kb-maplogo" src="/images/kb_logo.png"></a>
+				</div>
+				{% include nav.html %}
+				{{ content }}
+			</div>
+		{% endif %}
 		</div>
 		
 		

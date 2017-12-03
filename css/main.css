@@ -51,6 +51,18 @@ header {
 	background-position: top left;
 }
 
+.title-map {
+	/* text-align: center;*/
+	/* background: #0000ff; 
+	background: linear-gradient(left top, #000022 0%, #0000cc 100%); 
+	background: -moz-linear-gradient(left top, #000022 0%, 0000cc 100%);
+	background: -webkit-linear-gradient(left top, #000022 0%,#0000cc 100%);
+	background-image: url("../images/Header_image.jpg"); */
+	background-size: auto;
+	background-repeat: no-repeat;
+	background-position: top left;
+}
+
 .title a {
 	text-decoration: none !important;
     color: #FFFFFF !important;
@@ -102,7 +114,7 @@ h1 {
 	padding-top: 50px !important;
 	padding-bottom: 30px !important;
 }
-.logo-full {
+.logo-map {
 	margin: 0px !important; 
 	padding-left: 20px !important;
 	padding-top: 10px !important;
@@ -110,6 +122,11 @@ h1 {
 
 #logo {
 	max-width: 300px !important;
+	width: 80% !important;
+}
+
+#logo-sm {
+	max-width: 175px !important;
 	width: 80% !important;
 }
 
@@ -156,10 +173,10 @@ h2 {
 	font-weight: bold !important;
 	text-shadow: 1px 1px #FFFFFF;
 }
-h2.full {
+h2.map-title-text {
 	color: #99BBEE !important;
-	padding: 0px;
-    font-size: 2em !important;
+    font-size: 3em !important;
+	padding: 0px !important;
     /* font-family: 'Segoe UI', Frutiger, 'Frutiger Linotype', 'Dejavu Sans', 'Helvetica Neue', Arial, sans-serif !important; */
 	/* font-family: Scada;*/
 	/* font-family: Kaushan Script !important; */
@@ -168,6 +185,7 @@ h2.full {
 	font-weight: bold !important;
 	text-shadow: 0px 1px #FFFFFF;
 	margin-top: 0px;
+	margin-bottom: 0px;
 }
 .right-align {
 	text-align: right !important;
@@ -281,10 +299,10 @@ ul.posts li {
 	/* height: 90vh; */
 	/* margin-right: 18px; */
 }
-.sidebar-full {
-	padding-left: 30px !important;
+.sidebar-map {
+	padding-left: 15px !important;
+	padding-right: 15px !important;
 }
-
 .inner-sidebar {
 	/* background-color: cornflowerblue; */
 	background-color: #3355AA;
@@ -316,7 +334,7 @@ ul.posts li {
 	width: 100%;
 	margin: 0px;
 }
-.nav>li>a.full {
+.nav>li>a.map {
     position: relative;
     display: block;
     padding: 15px 0px;
@@ -505,13 +523,50 @@ ul.resume.posts {
 	border: 1px solid black !important;
 }
 
+.leg-tip {
+	border-bottom: 1px dotted black;
+	border-color: #FFFFFF;
+}
+.leg-tip .leg-tiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+.leg-tip:hover .leg-tiptext {
+    visibility: visible;
+}
+
 @media (min-width: 767px) {
 	.dropdown:hover .dropdown-menu {
 		/* display: block; */
 	}
+	.sidebar-map {
+		padding-left: 30px !important;
+	}
 }
+
+@media (min-width: 1125px) {
+	.collapse.dont-collapse-sm {
+		display: block;
+		height: auto !important;
+		visibility: visible;
+	}
+	.visible-custom {
+		display: none !important;
+	}
 @media (min-width: 1031px) {
 	.title {
+		background-size: 100%;
+	}
+	.title-map {
 		background-size: 100%;
 	}
 }
@@ -522,13 +577,13 @@ ul.resume.posts {
 	.geo-logo {
 		width: 50% !important;
 	}
-	.sidebar-full {
+	.sidebar-map {
 		padding-left: 0px !important;
 	}
-	.map-full {
+	.map {
 		height: 70vh !important;
 	}
-	.nav>li>a.full {
+	.nav>li>a.map {
 		position: relative;
 		display: block;
 		padding: 10px 10px;

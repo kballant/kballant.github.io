@@ -4,32 +4,28 @@ title: Map of Ottawa's Bygone Buildings
 redirect_from: /geomatics/lost-buildings-ottawa/map
 description: An Openlayers map showing the buildings which no longer exist in Ottawa.
 ---
-<div class="container-fluid main-div">
-	<div class="pg-title">
-		<h2>Ottawa's Bygone Buildings</h2>
-	</div>
-	<hr style="height:1px;border:none;color:#333;background-color:#ffffff">
-	<div class="row-fluid">
-		<div class="col-md-9 map-col">
-			<div id="map" class="map">
-				<div id="info"></div>
+<div> <!-- class="container"> -->
+	<div class="row">
+		<div class="col-md-2 col-sm-2 sidebar-map">
+			<div class="map-title">
+				<h2 class="map-title-text">Ottawa's Bygone Buildings</h2>
 			</div>
+			<hr class="hr-map" style="height:1px;border:none;color:#333;background-color:#ffffff">
+			<div class="col-md-12 col-sm-12 legend-col">
+				{% include_relative legend.html %}
+			</div>
+		</div>
+		<div class="col-md-10 col-sm-10 map-col">
+			<div id="map" class="map"><div id="info"></div></div>
 			<div id="popup" class="ol-popup">
 				<a href="#" id="popup-closer" class="ol-popup-closer"></a>
 				<div id="popup-content"></div>
 			</div>
-			<div class="row">
-				<div class="col-md-6 col-xs-6">
-					<p style="font-size: smaller">Created using OpenLayers 3</p>
-				</div>
-				<div align="right" class="col-md-6 col-xs-6">
-					<a style="font-size: smaller" onclick="change_size('full')" href="javascript:void(0);">View larger map</a>
-				</div>
-			</div>
-			<p>There is also a <a href="./building-list.html">list</a> of the buildings and a <a href="/geomatics/files/Ottawa_Bygone_Buildings.kml">KML download</a>.</p>
-		</div>
-		<div class="col-md-3 legend-col">
-			{% include_relative legend.html %}
+			<p class="small" style="text-align:left !important;">
+				Map Created using OpenLayers 3<br>
+				A <a href="./building-list.html">list of buildings</a> is available as well.<br>
+				Site created by Kevin Ballantyne using Github, &#169; 2017.
+			</p>
 		</div>
 	</div>
 </div>
