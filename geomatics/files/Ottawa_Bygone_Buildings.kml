@@ -1870,14 +1870,14 @@ Library & Archives Canada, MIKAN no. 3325952</a></small>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name><![CDATA[Monument National Building]]></name>
+      <name><![CDATA[Monument Nationale Building]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[12]]></value>
         </Data>
         <Data name="name">
-          <value><![CDATA[Monument National Building]]></value>
+          <value><![CDATA[Monument Nationale Building]]></value>
         </Data>
         <Data name="dateBuilt">
           <value><![CDATA[1906]]></value>
@@ -1892,7 +1892,7 @@ Library & Archives Canada, MIKAN no. 3325952</a></small>
           <value><![CDATA[Location currently occupied by a parking lot for the Courtyard Marriot Hotel.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[The Institut Canadien-Fran&#231;ais d'Ottawa built the Monument National building in 1906. The Roman Catholic Archdiocese of Ottawa bought the building in 1921 for the price of $54,000 to establish a parochial hall.]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[113 George Street]]></value>
@@ -1901,7 +1901,7 @@ Library & Archives Canada, MIKAN no. 3325952</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="sources">
-          <value><![CDATA[Past Ottawa (Library & Archives Canada): <a href="http://www.pastottawa.com/comparison/north-west-corner-of-dalhousie-george/301/">http://www.pastottawa.com/comparison/north-west-corner-of-dalhousie-george/301/</a>]]></value>
+          <value><![CDATA[Past Ottawa (Library & Archives Canada): <a href="http://www.pastottawa.com/comparison/north-west-corner-of-dalhousie-george/301/">http://www.pastottawa.com/comparison/north-west-corner-of-dalhousie-george/301/</a><br>The Ottawa Journal, March 1, 1921, pg. 1: <a href="https://www.newspapers.com/clip/7677320/monument_national_building_sold_to/">https://www.newspapers.com/clip/7677320/monument_national_building_sold_to/</a><br>Institut Canadien-Fran&#231;ais d'Ottawa - Historique: <a href="https://www.icfo.ca/historique">https://www.icfo.ca/historique</a>]]></value>
         </Data>
         <Data name="photos">
           <value><![CDATA[
@@ -1994,7 +1994,7 @@ Past Ottawa (Library & Archives Canada)</a></small>
           <value><![CDATA[Demolished for development. Location is currently occupied by a high-rise condo apartment called the Claridge Plaza. Chapel removed and reconstructed in the National Gallery of Canada.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Established in 1869 as a bilingual school for girls, the convent expanded with a new building in 1888 to accomodate enrollment demands. In 1970, after dropping enrollment and the secularization of Ontario education, the Sisters of Charity decided to sell the convent for development. The developer, Glenview Realty Ltd., initially planned to include the existing building in the new development. However, the developer decided to remove the building and applied for a demolition permit on March 14, 1972. The NCC tried to find a solution to save the Chapel however the City issued a permit on April 21, 1972. ]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[198-210 Rideau Street & 7-15 Waller Street]]></value>
@@ -2192,7 +2192,7 @@ Maria Cook, "On the eve of demolition, the history of Ogilvy's shines", Ottawa C
           <value><![CDATA[1981]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1251">Clarence James Burritt</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Property currently occupied by the Westin Hotel.]]></value>
@@ -2294,13 +2294,13 @@ Facebook: Lost Ottawa Group</a></small>
           <value><![CDATA[1960s]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1529">Edgar Lewis Horwood</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[The building was threatened with demolition in 1907 when the Grand Trunk Railway company expressed at interest in purchasing the property for the construction of Union Station.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Built in 1903, the Corry Block was named after its developer, James A. Corry.]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[16-24 Rideau Street]]></value>
@@ -2521,7 +2521,7 @@ Library & Archives Canada, MIKAN no. 3325492</a></small>
           <value><![CDATA[1966]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1336">Howard Colton Stone</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Demolished for Confederation Park.]]></value>
@@ -2702,25 +2702,25 @@ Library & Archives Canada, MIKAN no. 3325860</a></small>
           <value><![CDATA[Woods Building]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1903]]></value>
         </Data>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1467">James Mather</a>, <a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1336">Howard Colton Stone</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Demolished for Confederation Park.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Housed the Department of the Militia and Defence (later named the Department of National Defence).]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[30-32 Slater Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Government Offices]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -2999,7 +2999,7 @@ Library & Archives Canada MIKAN no. 3422795</a></small>
           <value><![CDATA[Russell Theatre]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[1901]]></value>
+          <value><![CDATA[15 October 1897]]></value>
         </Data>
         <Data name="dateDemolished">
           <value><![CDATA[1928]]></value>
@@ -3091,7 +3091,7 @@ Past Ottawa (Library & Archives Canada)</a></small>
           <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1299">Matthew Sheard</a>, <a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1528">Henry Hodge Horsey</a>]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[Burned and demolished.]]></value>
+          <value><![CDATA[Burned and demolished. Location now occupied by the National War Memorial.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[The hotel reached its peak during the 1880s and 1890s. Many Victorian luminaries, such as Oscar Wilde, Lilly Lantry, Lillian Russell and Jim Corbett, were all guests at the Russell House. Sir MacKenzie Bowell lived their for 17 years and Sir Wilfrid Laurier lived there for 10 years. The Russell House Hotel closed its doors in 1925 due to competition with the Chateau Laurier. The federal government purchased the hotel in 1927. On 14 April 1928, a fire destroyed the hotel. No cause was ever determined. The remains of the hotel were removed by 10 November 1928.]]></value>
@@ -3302,13 +3302,13 @@ Library & Archives Canada, MIKAN no. 3325359</a></small>
           <value><![CDATA[1938]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1615">Walter Chesterton</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Demolished to make way for the War Memorial.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[A 4th floor was added after a fire in 1904.]]></value>
+          <value><![CDATA[The cost of construction of the building was $7,000. In the early years, the building also housed the Customs House and Inland Revenue (now Department of National Revenue) offices of Canada. A 4th floor was added after a fire in 1904.]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
@@ -3317,7 +3317,7 @@ Library & Archives Canada, MIKAN no. 3325359</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="sources">
-          <value/>
+          <value><![CDATA[The Montreal Gazette, June 24, 1938, pg. 9: <a href="https://news.google.com/newspapers?nid=1946&dat=19380624&id=0b00AAAAIBAJ&sjid=ZKgFAAAAIBAJ&pg=5524,3172428">https://news.google.com/newspapers?nid=1946&dat=19380624&id=0b00AAAAIBAJ&sjid=ZKgFAAAAIBAJ&pg=5524,3172428</a>]]></value>
         </Data>
         <Data name="photos">
           <value><![CDATA[
@@ -3701,7 +3701,7 @@ Library & Archives Canada, MIKAN no. 3319280</a></small>
           <value><![CDATA[Fire Station No 8 (Central Fire Station)]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1888]]></value>
         </Data>
         <Data name="dateDemolished">
           <value><![CDATA[1950]]></value>
@@ -3713,7 +3713,7 @@ Library & Archives Canada, MIKAN no. 3319280</a></small>
           <value><![CDATA[Demolished for the MacKenzie King Bridge. Location currently occupied by the National Arts Centre.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[When built, the station was equipped with a Langevin Extension Ladder, 1-horse hose reel and six men.]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[20 Albert Street]]></value>
@@ -3722,7 +3722,7 @@ Library & Archives Canada, MIKAN no. 3319280</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="sources">
-          <value><![CDATA[Urbsite Blog: Forgotten Architects: Earle Ingrams's Brief But Notable Career (1954-1973): <a href="http://urbsite.blogspot.ca/2015/10/forgotten-architects-earle-ingrams.html">http://urbsite.blogspot.ca/2015/10/forgotten-architects-earle-ingrams.html</a>]]></value>
+          <value><![CDATA[Urbsite Blog: Forgotten Architects: Earle Ingrams's Brief But Notable Career (1954-1973): <a href="http://urbsite.blogspot.ca/2015/10/forgotten-architects-earle-ingrams.html">http://urbsite.blogspot.ca/2015/10/forgotten-architects-earle-ingrams.html</a><br>Souvenir of the Ottawa Fire Department (1905), pg. 65: <a href="https://archive.org/stream/cihm_78136#page/n65/mode/2up/search/central">https://archive.org/stream/cihm_78136#page/n65/mode/2up/search/central</a>]]></value>
         </Data>
         <Data name="photos">
           <value><![CDATA[
@@ -3784,13 +3784,13 @@ Library & Archives Canada, MIKAN no. 3325373</a></small>
           <value><![CDATA[Police Court Offices]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1888]]></value>
         </Data>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1178">James R. Bowes</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Location currently occupied by the National Arts Centre.]]></value>
@@ -4069,13 +4069,13 @@ Library & Archives Canada, MIKAN no. 3325372</a></small>
           <value><![CDATA[Birkett & Son Warehouse]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1900]]></value>
         </Data>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1549">Moses Chamberlain Edey</a>]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1549">Moses Chamberlain Edey</a>, <a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1549">Moses Chamberlain Edey</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Location currently occupied by the National Arts Centre.]]></value>
@@ -4829,13 +4829,13 @@ Past Ottawa (Library & Archives Canada)</a></small>
           <value><![CDATA[1960s]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1529">Edgar Lewis Horwood</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Demolished for new building in order to expand the main branch.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Opened in 1906 by Andrew Carnegie, a New York based businessman and philanthropist who established libraries throughout the United States, Canada, Britain and other English speaking-countries. In the late 1960s, the library had become overcrowded and also began cracking due to the structural damage from the weight of the books. Rather than fix the building, the Library Board decided to demolish the aging building.]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
@@ -4844,7 +4844,7 @@ Past Ottawa (Library & Archives Canada)</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="sources">
-          <value/>
+          <value><![CDATA[Wikipedia - Andrew Carnegie: <a href="https://en.wikipedia.org/wiki/Andrew_Carnegie">https://en.wikipedia.org/wiki/Andrew_Carnegie</a>]]></value>
         </Data>
         <Data name="photos">
           <value><![CDATA[
@@ -4998,7 +4998,7 @@ Urbsite Blog: Forgotten Ottawa: Gloucester Street Convent</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by Hawthorne Avenue.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -5648,7 +5648,7 @@ Library & Archives Canada, MIKAN no. 4170163</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1962-1965]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
@@ -5731,7 +5731,7 @@ Flickr</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1962-1965]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
@@ -5814,7 +5814,7 @@ NCC Watch</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1962-1965]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
@@ -5894,13 +5894,13 @@ Facebook: Lost Ottawa Group</a></small>
           <value><![CDATA[Perley Home]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[1870s]]></value>
+          <value><![CDATA[1875]]></value>
         </Data>
         <Data name="dateDemolished">
           <value><![CDATA[1938]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1528">Henry Hodge Horsey</a>, <a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1299">Matthew Sheard</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Location currently occupied by a parking lot for the Library & Archives of Canada building.]]></value>
@@ -6084,7 +6084,7 @@ Library & Archives Canada, MIKAN no. 3325724</a></small>
           <value><![CDATA[1930s]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1529">Edgar Lewis Horwood</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Demolished as a make-work project during the Depression and the land turned into a city park.]]></value>
@@ -6370,7 +6370,7 @@ Library & Archives Canada, MIKAN no. 4169926</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.7020737915115,45.42208553494841,0 -75.70193717317657,45.42214633601297,0 -75.70212746320073,45.42237477354203,0 -75.70210689865056,45.42238457115936,0 -75.70212214810431,45.42240118131188,0 -75.70210974112294,45.42240698632148,0 -75.70214706096131,45.42245235816617,0 -75.7021577241711,45.42244743195668,0 -75.70231828565612,45.42263205258598,0 -75.70247451533075,45.42256011719787,0 -75.7020737915115,45.42208553494841,0</coordinates>
+            <coordinates>-75.702049235687937,45.422130963221996,0 -75.702449959507192,45.422605545471455,0 -75.702293729832562,45.422677480859569,0 -75.702131326660776,45.422493474125851,0 -75.702116980077449,45.422501469813291,0 -75.702079046343485,45.422456711864186,0 -75.702090839429275,45.42245152075018,0 -75.70208050114023,45.422436138388839,0 -75.702102907377167,45.422423885189154,0 -75.701908933979482,45.422196675451268,0 -75.701911107368957,45.422195479122657,0 -75.702049235687937,45.422130963221996,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -6510,7 +6510,7 @@ Library & Archives Canada, MIKAN no. 4169818</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70557011683044,45.42101664041338,0 -75.70537434031458,45.42109786687735,0 -75.7057333404519,45.4215370076134,0 -75.70587887684485,45.42148228562901,0 -75.70589212397282,45.42148521695136,0 -75.70591288310624,45.42147880629263,0 -75.70591513170442,45.42146639509687,0 -75.7059346844633,45.42145836665237,0 -75.70557011683044,45.42101664041338,0</coordinates>
+            <coordinates>-75.705600811609898,45.421034443385459,0 -75.705978884945722,45.421474941833267,0 -75.705969768411833,45.421481128591005,0 -75.705967519813655,45.421490470308825,0 -75.705944305097887,45.421501178236674,0 -75.705925532909617,45.421496405227565,0 -75.705786749368158,45.421556652272251,0 -75.705406262885205,45.421121194909738,0 -75.705600811609898,45.421034443385459,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -6529,13 +6529,13 @@ Library & Archives Canada, MIKAN no. 4169818</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1931]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[Demolished to make room for government buildings.]]></value>
+          <value><![CDATA[Demolished to make room for government buildings. Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -6631,7 +6631,7 @@ Library & Archives Canada, MIKAN no. 3600236</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.7031946910931,45.42227375258184,0 -75.70320594063104,45.42228721665461,0 -75.70323924275341,45.42227341239812,0 -75.70324538827255,45.42228075683387,0 -75.70326453507937,45.42228106531726,0 -75.70329142406152,45.42227651560365,0 -75.70330587025629,45.42226557731708,0 -75.70331795647896,45.42224902459684,0 -75.70319730359294,45.42210530286924,0 -75.70317388028062,45.42211662856756,0 -75.7031586212306,45.42209843217588,0 -75.70304337800073,45.42214610053492,0 -75.70308018685107,45.42219304102844,0 -75.70304796736025,45.42220801510591,0 -75.70312530643035,45.42230086059266,0 -75.7031946910931,45.42227375258184,0</coordinates>
+            <coordinates>-75.70319591888429,45.42231549748189,0 -75.703124078639192,45.422345061075063,0 -75.703046739569089,45.422250987797142,0 -75.703081414642256,45.422234785928495,0 -75.703043378000729,45.422193984390859,0 -75.703045586417488,45.422193023540302,0 -75.703159849021787,45.422140177075931,0 -75.703175108071804,45.42215837346761,0 -75.703198531384132,45.422147047769293,0 -75.703319184270143,45.42229076949689,0 -75.703307098047475,45.422307322217129,0 -75.703292651852706,45.422318260503701,0 -75.703265762870558,45.42232281021731,0 -75.703246616063737,45.422322501733923,0 -75.7032404705446,45.422315157298172,0 -75.703207168422225,45.422328961554662,0 -75.70319591888429,45.42231549748189,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -6653,7 +6653,7 @@ Library & Archives Canada, MIKAN no. 3600236</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1470">Edward Maxwell</a>, <a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1470">Edward Maxwell</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Location now vacant pending Lebreton Flats redevelopment.]]></value>
@@ -6751,7 +6751,7 @@ BAnQ, Entry #: 0004144891</a></small>
           <value><![CDATA[CPR Round House]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[1911]]></value>
+          <value><![CDATA[1883]]></value>
         </Data>
         <Data name="dateDemolished">
           <value><![CDATA[1968]]></value>
@@ -7065,7 +7065,7 @@ Library & Archives Canada, MIKAN no. 4124457</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70650662047238,45.42215844831576,0 -75.70649446130773,45.42216385383048,0 -75.70648311769588,45.42215775155154,0 -75.70646877738339,45.42215918094218,0 -75.70644897629695,45.42216921496448,0 -75.70645017135703,45.42218106271091,0 -75.70643884566198,45.42218733766946,0 -75.70642952797979,45.42217785695897,0 -75.70639865368379,45.4221891036348,0 -75.70640838812757,45.4222008774121,0 -75.70639169840158,45.42220705556312,0 -75.70637188133779,45.42220099918064,0 -75.70635118004971,45.42221019721512,0 -75.70635099267598,45.42222266787055,0 -75.70633756873517,45.42222863471269,0 -75.70640156688145,45.4223083940441,0 -75.70640022449366,45.42232178210256,0 -75.70640460400297,45.42233009062668,0 -75.70641978830493,45.42233489039899,0 -75.70643727604043,45.42233094860737,0 -75.7064441192024,45.42232145266527,0 -75.70659178434987,45.42226324424882,0 -75.70650662047238,45.42215844831576,0</coordinates>
+            <coordinates>-75.706585199107778,45.422155992733408,0 -75.706670362985264,45.422260788666463,0 -75.706522697837798,45.422318997082918,0 -75.706515854675828,45.422328493025013,0 -75.706498366940323,45.422332434816639,0 -75.706483182638365,45.422327635044326,0 -75.706478803129059,45.422319326520203,0 -75.706480145516849,45.422305938461747,0 -75.706416147370561,45.422226179130334,0 -75.706429571311375,45.422220212288195,0 -75.706429758685104,45.422207741632768,0 -75.706450459973183,45.422198543598284,0 -75.706470277036971,45.422204599980766,0 -75.706486966762967,45.422198421829748,0 -75.706477232319187,45.422186648052445,0 -75.706508106615189,45.422175401376613,0 -75.706517424297374,45.422184882087109,0 -75.70652874999243,45.422178607128558,0 -75.70652755493235,45.422166759382122,0 -75.706547356018788,45.422156725359827,0 -75.706561696331278,45.422155295969183,0 -75.706573039943123,45.422161398248129,0 -75.706585199107778,45.422155992733408,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -7081,10 +7081,10 @@ Library & Archives Canada, MIKAN no. 4124457</a></small>
           <value><![CDATA[William Topley's Studio]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1875]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1950s]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1267">King McCord Arnoldi</a>]]></value>
@@ -7093,7 +7093,7 @@ Library & Archives Canada, MIKAN no. 4124457</a></small>
           <value><![CDATA[Location now occupied by the Manulife Place building.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[William Topley's studio for 3 years from 1875 to 1878. The second floor studios were lit by large north-facing window.]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[49 Metcalfe Street]]></value>
@@ -7102,7 +7102,7 @@ Library & Archives Canada, MIKAN no. 4124457</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="sources">
-          <value/>
+          <value><![CDATA[Urbsite Blog: The Topley Studio: <a href="http://urbsite.blogspot.ca/2012/12/the-topley-studio.html">http://urbsite.blogspot.ca/2012/12/the-topley-studio.html</a>]]></value>
         </Data>
         <Data name="photos">
           <value><![CDATA[
@@ -7173,7 +7173,7 @@ Library & Archives Canada, MIKAN no. 3318395</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by the Montreal Trust Building.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -7266,13 +7266,13 @@ Library & Archives Canada, MIKAN no. 3422573</a></small>
           <value><![CDATA[British American Bank Note Co.]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1888]]></value>
         </Data>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1467">James Mather</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Location currently occupied by the Bank of Canada Building.]]></value>
@@ -7349,7 +7349,7 @@ Library & Archives Canada, MIKAN no. 3325899</a></small>
           <value><![CDATA[Family Theatre]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1911]]></value>
         </Data>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
@@ -7358,7 +7358,7 @@ Library & Archives Canada, MIKAN no. 3325899</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by the Sun Life Financial Centre.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -7524,7 +7524,7 @@ Library & Archives Canada, MIKAN no. 3325729</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by 10-storey building.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -7690,7 +7690,7 @@ Library & Archives Canada, MIKAN no. 3325748</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by Place Laurier.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -7773,7 +7773,7 @@ Library & Archives Canada, MIKAN no. 3423022</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now vacant.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -7877,7 +7877,7 @@ Library & Archives Canada, MIKAN no. 4169936</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now vacant.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -7960,7 +7960,7 @@ Library & Archives Canada, MIKAN no. 3400444</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by the former United States Embassy.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -8043,7 +8043,7 @@ Library & Archives Canada, MIKAN no. 3400445</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by the former United States Embassy.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -8500,7 +8500,7 @@ Library & Archives Canada, MIKAN no. 3358791</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by parking garage.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -8683,7 +8683,7 @@ Library & Archives Canada, MIKAN no. 3422788</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/262">William Hodgson</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
@@ -9197,7 +9197,7 @@ Library & Archives Canada, MIKAN no. 3318402</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[before 1982]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
@@ -9277,10 +9277,10 @@ Library & Archives Canada, MIKAN no. 3318396</a></small>
           <value><![CDATA[Gloucester Township Hall]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1874]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1962]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
@@ -9738,7 +9738,7 @@ Urbsite Blog: Piano Making At The Old Wellington Ward Market</a></small>
           <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1549">Moses Chamberlain Edey</a>]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by Delta City Centre.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Also known as the Victoria Ward Fire Hall.]]></value>
@@ -9750,7 +9750,7 @@ Urbsite Blog: Piano Making At The Old Wellington Ward Market</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="sources">
-          <value><![CDATA[Urbsite: More Moses Chamberlain Edey: To The Daly Building And Beyond: <a href="http://urbsite.blogspot.ca/2016/04/more-moses-chamberlain-edey-to-daly.html">http://urbsite.blogspot.ca/2016/04/more-moses-chamberlain-edey-to-daly.html</a>]]></value>
+          <value><![CDATA[Urbsite Blog: More Moses Chamberlain Edey: To The Daly Building And Beyond: <a href="http://urbsite.blogspot.ca/2016/04/more-moses-chamberlain-edey-to-daly.html">http://urbsite.blogspot.ca/2016/04/more-moses-chamberlain-edey-to-daly.html</a>]]></value>
         </Data>
         <Data name="photos">
           <value><![CDATA[
@@ -9815,13 +9815,13 @@ Urbsite Blog: Piano Making At The Old Wellington Ward Market</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1931]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -9919,7 +9919,7 @@ Library & Archives Canada, MIKAN no. 3600203</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70222712604739,45.42177151783779,0 -75.70228345106784,45.42184376121063,0 -75.70233862547032,45.4218195916763,0 -75.70243498182865,45.42193702996584,0 -75.7024772074823,45.42191847250076,0 -75.70232620834314,45.42173357668649,0 -75.70222712604739,45.42177151783779,0</coordinates>
+            <coordinates>-75.702213620344438,45.421818173902558,0 -75.702312702640185,45.42178023275126,0 -75.702463701779351,45.421965128565525,0 -75.702421476125693,45.421983686030607,0 -75.702325119767366,45.421866247741065,0 -75.70226994536489,45.421890417275399,0 -75.702213620344438,45.421818173902558,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -10017,10 +10017,10 @@ Library & Archives Canada, MIKAN no. 3600203</a></small>
           <value><![CDATA[Agricultural Building]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1875]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1946-1953]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1453">Werner Edgar Noffke</a>]]></value>
@@ -10038,7 +10038,7 @@ Library & Archives Canada, MIKAN no. 3600203</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="sources">
-          <value/>
+          <value><![CDATA[Phase One Environmental Site Assessment, Lansdowne Park & Sylvia Holden Commemorative Park: <a href="http://ottawa.ca/cs/groups/content/@webottawa/documents/pdf/mdaw/mdkz/~edisp/con065368.pdf">http://ottawa.ca/cs/groups/content/@webottawa/documents/pdf/mdaw/mdkz/~edisp/con065368.pdf</a>]]></value>
         </Data>
         <Data name="photos">
           <value><![CDATA[
@@ -10441,7 +10441,7 @@ Library & Archives Canada, MIKAN no. 4160747</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by the Garden of the Provinces.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -10930,13 +10930,13 @@ Library & Archives Canada, MIKAN no. 4161381</a></small>
           <value><![CDATA[Orange Hall (Albert Street)]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1889]]></value>
         </Data>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1266">Frederick John Alexander</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Location currently occupied by the Sun Life Financial Centre.]]></value>
@@ -11179,13 +11179,13 @@ flickr</a></small>
           <value><![CDATA[Bolton Street School]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1903]]></value>
         </Data>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1030">Charles Penruddocke William Kivas Band</a>, <a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1251">Clarence James Burritt</a>, <a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1483">Colborne Powell Meredith</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Location currently occupied by Sussex Square apartments.]]></value>
@@ -11351,10 +11351,10 @@ Library & Archives Canada, MIKAN no. 4101938</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1266">Frederick John Alexander</a>]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by the Lord Elgin Hotel.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -11437,7 +11437,7 @@ Library & Archives Canada, MIKAN no. 3422645</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by the Lord Elgin Hotel.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -11520,7 +11520,7 @@ Library & Archives Canada, MIKAN no. 3326060</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by Elgin Street.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -11769,7 +11769,7 @@ Library & Archives Canada, MIKAN no. 4161385</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by Bronson Park.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -11846,7 +11846,7 @@ Library & Archives Canada, MIKAN no. 4160748</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1931]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
@@ -11910,7 +11910,7 @@ Library & Archives Canada, MIKAN no. 3325954</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70516001059029,45.4219747628669,0 -75.70506446186488,45.42201105755036,0 -75.70514039962157,45.42210307841392,0 -75.70523093119866,45.42206656968878,0 -75.70516001059029,45.4219747628669,0</coordinates>
+            <coordinates>-75.705212805610955,45.42199931869046,0 -75.705283726219321,45.422088669929984,0 -75.705193194642234,45.422125178655122,0 -75.705117256885543,45.422036841165095,0 -75.705212805610955,45.42199931869046,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -12033,16 +12033,16 @@ Urbsite Blog: Cecil's Many Fires</a></small>
           <value><![CDATA[1869]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1968]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by the Jean Edmonds Towers.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Later known as Kent Street School. The school was bought by the Ottawa Journal in 1968 for $2,019,000 for construction of their new office building.]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[165 Kent Street]]></value>
@@ -12051,7 +12051,7 @@ Urbsite Blog: Cecil's Many Fires</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="sources">
-          <value><![CDATA[Urbsite Blog: Paving Slater St, and Some Discoveries...: <a href="http://urbsite.blogspot.ca/2011/08/paving-slater-st-and-some-discoveries.html">http://urbsite.blogspot.ca/2011/08/paving-slater-st-and-some-discoveries.html</a>]]></value>
+          <value><![CDATA[Urbsite Blog: Paving Slater St, and Some Discoveries...: <a href="http://urbsite.blogspot.ca/2011/08/paving-slater-st-and-some-discoveries.html">http://urbsite.blogspot.ca/2011/08/paving-slater-st-and-some-discoveries.html</a><br>The Ottawa Journal, June 25, 1968, pg. 3: <a href="https://www.newspapers.com/newspage/42993577/">https://www.newspapers.com/newspage/42993577/</a>]]></value>
         </Data>
         <Data name="photos">
           <value><![CDATA[
@@ -12125,7 +12125,7 @@ Urbsite Blog: Paving Slater St, and Some Discoveries...</a></small>
           <value><![CDATA[Demolished for construction of the Jackson Building. Location currently occupied by the Jackson Building.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[The corner stone was layed on 8 May 1868 and the church was opened on 21 March 1869. The congregation moved in 1913 to a new building.]]></value>
+          <value><![CDATA[The corner stone was layed on 8 May 1868 and the church was opened on 21 March 1869. The building was remodelled after a fire in 1881. The congregation moved in 1913 to a new building.]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
@@ -12577,7 +12577,7 @@ Library & Archives Canada, MIKAN no. 3319445</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by the parking lot for the Merit (Apartments).]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Residence of Frederick N. Gisborne in 1890.]]></value>
@@ -12679,7 +12679,7 @@ Library & Archives Canada, MIKAN no. 3422569</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by the Sadler's Court Apartments.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Residence of J.G. Whyte in 1892.]]></value>
@@ -12762,7 +12762,7 @@ Library & Archives Canada, MIKAN no. 3264989</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by the Coachman Apartments.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -12845,7 +12845,7 @@ Library & Archives Canada, MIKAN no. 3264989</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by Bronson Centre.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Residence of John Christie in 1892.]]></value>
@@ -12988,7 +12988,7 @@ Library & Archives Canada, MIKAN no. 3423207</a></small>
           <value><![CDATA[c1964]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1179">John Bowes</a>, <a target="_blank" class="popup-a" href="http://www.biographi.ca/en/bio/fuller_thomas_12E.html">Thomas Fuller</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[Location now occupied by the Centennial Towers.]]></value>
@@ -13074,7 +13074,7 @@ Library & Archives Canada, MIKAN no. 3319467</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by the Merit Apartments.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Residence of Rev. William Scott in 1890.]]></value>
@@ -13240,7 +13240,7 @@ Library & Archives Canada, MIKAN no. 3465000</a></small>
           <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1266">Frederick John Alexander</a>]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by Extended Stay Canada (Hotel).]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Residence of John-George Bourinot in 1888.]]></value>
@@ -13399,7 +13399,7 @@ Library & Archives Canada, MIKAN no. 3422222</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by Cartier Place Suite Hotel.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Residence of Mr. A.Z. Palmer in 1884.]]></value>
@@ -13482,7 +13482,7 @@ Library & Archives Canada, MIKAN no. 3421789</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by a seven-storey office building.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Residence of Miss Jessie Brown in 1894.]]></value>
@@ -13843,7 +13843,7 @@ Library & Archives Canada, MIKAN no. 3427688</a></small>
           <value><![CDATA[Seybold's Castle]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1890s]]></value>
         </Data>
         <Data name="dateDemolished">
           <value><![CDATA[1929]]></value>
@@ -14466,13 +14466,13 @@ Library & Archives Canada, MIKAN no. 4169808</a></small>
           <value><![CDATA[Citizen Building]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1903]]></value>
         </Data>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1529">Edgar Lewis Horwood</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
@@ -14635,13 +14635,13 @@ Library & Archives Canada, MIKAN no. 3422656</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1931]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[Occupied by the Civil Service Club between 1911-1913.]]></value>
@@ -14760,7 +14760,7 @@ Library & Archives Canada, MIKAN no. 3600243</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70259973603277,45.42209833801551,0 -75.70241031383998,45.42217754688609,0 -75.70241206256685,45.42218763470194,0 -75.7024209441289,45.42220093976759,0 -75.70243126670934,45.42220358662586,0 -75.70246238669164,45.422242563954,0 -75.70248484504486,45.42223471736998,0 -75.70251283517675,45.42226817599956,0 -75.70263528400868,45.42221688401957,0 -75.70259422472046,45.42216563359074,0 -75.70260810302573,45.42215827408779,0 -75.70259648320025,45.42214453626559,0 -75.70262847735896,45.42212960117369,0 -75.70259973603277,45.42209833801551,0</coordinates>
+            <coordinates>-75.702588685912161,45.422143766289096,0 -75.702613743864831,45.422177485029628,0 -75.702580521914939,45.422188736747998,0 -75.702592141740411,45.422202474570199,0 -75.702578263435143,45.422209834073143,0 -75.702619322723365,45.422261084501976,0 -75.702496873891434,45.422312376481969,0 -75.702468883759551,45.422278917852388,0 -75.702446425406322,45.422286764436407,0 -75.702415305424026,45.422247787108269,0 -75.702404982843589,45.422245140249998,0 -75.702396101281536,45.422231835184348,0 -75.702394352554663,45.422221747368496,0 -75.702588685912161,45.422143766289096,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -14779,13 +14779,13 @@ Library & Archives Canada, MIKAN no. 3600243</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1931]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -14881,7 +14881,7 @@ Library & Archives Canada, MIKAN no. 3576595</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70428308538902,45.422314740348,0 -75.7042944386105,45.42232858819578,0 -75.70424242373322,45.42234959621046,0 -75.70428137333983,45.42239419202557,0 -75.70433159464913,45.4223739084074,0 -75.70435120480647,45.42239782739775,0 -75.70448828129059,45.42234078836663,0 -75.70442325805789,45.42226147804006,0 -75.70428308538902,45.422314740348,0</coordinates>
+            <coordinates>-75.704318691333185,45.422346662918628,0 -75.704458864002049,45.422293400610691,0 -75.704523887234757,45.42237271093726,0 -75.704386810750634,45.42242974996838,0 -75.704367200593296,45.422405830978029,0 -75.704316979283988,45.422426114596199,0 -75.704278029677383,45.422381518781087,0 -75.704330044554666,45.42236051076641,0 -75.704318691333185,45.422346662918628,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -14900,13 +14900,13 @@ Library & Archives Canada, MIKAN no. 3576595</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1938]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -14964,7 +14964,7 @@ Library & Archives Canada, MIKAN no. 3600266</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70654614402658,45.42111747921059,0 -75.70649233726996,45.42113921284864,0 -75.70636462312338,45.42098635398025,0 -75.70630516514491,45.42100701868901,0 -75.70643314986249,45.42116311978791,0 -75.70637934310756,45.42118485332969,0 -75.70633675476536,45.42112999711939,0 -75.70627936096936,45.4211531794955,0 -75.70639083173394,45.42128913832884,0 -75.70661323325311,45.42119930622481,0 -75.70654614402658,45.42111747921059,0</coordinates>
+            <coordinates>-75.706594027882517,45.421118707001767,0 -75.706664800482585,45.421202375702755,0 -75.706441171172244,45.421295891180321,0 -75.706327244825303,45.421161160138162,0 -75.70638156914336,45.421137363866464,0 -75.706427226963498,45.421190378389994,0 -75.706481033718447,45.421166189265868,0 -75.706347523940551,45.421013771540501,0 -75.706407595814611,45.420991265144963,0 -75.706539607230312,45.421144737908939,0 -75.706594027882517,45.421118707001767,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -14989,7 +14989,7 @@ Library & Archives Canada, MIKAN no. 3600266</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -15085,7 +15085,7 @@ Library & Archives Canada, MIKAN no. 3600240</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70255785690223,45.42237208144024,0 -75.70262477781458,45.42245442177747,0 -75.70267990237841,45.42243042150037,0 -75.70268707210131,45.42243839717259,0 -75.70270546528268,45.42243070179949,0 -75.70269890320738,45.42242346975569,0 -75.70270945588239,45.42241806127148,0 -75.70272252578299,45.42242156515073,0 -75.70274599210747,45.42241174789576,0 -75.70274916272297,45.42240145457341,0 -75.70276204061413,45.42239706277217,0 -75.70269571157529,45.42231447505964,0 -75.70261794572771,45.42234782560728,0 -75.70260723642625,45.42233446047556,0 -75.70257892088908,45.42234532003849,0 -75.70258828225128,45.42235736133603,0 -75.70255785690223,45.42237208144024,0</coordinates>
+            <coordinates>-75.702543123408091,45.422416281922651,0 -75.702573548757144,45.422401561818447,0 -75.702564187394941,45.422389520520902,0 -75.702592502932106,45.422378660957975,0 -75.702603212233569,45.422392026089696,0 -75.702680978081148,45.422358675542057,0 -75.702747307119992,45.422441263254584,0 -75.702734429228826,45.422445655055824,0 -75.702731258613326,45.422455948378172,0 -75.702707792288848,45.422465765633142,0 -75.702694722388244,45.422462261753893,0 -75.702684169713237,45.422467670238106,0 -75.702690731788536,45.422474902281905,0 -75.702672338607172,45.422482597655005,0 -75.702665168884266,45.422474621982786,0 -75.702610044320437,45.422498622259887,0 -75.702543123408091,45.422416281922651,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -15104,7 +15104,7 @@ Library & Archives Canada, MIKAN no. 3600240</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1938]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
@@ -15206,7 +15206,7 @@ Library & Archives Canada, MIKAN no. 3600281</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70535623798837,45.42149985585215,0 -75.70531260775408,45.42151638642714,0 -75.70537165466895,45.42159130652397,0 -75.70530145426831,45.4216188162216,0 -75.7052394124062,45.42154506337814,0 -75.70520099839756,45.42156084658397,0 -75.70532424821425,45.42170735121549,0 -75.70547165705756,45.42164651843139,0 -75.70535623798837,45.42149985585215,0</coordinates>
+            <coordinates>-75.705399210679602,45.421525639466893,0 -75.705519497990082,45.421670405816748,0 -75.705514629748791,45.421672302046133,0 -75.705367220905487,45.421733134830234,0 -75.705243971088791,45.421586630198718,0 -75.705282385097433,45.421570846992886,0 -75.705344426959542,45.421644599836348,0 -75.705414627360184,45.421617090138717,0 -75.705355580445314,45.421542170041889,0 -75.705399210679602,45.421525639466893,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -15225,13 +15225,13 @@ Library & Archives Canada, MIKAN no. 3600281</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1933]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -15310,7 +15310,7 @@ Library & Archives Canada, MIKAN no. 3600273</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.7059649575571,45.4212190629321,0 -75.70587615032002,45.42125478454864,0 -75.70584342167675,45.4212137471492,0 -75.70578360190555,45.42123920488018,0 -75.70579190115421,45.42125008521498,0 -75.70578225931767,45.42126261804885,0 -75.70579206386007,45.4212745300141,0 -75.70581257432336,45.42127602802844,0 -75.70586754828858,45.42134318850636,0 -75.70593318194744,45.42131867593361,0 -75.70594289324195,45.42133048989566,0 -75.70598713590721,45.42131373265873,0 -75.70599964748531,45.4213181614771,0 -75.70602128792108,45.42130961419014,0 -75.70602088160037,45.42130040417857,0 -75.70602835693505,45.42129650512671,0 -75.7059649575571,45.4212190629321,0</coordinates>
+            <coordinates>-75.706007930248333,45.421231954739483,0 -75.706073171313051,45.421309396934092,0 -75.706067537665135,45.421313295985939,0 -75.706067330090249,45.421322505997516,0 -75.706046303550082,45.421331053284476,0 -75.706032564180788,45.421326624466111,0 -75.705988935411128,45.421345837285394,0 -75.705979838012212,45.421332795532159,0 -75.705912976562161,45.421359763687271,0 -75.705858616492534,45.421293831000526,0 -75.705833808760133,45.421291719090604,0 -75.705825232008905,45.421280421020931,0 -75.705833646054273,45.4212660465003,0 -75.705825346805597,45.421257007852269,0 -75.705884552681212,45.421229708434524,0 -75.705919123011256,45.421270131938371,0 -75.706007930248333,45.421231954739483,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -15329,13 +15329,13 @@ Library & Archives Canada, MIKAN no. 3600273</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1931]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -15393,7 +15393,7 @@ Library & Archives Canada, MIKAN no. 3576592</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70456571379636,45.42220226629794,0 -75.70462867289089,45.422279058702,0 -75.70459176856664,45.42229228819694,0 -75.70461653939141,45.42232250159007,0 -75.70465317310222,45.42230602988822,0 -75.70466349429437,45.42231861879843,0 -75.70470577947393,45.42230321601301,0 -75.70466139835271,45.42224908370168,0 -75.70469009606686,45.42223749298161,0 -75.7046374580915,45.42217328951438,0 -75.70456571379636,45.42220226629794,0</coordinates>
+            <coordinates>-75.704607458696415,45.42223050549503,0 -75.704679202991557,45.422201528711476,0 -75.704731840966915,45.422265732178701,0 -75.704703143252772,45.422277322898772,0 -75.704747524373985,45.422331455210106,0 -75.704705239194425,45.422346857995521,0 -75.704694918002275,45.422334269085312,0 -75.704658284291469,45.422350740787159,0 -75.704633513466703,45.422320527394035,0 -75.70467041779095,45.422307297899096,0 -75.704607458696415,45.42223050549503,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -15412,13 +15412,13 @@ Library & Archives Canada, MIKAN no. 3576592</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1938]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -15514,7 +15514,7 @@ Library & Archives Canada, MIKAN no. 3608152</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70502445859987,45.42179381438153,0 -75.7050630113126,45.42177713288771,0 -75.7050421447322,45.42174872655991,0 -75.70490024242118,45.42180626680422,0 -75.70495266975512,45.42186889078256,0 -75.70505202169399,45.42182805527018,0 -75.70502445859987,45.42179381438153,0</coordinates>
+            <coordinates>-75.705066203499925,45.421824509160992,0 -75.705093766594047,45.42185813615405,0 -75.704995642446349,45.421900813353197,0 -75.704940759530047,45.421837575479266,0 -75.705082661841075,45.421777579652598,0 -75.705105984003836,45.421806599875985,0 -75.705066203499925,45.421824509160992,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -15533,13 +15533,13 @@ Library & Archives Canada, MIKAN no. 3608152</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1933]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -15618,7 +15618,7 @@ Library & Archives Canada, MIKAN no. 3600289</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70588877910754,45.42021964493387,0 -75.70559074369999,45.42034419538837,0 -75.705790275027,45.42058285696461,0 -75.70595238214594,45.42051594608582,0 -75.70593360437334,45.42049373660471,0 -75.70606587977213,45.42043815899964,0 -75.70588877910754,45.42021964493387,0</coordinates>
+            <coordinates>-75.705911493244344,45.420222714411821,0 -75.706095346760407,45.420441842373172,0 -75.705960615779262,45.420498033873834,0 -75.705980007447451,45.420521471146124,0 -75.705814216954977,45.420593293189619,0 -75.705611002254429,45.420354017717791,0 -75.705911493244344,45.420222714411821,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -15637,13 +15637,13 @@ Library & Archives Canada, MIKAN no. 3600289</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1938]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -15722,7 +15722,7 @@ Library & Archives Canada, MIKAN no. 3600257</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70515532390847,45.42052614657195,0 -75.70493995339804,45.42061580566194,0 -75.70504484662241,45.42074202797387,0 -75.70512122235041,45.4207084314378,0 -75.70514520262753,45.42073770919232,0 -75.70516119058968,45.42073127728516,0 -75.70521461009916,45.42079650790028,0 -75.70533952729349,45.42074279518115,0 -75.70515532390847,45.42052614657195,0</coordinates>
+            <coordinates>-75.705173126880567,45.420542721752859,0 -75.7053616275347,45.420761212048816,0 -75.705235482549199,45.42081553866354,0 -75.705181449144121,45.420749694152832,0 -75.705165461181977,45.420755512164412,0 -75.705140867009277,45.420727462201064,0 -75.705064491281263,45.420760444841541,0 -75.704954686892179,45.420636678111961,0 -75.705173126880567,45.420542721752859,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -15741,7 +15741,7 @@ Library & Archives Canada, MIKAN no. 3600257</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1931]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
@@ -15826,7 +15826,7 @@ Library & Archives Canada, MIKAN no. 3600289</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70259897602796,45.42161352276928,0 -75.70232616902662,45.42173064326487,0 -75.70243191169161,45.4218662466009,0 -75.70256178889805,45.42181119828162,0 -75.70251858816421,45.42176088877488,0 -75.70266704137418,45.42169810073866,0 -75.70259897602796,45.42161352276928,0</coordinates>
+            <coordinates>-75.702590381489713,45.421663862207581,0 -75.70265844683594,45.421748440176962,0 -75.702509993625966,45.42181122821318,0 -75.702553194359808,45.42186153771992,0 -75.702423317153361,45.421916586039202,0 -75.702317574488376,45.421780982703176,0 -75.702590381489713,45.421663862207581,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -15845,13 +15845,13 @@ Library & Archives Canada, MIKAN no. 3600289</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1938]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -15930,7 +15930,7 @@ Library & Archives Canada, MIKAN no. 3600254</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70493778419397,45.42061640912654,0 -75.70472566908505,45.4207052943965,0 -75.70494174229827,45.42095319308006,0 -75.70499714573685,45.42093041616048,0 -75.7048950448516,45.42081430985497,0 -75.70496469471632,45.42078708868166,0 -75.70492353788202,45.42074097949745,0 -75.70495836277183,45.42072653560002,0 -75.70503355329161,45.42081597628965,0 -75.70509053955175,45.42079264378516,0 -75.70493778419397,45.42061640912654,0</coordinates>
+            <coordinates>-75.704954359374895,45.420636053785387,0 -75.705110184210596,45.420814130130779,0 -75.705054425741636,45.420838076530863,0 -75.704974324057162,45.420748021945634,0 -75.704940113062932,45.420762465843069,0 -75.704981269897232,45.420807347236099,0 -75.704913461719286,45.420837637887352,0 -75.705014334813356,45.420952516401684,0 -75.704962000852717,45.42097713500803,0 -75.704741016474784,45.420728008533295,0 -75.704954359374895,45.420636053785387,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -15949,13 +15949,13 @@ Library & Archives Canada, MIKAN no. 3600254</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1931]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -16034,7 +16034,7 @@ Library & Archives Canada, MIKAN no. 3600289</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70275566231024,45.42154376897033,0 -75.70288919013358,45.42170666529789,0 -75.70294602662668,45.42168181295804,0 -75.70290474876363,45.4216338565817,0 -75.70300947769363,45.4215894508873,0 -75.7030448932972,45.42163573164872,0 -75.70311658407668,45.42160563552915,0 -75.70298361559532,45.42144607458226,0 -75.70275566231024,45.42154376897033,0</coordinates>
+            <coordinates>-75.702754434519051,45.421591652826272,0 -75.702984843386488,45.421493958438205,0 -75.703117811867855,45.421653519385089,0 -75.703043665506016,45.421683615504662,0 -75.703008249902439,45.421637334743245,0 -75.702903520972441,45.421681740437641,0 -75.702944798835489,45.421729696813983,0 -75.702887962342388,45.421754549153832,0 -75.702754434519051,45.421591652826272,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -16053,7 +16053,7 @@ Library & Archives Canada, MIKAN no. 3600289</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1931]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
@@ -16157,7 +16157,7 @@ Library & Archives Canada, MIKAN no. 3600222</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70385323578836,45.42125784194599,0 -75.70386410748296,45.42127087486784,0 -75.70392057117381,45.42124647081228,0 -75.70395739692791,45.42128687178948,0 -75.7040469398427,45.42124896166143,0 -75.70397623756384,45.42116420458724,0 -75.70406068853251,45.4211290962166,0 -75.70396396831838,45.4210168155503,0 -75.70367369007305,45.42114293263778,0 -75.70379236289192,45.42128519750826,0 -75.70385323578836,45.42125784194599,0</coordinates>
+            <coordinates>-75.703866741491311,45.421297131263685,0 -75.70380586859487,45.421324486825959,0 -75.703685967984825,45.421180994164295,0 -75.703978701812503,45.421051193703285,0 -75.704076649817821,45.421164702160766,0 -75.703993426640338,45.421202266113767,0 -75.704065356710359,45.421287023187951,0 -75.703970902630857,45.421326161107181,0 -75.703934076876763,45.421285760129976,0 -75.703877613185909,45.421310164185535,0 -75.703866741491311,45.421297131263685,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -16176,13 +16176,13 @@ Library & Archives Canada, MIKAN no. 3600222</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1938]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -16305,7 +16305,7 @@ Library & Archives Canada, MIKAN no. 3600251</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70472470349847,45.42070572958108,0 -75.70451368835319,45.42079371614575,0 -75.70468291892136,45.4209931521652,0 -75.70489706857897,45.42090443206842,0 -75.70472470349847,45.42070572958108,0</coordinates>
+            <coordinates>-75.704740050888205,45.420727829822283,0 -75.704915485446662,45.420930215683157,0 -75.704702563580213,45.421020163571121,0 -75.704529035742908,45.420818885864904,0 -75.704740050888205,45.420727829822283,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -16324,13 +16324,13 @@ Library & Archives Canada, MIKAN no. 3600251</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1938]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -16426,7 +16426,7 @@ Library & Archives Canada, MIKAN no. 3600249</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70468659057123,45.42099299719605,0 -75.70451455934663,45.420793374601,0 -75.70417882139985,45.42093164904414,0 -75.70416633516173,45.42094917682716,0 -75.70432726657974,45.4211380885178,0 -75.70468659057123,45.42099299719605,0</coordinates>
+            <coordinates>-75.704702551856556,45.42101878081079,0 -75.704347525134182,45.421173694461963,0 -75.704182296447058,45.420983554980147,0 -75.704192327102817,45.420964185510364,0 -75.704528678945181,45.420819158215735,0 -75.704702551856556,45.42101878081079,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -16445,7 +16445,7 @@ Library & Archives Canada, MIKAN no. 3600249</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1931]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
@@ -16530,7 +16530,7 @@ Library & Archives Canada, MIKAN no. 3600289</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70275665839053,45.42154487916815,0 -75.70259890606715,45.42161362246956,0 -75.70271778120539,45.42175845581192,0 -75.70287329091583,45.42168918755758,0 -75.70275665839053,45.42154487916815,0</coordinates>
+            <coordinates>-75.702751747225818,45.421591535232928,0 -75.702870835333485,45.421737071413531,0 -75.70270918666715,45.421806339667867,0 -75.702590311528908,45.421661506325506,0 -75.702751747225818,45.421591535232928,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -16549,7 +16549,7 @@ Library & Archives Canada, MIKAN no. 3600289</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1931]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
@@ -16613,7 +16613,7 @@ Library & Archives Canada, MIKAN no. 3600217</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70355366281127,45.42119568065482,0 -75.70362030238093,45.42127268581172,0 -75.70369181787267,45.42124074283932,0 -75.7037015700415,45.42125386223228,0 -75.70372432497881,45.42124530606264,0 -75.70374789275361,45.42127439689068,0 -75.70377471107177,45.42126469988511,0 -75.70367231335803,45.42114377336855,0 -75.70355366281127,45.42119568065482,0</coordinates>
+            <coordinates>-75.70356716851424,45.421236197763697,0 -75.703685819060993,45.421184290477427,0 -75.70378821677474,45.421305216993986,0 -75.703761398456578,45.421314913999559,0 -75.703737830681774,45.421285823171516,0 -75.703715075744469,45.421294379341155,0 -75.703705323575633,45.421281259948202,0 -75.703633808083893,45.421313202920601,0 -75.70356716851424,45.421236197763697,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -16632,7 +16632,7 @@ Library & Archives Canada, MIKAN no. 3600217</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1931]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
@@ -16717,7 +16717,7 @@ Library & Archives Canada, MIKAN no. 3600289</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70352320615756,45.42120829725428,0 -75.70341333585628,45.4212566115703,0 -75.70351791173854,45.42137925507054,0 -75.70363042971013,45.42133094066783,0 -75.70352320615756,45.42120829725428,0</coordinates>
+            <coordinates>-75.703533028486973,45.421251269945515,0 -75.703640252039548,45.421373913359062,0 -75.703527734067961,45.421422227761774,0 -75.7034231581857,45.421299584261533,0 -75.703533028486973,45.421251269945515,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -16736,13 +16736,13 @@ Library & Archives Canada, MIKAN no. 3600289</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1931]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -16821,7 +16821,7 @@ Library & Archives Canada, MIKAN no. 3600289</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70536478974036,45.4204399810284,0 -75.70528189879661,45.42047400632684,0 -75.70541986758185,45.42063421778163,0 -75.70543841009082,45.42062671432736,0 -75.70546624011126,45.42066091884029,0 -75.70551338539698,45.42064240713869,0 -75.70548411254677,45.42060758293728,0 -75.70549597140371,45.4206008805338,0 -75.70536478974036,45.4204399810284,0</coordinates>
+            <coordinates>-75.705380137130092,45.42045225894018,0 -75.705519913331685,45.420614386236757,0 -75.705505598892401,45.420619860849058,0 -75.705533030055832,45.420654685050472,0 -75.705489568143648,45.420675652334431,0 -75.705458668645264,45.420640833925916,0 -75.705440126136295,45.420648951275766,0 -75.705300315664289,45.420488125925395,0 -75.705380137130092,45.42045225894018,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -16846,7 +16846,7 @@ Library & Archives Canada, MIKAN no. 3600289</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -16925,7 +16925,7 @@ Library & Archives Canada, MIKAN no. 3600214</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70338232683777,45.42145843514913,0 -75.70345680234306,45.42155366420501,0 -75.70351686825278,45.42152734844944,0 -75.70344110018588,45.42143463512299,0 -75.70351195344377,45.42140353716516,0 -75.70343953733418,45.42131796872526,0 -75.7034175902685,45.42132736746466,0 -75.70338594944404,45.42129087955827,0 -75.70332886654514,45.421315809427,0 -75.70332173075029,45.42130792245147,0 -75.70328926105036,45.4213215756315,0 -75.70329735490635,45.42132954607355,0 -75.7032489010271,45.42135227292,0 -75.70335256488411,45.4214712997284,0 -75.70338232683777,45.42145843514913,0</coordinates>
+            <coordinates>-75.703390921376013,45.421503863422714,0 -75.703361159422357,45.42151672800199,0 -75.703256267774151,45.421395859506816,0 -75.703305949444598,45.421374974347138,0 -75.703297855588602,45.42136700390509,0 -75.703335850348836,45.42134843956034,0 -75.703343600039275,45.421356940431458,0 -75.703394543982284,45.421336307831858,0 -75.703426184806744,45.42137279573825,0 -75.70344813187242,45.421363396998849,0 -75.703520547982009,45.421448965438749,0 -75.703449694724128,45.421480063396579,0 -75.703525462791021,45.421572776723025,0 -75.703465396881299,45.421599092478594,0 -75.703390921376013,45.421503863422714,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -16944,13 +16944,13 @@ Library & Archives Canada, MIKAN no. 3600214</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1938]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -17029,7 +17029,7 @@ Library & Archives Canada, MIKAN no. 3600258</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70527748260545,45.42047346957168,0 -75.70515472643193,45.4205255262068,0 -75.70529282804617,45.42068708058636,0 -75.70533886174668,45.42066733492851,0 -75.70540919177817,45.42075259975602,0 -75.70549102952832,45.42072028856663,0 -75.70527748260545,45.42047346957168,0</coordinates>
+            <coordinates>-75.705299582846663,45.420488816961409,0 -75.705513743665122,45.420735635956355,0 -75.705434361497339,45.420768561041342,0 -75.705359734196719,45.42068206842265,0 -75.705313700496205,45.420702427976089,0 -75.705173143299604,45.420541487492116,0 -75.705299582846663,45.420488816961409,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -17048,13 +17048,13 @@ Library & Archives Canada, MIKAN no. 3600258</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1938]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -17131,7 +17131,7 @@ Library & Archives Canada, MIKAN no. 3593775</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70559089647554,45.4203451346843,0 -75.7053630998939,45.42043919668857,0 -75.70548315782311,45.42058459191049,0 -75.70553864881671,45.42056041254371,0 -75.70556521442042,45.42058995621682,0 -75.70573405212402,45.42052023947153,0 -75.70559089647554,45.4203451346843,0</coordinates>
+            <coordinates>-75.705609927238811,45.420353729222548,0 -75.705756766260805,45.420529447905366,0 -75.70558547297486,45.420602848024195,0 -75.705561976849111,45.420573918246667,0 -75.705505258064321,45.420597483717863,0 -75.705382744552765,45.420451474600355,0 -75.705609927238811,45.420353729222548,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -17150,13 +17150,13 @@ Library & Archives Canada, MIKAN no. 3593775</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1931]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -17233,7 +17233,7 @@ Library & Archives Canada, MIKAN no. 3600234</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70358464941107,45.42181440188158,0 -75.70339182488613,45.42189370287662,0 -75.70353795040326,45.42206499251753,0 -75.70329390556729,45.42217284176093,0 -75.7033375926184,45.42222042232825,0 -75.70340688944683,45.42218975930508,0 -75.70341592816334,45.42219821806288,0 -75.70344605719211,45.42218341520986,0 -75.70344003137684,45.42217601382109,0 -75.70351384743226,45.42214535074232,0 -75.70356657345818,45.4222087914194,0 -75.70362833792608,45.42218341501651,0 -75.70364189608722,45.42219821783951,0 -75.70367805086048,45.42218024291049,0 -75.70368558316548,45.42218975899382,0 -75.70369462188904,45.42218658693167,0 -75.70371420579203,45.42218764425568,0 -75.70373680252479,45.42217812807279,0 -75.70373919049274,45.42216663498418,0 -75.70375337336975,45.4221590958037,0 -75.70367202436557,45.42206287759991,0 -75.70366665385755,45.42206513959042,0 -75.70361263227423,45.42199864284858,0 -75.70360253634158,45.42200266471993,0 -75.70355211728806,45.42194362576837,0 -75.70353906940717,45.42194913184675,0 -75.70350213369254,45.4219062785575,0 -75.7035653593062,45.42187885605823,0 -75.70361878720237,45.42194197853244,0 -75.70367278876473,45.42191914246496,0 -75.70358464941107,45.42181440188158,0</coordinates>
+            <coordinates>-75.70359938290521,45.421853691199281,0 -75.703687522258875,45.42196088736501,0 -75.703634748487687,45.42198372343249,0 -75.70358132059151,45.421920600958281,0 -75.703516867186678,45.421945567875198,0 -75.703553802901311,45.42198842116445,0 -75.703566850782195,45.421982915086069,0 -75.703617269835718,45.422041954037631,0 -75.703627365768369,45.422037932166276,0 -75.703681387351693,45.422104428908121,0 -75.703686757859714,45.422102166917611,0 -75.70376810686389,45.422198385121398,0 -75.703753923986881,45.422205924301878,0 -75.703751536018927,45.422217417390485,0 -75.703728939286165,45.422226933573377,0 -75.703709355383182,45.422225876249371,0 -75.703700316659621,45.422229048311515,0 -75.703692784354615,45.422219532228191,0 -75.70365662958136,45.422237507157206,0 -75.703643071420217,45.42222270433421,0 -75.703581306952316,45.422248080737099,0 -75.703528580926402,45.422184640060017,0 -75.703454764870983,45.422215303138785,0 -75.70346079068625,45.422222704527556,0 -75.703430661657478,45.422237507380579,0 -75.703421622940965,45.422229048622775,0 -75.703344959365467,45.422263395019485,0 -75.703303727896724,45.422213358869804,0 -75.703547772732691,45.422106737417579,0 -75.703405330589078,45.421936675567856,0 -75.70359938290521,45.421853691199281,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -17252,13 +17252,13 @@ Library & Archives Canada, MIKAN no. 3600234</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1931]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -17335,7 +17335,7 @@ Library & Archives Canada, MIKAN no. 3576588</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70504980257545,45.42230771775223,0 -75.70494648083923,45.42235031341625,0 -75.70502144625736,45.42244305137093,0 -75.70512255295266,45.42240170061296,0 -75.70504980257545,45.42230771775223,0</coordinates>
+            <coordinates>-75.705107508760804,45.422326134619901,0 -75.705180259138018,45.422420117480627,0 -75.705079152442721,45.422461468238595,0 -75.705004187024585,45.422368730283921,0 -75.705107508760804,45.422326134619901,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -17354,13 +17354,13 @@ Library & Archives Canada, MIKAN no. 3576588</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1938]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -17418,7 +17418,7 @@ Library & Archives Canada, MIKAN no. 3600282</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70517449242891,45.42157425302575,0 -75.7051253370731,45.42159352848286,0 -75.70517347585322,45.42165010413194,0 -75.70515223174439,45.42165967475852,0 -75.705226081813,45.42174607943292,0 -75.70529626111818,45.42171822436867,0 -75.70517449242891,45.42157425302575,0</coordinates>
+            <coordinates>-75.705217465120143,45.421600036640498,0 -75.705339233809411,45.421744007983413,0 -75.705269054504228,45.421771863047667,0 -75.705195204435626,45.421685458373268,0 -75.705216448544448,45.421675887746687,0 -75.705163398599623,45.421620539888785,0 -75.705217465120143,45.421600036640498,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -17437,13 +17437,13 @@ Library & Archives Canada, MIKAN no. 3600282</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1933]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -17501,7 +17501,7 @@ Library & Archives Canada, MIKAN no. 3600282</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.7051325477855,45.42168252744141,0 -75.70505144093058,45.42171920753229,0 -75.70512044584802,45.42180096198727,0 -75.70520260259796,45.42176788411353,0 -75.7051325477855,45.42168252744141,0</coordinates>
+            <coordinates>-75.705174292685555,45.421710766638512,0 -75.705245575289197,45.421793667728274,0 -75.705162190748084,45.421830428975554,0 -75.705090116352693,45.421746832833804,0 -75.705174292685555,45.421710766638512,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -17520,13 +17520,13 @@ Library & Archives Canada, MIKAN no. 3600282</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1931]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -17622,7 +17622,7 @@ Library & Archives Canada, MIKAN no. 3576590</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70467065151941,45.42215997106493,0 -75.70474442093193,45.42225487158456,0 -75.70479642872981,45.42223462509129,0 -75.70476719878944,45.42219841372478,0 -75.70481978284892,45.42217754468549,0 -75.70487659523437,45.42225010056286,0 -75.70489905078705,45.42224066631572,0 -75.70492804522156,45.42227565104361,0 -75.70500073461807,45.42224664793873,0 -75.70496067559677,45.4221963289226,0 -75.70493415383513,45.42220625052703,0 -75.70492244722462,45.42219028968299,0 -75.70494665324033,45.42218061292542,0 -75.7048651956476,45.42208235877464,0 -75.70467065151941,45.42215997106493,0</coordinates>
+            <coordinates>-75.704711168628279,45.422191893635564,0 -75.704914307294715,45.422109370180557,0 -75.704995764887443,45.422207624331342,0 -75.704971558871733,45.422217301088907,0 -75.704983265482241,45.422233261932952,0 -75.705009787243881,45.422223340328522,0 -75.705049846265183,45.422273659344647,0 -75.704977156868679,45.422302662449532,0 -75.704948162434164,45.422267677721642,0 -75.704925706881482,45.422277111968782,0 -75.70486889449603,45.422204556091408,0 -75.704816310436556,45.422225425130698,0 -75.704845540376922,45.422261636497211,0 -75.704793532579046,45.422281882990482,0 -75.704711168628279,45.422191893635564,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -17641,13 +17641,13 @@ Library & Archives Canada, MIKAN no. 3576590</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1931]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -17724,7 +17724,7 @@ Library & Archives Canada, MIKAN no. 3600231</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70412070706601,45.42196037542873,0 -75.70404742155336,45.4219911679058,0 -75.70413090606526,45.42208577429951,0 -75.70420398580586,45.42205636470018,0 -75.70412070706601,45.42196037542873,0</coordinates>
+            <coordinates>-75.70414771847193,45.421998436955256,0 -75.704230997211781,45.422094426226707,0 -75.704157917471179,45.422123835826035,0 -75.704074432959274,45.422029229432326,0 -75.70414771847193,45.421998436955256,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -17743,13 +17743,13 @@ Library & Archives Canada, MIKAN no. 3600231</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1938]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -17826,7 +17826,7 @@ Library & Archives Canada, MIKAN no. 3600278</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70552526859767,45.42133766604705,0 -75.70549178567013,45.42135042113117,0 -75.70555377143714,45.42142627108958,0 -75.70552683760786,45.42143887163243,0 -75.70547323914947,45.42137386843932,0 -75.70543718058123,45.42138760466122,0 -75.70545814887133,45.42141472153763,0 -75.70548680554234,45.42145178122795,0 -75.70546115949239,45.42146389117544,0 -75.70540825997475,45.42139979187338,0 -75.70537606479851,45.4214120563362,0 -75.7054283754552,45.42147755011591,0 -75.70540272938386,45.42148966004841,0 -75.70546412634427,45.42156690429539,0 -75.7056506380933,45.42149117354649,0 -75.70552526859767,45.42133766604705,0</coordinates>
+            <coordinates>-75.705563944019772,45.421357310705901,0 -75.705697615362098,45.421511599436492,0 -75.705507099035501,45.421592687910135,0 -75.705445702075096,45.421515443663154,0 -75.705471348146432,45.421503333730655,0 -75.705419037489747,45.421437839950947,0 -75.705448777083618,45.421423119905768,0 -75.70550413218362,45.421489674790188,0 -75.705529778233569,45.421477564842696,0 -75.705501121562563,45.421440505152376,0 -75.705478925481287,45.421413388275965,0 -75.705513756258355,45.421395968680528,0 -75.70557042419469,45.421462199664823,0 -75.705597971919531,45.421450213017565,0 -75.705533530570179,45.421371907476797,0 -75.705563944019772,45.421357310705901,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -17845,13 +17845,13 @@ Library & Archives Canada, MIKAN no. 3600278</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1938]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -17947,7 +17947,7 @@ Library & Archives Canada, MIKAN no. 3600271</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70624805454145,45.42116396584697,0 -75.7062025673643,45.42118147425918,0 -75.70623704969991,45.42122627502336,0 -75.70621870808405,45.42123451427301,0 -75.70618275842581,45.42118971350684,0 -75.7061394722205,45.42120928169644,0 -75.70617322085292,45.42125305256758,0 -75.70615414555762,45.4212607768506,0 -75.7061203969372,45.42121700597136,0 -75.70607270870362,45.42123708908198,0 -75.70610792463306,45.42127983006823,0 -75.70609471864876,45.42128446463115,0 -75.70615634664388,45.42135707280789,0 -75.70616515064326,45.42135449804314,0 -75.70617101997985,45.42135861765286,0 -75.7061878943092,45.42135140831793,0 -75.70618789429844,45.42134471395033,0 -75.7062267785975,45.42132772051455,0 -75.70623338160746,45.42132978031129,0 -75.70625465791899,45.42132205601087,0 -75.70625515232874,45.4213169064895,0 -75.706288900931,45.42130300274548,0 -75.70629697126097,45.42130403263671,0 -75.70631678021219,45.42129527842552,0 -75.70631604652351,45.42128961395959,0 -75.70634025745817,45.42128034478431,0 -75.70624805454145,45.42116396584697,0</coordinates>
+            <coordinates>-75.706293482815042,45.421171332594042,0 -75.706388448261905,45.421287711531384,0 -75.706365158170641,45.421298822393425,0 -75.706364664068147,45.421303566015972,0 -75.70635007322943,45.421309557697015,0 -75.706339240369289,45.421309448649168,0 -75.706303036184678,45.421325807975549,0 -75.706303155670525,45.42133126444471,0 -75.706285255784735,45.42133868179733,0 -75.706278038879191,45.421336315052798,0 -75.70623669899777,45.421355150175351,0 -75.706236085112934,45.42136061675177,0 -75.706221052470354,45.421367212191107,0 -75.706214262290388,45.421363092581387,0 -75.706203002708648,45.421369350719679,0 -75.706143216400278,45.421296128647342,0 -75.706151511219886,45.421290880188835,0 -75.706118136977196,45.421247525306995,0 -75.706165211315195,45.421226828300782,0 -75.706202643309155,45.421270599180033,0 -75.706219263022092,45.42126164710583,0 -75.7061842865985,45.421217262339098,0 -75.706227572803812,45.421198921940679,0 -75.70626536414882,45.421244336602435,0 -75.706282477973502,45.421234255666022,0 -75.706249837324663,45.421191910484197,0 -75.706293482815042,45.421171332594042,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -17963,16 +17963,16 @@ Library & Archives Canada, MIKAN no. 3600271</a></small>
           <value><![CDATA[Continental Bag & Paper Co.]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1910]]></value>
         </Data>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1549">Moses Chamberlain Edey</a>]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now vacant pending Lebreton Flats redevelopment.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -18055,7 +18055,7 @@ Past Ottawa (City of Ottawa)</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now vacant pending Lebreton Flats redevelopment.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -18138,7 +18138,7 @@ Past Ottawa (City of Ottawa)</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now vacant pending Lebreton Flats redevelopment.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -18221,7 +18221,7 @@ Past Ottawa (City of Ottawa)</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now vacant pending Lebreton Flats redevelopment.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -18304,7 +18304,7 @@ Past Ottawa (City of Ottawa)</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now vacant pending Lebreton Flats redevelopment.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -18387,7 +18387,7 @@ Past Ottawa (City of Ottawa)</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now vacant pending Lebreton Flats redevelopment.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -18470,7 +18470,7 @@ Past Ottawa (City of Ottawa)</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now vacant pending Lebreton Flats redevelopment.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -18553,7 +18553,7 @@ Past Ottawa (City of Ottawa)</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now vacant pending Lebreton Flats redevelopment.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -18636,7 +18636,7 @@ Past Ottawa (City of Ottawa)</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now vacant pending Lebreton Flats redevelopment.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -18719,7 +18719,7 @@ Past Ottawa (City of Ottawa)</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now vacant pending Lebreton Flats redevelopment.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -18796,13 +18796,13 @@ Past Ottawa (City of Ottawa)</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1938]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -18921,7 +18921,7 @@ Library & Archives Canada, MIKAN no. 3600289</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.704992841327,45.42159812917176,0 -75.70507867042272,45.42156495239226,0 -75.70507326757949,45.42156028056957,0 -75.70513870143221,45.42153424412803,0 -75.70511428469047,45.42150608123188,0 -75.70496495727117,45.42156356260357,0 -75.70495619070859,45.4215515779674,0 -75.70510222888765,45.42149057158991,0 -75.70504719912053,45.42142232970463,0 -75.70489845964622,45.42148341886991,0 -75.70488460211925,45.4214670582038,0 -75.70503370806114,45.42140677883044,0 -75.70500199037805,45.4213702184361,0 -75.70485446324804,45.42142986249897,0 -75.70484611276302,45.42142000523482,0 -75.70475441767161,45.42145837220732,0 -75.70474299664072,45.42145445544275,0 -75.70473585611363,45.42145729667413,0 -75.70473047727715,45.42146225611538,0 -75.7047309407299,45.42146771373314,0 -75.70473548929391,45.42147155075945,0 -75.70474735020535,45.42147436811003,0 -75.70475407070943,45.4214726367146,0 -75.70489101051687,45.42163864792905,0 -75.70488886408815,45.42164437816451,0 -75.70488567620279,45.42165052638513,0 -75.7048942916076,45.42165589088791,0 -75.70490402246909,45.42165593050719,0 -75.70491234923911,45.42165261726751,0 -75.7049120406478,45.42164394229604,0 -75.70500191571749,45.42160720395061,0 -75.704992841327,45.42159812917176,0</coordinates>
+            <coordinates>-75.7050259916888,45.421630051742397,0 -75.70503506607929,45.421639126521242,0 -75.7049451910096,45.421675864866678,0 -75.70494549960091,45.421684539838147,0 -75.704937172830896,45.421687853077827,0 -75.704927441969403,45.421687813458547,0 -75.704918826564594,45.421682448955764,0 -75.704922014449949,45.421676300735143,0 -75.704924160878676,45.421670570499685,0 -75.70478445854107,45.421506707919789,0 -75.704776049824133,45.421507978893537,0 -75.704765723651661,45.421507156703619,0 -75.704761021613763,45.421503012729517,0 -75.704760711634904,45.421494946055503,0 -75.704769006475431,45.421489219244762,0 -75.70477415184186,45.421488219700151,0 -75.704784498555469,45.421489987830157,0 -75.704872510273347,45.421452541701044,0 -75.704882088549539,45.421462398965197,0 -75.705032071261911,45.421398457633202,0 -75.705063788944997,45.421436245818711,0 -75.704917752481052,45.421498980774437,0 -75.704931610008018,45.421515341440546,0 -75.705079121691156,45.421453024484087,0 -75.705137834831817,45.4215194246826,0 -75.704989341070387,45.421583500538034,0 -75.704998107632974,45.421595485174208,0 -75.705151118425803,45.421533092637802,0 -75.705174921271947,45.421563711116306,0 -75.705106417941295,45.421592203140207,0 -75.705111820784524,45.421596874962894,0 -75.7050259916888,45.421630051742397,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -18940,13 +18940,13 @@ Library & Archives Canada, MIKAN no. 3600289</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1938]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -19061,7 +19061,7 @@ Library & Archives Canada, MIKAN no. 3600290</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70491766065348,45.42126980842779,0 -75.70485286053612,45.42129653585423,0 -75.70484901942679,45.42129266675688,0 -75.70466565338711,45.42136682479583,0 -75.7046903419004,45.42139571443414,0 -75.70468449360996,45.42140785311242,0 -75.70469870587419,45.42142447315214,0 -75.70471342165732,45.4214248546678,0 -75.70481324079908,45.42138451182058,0 -75.7047993994285,45.42136644153813,0 -75.7049484479081,45.42130713456084,0 -75.70491766065348,45.42126980842779,0</coordinates>
+            <coordinates>-75.70494283037263,45.421298047624894,0 -75.704976687105187,45.421334759862347,0 -75.704827638625588,45.421397750213181,0 -75.704842093891756,45.421417662182392,0 -75.704746572019118,45.421456777238433,0 -75.704725717280098,45.421458851305132,0 -75.704712118911459,45.421441617369823,0 -75.704717967201901,45.421429478691543,0 -75.704692664793029,45.421398747366467,0 -75.70487480304152,45.421323361536331,0 -75.704881099733214,45.421325388946919,0 -75.70494283037263,45.421298047624894,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -19080,13 +19080,13 @@ Library & Archives Canada, MIKAN no. 3600290</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1938]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -19144,7 +19144,7 @@ Library & Archives Canada, MIKAN no. 3600293</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70520808976538,45.42149270998579,0 -75.70524265620766,45.42153467275502,0 -75.70535454894051,45.42149038532595,0 -75.7053260174883,45.42145381215686,0 -75.7052831587761,45.4214734442807,0 -75.7052755541592,45.42146421247564,0 -75.70520808976538,45.42149270998579,0</coordinates>
+            <coordinates>-75.705246765187482,45.421520949182892,0 -75.705313001790131,45.421491223881567,0 -75.705321834198202,45.421500455686619,0 -75.705368376283943,45.421478981876014,0 -75.705397521631738,45.421516168940698,0 -75.705285628898892,45.421560456369768,0 -75.705246765187482,45.421520949182892,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -19163,7 +19163,7 @@ Library & Archives Canada, MIKAN no. 3600293</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1931]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
@@ -19246,7 +19246,7 @@ Library & Archives Canada, MIKAN no. 3600223</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70420346357724,45.421334051128,0 -75.70412635160426,45.42124375861121,0 -75.70404707707473,45.42127759448596,0 -75.70408190669764,45.42132364331281,0 -75.70402108360405,45.42134738130509,0 -75.70406405025724,45.42139888902947,0 -75.70412698888438,45.42137553920254,0 -75.70412073917939,45.42136804717713,0 -75.70420346357724,45.421334051128,0</coordinates>
+            <coordinates>-75.704224336027281,45.421373340445697,0 -75.704141611629424,45.421407336494831,0 -75.70414786133442,45.421414828520241,0 -75.704084922707281,45.421438178347167,0 -75.704041956054084,45.421386670622788,0 -75.704102779147675,45.421362932630508,0 -75.70406794952477,45.421316883803655,0 -75.704147224054296,45.42128304792891,0 -75.704224336027281,45.421373340445697,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -19265,7 +19265,7 @@ Library & Archives Canada, MIKAN no. 3600223</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1931]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
@@ -19329,7 +19329,7 @@ Library & Archives Canada, MIKAN no. 3600220</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70405889220977,45.42112877597966,0 -75.7039769109239,45.42116501180484,0 -75.70404761320563,45.42124976887977,0 -75.70413281824949,45.42121373135033,0 -75.70405889220977,45.42112877597966,0</coordinates>
+            <coordinates>-75.70407608128626,45.421164381923823,0 -75.704150007325978,45.421249337294491,0 -75.704064802282119,45.421285374823931,0 -75.703994100000386,45.421200617749001,0 -75.70407608128626,45.421164381923823,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -19348,7 +19348,7 @@ Library & Archives Canada, MIKAN no. 3600220</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1931]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
@@ -19431,7 +19431,7 @@ Library & Archives Canada, MIKAN no. 3600226</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70436147877474,45.42149261969151,0 -75.70429933464583,45.42141937736547,0 -75.70418874962272,45.42146448967269,0 -75.70419607248182,45.42147513762455,0 -75.70413687036319,45.42149928860541,0 -75.7041803682515,45.42155181809072,0 -75.70424003821867,45.42152642738589,0 -75.70425042580513,45.42153897174179,0 -75.70436147877474,45.42149261969151,0</coordinates>
+            <coordinates>-75.704387262389474,45.421529453426857,0 -75.704276209419859,45.421575805477133,0 -75.704265821833403,45.421563261121236,0 -75.704206151866231,45.421588651826063,0 -75.704162653977917,45.421536122340754,0 -75.704221856096552,45.421511971359891,0 -75.704214533237447,45.42150132340803,0 -75.704325118260556,45.421456211100811,0 -75.704387262389474,45.421529453426857,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -19450,7 +19450,7 @@ Library & Archives Canada, MIKAN no. 3600226</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1931]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
@@ -19554,7 +19554,7 @@ Library & Archives Canada, MIKAN no. 3600229</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70441202330609,45.42165134448596,0 -75.70437636666732,45.42160664630761,0 -75.70436222669505,45.4216125182575,0 -75.70430898010859,45.42154821637394,0 -75.70418851752147,45.42159695828404,0 -75.70419267420554,45.42160197801987,0 -75.70411091119006,45.42163572862064,0 -75.70415870286483,45.42169510366622,0 -75.70424238475279,45.42166035795851,0 -75.7042819981004,45.42170654423633,0 -75.70436110135202,45.42167354702158,0 -75.70436702467285,45.4216807001518,0 -75.7043898540886,45.42167213219474,0 -75.70438393483033,45.42166498397553,0 -75.70441202330609,45.42165134448596,0</coordinates>
+            <coordinates>-75.704440262503198,45.421690633803664,0 -75.704412174027439,45.421704273293237,0 -75.70441809328571,45.421711421512448,0 -75.704395263869955,45.421719989469509,0 -75.704389340549127,45.421712836339282,0 -75.704310237297506,45.421745833554034,0 -75.704270623949895,45.421699647276213,0 -75.704186942061938,45.421734392983922,0 -75.704139150387164,45.421675017938348,0 -75.704220913402651,45.421641267337577,0 -75.70421675671858,45.421636247601747,0 -75.7043372193057,45.421587505691647,0 -75.70439046589216,45.421651807575202,0 -75.704404605864426,45.421645935625314,0 -75.704440262503198,45.421690633803664,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -19573,7 +19573,7 @@ Library & Archives Canada, MIKAN no. 3600229</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1931]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
@@ -19637,7 +19637,7 @@ Library & Archives Canada, MIKAN no. 3600224</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70428746228762,45.42139483906713,0 -75.70423134625511,45.42133196312037,0 -75.70386185487512,45.42148444682233,0 -75.70390839760793,45.42154065381838,0 -75.70409965429143,45.42145985729653,0 -75.70410677264856,45.42146845367797,0 -75.70428746228762,45.42139483906713,0</coordinates>
+            <coordinates>-75.70430956252882,45.421435356176012,0 -75.704128872889754,45.421508970786846,0 -75.704121754532622,45.421500374405412,0 -75.703930497849129,45.421581170927261,0 -75.703883955116311,45.421524963931212,0 -75.70425344649631,45.421368796855717,0 -75.70430956252882,45.421435356176012,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -19656,7 +19656,7 @@ Library & Archives Canada, MIKAN no. 3600224</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1938]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
@@ -19758,7 +19758,7 @@ Library & Archives Canada, MIKAN no. 3600287</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.7049932103721,45.4217410746929,0 -75.70497766037694,45.42172065822272,0 -75.70502600289407,45.42170051656421,0 -75.70499429139704,45.42166385524079,0 -75.70494690957862,45.42168352355935,0 -75.7049336536887,45.42167079249647,0 -75.7048490068759,45.42170492010004,0 -75.70490973399222,45.4217749605393,0 -75.7049932103721,45.4217410746929,0</coordinates>
+            <coordinates>-75.705030044107446,45.421772997263538,0 -75.704945953831981,45.421809338692292,0 -75.70488522671566,45.421739298253037,0 -75.704969259632861,45.421703328962693,0 -75.704982515522786,45.421716060025581,0 -75.705029897341205,45.421695777811422,0 -75.705064064420597,45.421732439134843,0 -75.705014494112277,45.421753194688947,0 -75.705030044107446,45.421772997263538,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -19783,7 +19783,7 @@ Library & Archives Canada, MIKAN no. 3600287</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -19860,7 +19860,7 @@ Library & Archives Canada, MIKAN no. 3600248</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70438162002299,45.42115462449039,0 -75.70440510529222,45.4211823111329,0 -75.70439466372839,45.42118667455107,0 -75.70442298422272,45.42122006137665,0 -75.70443157486994,45.42121536847824,0 -75.70445483886485,45.4212409416429,0 -75.70459986024211,45.42118033846769,0 -75.70456416284517,45.4211401077394,0 -75.7045154357333,45.4211604703948,0 -75.70449148101514,45.4211340829203,0 -75.70450471231816,45.42112745072105,0 -75.70449252703385,45.42110938050502,0 -75.70438162002299,45.42115462449039,0</coordinates>
+            <coordinates>-75.704400650786241,45.4211877748522,0 -75.704513092536089,45.421140075284477,0 -75.704525891715974,45.421157531604919,0 -75.704510511778395,45.421164163804164,0 -75.704535080392148,45.421191472122054,0 -75.704587490877543,45.421170188623265,0 -75.704621039639932,45.421210112403763,0 -75.704476696195727,45.42127430245479,0 -75.704454169846514,45.421248391702676,0 -75.704443549724942,45.42125290479067,0 -75.704414922282822,45.421219211017302,0 -75.704423215212103,45.42121392675574,0 -75.704400650786241,45.4211877748522,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -19879,13 +19879,13 @@ Library & Archives Canada, MIKAN no. 3600248</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1938]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -19943,7 +19943,7 @@ Library & Archives Canada, MIKAN no. 3600296</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70460384186318,45.42121430213894,0 -75.70450243353231,45.42125632966283,0 -75.70449981783699,45.42126527444716,0 -75.70451131995431,45.42128075318213,0 -75.7045182617132,45.42127706028802,0 -75.70452637308277,45.42128690757747,0 -75.70451140804767,45.42129298039708,0 -75.70452669547872,45.42131305453447,0 -75.70478725263448,45.42120819564349,0 -75.70475927940572,45.42117575102191,0 -75.70461991839152,45.42123230416687,0 -75.70460384186318,45.42121430213894,0</coordinates>
+            <coordinates>-75.70462870463453,45.42124438302281,0 -75.704642018632711,45.421262998946332,0 -75.704782300490308,45.42120429716681,0 -75.704810887614642,45.421237355683971,0 -75.704550023511104,45.421346818791875,0 -75.704532587445485,45.421327358550066,0 -75.704550008062938,45.4213191370959,0 -75.704542817536748,45.421311131493212,0 -75.704531885456532,45.42131328964836,0 -75.704519769443635,45.421299652600148,0 -75.704521771243364,45.42128794528567,0 -75.70462870463453,45.42124438302281,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -19968,7 +19968,7 @@ Library & Archives Canada, MIKAN no. 3600296</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by the Sheraton Ottawa Hotel.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -20090,7 +20090,7 @@ Library & Archives Canada, MIKAN no. 4166253</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -20167,7 +20167,7 @@ Library & Archives Canada, MIKAN no. 3600262</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70628963322881,45.4204754708435,0 -75.70621891368643,45.42038871665797,0 -75.70596224943847,45.42049558341392,0 -75.70603242910983,45.42058379330962,0 -75.70628963322881,45.4204754708435,0</coordinates>
+            <coordinates>-75.706319100217087,45.420479154217034,0 -75.7060625099937,45.420589932265507,0 -75.705987419157623,45.4205023362654,0 -75.706248380674708,45.420392400031503,0 -75.706319100217087,45.420479154217034,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -20186,13 +20186,13 @@ Library & Archives Canada, MIKAN no. 3600262</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1938]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -20269,7 +20269,7 @@ Library & Archives Canada, MIKAN no. 3600265</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.7066141754504,45.42087640460061,0 -75.70640213904335,45.42096365149123,0 -75.70644908606121,45.42101983705894,0 -75.70649631654594,45.42099940421286,0 -75.70648290716009,45.42098335515749,0 -75.70652474147913,45.42096318947663,0 -75.70655922476763,45.42100780522662,0 -75.70666827532909,45.4209628727274,0 -75.70661425502367,45.42089988177542,0 -75.70663025778427,45.42089231556913,0 -75.7066141754504,45.42087640460061,0</coordinates>
+            <coordinates>-75.706656534246051,45.420873949018265,0 -75.706672002684329,45.420892929464721,0 -75.706655999923726,45.420899881775426,0 -75.706713703602674,45.420961644936227,0 -75.706602811354443,45.421007805226623,0 -75.706567714170362,45.420965031163398,0 -75.706525879851327,45.42098581073985,0 -75.706537447550403,45.421003087586399,0 -75.706492058752445,45.421023520432485,0 -75.70644940900371,45.420969790447124,0 -75.706656534246051,45.420873949018265,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -20288,13 +20288,13 @@ Library & Archives Canada, MIKAN no. 3600265</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1938]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -20352,7 +20352,7 @@ Library & Archives Canada, MIKAN no. 3593777</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70602944490125,45.42016044592891,0 -75.70588805312239,45.42021897536021,0 -75.70605481067537,45.42042084363192,0 -75.70611040990134,45.42039964488261,0 -75.7060379035954,45.42031312717504,0 -75.70612492811009,45.42027665241538,0 -75.70602944490125,45.42016044592891,0</coordinates>
+            <coordinates>-75.706052159038052,45.420161059824494,0 -75.706150097829237,45.420276652415382,0 -75.706064301105727,45.420316810548577,0 -75.706136193516102,45.420402100464962,0 -75.706084277663649,45.420424527005459,0 -75.705911995050371,45.420222044838155,0 -75.706052159038052,45.420161059824494,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -20451,13 +20451,13 @@ Library & Archives Canada, MIKAN no. 3422535</a></small>
           <value><![CDATA[Cartier Street Public School]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1905]]></value>
         </Data>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1898">William Barron Garvock</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
@@ -21032,7 +21032,7 @@ Library & Archives Canada, MIKAN no. 3381881</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -21090,7 +21090,7 @@ Streetscape Memory Bank: The lost neighbourhood of Uppertown, Pt. 3</a></small>
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70606863529525,45.4223482431305,0 -75.70606095455345,45.42235121558703,0 -75.70605471446014,45.42234381139167,0 -75.7060363041597,45.42235093552076,0 -75.70604207447065,45.42235781987465,0 -75.70602517459591,45.4223643600955,0 -75.70601854271025,45.42235640791505,0 -75.70597952308086,45.42237290774212,0 -75.70598609885094,45.42238088740381,0 -75.70595501829025,45.4223936184987,0 -75.70601346005728,45.4224664685303,0 -75.70600947999407,45.42247668826489,0 -75.70601857663871,45.42248912925348,0 -75.70603259271125,45.42249243698096,0 -75.70605294171976,45.42248455199594,0 -75.7060579406584,45.42249064339899,0 -75.70605040109913,45.42250161206565,0 -75.70605976858559,45.4225156019173,0 -75.70607850797261,45.42251570545993,0 -75.70608356436159,45.42252186685904,0 -75.70611586321037,45.42250934550436,0 -75.70615306969083,45.42255679045303,0 -75.70622978212785,45.42252778515596,0 -75.70611534628456,45.42238894366985,0 -75.70610295683666,45.42239374112848,0 -75.70606863529525,45.4223482431305,0</coordinates>
+            <coordinates>-75.706145372243881,45.422348857026094,0 -75.706183991054402,45.422393741128481,0 -75.706196380502305,45.422388943669851,0 -75.706310816345592,45.422527785155957,0 -75.706234103908571,45.422556790453029,0 -75.706196897428114,45.422509345504359,0 -75.706164598579335,45.422521866859043,0 -75.706159542190349,45.422515705459929,0 -75.706140802803333,45.422515601917297,0 -75.706131435316877,45.422501612065652,0 -75.70613897487614,45.422490643398987,0 -75.706133975937504,45.422484551995943,0 -75.706113626928996,45.42249243698096,0 -75.706099610856455,45.422489129253478,0 -75.706090514211809,45.422476688264886,0 -75.706094494275021,45.422466468530303,0 -75.706029913552101,45.422396074081064,0 -75.706062835799557,45.422383342986173,0 -75.706055032238297,45.422375977220064,0 -75.706099576927997,45.422356407915053,0 -75.706106208813651,45.4223643600955,0 -75.706123108688388,45.422357819874648,0 -75.706117338377439,45.422350935520761,0 -75.706132679199939,45.422345039182851,0 -75.706138919293252,45.422352443378202,0 -75.706145372243881,45.422348857026094,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -21109,13 +21109,13 @@ Streetscape Memory Bank: The lost neighbourhood of Uppertown, Pt. 3</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1938]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -21173,7 +21173,7 @@ Streetscape Memory Bank: The lost Ottawa community of Uppertown, Pt. 2</a></smal
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.7075063520216,45.42116945957722,0 -75.70732904811705,45.42114618829076,0 -75.7072935912129,45.42122741199126,0 -75.7073297341064,45.42123282011577,0 -75.70732228305542,45.42124935604087,0 -75.70741070317756,45.42126042437968,0 -75.70741490088902,45.42124360428493,0 -75.70748103102483,45.42125274561117,0 -75.7075063520216,45.42116945957722,0</coordinates>
+            <coordinates>-75.707529087921401,45.421069151438694,0 -75.70750701491032,45.421152437617437,0 -75.707440072778098,45.421139876680613,0 -75.707435063070221,45.421159546465873,0 -75.707345830951638,45.421146198382495,0 -75.70732567412432,45.421188365441523,0 -75.707290343227186,45.42118238738415,0 -75.707353408009709,45.421041890576092,0 -75.707529087921401,45.421069151438694,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -21192,13 +21192,13 @@ Streetscape Memory Bank: The lost Ottawa community of Uppertown, Pt. 2</a></smal
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1938]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -21256,7 +21256,7 @@ Streetscape Memory Bank: The lost Ottawa community of Uppertown, Pt. 2</a></smal
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70688415254639,45.42156488633932,0 -75.70681084781059,45.42147531256986,0 -75.70679805720444,45.42148032941518,0 -75.70676579331658,45.42144184969387,0 -75.70665107193523,45.4214869533426,0 -75.70675438461541,45.42161443569866,0 -75.70688415254639,45.42156488633932,0</coordinates>
+            <coordinates>-75.706946769896476,45.421563658548145,0 -75.70681700196549,45.421613207907484,0 -75.706708778120586,45.421488795029376,0 -75.70682841066666,45.421440621902697,0 -75.70686067455452,45.421479101624008,0 -75.706873465160669,45.421474084778687,0 -75.706946769896476,45.421563658548145,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -21275,13 +21275,13 @@ Streetscape Memory Bank: The lost Ottawa community of Uppertown, Pt. 2</a></smal
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1938]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -21339,7 +21339,7 @@ Streetscape Memory Bank: The lost Ottawa community of Uppertown, Pt. 2</a></smal
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70655225000309,45.42143899825963,0 -75.70631679795031,45.42153216836127,0 -75.70642051626152,45.42165985009036,0 -75.70646697629326,45.42164048117132,0 -75.70643238305992,45.42159680231725,0 -75.70646212674077,45.42158469203264,0 -75.70649778893831,45.42163012431823,0 -75.70653539178831,45.42161579433358,0 -75.70649958278874,45.42157058656074,0 -75.70653147906612,45.42155881541183,0 -75.70656812758047,45.42160756940614,0 -75.70662159518881,45.42158473917694,0 -75.70658349930487,45.421536260003,0 -75.70662184329463,45.42151988919394,0 -75.70655225000309,45.42143899825963,0</coordinates>
+            <coordinates>-75.706608728397271,45.421440226050819,0 -75.706680163375594,45.421522958671893,0 -75.70664304717701,45.42153932948095,0 -75.706682370852121,45.421587194759304,0 -75.706629517139362,45.421608183301728,0 -75.706590413042662,45.421560657098603,0 -75.706560358452052,45.421574269934283,0 -75.706598009138389,45.421617636020351,0 -75.706561020183969,45.421635035482943,0 -75.706519832926148,45.421588375406174,0 -75.706492544827654,45.421600485690782,0 -75.706527138060991,45.421642936753685,0 -75.706482519716005,45.421662919568305,0 -75.706375118031261,45.421538307317157,0 -75.706608728397271,45.421440226050819,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -21358,13 +21358,13 @@ Streetscape Memory Bank: The lost Ottawa community of Uppertown, Pt. 2</a></smal
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1938]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -21422,7 +21422,7 @@ Streetscape Memory Bank: The lost Ottawa community of Uppertown, Pt. 2</a></smal
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70631449641236,45.42158182161687,0 -75.70617907084393,45.42163483391262,0 -75.70624027353965,45.42170958985759,0 -75.70622427219436,45.42171698114084,0 -75.70630327402358,45.42181881570017,0 -75.7063841397552,45.42178751223582,0 -75.70631073581244,45.42169588559224,0 -75.70638361046458,45.42166710280116,0 -75.70631449641236,45.42158182161687,0</coordinates>
+            <coordinates>-75.706372816493328,45.421587960572765,0 -75.706443158336725,45.421672627861469,0 -75.706372739266925,45.421703252339313,0 -75.706448598792051,45.421791809504946,0 -75.706368346956026,45.421823726864886,0 -75.706286889544444,45.421723120096736,0 -75.706301663098557,45.421717570500256,0 -75.706238004820477,45.421644042346458,0 -75.706372816493328,45.421587960572765,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -21441,7 +21441,7 @@ Streetscape Memory Bank: The lost Ottawa community of Uppertown, Pt. 2</a></smal
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1938]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
@@ -21524,7 +21524,7 @@ Streetscape Memory Bank: The lost Ottawa community of Uppertown, Pt. 2</a></smal
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70605291123081,45.42169230793063,0 -75.70603090701276,45.42170096770236,0 -75.70602201803554,45.42169694178957,0 -75.70600817816356,45.42170238810581,0 -75.70600678949958,45.42170970585155,0 -75.70599551911022,45.42171564813849,0 -75.70604721636538,45.42177546825096,0 -75.7060596038243,45.42177058961663,0 -75.70614999667147,45.42188229614369,0 -75.70619426109312,45.42186402926703,0 -75.70605291123081,45.42169230793063,0</coordinates>
+            <coordinates>-75.70611123131178,45.421703051103442,0 -75.706260254868937,45.421871396014097,0 -75.706215990447291,45.421889355942973,0 -75.706122221174383,45.421780411946052,0 -75.706108605924285,45.421785904475975,0 -75.706056908669126,45.42172700520689,0 -75.706064495684956,45.421722597658921,0 -75.706064042662149,45.421716200756563,0 -75.706081872855464,45.421706764118994,0 -75.70608892014593,45.421712017822962,0 -75.70611123131178,45.421703051103442,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -21543,7 +21543,7 @@ Streetscape Memory Bank: The lost Ottawa community of Uppertown, Pt. 2</a></smal
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1931]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
@@ -21607,7 +21607,7 @@ Streetscape Memory Bank: The lost Ottawa community of Uppertown, Pt. 2</a></smal
         <tessellate>1</tessellate>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-75.70596861029377,45.42172623816789,0 -75.70594332764907,45.42173618820474,0 -75.70592987352389,45.42173169970614,0 -75.70591765701958,45.42173650710913,0 -75.70591640887349,45.42174678213499,0 -75.7059082506599,45.42174999281203,0 -75.7059586872892,45.42180878684988,0 -75.70597569185125,45.42180286346428,0 -75.70604188705082,45.42188302155335,0 -75.70608556739101,45.42186580235155,0 -75.70596861029377,45.42172623816789,0</coordinates>
+            <coordinates>-75.706029385957081,45.421737595236294,0 -75.70614879863669,45.421873169098617,0 -75.706104504400898,45.421892229987186,0 -75.706036467514565,45.421814527480471,0 -75.706019462952511,45.421821678657253,0 -75.705970254114391,45.421763498514991,0 -75.705975649797836,45.421760594785745,0 -75.705975670152753,45.421751547551068,0 -75.705988807500432,45.421745819304697,0 -75.706000112991063,45.42174938695991,0 -75.706029385957081,45.421737595236294,0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
@@ -21623,19 +21623,19 @@ Streetscape Memory Bank: The lost Ottawa community of Uppertown, Pt. 2</a></smal
           <value><![CDATA[Sacred Heart Church]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1910]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[24 November 1978]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Destroyed by fire. Location now occupied by a new Sacred Heart Church built in the early 80s.]]></value>
         </Data>
         <Data name="history">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[The church, built in 1910, replaced a previous church structure which was consumed by fire on June 10, 1907. The first Mass in the church was on Christmas Eve in 1910 and it was inaugurated on October 29, 1911 which included Sir Wilfrid Laurier in attendance. The church burned in 1978 due to an electrical malfunction. The vital records of the church were saved due to being stored in the basement. A new church was built on the site between 1980-1981.]]></value>
         </Data>
         <Data name="addrss">
           <value><![CDATA[n/a]]></value>
@@ -21644,7 +21644,7 @@ Streetscape Memory Bank: The lost Ottawa community of Uppertown, Pt. 2</a></smal
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="sources">
-          <value/>
+          <value><![CDATA[Heritage Ottawa Newsletter, Vol. 8, No. 5, June 1980: <a href="https://heritageottawa.org/sites/default/files/newsletter-pdfs/HerOttNews_1980_06.pdf">https://heritageottawa.org/sites/default/files/newsletter-pdfs/HerOttNews_1980_06.pdf</a><br>Heritage Ottawa Newsletter, Vol. 8, No. 6, July 1980: <a href="https://heritageottawa.org/sites/default/files/newsletter-pdfs/HerOttNews_1980_07.pdf">https://heritageottawa.org/sites/default/files/newsletter-pdfs/HerOttNews_1980_07.pdf</a><br>Heritage Ottawa Newsletter, Vol. 8, No. 7, August 1980: <a href="https://heritageottawa.org/sites/default/files/newsletter-pdfs/HerOttNews_1980_08.pdf">https://heritageottawa.org/sites/default/files/newsletter-pdfs/HerOttNews_1980_08.pdf</a>]]></value>
         </Data>
         <Data name="photos">
           <value><![CDATA[
@@ -22111,14 +22111,14 @@ Library & Archives Canada, MIKAN no. 3299950</a></small>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name><![CDATA[St, Andrew's Sunday School]]></name>
+      <name><![CDATA[St. Andrew's Sunday School]]></name>
       <styleUrl>#relig_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[253]]></value>
         </Data>
         <Data name="name">
-          <value><![CDATA[St, Andrew's Sunday School]]></value>
+          <value><![CDATA[St. Andrew's Sunday School]]></value>
         </Data>
         <Data name="dateBuilt">
           <value><![CDATA[n/a]]></value>
@@ -22754,7 +22754,7 @@ Bytown Museum, ID #: 2014.004.01.93</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1266">Frederick John Alexander</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
@@ -23284,13 +23284,13 @@ City of Ottawa Archives, Ref. Code: MG393-NP-32020B-001</a></small>
           <value><![CDATA[Ottawa Ladies College]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1872]]></value>
         </Data>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/753">John Grist Jr.</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
@@ -24884,7 +24884,7 @@ Past Ottawa (Library & Archives Canada)</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[before 1949]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
@@ -25120,14 +25120,14 @@ Past Ottawa (City of Ottawa)</a></small>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name><![CDATA[Second ByWard Market Building]]></name>
+      <name><![CDATA[Second Byward Market Building]]></name>
       <styleUrl>#comm_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[287]]></value>
         </Data>
         <Data name="name">
-          <value><![CDATA[Second ByWard Market Building]]></value>
+          <value><![CDATA[Second Byward Market Building]]></value>
         </Data>
         <Data name="dateBuilt">
           <value><![CDATA[n/a]]></value>
@@ -26456,7 +26456,7 @@ Library & Archives Canada, MIKAN no. 3318552</a></small>
 				</div>
 				<div>
 					<b>Source</b>: <a href="http://urbsite.blogspot.ca/2015/07/dalhowzie-or-dalhoozie-its-time-for.html">
-Urbsite: Dalhowzie or Dalhoozie, It's Time For A Tour of Dalhousie</a></small>
+Urbsite Blog: Dalhowzie or Dalhoozie, It's Time For A Tour of Dalhousie</a></small>
 				</div>
 			</div>
 		</div>
@@ -26933,7 +26933,7 @@ OttawaHH (LAC PA-042327, MIKAN: 3318420)</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now vacant pending Lebreton Flats redevelopment.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -27456,13 +27456,13 @@ OttawaHH (LAC PA-042564, MIKAN: 3326045)</a></small>
           <value><![CDATA[Conservatory of Music]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1903]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1960]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1529">Edgar Lewis Horwood</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
@@ -27542,13 +27542,13 @@ OttawaHH (LAC PA-042551, MIKAN: 3319126)</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1962-1965]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now vacant pending Lebreton Flats redevelopment.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -27727,13 +27727,13 @@ City of Ottawa Archives, Ref Code MG397-E00333</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1962-1965]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now vacant pending Lebreton Flats redevelopment.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -27810,13 +27810,13 @@ City of Ottawa Archives, CA004022</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1962-1965]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by new Claridge buildings in Lebreton Flats.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -27880,26 +27880,26 @@ City of Ottawa Archives, Ref Code MG431-003 CA020888</a></small>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name><![CDATA[Western Method Church Manse]]></name>
+      <name><![CDATA[Western Methodist Church Manse]]></name>
       <styleUrl>#relig_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[319]]></value>
         </Data>
         <Data name="name">
-          <value><![CDATA[Western Method Church Manse]]></value>
+          <value><![CDATA[Western Methodist Church Manse]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1873]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1962-1965]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now vacant pending Lebreton Flats redevelopment.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -27973,16 +27973,16 @@ Past Ottawa (City of Ottawa)</a></small>
           <value><![CDATA[Victoria Foundry]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1900]]></value>
         </Data>
         <Data name="dateDemolished">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[1966]]></value>
         </Data>
         <Data name="architect">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by the grounds for the National War Museum.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -28105,7 +28105,7 @@ City of Ottawa Archives, CA020843</a></small>
 				</div>
 				<div>
 					<b>Source</b>: <a href="http://urbsite.blogspot.ca/2010/03/parking-lots-decades-under-development.html">
-Urbsite: The Parking Lots: Decades under Development</a></small>
+Urbsite Blog: The Parking Lots: Decades under Development</a></small>
 				</div>
 			</div>
 		</div>
@@ -28188,7 +28188,7 @@ Urbsite: The Parking Lots: Decades under Development</a></small>
 				</div>
 				<div>
 					<b>Source</b>: <a href="http://urbsite.blogspot.ca/2010/03/parking-lots-decades-under-development.html">
-Urbsite: The Parking Lots: Decades under Development</a></small>
+Urbsite Blog: The Parking Lots: Decades under Development</a></small>
 				</div>
 			</div>
 		</div>
@@ -28231,7 +28231,7 @@ Urbsite: The Parking Lots: Decades under Development</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by the Good Companions.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -28314,7 +28314,7 @@ City of Ottawa Archives, CA004834</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by the Good Companions.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -28397,7 +28397,7 @@ City of Ottawa Archives, CA004834</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by the Good Companions.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -28480,7 +28480,7 @@ City of Ottawa Archives, CA004834</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by the Good Companions.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -28563,7 +28563,7 @@ City of Ottawa Archives, CA004834</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now occupied by the Good Companions.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
@@ -29984,13 +29984,13 @@ OttawaHH (LAC, MIKAN no. 3428380)</a></small>
           <value><![CDATA[General Supply Co.]]></value>
         </Data>
         <Data name="dateBuilt">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[c1909]]></value>
         </Data>
         <Data name="dateDemolished">
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="architect">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[<a target="_blank" class="popup-a" href="http://dictionaryofarchitectsincanada.org/node/1453">Werner Edgar Noffke</a>]]></value>
         </Data>
         <Data name="status">
           <value><![CDATA[n/a]]></value>
@@ -30076,7 +30076,7 @@ OttawaHH (LAC, MIKAN no. 3428505)</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="status">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Location now part of the grounds of the Supreme Court of Canada.]]></value>
         </Data>
         <Data name="history">
           <value><![CDATA[n/a]]></value>
