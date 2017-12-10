@@ -75,10 +75,10 @@ function checkInput(in_text) {
 function create_photo_html(photos) {
 	
 	// Bootstrap Carousel:
-	var photo_html = `
-<div class="container carousel-container">
-	<br>
-	<div id="photoCarousel" class="carousel slide" data-ride="carousel" data-interval="false">`
+	var photo_html = ['<div class="container carousel-container">',
+						'<br>',
+						'<div id="photoCarousel" class="carousel slide" data-ride="carousel" data-interval="false">',
+					 ].join('\n');
 		//<!-- Indicators -->
 		//<ol class="carousel-indicators">`
 	
@@ -94,9 +94,10 @@ function create_photo_html(photos) {
 	}*/
 	//photo_html += `
 		//</ol>
-	photo_html += `
-		<!-- Wrapper for slides -->
-		<div class="carousel-inner" role="listbox">`
+	
+	photo_html += ['', '<!-- Wrapper for slides -->', 
+					'<div class="carousel-inner" role="listbox">', 
+				  ].join('\n');
 	
 	// Create the warppers for each image in the carousel
 	for (var i = 0; i < photos.length; i++) {
@@ -111,65 +112,59 @@ function create_photo_html(photos) {
 			active_str = '';
 		}
 		if (img_src.length > 1) {
-			photo_html += `
-				<div class="item${active_str} carousel-item">
-					<div id="cf2">
-						<img class="bottom carousel-img" src="${img_src[1]}" alt="" onclick="imgClick()">
-						<img class="top carousel-img" src="${img_src[0]}" alt="" onclick="imgClick()">
-					</div>
-					<div class="carousel-caption">
-						<p class="carousel-text-sm">***Click on image to toggle between then & now***</p>
-						<p class="carousel-caption-txt">${caption}</p>
-						<p class="carousel-text-sm">Date Taken: ${date_taken}</p>
-						<p class="carousel-text-sm">Source: <a href="${link}">${source}</a></p>
-					</div>
-				</div>`
+			photo_html += ['', '<div class="item' + active_str + ' carousel-item">', 
+								'<div id="cf2">', 
+									'<img class="bottom carousel-img" src="' + img_src[1] + '" alt="" onclick="imgClick()">', 
+									'<img class="top carousel-img" src="' + img_src[0] + '" alt="" onclick="imgClick()">', 
+								'</div>', 
+								'<div class="carousel-caption">', 
+									'<p class="carousel-text-sm">***Click on image to toggle between then & now***</p>', 
+									'<p class="carousel-caption-txt">' + caption + '</p>', 
+									'<p class="carousel-text-sm">Date Taken:' + date_taken + '</p>', 
+									'<p class="carousel-text-sm">Source: <a href="' + link + '">' + source + '</a></p>', 
+								'</div>', 
+							'</div>'
+						  ].join('\n');
 		} else {
-			photo_html += `
-				<div class="item${active_str} carousel-item">
-					<img class="carousel-img" src="${img_src[0]}" alt="">
-					<div class="carousel-caption">
-						<p class="carousel-caption-txt">${caption}</p>
-						<p class="carousel-text-sm">Date Taken: ${date_taken}</p>
-						<p class="carousel-text-sm">Source: <a href="${link}">${source}</a></p>
-					</div>
-				</div>`
+			photo_html += ['', '<div class="item' + active_str + ' carousel-item">', 
+								'<img class="carousel-img" src="' + img_src[0] + '" alt="">', 
+								'<div class="carousel-caption">', 
+									'<p class="carousel-caption-txt">' + caption + '</p>', 
+									'<p class="carousel-text-sm">Date Taken: ' + date_taken + '</p>', 
+								'<p class="carousel-text-sm">Source: <a href="' + link + '">' + source + '</a></p>', 
+								'</div>', 
+							'</div>'
+						  ].join('\n');
 		}
 	}
 	
-	photo_html += `
-		</div>
-		
-		<!-- Left and right controls -->`
+	photo_html += ['', '</div>', 
+					'<!-- Left and right controls -->'
+				  ].join('\n')
 	
 	// Create the left and right arrows for the carousel if more than one image
 	if (photos.length > 1) {
-		photo_html += `
-		<a class="left carousel-control" href="#photoCarousel" role="button" data-slide="prev">
-			<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-			<span class="sr-only">Previous</span>
-		</a>
-		<a class="right carousel-control" href="#photoCarousel" role="button" data-slide="next">
-			<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-			<span class="sr-only">Next</span>
-		</a>`
+		photo_html += ['', '<a class="left carousel-control" href="#photoCarousel" role="button" data-slide="prev">', 
+			'<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>', 
+			'<span class="sr-only">Previous</span>', 
+		'</a>', 
+		'<a class="right carousel-control" href="#photoCarousel" role="button" data-slide="next">', 
+			'<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>', 
+			'<span class="sr-only">Next</span>', 
+		'</a>'
+					  ].join('\n');
 	}
 	
 	// Create thumbnails for carousel
 	
-	photo_html += `
-		<ul class="thumbnails-carousel clearfix">`
+	photo_html += ['', '<ul class="thumbnails-carousel clearfix">'].join('\n');
 	
 	for (var i = 0; i < photos.length; i++) {
 		img_src = photos[i]['img_src'][0];
-		photo_html += `
-			<li><img class="tn" src="${img_src}" alt=""></li>`
+		photo_html += ['', '<li><img class="tn" src="' + img_src + '" alt=""></li>'].join('\n');
 	}
 	
-	photo_html += `
-		</ul>
-	</div>
-</div>`
+	photo_html += ['', '</ul>', '</div>', '</div>'].join('\n');
 
 	return photo_html;
 }
