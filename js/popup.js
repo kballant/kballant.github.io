@@ -215,6 +215,13 @@ function showPopup(props, featId) {
 	photo_html = props['photos'];
 	parser = new DOMParser();
 	htmlDoc = parser.parseFromString(photo_html, "text/html");
+	
+	// Correct htmlDoc if null
+	if (htmlDoc == null) {
+		htmlDoc = document.createElement('div');
+		htmlDoc.innerHTML = photo_html;
+	}
+	
 	//td_elements = htmlDoc.getElementsByTagName('td');
 	table_elements = htmlDoc.getElementsByClassName('container');
 	//a_elements = htmlDoc.getElementsByTagName('a');
