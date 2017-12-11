@@ -173,7 +173,7 @@ function imgClick() {
 	$("#cf2 img.top").toggleClass("transparent");
 }
 
-function showPopup(props, featId=-1) {
+function showPopup(props, featId) {
 	//info.tooltip('hide');
 
 	$(".modal-title").html(props['name']).text();
@@ -311,7 +311,7 @@ function showPopup(props, featId=-1) {
 	//alert(new_ph_html);
 	
 	popup_html = popup_html.replace('${photos}', new_ph_html);
-	if (featId > -1) {
+	if (featId > -1 && featId != null) {
 		popup_html += "\n<!--Feature_ID=" + featId.toString() + "-->"
 	}
 	
