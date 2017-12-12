@@ -173,7 +173,7 @@ function imgClick() {
 	$("#cf2 img.top").toggleClass("transparent");
 }
 
-function showPopup(props, featId=-1) {
+function showPopup(props, featId) {
 	//info.tooltip('hide');
 
 	$(".modal-title").html(props['name']).text();
@@ -215,6 +215,13 @@ function showPopup(props, featId=-1) {
 	photo_html = props['photos'];
 	parser = new DOMParser();
 	htmlDoc = parser.parseFromString(photo_html, "text/html");
+	
+	// Correct htmlDoc if null
+	if (htmlDoc == null) {
+		htmlDoc = document.createElement('div');
+		htmlDoc.innerHTML = photo_html;
+	}
+	
 	//td_elements = htmlDoc.getElementsByTagName('td');
 	table_elements = htmlDoc.getElementsByClassName('container');
 	//a_elements = htmlDoc.getElementsByTagName('a');
@@ -311,7 +318,7 @@ function showPopup(props, featId=-1) {
 	//alert(new_ph_html);
 	
 	popup_html = popup_html.replace('${photos}', new_ph_html);
-	if (featId > -1) {
+	if (featId > -1 && featId != null) {
 		popup_html += "\n<!--Feature_ID=" + featId.toString() + "-->"
 	}
 	

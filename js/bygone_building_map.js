@@ -441,6 +441,13 @@ $(document).on("mfpOpen", function(event) {
 	
 	parser = new DOMParser();
 	htmlDoc = parser.parseFromString(popup_html, "text/html");
+	
+	// Correct htmlDoc if null
+	if (htmlDoc == null) {
+		htmlDoc = document.createElement('div');
+		htmlDoc.innerHTML = popup_html;
+	}
+	
 	img_elements = htmlDoc.getElementsByTagName('img');
 	
 	function calculateWidth(img, height) {
