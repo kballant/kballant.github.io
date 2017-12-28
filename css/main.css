@@ -187,6 +187,12 @@ h2.map-title-text {
 	margin-top: 0px;
 	margin-bottom: 0px;
 }
+th {
+	color:#FFFFFF !important;
+}
+td {
+	color:#FFFFFF !important;
+}
 .right-align {
 	text-align: right !important;
 }
