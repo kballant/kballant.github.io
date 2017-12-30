@@ -538,8 +538,8 @@ reset_styles(styles);
 
 var buildHighlight;
 var roadHighlight;
+
 var highlightFeature = function(pixel) {
-	
 	var feature = map.forEachFeatureAtPixel(pixel, function(feature, layer) {
 		return feature;
 	});
@@ -654,47 +654,14 @@ var highlightFeature = function(pixel) {
 	}
 };
 
-var popup_html = getPopupContent();
-
-// display popup on click
-map.on('click', function(evt) {
+var displayPopup = function(evt, pixel) {
 	POPUP_LOCK = true;
-	var feature = map.forEachFeatureAtPixel(evt.pixel, function(feature, layer) {
-		return feature;
-	}, null, function(layer) {
-		return layer === kmlLayer;
-	});
-		/* // do stuff here with feature
-			var element_pop = popup.getElement();
-			if (feature) {
-				if (layer.get('name') != 'roads') {
-					var properties = feature.getProperties();
-					var tmpstyle = styles[properties['styleUrl'].split("#")[1]];
-					if(typeof tmpstyle !== 'undefined'){
-						feature.setStyle(tmpstyle[1]);
-					} else {
-						feature.setStyle(styles['undefined'][0]);
-					};
-					popup.setPosition(evt.coordinate);
-					// Set the view to the building location:
-					var view_tmp = map.getView();
-					var featId = feature.getId();
-					getPopup(feature, layer);
-					return feature, layer;
-				}
-			} else {
-				$(element_pop).popover('destroy');
-			} */
+	var features = [];
+	map.forEachFeatureAtPixel(pixel, function(feature, layer) {features.push(feature);}, null);
 	
-	if(typeof feature === 'undefined'){
+	if (features.length > 0) {
 		var element_pop = popup.getElement();
-		$(element_pop).popover('destroy');
-		popup_html = '';
-		popup_html = getPopupContent();
-		var featId = $(element_pop).data('fid'); 
-		removeHighlight(featId);
-	} else {
-		var element_pop = popup.getElement();
+		feature = features[0];
 		if (feature) {
 			//if (layer.get('name') != 'roads') {
 			var properties = feature.getProperties();
@@ -713,9 +680,25 @@ map.on('click', function(evt) {
 		} else {
 			$(element_pop).popover('destroy');
 		}
+	} else {
+		var element_pop = popup.getElement();
+		$(element_pop).popover('destroy');
+		popup_html = '';
+		popup_html = getPopupContent();
+		var featId = $(element_pop).data('fid'); 
+		removeHighlight(featId);
 	};
 	POPUP_LOCK = false;
 	$('#info').tooltip('hide');
+}
+
+var popup_html = getPopupContent();
+
+// display popup on click
+map.on('click', function(evt) {
+	//var pixel = evt;
+	var pixel = map.getEventPixel(evt.originalEvent);
+	displayPopup(evt, pixel);
 });
 
 // Set Bing Maps layer visible on load:
