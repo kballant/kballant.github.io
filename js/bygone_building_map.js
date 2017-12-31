@@ -4,10 +4,11 @@ var POPUP_LOCK = false;
 
 // Declare of styles:
 
-function create_stylemap(rgb_color) {
+function create_stylemap(rgb_colour) {
+	var rgba_colour = rgb_colour.replace('rgb', 'rgba')
 	var style_normal = new ol.style.Style({
 		fill: new ol.style.Fill({
-			color: 'rgba(' + rgb_color + ',0.5)'
+			color: rgba_colour.replace(')', ', 0.5)')
 		}),
 		stroke: new ol.style.Stroke({
 			color: 'black',
@@ -16,7 +17,7 @@ function create_stylemap(rgb_color) {
     });
 	var style_hl = new ol.style.Style({
 		  fill: new ol.style.Fill({
-			color: 'rgba(' + rgb_color + ',1)'
+			color: rgba_colour.replace(')', ', 1)')
 		  }),
 		  stroke: new ol.style.Stroke({
 			color: 'black',
@@ -29,32 +30,54 @@ function create_stylemap(rgb_color) {
 }
 
 // Residential:
-var residential_map = create_stylemap('255,255,0')
+var res_colour = $('.res').css("backgroundColor");
+var residential_map = create_stylemap(res_colour);
+// Mix:
+var mix_colour = $('.mix').css("backgroundColor");
+var mix_map = create_stylemap(mix_colour);
 // Hotel:
-var hotel_map = create_stylemap('255,128,0')
+var hotel_colour = $('.hotel').css("backgroundColor");
+var hotel_map = create_stylemap(hotel_colour);
 // Commercial:
-var comm_map = create_stylemap('255,0,0')
+var comm_colour = $('.comm').css("backgroundColor");
+var comm_map = create_stylemap(comm_colour);
+// Bank:
+var bank_colour = $('.bank').css("backgroundColor");
+var bank_map = create_stylemap(bank_colour);
 // Industrial:
-var industrial_map = create_stylemap('160,32,240')
+var indust_colour = $('.indust').css("backgroundColor");
+var industrial_map = create_stylemap(indust_colour);
 // Institute:
-var institute_map = create_stylemap('0,0,255')
+var inst_colour = $('.inst').css("backgroundColor");
+var institute_map = create_stylemap(inst_colour);
+// Education:
+var edu_colour = $('.edu').css("backgroundColor");
+var edu_map = create_stylemap(edu_colour);
 // Health:
-var health_map = create_stylemap('51,204,255')
+var health_colour = $('.health').css("backgroundColor");
+var health_map = create_stylemap(health_colour);
 // Religious:
-var relig_map = create_stylemap('47,204,79')
+var relig_colour = $('.rel').css("backgroundColor");
+var relig_map = create_stylemap(relig_colour);
 // Recreational:
-var rec_map = create_stylemap('0,255,0')
+var rec_colour = $('.rec').css("backgroundColor");
+var rec_map = create_stylemap(rec_colour);
 // Transportation:
-var trans_map = create_stylemap('128,128,128')
+var trans_colour = $('.trans').css("backgroundColor");
+var trans_map = create_stylemap(trans_colour);
 // Undefined:
-var undef_map = create_stylemap('255,255,255')
+var undef_colour = $('.unknown').css("backgroundColor");
+var undef_map = create_stylemap(undef_colour);
 			
 // Create all building layers
 var resLayer = create_vector_layer('residential')
 var hotelLayer = create_vector_layer('hotel')
+var mixLayer = create_vector_layer('mix')
+var bankLayer = create_vector_layer('bank')
 var commLayer = create_vector_layer('comm')
 var indLayer = create_vector_layer('industrial')
 var instLayer = create_vector_layer('institute')
+var eduLayer = create_vector_layer('edu')
 var healthLayer = create_vector_layer('health')
 var relLayer = create_vector_layer('relig')
 var recLayer = create_vector_layer('rec')
@@ -63,9 +86,12 @@ var unknownLayer = create_vector_layer('undefined')
 
 var lyr_dict = {'residential': resLayer, 
 				'hotel': hotelLayer,
+				'mix': mixLayer,
+				'bank': bankLayer,
 				'comm': commLayer,
 				'industrial': indLayer,
 				'institute': instLayer,
+				'edu': eduLayer,
 				'health': healthLayer,
 				'relig': relLayer,
 				'rec': recLayer,
@@ -73,10 +99,13 @@ var lyr_dict = {'residential': resLayer,
 				'undefined': unknownLayer}
 
 var styles = {"residential_map": residential_map, 
+				"mix_map": mix_map, 
 				"hotel_map": hotel_map, 
 				"comm_map": comm_map, 
+				"bank_map": bank_map, 
 				"industrial_map": industrial_map, 
 				"institute_map": institute_map, 
+				"edu_map": edu_map, 
 				"health_map": health_map, 
 				"relig_map": relig_map, 
 				"rec_map": rec_map, 

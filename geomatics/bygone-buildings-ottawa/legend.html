@@ -57,6 +57,16 @@
 				<label for="residential">Residential<span class="legend-item res"></span></label>
 			</li>
 			<li class="legend-txt li-leg">
+				<input id="mix" name="building_layer" onclick="refreshBuildLayers(this)" 
+					class="mixLayer legend-radio" type="checkbox"/>
+				<label for="mix">Mixed Use<span class="legend-item mix"></span></label>
+			</li>
+			<li class="legend-txt li-leg">
+				<input id="bank" name="building_layer" onclick="refreshBuildLayers(this)" 
+					class="banklayer legend-radio" type="checkbox"/>
+				<label for="bank">Bank<span class="legend-item bank"></span></label>
+			</li>
+			<li class="legend-txt li-leg">
 				<input id="hotel" name="building_layer" onclick="refreshBuildLayers(this)" 
 					class="hotellayer legend-radio" type="checkbox"/>
 				<label for="hotel">Hotel<span class="legend-item hotel"></span></label>
@@ -64,22 +74,7 @@
 			<li class="legend-txt li-leg">
 				<input id="comm" name="building_layer" onclick="refreshBuildLayers(this)" 
 					class="commlayer legend-radio" type="checkbox"/>
-				<label for="comm">Commerical<span class="legend-item comm"></span></label>
-			</li>
-			<li class="legend-txt li-leg">
-				<input id="industrial" name="building_layer" onclick="refreshBuildLayers(this)" 
-					class="indlayer legend-radio" type="checkbox"/>
-				<label for="industrial">Industrial<span class="legend-item indust"></span></label>
-			</li>
-			<li class="legend-txt li-leg">
-				<input id="institute" name="building_layer" onclick="refreshBuildLayers(this)" 
-					class="instlayer legend-radio" type="checkbox"/>
-				<label for="institute">Institution<span class="legend-item inst"></span></label>
-			</li>
-			<li class="legend-txt li-leg">
-				<input id="health" name="building_layer" onclick="refreshBuildLayers(this)" 
-					class="healthlayer legend-radio" type="checkbox"/>
-				<label for="health">Health<span class="legend-item health"></span></label>
+				<label for="comm">Other Commerical<span class="legend-item comm"></span></label>
 			</li>
 			<li class="legend-txt li-leg">
 				<input id="relig" name="building_layer" onclick="refreshBuildLayers(this)" 
@@ -87,9 +82,29 @@
 				<label for="relig">Religious<span class="legend-item rel"></span></label>
 			</li>
 			<li class="legend-txt li-leg">
+				<input id="institute" name="building_layer" onclick="refreshBuildLayers(this)" 
+					class="instlayer legend-radio" type="checkbox"/>
+				<label for="institute">Government/Institution<span class="legend-item inst"></span></label>
+			</li>
+			<li class="legend-txt li-leg">
+				<input id="edu" name="building_layer" onclick="refreshBuildLayers(this)" 
+					class="edulayer legend-radio" type="checkbox"/>
+				<label for="edu">School/Education<span class="legend-item edu"></span></label>
+			</li>
+			<li class="legend-txt li-leg">
+				<input id="health" name="building_layer" onclick="refreshBuildLayers(this)" 
+					class="healthlayer legend-radio" type="checkbox"/>
+				<label for="health">Hospital/Health<span class="legend-item health"></span></label>
+			</li>
+			<li class="legend-txt li-leg">
 				<input id="rec" name="building_layer" onclick="refreshBuildLayers(this)" 
 					class="reclayer legend-radio" type="checkbox"/>
 				<label for="rec">Recreational<span class="legend-item rec"></span></label>
+			</li>
+			<li class="legend-txt li-leg">
+				<input id="industrial" name="building_layer" onclick="refreshBuildLayers(this)" 
+					class="indlayer legend-radio" type="checkbox"/>
+				<label for="industrial">Industrial/Manufacturing<span class="legend-item indust"></span></label>
 			</li>
 			<li class="legend-txt li-leg">
 				<input id="trans" name="building_layer" onclick="refreshBuildLayers(this)" 

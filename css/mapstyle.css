@@ -227,26 +227,35 @@ div.round-border {
 .res {
 	background: rgb(255,255,0);
 }
-.hotel {
-	background: rgb(255,128,0);
+.mix {
+	background: rgb(255,158,0);
 }
 .comm {
 	background: rgb(255,0,0);
 }
+.hotel {
+	background: rgb(255,163,163);
+}
+.bank {
+	background: rgb(138,0,0);
+}
 .indust {
-	background: rgb(160,32,240);
+	background: rgb(196,32,240);
 }
 .inst {
 	background: rgb(0,0,255);
 }
+.edu {
+	background: rgb(95,170,255);
+}
 .health {
-	background: rgb(51,204,255);
+	background: rgb(0,255,255);
 }
 .rel {
-	background: rgb(47,204,79);
+	background: rgb(0,255,128);
 }
 .rec {
-	background: rgb(0,255,0);
+	background: rgb(35,136,0);
 }
 .trans {
 	background: rgb(128,128,128);
