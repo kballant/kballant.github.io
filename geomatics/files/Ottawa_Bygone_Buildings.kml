@@ -15,41 +15,53 @@
        <td>Residential Dwellings</td>
        <td bgcolor="FFFF00"></td>
      </tr>
-     <tr align="left" valign="top">
-       <td>Hotels</td>
-       <td bgcolor="FF9900"></td>
+	 <tr align="left" valign="top">
+       <td>Mixed Use</td>
+       <td bgcolor="FF9E00"></td>
      </tr>
      <tr align="left" valign="top">
-       <td>Commercial</td>
+       <td>Hotels</td>
+       <td bgcolor="FFA3A3"></td>
+     </tr>
+	 <tr align="left" valign="top">
+       <td>Banks</td>
+       <td bgcolor="AC0000"></td>
+     </tr>
+     <tr align="left" valign="top">
+       <td>Other Commercial</td>
        <td bgcolor="FF0000"></td>
      </tr>
      <tr align="left" valign="top">
        <td>Industrial Building</td>
-       <td bgcolor="A020F0"></td>
+       <td bgcolor="C420F0"></td>
      </tr>
      <tr align="left" valign="top">
        <td>Institutional</td>
        <td bgcolor="0000FF"></td>
      </tr>
+	 <tr align="left" valign="top">
+       <td>Schools/Education</td>
+       <td bgcolor="B2B2FF"></td>
+     </tr>
      <tr align="left" valign="top">
        <td>Health</td>
-       <td bgcolor="33CCFF"></td>
+       <td bgcolor="00FFFF"></td>
      </tr>
      <tr align="left" valign="top">
        <td>Religious Establishments</td>
-       <td bgcolor="2F7F4F"></td>
+       <td bgcolor="00FF80"></td>
      </tr>
      <tr align="left" valign="top">
        <td>Recreational Facilities</td>
-       <td bgcolor="00FF00"></td>
+       <td bgcolor="3D8B22"></td>
      </tr>
      <tr align="left" valign="top">
        <td>Transportation Buildings</td>
-       <td bgcolor="808080"></td>
+       <td bgcolor="BBBBBB"></td>
      </tr>
 </table>
 <br>Designed by Kevin Ballantyne
-<br>Copyright 2015]]></description>
+<br>Copyright 2017]]></description>
     <Style id="residential_normal">
       <IconStyle>
         <scale>1.1</scale>
@@ -220,6 +232,176 @@
         <styleUrl>#residential_hl</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="mix_normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+        <hotSpot x="20" xunits="pixels" y="2" yunits="pixels"/>
+      </IconStyle>
+      <LineStyle>
+        <color>FF000000</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>99009EFF</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[
+	<!--feature_id:$[id]-->
+	<font size="5"><b>$[name]</b></font>
+	<br>
+	<br>
+	<table width="500" border="1" cellspacing="0" cellpadding="6">
+		<col width="150">
+		<col width="350">
+
+		<tr align="left" valign="top">
+			<td><b>Date Built:</b></td>
+			<td>$[dateBuilt]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>Date Demolished:</b></td>
+			<td>$[dateDemolished]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>Architect(s):</b></td>
+			<td>$[architect]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>Status:</b></td>
+			<td>$[status]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>History:</b></td>
+			<td>$[history]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>1912 Address:</b></td>
+			<td>$[addrss]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>1912 Occupant(s) (<a href="https://archive.org/details/ottawadirec191200midiuoft">1912 Ottawa Directory</a>):</b></td>
+			<td>$[occupant]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>Sources:</b></td>
+			<td>$[sources]</td>
+		</tr>
+
+	</table><br>
+
+	<table width="500" border="1" cellspacing="0" cellpadding="6">
+
+		<tr align="center" valign="top">
+			<td><b>Photos</b></td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td>$[photos]</td>
+		</tr>
+
+	</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="mix_hl">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+        <hotSpot x="20" xunits="pixels" y="2" yunits="pixels"/>
+      </IconStyle>
+      <LineStyle>
+        <color>FF000000</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>FF009EFF</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[
+	<!--feature_id:$[id]-->
+	<font size="5"><b>$[name]</b></font>
+	<br>
+	<br>
+	<table width="500" border="1" cellspacing="0" cellpadding="6">
+		<col width="150">
+		<col width="350">
+
+		<tr align="left" valign="top">
+			<td><b>Date Built:</b></td>
+			<td>$[dateBuilt]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>Date Demolished:</b></td>
+			<td>$[dateDemolished]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>Architect(s):</b></td>
+			<td>$[architect]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>Status:</b></td>
+			<td>$[status]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>History:</b></td>
+			<td>$[history]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>1912 Address:</b></td>
+			<td>$[addrss]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>1912 Occupant(s) (<a href="https://archive.org/details/ottawadirec191200midiuoft">1912 Ottawa Directory</a>):</b></td>
+			<td>$[occupant]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>Sources:</b></td>
+			<td>$[sources]</td>
+		</tr>
+
+	</table><br>
+
+	<table width="500" border="1" cellspacing="0" cellpadding="6">
+
+		<tr align="center" valign="top">
+			<td><b>Photos</b></td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td>$[photos]</td>
+		</tr>
+
+	</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="mix_map">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#mix_normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#mix_hl</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="hotel_normal">
       <IconStyle>
         <scale>1.1</scale>
@@ -233,7 +415,7 @@
         <width>2</width>
       </LineStyle>
       <PolyStyle>
-        <color>990099FF</color>
+        <color>99A3A3FF</color>
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
@@ -313,7 +495,7 @@
         <width>2</width>
       </LineStyle>
       <PolyStyle>
-        <color>FF0099FF</color>
+        <color>FFA3A3FF</color>
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
@@ -388,6 +570,176 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#hotel_hl</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="bank_normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+        <hotSpot x="20" xunits="pixels" y="2" yunits="pixels"/>
+      </IconStyle>
+      <LineStyle>
+        <color>FF000000</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>990000AC</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[
+	<!--feature_id:$[id]-->
+	<font size="5"><b>$[name]</b></font>
+	<br>
+	<br>
+	<table width="500" border="1" cellspacing="0" cellpadding="6">
+		<col width="150">
+		<col width="350">
+
+		<tr align="left" valign="top">
+			<td><b>Date Built:</b></td>
+			<td>$[dateBuilt]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>Date Demolished:</b></td>
+			<td>$[dateDemolished]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>Architect(s):</b></td>
+			<td>$[architect]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>Status:</b></td>
+			<td>$[status]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>History:</b></td>
+			<td>$[history]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>1912 Address:</b></td>
+			<td>$[addrss]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>1912 Occupant(s) (<a href="https://archive.org/details/ottawadirec191200midiuoft">1912 Ottawa Directory</a>):</b></td>
+			<td>$[occupant]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>Sources:</b></td>
+			<td>$[sources]</td>
+		</tr>
+
+	</table><br>
+
+	<table width="500" border="1" cellspacing="0" cellpadding="6">
+
+		<tr align="center" valign="top">
+			<td><b>Photos</b></td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td>$[photos]</td>
+		</tr>
+
+	</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="bank_hl">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+        <hotSpot x="20" xunits="pixels" y="2" yunits="pixels"/>
+      </IconStyle>
+      <LineStyle>
+        <color>FF000000</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>FF0000AC</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[
+	<!--feature_id:$[id]-->
+	<font size="5"><b>$[name]</b></font>
+	<br>
+	<br>
+	<table width="500" border="1" cellspacing="0" cellpadding="6">
+		<col width="150">
+		<col width="350">
+
+		<tr align="left" valign="top">
+			<td><b>Date Built:</b></td>
+			<td>$[dateBuilt]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>Date Demolished:</b></td>
+			<td>$[dateDemolished]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>Architect(s):</b></td>
+			<td>$[architect]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>Status:</b></td>
+			<td>$[status]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>History:</b></td>
+			<td>$[history]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>1912 Address:</b></td>
+			<td>$[addrss]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>1912 Occupant(s) (<a href="https://archive.org/details/ottawadirec191200midiuoft">1912 Ottawa Directory</a>):</b></td>
+			<td>$[occupant]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>Sources:</b></td>
+			<td>$[sources]</td>
+		</tr>
+
+	</table><br>
+
+	<table width="500" border="1" cellspacing="0" cellpadding="6">
+
+		<tr align="center" valign="top">
+			<td><b>Photos</b></td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td>$[photos]</td>
+		</tr>
+
+	</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="bank_map">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#bank_normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#bank_hl</styleUrl>
       </Pair>
     </StyleMap>
     <Style id="comm_normal">
@@ -573,7 +925,7 @@
         <width>2</width>
       </LineStyle>
       <PolyStyle>
-        <color>99F000A0</color>
+        <color>99F020C4</color>
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
@@ -653,7 +1005,7 @@
         <width>2</width>
       </LineStyle>
       <PolyStyle>
-        <color>FFF000A0</color>
+        <color>FFF020C4</color>
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
@@ -900,6 +1252,176 @@
         <styleUrl>#institute_hl</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="edu_normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+        <hotSpot x="20" xunits="pixels" y="2" yunits="pixels"/>
+      </IconStyle>
+      <LineStyle>
+        <color>FF000000</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>99FFB2B2</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[
+	<!--feature_id:$[id]-->
+	<font size="5"><b>$[name]</b></font>
+	<br>
+	<br>
+	<table width="500" border="1" cellspacing="0" cellpadding="6">
+		<col width="150">
+		<col width="350">
+
+		<tr align="left" valign="top">
+			<td><b>Date Built:</b></td>
+			<td>$[dateBuilt]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>Date Demolished:</b></td>
+			<td>$[dateDemolished]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>Architect(s):</b></td>
+			<td>$[architect]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>Status:</b></td>
+			<td>$[status]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>History:</b></td>
+			<td>$[history]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>1912 Address:</b></td>
+			<td>$[addrss]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>1912 Occupant(s) (<a href="https://archive.org/details/ottawadirec191200midiuoft">1912 Ottawa Directory</a>):</b></td>
+			<td>$[occupant]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>Sources:</b></td>
+			<td>$[sources]</td>
+		</tr>
+
+	</table><br>
+
+	<table width="500" border="1" cellspacing="0" cellpadding="6">
+
+		<tr align="center" valign="top">
+			<td><b>Photos</b></td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td>$[photos]</td>
+		</tr>
+
+	</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="edu_hl">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+        <hotSpot x="20" xunits="pixels" y="2" yunits="pixels"/>
+      </IconStyle>
+      <LineStyle>
+        <color>FF000000</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>FFFFB2B2</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[
+	<!--feature_id:$[id]-->
+	<font size="5"><b>$[name]</b></font>
+	<br>
+	<br>
+	<table width="500" border="1" cellspacing="0" cellpadding="6">
+		<col width="150">
+		<col width="350">
+
+		<tr align="left" valign="top">
+			<td><b>Date Built:</b></td>
+			<td>$[dateBuilt]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>Date Demolished:</b></td>
+			<td>$[dateDemolished]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>Architect(s):</b></td>
+			<td>$[architect]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>Status:</b></td>
+			<td>$[status]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>History:</b></td>
+			<td>$[history]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>1912 Address:</b></td>
+			<td>$[addrss]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>1912 Occupant(s) (<a href="https://archive.org/details/ottawadirec191200midiuoft">1912 Ottawa Directory</a>):</b></td>
+			<td>$[occupant]</td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td><b>Sources:</b></td>
+			<td>$[sources]</td>
+		</tr>
+
+	</table><br>
+
+	<table width="500" border="1" cellspacing="0" cellpadding="6">
+
+		<tr align="center" valign="top">
+			<td><b>Photos</b></td>
+		</tr>
+
+		<tr align="left" valign="top">
+			<td>$[photos]</td>
+		</tr>
+
+	</table>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="edu_map">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#edu_normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#edu_hl</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="health_normal">
       <IconStyle>
         <scale>1.1</scale>
@@ -913,7 +1435,7 @@
         <width>2</width>
       </LineStyle>
       <PolyStyle>
-        <color>99FFCC33</color>
+        <color>99FFFF00</color>
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
@@ -993,7 +1515,7 @@
         <width>2</width>
       </LineStyle>
       <PolyStyle>
-        <color>FFFFCC33</color>
+        <color>FFFFFF00</color>
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
@@ -1083,7 +1605,7 @@
         <width>2</width>
       </LineStyle>
       <PolyStyle>
-        <color>994F7F2F</color>
+        <color>9900FF80</color>
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
@@ -1163,7 +1685,7 @@
         <width>2</width>
       </LineStyle>
       <PolyStyle>
-        <color>FF4F7F2F</color>
+        <color>FF00FF80</color>
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
@@ -1253,7 +1775,7 @@
         <width>2</width>
       </LineStyle>
       <PolyStyle>
-        <color>9900FF00</color>
+        <color>99228B3D</color>
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
@@ -1333,7 +1855,7 @@
         <width>2</width>
       </LineStyle>
       <PolyStyle>
-        <color>FF00FF00</color>
+        <color>FF228B3D</color>
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
@@ -1423,7 +1945,7 @@
         <width>2</width>
       </LineStyle>
       <PolyStyle>
-        <color>99808080</color>
+        <color>99BBBBBB</color>
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
@@ -1503,7 +2025,7 @@
         <width>2</width>
       </LineStyle>
       <PolyStyle>
-        <color>FF808080</color>
+        <color>FFBBBBBB</color>
       </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[
@@ -2341,6 +2863,27 @@ Past Ottawa (Library & Archives Canada)</a></small>
 				</div>
 			</div>
 		</div>
+		<div class="container">
+			<div class="row">
+				<b>Photo 2</b> - Front view of the Corry Block taken across Rideau Street.
+
+			</div>
+			
+			<div>
+				<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Corry_Block_2.jpg" title="Front view of the Corry Block taken across Rideau Street.
+" border="1" width="500">
+			</div>
+			
+			<div class="row">
+				<div>
+					<small><b>Date Taken</b>: c1915<br>
+				</div>
+				<div>
+					<b>Source</b>: <a href="http://www.pastottawa.com/comparison/corry-block-union-station-on-rideau/334/">
+Past Ottawa (Urbsite)</a></small>
+				</div>
+			</div>
+		</div>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 		<script type="text/javascript">
 			$(document).ready(function() {
@@ -2565,6 +3108,48 @@ Library & Archives Canada, MIKAN no. 3325492</a></small>
 				<div>
 					<b>Source</b>: <a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3325799&lang=eng">
 Library & Archives Canada, MIKAN no. 3325799</a></small>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<b>Photo 2</b> - View of Roxborough Apartments from Cartier Square.
+
+			</div>
+			
+			<div>
+				<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Roxborough_Apartments_2_a023247.jpg" title="View of Roxborough Apartments from Cartier Square.
+" border="1" width="500">
+			</div>
+			
+			<div class="row">
+				<div>
+					<small><b>Date Taken</b>: n/a<br>
+				</div>
+				<div>
+					<b>Source</b>: <a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3325714">
+Library & Archives Canada, MIKAN no. 3325714</a></small>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<b>Photo 3</b> - The Roxborough Apartments from the southeast corner of Elgin Street and Laurier Avenue West.
+
+			</div>
+			
+			<div>
+				<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Roxborough_Apartments_3.jpg" title="The Roxborough Apartments from the southeast corner of Elgin Street and Laurier Avenue West.
+" border="1" width="500">
+			</div>
+			
+			<div class="row">
+				<div>
+					<small><b>Date Taken</b>: 1938<br>
+				</div>
+				<div>
+					<b>Source</b>: <a href="http://www.pastottawa.com/comparison/roxborough-apartments-on-laurier/283/">
+Past Ottawa (Library & Archives Canada)</a></small>
 				</div>
 			</div>
 		</div>
@@ -3699,7 +4284,7 @@ Past Ottawa (City of Ottawa)</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[Royal Bank Building]]></name>
-      <styleUrl>#comm_map</styleUrl>
+      <styleUrl>#bank_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[28]]></value>
@@ -4620,7 +5205,7 @@ Library & Archives Canada, MIKAN no. 3318383</a></small>
           <value><![CDATA[168-182 Sparks Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[168 Harry Brouse (jeweller), Peerless Vending Co., 170 R H Millar (tailor), 172-176 E P Charlton & Co. (fcy goods), 178 W Bailey & Son (tobaccos), 180 J L Rochester Ltd. (drugs), 182 J P & F W Esmonde (house furniture)]]></value>
         </Data>
         <Data name="sources">
           <value><![CDATA[Heritage Ottawa - 36. The Woolworth and Kresge Buildings: <a href="https://heritageottawa.org/50years/woolworth-and-kresge-buildings">https://heritageottawa.org/50years/woolworth-and-kresge-buildings</a>]]></value>
@@ -6039,7 +6624,7 @@ NCC Watch</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[&#201;cole Ste-Famille]]></name>
-      <styleUrl>#institute_map</styleUrl>
+      <styleUrl>#edu_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[52]]></value>
@@ -7129,7 +7714,7 @@ Urbsite Blog: CPR Ottawa West Roundhouse Remembered</a></small>
           <value><![CDATA[72-76 Sparks Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[72 Robert Masson (shoes), 74 multiple, 76 R J Devlin Co. Ltd. (hats)]]></value>
         </Data>
         <Data name="sources">
           <value><![CDATA[City On The Ottawa (ISBN B0057R1NKC), pg. 25]]></value>
@@ -7538,7 +8123,7 @@ Library & Archives Canada, MIKAN no. 3422573</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[British American Bank Note Co.]]></name>
-      <styleUrl>#comm_map</styleUrl>
+      <styleUrl>#bank_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[66]]></value>
@@ -8036,7 +8621,7 @@ Library & Archives Canada, MIKAN no. 3423022</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[Bank of Quebec]]></name>
-      <styleUrl>#comm_map</styleUrl>
+      <styleUrl>#bank_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[72]]></value>
@@ -8140,7 +8725,7 @@ Library & Archives Canada, MIKAN no. 4169936</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[Bank of Ottawa]]></name>
-      <styleUrl>#comm_map</styleUrl>
+      <styleUrl>#bank_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[73]]></value>
@@ -8223,7 +8808,7 @@ Library & Archives Canada, MIKAN no. 3400444</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[Imperial Bank of Canada]]></name>
-      <styleUrl>#comm_map</styleUrl>
+      <styleUrl>#bank_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[74]]></value>
@@ -8306,7 +8891,7 @@ Library & Archives Canada, MIKAN no. 3400445</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[National Bank]]></name>
-      <styleUrl>#comm_map</styleUrl>
+      <styleUrl>#bank_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[75]]></value>
@@ -8389,7 +8974,7 @@ Library & Archives Canada, MIKAN no. 3400443</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[Merchant's Bank]]></name>
-      <styleUrl>#comm_map</styleUrl>
+      <styleUrl>#bank_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[76]]></value>
@@ -8555,7 +9140,7 @@ Library & Archives Canada, MIKAN no. 3319129</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[American Bank Note Co.]]></name>
-      <styleUrl>#comm_map</styleUrl>
+      <styleUrl>#bank_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[78]]></value>
@@ -9031,14 +9616,14 @@ Library & Archives Canada, MIKAN no. 3421187</a></small>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name><![CDATA[Laurentian Club]]></name>
+      <name><![CDATA[Laurentian Club (House)]]></name>
       <styleUrl>#rec_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[83]]></value>
         </Data>
         <Data name="name">
-          <value><![CDATA[Laurentian Club]]></value>
+          <value><![CDATA[Laurentian Club (House)]]></value>
         </Data>
         <Data name="dateBuilt">
           <value><![CDATA[n/a]]></value>
@@ -9077,11 +9662,11 @@ Library & Archives Canada, MIKAN no. 3421187</a></small>
 		</style>
 		<div class="container">
 			<div class="row">
-				<b>Photo 1</b> - The original Laurentian Club, March 1910.
+				<b>Photo 1</b> - The original Laurentian Club taken from across Slater Street, March 1910.
 			</div>
 			
 			<div>
-				<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Laurentian_Club_a009641.jpg" title="The original Laurentian Club, March 1910." border="1" width="500">
+				<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Laurentian_Club_a009641.jpg" title="The original Laurentian Club taken from across Slater Street, March 1910." border="1" width="500">
 			</div>
 			
 			<div class="row">
@@ -9327,7 +9912,7 @@ Library & Archives Canada, MIKAN no. 3423196</a></small>
           <value><![CDATA[74 Rideau Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[George May & Sons (leather)]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -9835,7 +10420,7 @@ Urbsite Blog: King Edward Ave - Unifinished Business I</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[Bank of Montreal]]></name>
-      <styleUrl>#comm_map</styleUrl>
+      <styleUrl>#bank_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[92]]></value>
@@ -10538,7 +11123,7 @@ Library & Archives Canada, MIKAN no. 3325863</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[American Bank Note Co. Building]]></name>
-      <styleUrl>#comm_map</styleUrl>
+      <styleUrl>#bank_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[101]]></value>
@@ -10731,7 +11316,7 @@ Library & Archives Canada, MIKAN no. 4160747</a></small>
           <value><![CDATA[386-390 Wellington Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Imperial Steam Laundry, Gustavua O Seifert]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -11285,7 +11870,7 @@ Library & Archives Canada, MIKAN no. 4161384</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[Ste. Anne's School]]></name>
-      <styleUrl>#institute_map</styleUrl>
+      <styleUrl>#edu_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[111]]></value>
@@ -11451,7 +12036,7 @@ flickr</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[Bolton Street School]]></name>
-      <styleUrl>#institute_map</styleUrl>
+      <styleUrl>#edu_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[113]]></value>
@@ -12344,7 +12929,7 @@ Urbsite Blog: Cecil's Many Fires</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[Central Ward West School]]></name>
-      <styleUrl>#institute_map</styleUrl>
+      <styleUrl>#edu_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[123]]></value>
@@ -14676,7 +15261,7 @@ Library & Archives Canada, MIKAN no 4511639</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[Nicholas Sparks' House]]></name>
-      <styleUrl>#comm_map</styleUrl>
+      <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[174]]></value>
@@ -16073,7 +16658,7 @@ Library & Archives Canada, MIKAN no. 3600257</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[207-215 Wellington Street]]></name>
-      <styleUrl>#comm_map</styleUrl>
+      <styleUrl>#mix_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[187]]></value>
@@ -16385,7 +16970,7 @@ Library & Archives Canada, MIKAN no. 3600289</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[255-263 Wellington Street]]></name>
-      <styleUrl>#comm_map</styleUrl>
+      <styleUrl>#mix_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[190]]></value>
@@ -16508,7 +17093,7 @@ Library & Archives Canada, MIKAN no. 3600222</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[Wellington Apartments]]></name>
-      <styleUrl>#residential_map</styleUrl>
+      <styleUrl>#mix_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[191]]></value>
@@ -16881,7 +17466,7 @@ Library & Archives Canada, MIKAN no. 3600289</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[251-253 Wellington Street]]></name>
-      <styleUrl>#comm_map</styleUrl>
+      <styleUrl>#mix_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[194]]></value>
@@ -16964,7 +17549,7 @@ Library & Archives Canada, MIKAN no. 3600217</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[247-249 Wellington Street]]></name>
-      <styleUrl>#comm_map</styleUrl>
+      <styleUrl>#mix_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[195]]></value>
@@ -17973,7 +18558,7 @@ Library & Archives Canada, MIKAN no. 3576590</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[Victoria Lawn Bowling Club]]></name>
-      <styleUrl>#comm_map</styleUrl>
+      <styleUrl>#rec_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[205]]></value>
@@ -20786,7 +21371,7 @@ Library & Archives Canada, MIKAN no. 3422535</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[Cartier Street Public School]]></name>
-      <styleUrl>#institute_map</styleUrl>
+      <styleUrl>#edu_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[234]]></value>
@@ -20895,7 +21480,7 @@ Library & Archives Canada, MIKAN no. 3422535</a></small>
           <value><![CDATA[307-315 Sparks Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[305-307 Vacant, 309-311 Trudel & McAdam (blacksmiths)]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -20975,7 +21560,7 @@ Library & Archives Canada, MIKAN no. 4170168</a></small>
           <value><![CDATA[n/a]]></value>
         </Data>
         <Data name="addrss">
-          <value><![CDATA[307-315 Sparks Street]]></value>
+          <value><![CDATA[299-303 Sparks Street]]></value>
         </Data>
         <Data name="occupant">
           <value><![CDATA[n/a]]></value>
@@ -21237,7 +21822,7 @@ Library & Archives Canada, MIKAN no. 3325735</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[Bank of Ottawa (Gladstone & Bank)]]></name>
-      <styleUrl>#comm_map</styleUrl>
+      <styleUrl>#bank_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[239]]></value>
@@ -23702,7 +24287,7 @@ Library & Archives Canada, MIKAN no. 3422988</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[25-31 Nicholas Street]]></name>
-      <styleUrl>#comm_map</styleUrl>
+      <styleUrl>#mix_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[267]]></value>
@@ -23729,7 +24314,7 @@ Library & Archives Canada, MIKAN no. 3422988</a></small>
           <value><![CDATA[25-31 Nicholas Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[25 Baldwin Bros (grocers), 27 Chinese laundry, 29 Simon Selmanoff, 31 Pion Timothy (shoemaker)]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -23895,7 +24480,7 @@ City of Ottawa Archives, Ref Code MG397-D00909</a></small>
           <value><![CDATA[21-23 Nicholas Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[Oscar Martineau (liquors)]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -25133,7 +25718,7 @@ Library & Archives Canada, MIKAN no. 4170127</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[Elgin Street School]]></name>
-      <styleUrl>#institute_map</styleUrl>
+      <styleUrl>#edu_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[283]]></value>
@@ -26331,7 +26916,7 @@ Library & Archives Canada, MIKAN no. 3421996</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[Brebeuf School]]></name>
-      <styleUrl>#institute_map</styleUrl>
+      <styleUrl>#edu_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[296]]></value>
@@ -27097,7 +27682,7 @@ Library & Archives Canada, MIKAN no. 4232211</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[St. Patrick's School]]></name>
-      <styleUrl>#institute_map</styleUrl>
+      <styleUrl>#edu_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[305]]></value>
@@ -27384,7 +27969,7 @@ OttawaHH (LAC PA-042275, Mikan 3326037)</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[Ottawa University Wash House]]></name>
-      <styleUrl>#institute_map</styleUrl>
+      <styleUrl>#edu_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[308]]></value>
@@ -27494,7 +28079,7 @@ OttawaHH (LAC PA-042367, MIKAN: 3319122)</a></small>
           <value><![CDATA[126-128 Sparks Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[126 multiple, 128 Gates & Hodgson, Donnelly W L, (coal), Marchand & Donnelly (elec contractors)]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -29643,7 +30228,7 @@ City of Ottawa Archives, Ref Code 2009.0413.1 CA017927</a></small>
           <value><![CDATA[163-169 York Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[163 Oscar Beaudry (contractor), 165 Anthony Rogers, 167 Mrs Lydia Le Blanc, 169 Olivier Simard]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -30301,7 +30886,7 @@ OttawaHH (LAC, MIKAN no. 3326042)</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[42-48 Murray Street]]></name>
-      <styleUrl>#comm_map</styleUrl>
+      <styleUrl>#mix_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[343]]></value>
@@ -30328,7 +30913,7 @@ OttawaHH (LAC, MIKAN no. 3326042)</a></small>
           <value><![CDATA[42-48 Murray Street]]></value>
         </Data>
         <Data name="occupant">
-          <value><![CDATA[n/a]]></value>
+          <value><![CDATA[42 Eugene Tremblay, 44 Leon Ferland (cigars), 46 Chinese laundry, 48 Alex Castonguay (photo)]]></value>
         </Data>
         <Data name="sources">
           <value/>
@@ -30467,7 +31052,7 @@ OttawaHH (LAC, MIKAN no. 3428505)</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[343 Wellington Street]]></name>
-      <styleUrl>#comm_map</styleUrl>
+      <styleUrl>#industrial_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[345]]></value>
@@ -31011,7 +31596,7 @@ City of Ottawa Archives, Ref Code MG431-003 CA020921</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[Virginia Apartments]]></name>
-      <styleUrl>#comm_map</styleUrl>
+      <styleUrl>#residential_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[351]]></value>
@@ -31094,7 +31679,7 @@ Urbsite Blog: Elgin Street in Black and White</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[Kent Street School]]></name>
-      <styleUrl>#comm_map</styleUrl>
+      <styleUrl>#edu_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[352]]></value>
@@ -32083,6 +32668,89 @@ Past Ottawa (Library & Archives Canada)</a></small>
         <outerBoundaryIs>
           <LinearRing>
             <coordinates>-75.6915570417,45.4224863129,0.0 -75.6913553904,45.4222574577,0.0 -75.6908212419,45.4220572415,0.0 -75.6905209602,45.4221837083,0.0 -75.6904587345,45.4223507906,0.0 -75.6914047493,45.4226986119,0.0 -75.6915570417,45.4224863129,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Laurentian Club]]></name>
+      <styleUrl>#rec_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[373]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[Laurentian Club]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[1912]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[Location now occupied by the James Michael Flaherty Building.]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[54 Albert Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+		<style type="text/css">
+			.row {
+				border: solid black 1px;
+				padding: 3px;
+			}
+			.container {
+				padding: 3px;
+			}
+		</style>
+		<div class="container">
+			<div class="row">
+				<b>Photo 1</b> - The newer Laurentian Club taken from the northeast corner of Albert & Elgin Streets.
+			</div>
+			
+			<div>
+				<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Laurentian_Club.JPG" title="The newer Laurentian Club taken from the northeast corner of Albert & Elgin Streets." border="1" width="500">
+			</div>
+			
+			<div class="row">
+				<div>
+					<small><b>Date Taken</b>: c1920<br>
+				</div>
+				<div>
+					<b>Source</b>: <a href="http://www.pastottawa.com/comparison/laurentian-club-at-the-corner-of-elgin-and-albert-streets/478/">
+Past Ottawa (Library & Archives Canada)</a></small>
+				</div>
+			</div>
+		</div>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$("img").click(function() {
+					$("#cf2 img.top").toggleClass("transparent");
+				});
+			});
+		</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.694629948,45.4222700669,0.0 -75.6944283501,45.422039984,0.0 -75.6943173792,45.4220871132,0.0 -75.6943221007,45.4220926269,0.0 -75.6942250666,45.4221338606,0.0 -75.6944215077,45.4223596529,0.0 -75.694629948,45.4222700669,0.0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
