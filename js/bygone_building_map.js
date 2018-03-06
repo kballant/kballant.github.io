@@ -117,7 +117,8 @@ function reset_styles(styles) {
 	var counter = 0
 	var key = source.on('change', function(event) {
 		if (source.getState() == 'ready') {
-			source.unByKey(key);
+			//source.unByKey(key); // OL v3
+			ol.Observable.unByKey(key);
 			$.ajax('../files/Ottawa_Bygone_Buildings.kml').done(function(data) {
 				kmlLayer.getSource().forEachFeature(function(feature) {
 					feature.setId(counter);
@@ -191,6 +192,20 @@ function getLayer(srch_name) {
 			return map.getLayers().item(i);
 		}
 	}
+}
+function getFeature(coord) {
+	//var total_layers = map.getLayers().getLength();
+	//var vector_layers = map.getLayersByClass("OpenLayers.Layer.Vector")
+	//var total_vect_layers = map.getLayers().getLength();
+	for (var key in lyr_dict) {
+		var lyr = getLayer(key);
+		var lyr_src = lyr.getSource();
+		var features = lyr_src.getFeaturesAtCoordinate(coord);
+		if (features.length > 0) {
+			return features[0];
+		}
+	}
+	
 }
 
 function getChkbox(name) {
@@ -313,11 +328,21 @@ osmLayer.set('name', 'osm');
 roadLayer.set('name', 'roads');
 kmlLayer.set('name', 'kml');
 
+// No layer groups:
 var lyr_list = [osmLayer, bingLayer, roadLayer, kmlLayer]
 
 for (var key in lyr_dict) {
 	lyr_list.push(lyr_dict[key]);
 }
+
+//With a layer group:
+//var lyr_list = [osmLayer, bingLayer, roadLayer, kmlLayer]
+//var build_lyrs = []
+//for (var key in lyr_dict) {
+//	build_lyrs.push(lyr_dict[key]);
+//}
+//var lyr_group = new ol.layer.Group({layers: build_lyrs})
+//lyr_list.push(lyr_group);
 
 var zoom = 15;
 var center = ol.proj.transform([-75.697840, 45.420619], "EPSG:4326", "EPSG:3857");
@@ -686,7 +711,14 @@ var highlightFeature = function(pixel) {
 var displayPopup = function(evt, pixel) {
 	POPUP_LOCK = true;
 	var features = [];
-	map.forEachFeatureAtPixel(pixel, function(feature, layer) {features.push(feature);}, null);
+	if (detectmob) {
+		var feature = getFeature(pixel);
+		features.push(feature);
+	} else {
+		map.forEachFeatureAtPixel(pixel, function(feature, layer) {
+			features.push(feature);
+		}, null);
+	}
 	
 	if (features.length > 0) {
 		var element_pop = popup.getElement();
@@ -721,13 +753,27 @@ var displayPopup = function(evt, pixel) {
 	$('#info').tooltip('hide');
 }
 
+function detectmob() {
+	if(window.innerWidth <= 800 && window.innerHeight <= 600) {
+		return true;
+	} else {
+		return false;
+	}
+}
+
 var popup_html = getPopupContent();
 
 // display popup on click
-map.on('click', function(evt) {
+map.on('singleclick', function(evt) {
 	//var pixel = evt;
-	var pixel = map.getEventPixel(evt.originalEvent);
-	displayPopup(evt, pixel);
+	if (detectmob) {
+		var coordinates = map.getEventCoordinate(evt.originalEvent);
+		//var feature = vectorlayer.getClosestFeatureToCoordinate(coordinates);
+		displayPopup(evt, coordinates);
+	} else {
+		var pixel = map.getEventPixel(evt.originalEvent);
+		displayPopup(evt, pixel);
+	}
 });
 
 // Set Bing Maps layer visible on load:

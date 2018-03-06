@@ -40,7 +40,7 @@ div.round-border {
 	padding: 0 0 0 0 !important;
 }
 .map-popup {
-	max-height: 800px;
+	max-height: 800px; /*800*/
 	overflow-y: auto;
 	/*position: absolute;*/
 	background-color: white;
@@ -49,7 +49,7 @@ div.round-border {
 	/*padding: 15px; */
 	border-radius: 10px;
 	border: 1px solid #000000;
-	min-width: 550px !important;
+	min-width: 570px !important; /*550*/
 	/*width: auto !important;*/
 }
 .map:-moz-full-screen {
@@ -80,7 +80,7 @@ div.round-border {
 	/*padding: 15px; */
 	border-radius: 10px;
 	border: 1px solid #000000;
-	min-width: 550px !important;
+	min-width: 570px !important;
 	/*width: auto !important; */
 	max-height: 500px;
 }
@@ -88,6 +88,10 @@ div.round-border {
 .modal-header {
 	background: #FFFFFF !important;
 	padding: 1px 1px 1px 1px !important;
+}
+
+.no-top-pad {
+	padding-top: 0px;
 }
 
 /* Popover Header */
@@ -101,7 +105,7 @@ div.round-border {
 .popover-title {
 	/* background-color: #CCCCCC; */
 	color: #FFFFFF !important; 
-	font-size: 35px !important;
+	font-size: 30px !important;
 	text-align: center;
 	padding-left: 20px !important;
 	padding-right: 20px !important;
@@ -308,9 +312,31 @@ div.round-border {
     left: auto;
     right: auto;
 	padding-bottom: 0px;
+	padding-top: 0px;
 }
 .carousel-img-div {
 	background: black;
+}
+hr.trim  {
+	margin: 1px 1px 1px 1px !important;
+}
+.magbutton {
+	font-size: 20px !important;
+	text-align: center !important;
+	padding: 3px 6px;
+	margin: 0 0 15px !important;
+	/* line-height: 100%; */
+	/* position: relative !important; */
+}
+.mag-text {
+	text-shadow: 2px 2px 4px #000000;
+}
+p.mag {
+	margin: 0 0 15px !important;
+}
+.mag-button:active, .active {
+    background-color:red;
+    color: white;
 }
 /* .carousel-img {
 	width: auto !important;
@@ -322,7 +348,8 @@ div.round-border {
 .carousel-img {
 	width: auto !important;
 	height: auto !important;
-	max-height: 450px;
+	max-width: 530px;
+	max-height: 480px;
 	display: block;
     margin: 0 auto;
 	border: 1px solid black;
@@ -330,6 +357,10 @@ div.round-border {
 .carousel-container {
 	width: auto !important;
 	padding: 0px;
+}
+.arrow {
+	color: #B4FEFF !important;
+	text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
 }
 #photoCarousel {
 	background: linear-gradient(top, #6688BB 0%, #446688 100%) !important;
@@ -346,7 +377,8 @@ div.round-border {
     border-width: 1px;
 }
 .carousel-control.left, .carousel-control.right {
-    background-image: none
+    background-image: none;
+	width: 5%;
 }
 .carousel-text-sm {
 	font-size: 0.9em;
@@ -369,13 +401,13 @@ div.round-border {
 }
 #cf2 img {
 	position: absolute;
-	left: 5;
+	left: 5px;
 	-webkit-transition: opacity 1s ease-in-out;
 	-moz-transition: opacity 1s ease-in-out;
 	-o-transition: opacity 1s ease-in-out;
 	transition: opacity 1s ease-in-out;
 	border: 1px solid black;
-	max-width: 525px;
+	max-width: 525px; /*525px; */
 	max-height: 450px;
 }
 #cf2 img.transparent {
@@ -484,6 +516,9 @@ ul.thumbnails-carousel li {
 	text-align: center;
 	font-size: small;
 }
+.mobile_only {
+	display: none;
+}
 @media only screen and (max-width: 768px) {
 	.map-popup {
 		width: 100% !important;
@@ -499,5 +534,11 @@ ul.thumbnails-carousel li {
 	.container-map {
 		padding-right: 15px;
 		padding-left: 30px;
+	}
+	.magbutton {
+		display: none;
+	}
+	.mobile_only {
+		display: inline;
 	}
 }

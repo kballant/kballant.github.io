@@ -17,10 +17,12 @@
 		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 		<meta name="description" content="{{ page.description }}" />
+		<meta name="keywords" content="{{ page.keywords }}" />
 		{% if page.url == "/geomatics/bygone-buildings-ottawa/map.html" or 
 			page.url == "/geomatics/fire-plans-map.html" or
 			page.url == "/geomatics/bygone-buildings-ottawa/building-list.html" %}
 			<link rel="stylesheet" href="/ol/ol.css" type="text/css">
+			<script src="/ol/polyfill.min.js"></script>
 			<script src="/ol/ol.js"></script>
 		{% endif %}
 		
@@ -38,6 +40,7 @@
 			page.url == "/geomatics/fire-plans-map.html" or
 			page.url == "/geomatics/bygone-buildings-ottawa/building-list.html" %}
 			<link rel="stylesheet" href="/css/mapstyle.css" type="text/css">
+			<link rel="stylesheet" href="/css/magnify.css" type="text/css">
 		{% endif %}
 		
 		{% if page.url == "/geomatics/bygone-buildings-ottawa/building-list.html" %}
@@ -62,7 +65,7 @@
 				<header class="modal-header popover-header">
 					<h2 class="modal-title pg-title popover-title">Title</h2>
 				</header>
-				<div class="modal-body">
+				<div class="modal-body no-top-pad">
 					<ol>
 						<li>ordered list (<code>ol</code>) first level default appearance</li>
 						<li>ordered list (<code>ol</code>) first level default appearance
@@ -120,7 +123,7 @@
 			<div class="row">
 				<div class="col-md-9">
 					<footer>
-						<p class="foot-text">Site created by <a href="mailto:geomatics@kballantyne.ca">Kevin Ballantyne</a> using Github, &#169; 2017.</p>
+						<p class="foot-text">Site created by <a href="mailto:geomatics@kballantyne.ca">Kevin Ballantyne</a> using Github, &#169; 2018.</p>
 					</footer>
 				</div>
 			</div>

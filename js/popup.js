@@ -72,6 +72,9 @@ function checkInput(in_text) {
 	}
 }
 
+var img_height = 0;
+var img_width = 0;
+
 function create_photo_html(photos) {
 	
 	// Bootstrap Carousel:
@@ -111,14 +114,43 @@ function create_photo_html(photos) {
 		} else {
 			active_str = '';
 		}
+		
+		// Get dimensions of the current image
+		//var image_object = new Image();
+		//image_object.src = img_src[0]
+		
+		//img_width = image_object.width;
+		//img_height = image_object.height;
+		
+		/* $("<img/>").attr("src", img_src[0]).load(function(){
+			//s = {w:this.width, h:this.height};
+			img_width = this.width;
+			img_height = this.height;
+			alert(img_width + ' ' + img_height);      
+		});
+		
+		var carousel_height = 480;
+		//window.alert(carheight_str);
+		//carheight_str = carheight_str.replace("px", "");
+		//carousel_height = parseInt(carheight_str);
+		
+		window.alert("img_height: " + img_height);
+		window.alert("carousel_height: " + carousel_height); */
+	
+		//if (img_height > carousel_height) {
 		if (img_src.length > 1) {
 			photo_html += ['', '<div class="item' + active_str + ' carousel-item">', 
 								'<div id="cf2">', 
 									'<img class="bottom carousel-img" src="' + img_src[1] + '" alt="" onclick="imgClick()">', 
-									'<img class="top carousel-img" src="' + img_src[0] + '" alt="" onclick="imgClick()">', 
+									//'<div class="mag-div magnify">', 
+									'<div class="mag-div">', 
+										'<div class="large"></div>', 
+										'<img class="small top carousel-img" src="' + img_src[0] + '" alt="" onclick="imgClick()">', 
+									'</div>',
 								'</div>', 
 								'<div class="carousel-caption">', 
 									'<p class="carousel-text-sm">***Click on image to toggle between then & now***</p>', 
+									'<hr class="trim" style="height:1px;border:none;color:#333;background-color:#AAAAAA">', 
 									'<p class="carousel-caption-txt">' + caption + '</p>', 
 									'<p class="carousel-text-sm">Date Taken:' + date_taken + '</p>', 
 									'<p class="carousel-text-sm">Source: <a href="' + link + '">' + source + '</a></p>', 
@@ -127,15 +159,54 @@ function create_photo_html(photos) {
 						  ].join('\n');
 		} else {
 			photo_html += ['', '<div class="item' + active_str + ' carousel-item">', 
-								'<img class="carousel-img" src="' + img_src[0] + '" alt="">', 
+								//'<div class="mag-div magnify">',
+								'<div class="mag-div">',
+									'<div class="large"></div>',
+									'<img class="small carousel-img" src="' + img_src[0] + '" alt="">', 
+								'</div>', 
+								'<div class="magbutton">', 
+									//'<button type="button" class="btn btn-info" onclick="toggleMagnify(this)" data-toggle="button" aria-pressed="false" autocomplete="off"><i class="glyphicon glyphicon-zoom-in"></i></button>', 									
+									'<p>',
+										//'<button type="button" class="btn btn-info" onclick="toggleMagnify(this)" data-toggle="button" aria-pressed="false" autocomplete="off">Magnify</button>', 
+										'<button type="button" class="btn btn-info" onclick="toggleMagnify(this)" data-toggle="button" aria-pressed="false" autocomplete="off"><i class="mag-text glyphicon glyphicon-zoom-in"></i></button>', 
+									'</p>', 
+									'<hr class="trim" style="height:1px;border:none;color:#333;background-color:#AAAAAA">', 
+								'</div>', 
 								'<div class="carousel-caption">', 
 									'<p class="carousel-caption-txt">' + caption + '</p>', 
 									'<p class="carousel-text-sm">Date Taken: ' + date_taken + '</p>', 
-								'<p class="carousel-text-sm">Source: <a href="' + link + '">' + source + '</a></p>', 
+									'<p class="carousel-text-sm">Source: <a href="' + link + '">' + source + '</a></p>', 
 								'</div>', 
 							'</div>'
 						  ].join('\n');
 		}
+		/* } else {
+			if (img_src.length > 1) {
+				photo_html += ['', '<div class="item' + active_str + ' carousel-item">', 
+									'<div id="cf2">', 
+										'<img class="bottom carousel-img" src="' + img_src[1] + '" alt="" onclick="imgClick()">', 
+										'<img class="top carousel-img" src="' + img_src[0] + '" alt="" onclick="imgClick()">', 
+									'</div>', 
+									'<div class="carousel-caption">', 
+										'<p class="carousel-text-sm">***Click on image to toggle between then & now***</p>', 
+										'<p class="carousel-caption-txt">' + caption + '</p>', 
+										'<p class="carousel-text-sm">Date Taken:' + date_taken + '</p>', 
+										'<p class="carousel-text-sm">Source: <a href="' + link + '">' + source + '</a></p>', 
+									'</div>', 
+								'</div>'
+							  ].join('\n');
+			} else {
+				photo_html += ['', '<div class="item' + active_str + ' carousel-item">', 
+									'<img class="carousel-img" src="' + img_src[0] + '" alt="">', 
+									'<div class="carousel-caption">', 
+										'<p class="carousel-caption-txt">' + caption + '</p>', 
+										'<p class="carousel-text-sm">Date Taken: ' + date_taken + '</p>', 
+									'<p class="carousel-text-sm">Source: <a href="' + link + '">' + source + '</a></p>', 
+									'</div>', 
+								'</div>'
+							  ].join('\n');
+			}
+		} */
 	}
 	
 	photo_html += ['', '</div>', 
@@ -144,11 +215,11 @@ function create_photo_html(photos) {
 	
 	// Create the left and right arrows for the carousel if more than one image
 	if (photos.length > 1) {
-		photo_html += ['', '<a class="left carousel-control" href="#photoCarousel" role="button" data-slide="prev">', 
+		photo_html += ['', '<a class="left arrow carousel-control" href="#photoCarousel" role="button" data-slide="prev">', 
 			'<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>', 
 			'<span class="sr-only">Previous</span>', 
 		'</a>', 
-		'<a class="right carousel-control" href="#photoCarousel" role="button" data-slide="next">', 
+		'<a class="right arrow carousel-control" href="#photoCarousel" role="button" data-slide="next">', 
 			'<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>', 
 			'<span class="sr-only">Next</span>', 
 		'</a>'
@@ -172,6 +243,225 @@ function create_photo_html(photos) {
 function imgClick() {
 	$("#cf2 img.top").toggleClass("transparent");
 }
+
+var real_width = 0;
+var real_height = 0;
+var prev_src = "";
+
+function addMouseMoveMag(obj) {
+	
+	obj.mousemove(function(e){
+		if (obj.parent().hasClass("active")) {
+			
+			//Find the child button
+			//var button_child = $(this).children(".btn");
+			
+			//if (button_child.hasClass("active")) {
+			
+			var large_child = obj.children(".large");
+			var small_child = obj.children(".small");
+			
+			if (prev_src != small_child.attr("src")) {
+				real_width = 0;
+				real_height = 0;
+				prev_src = small_child.attr("src");
+				//large_child.css('margin', small_child.css('margin'));
+				margins = small_child.css('margin').split(" ");
+			}
+		
+			//When the user hovers on the image, the script will first calculate
+			//the native dimensions if they don't exist. Only after the native dimensions
+			//are available, the script will show the zoomed version.
+			if (!real_width && !real_height) {
+				//This will create a new image object with the same image as that in .small
+				//We cannot directly get the dimensions from .small because of the 
+				//width specified to 200px in the html. To get the actual dimensions we have
+				//created this image object.
+				var image_object = new Image();
+				image_object.src = small_child.attr("src");
+				
+				//This code is wrapped in the .load function which is important.
+				//width and height of the object would return 0 if accessed before 
+				//the image gets loaded.
+				real_width = image_object.width;
+				real_height = image_object.height;
+			} else {
+				//x/y coordinates of the mouse
+				//This is the position of .magnify with respect to the document.
+				//NOTE: $(this) = div.magnify
+				var magnify_offset = obj.offset();
+				//var magnify_offset = $(this).position()
+				
+				//We will deduct the positions of .magnify from the mouse positions with
+				//respect to the document to get the mouse positions with respect to the 
+				//container(.magnify)
+				var mouse_x = e.pageX - magnify_offset.left;
+				var mouse_y = e.pageY - magnify_offset.top;
+				
+				//Finally the code to fade out the glass if the mouse is outside the 
+				//	container
+				if (mouse_x < obj.width() && mouse_y < obj.height() && 
+					mouse_x > 0 && mouse_y > 0) {
+					large_child.fadeIn(100);
+				} else {
+					large_child.fadeOut(100);
+				}
+				
+				if (large_child.is(":visible"))
+				{
+					//The background position of .large will be changed according to the position
+					//of the mouse over the .small image. So we will get the ratio of the pixel
+					//under the mouse pointer with respect to the image and use that to position 
+					//the large image inside the magnifying glass
+					var lrg_img_x = Math.round(mouse_x / small_child.width() * real_width - 
+						large_child.width() / 2) * -1;
+					var lrg_img_y = Math.round(mouse_y / small_child.height() * real_height - 
+						large_child.height() / 2) * -1;
+					//Margin adjustment
+					ratio = real_width / small_child.width();
+					if (margins[1] == undefined) {
+						obj_width = obj.width();
+						small_width = small_child.width();
+						x_margin = ((obj_width - small_width) / 2) * ratio;
+					} else {
+						x_margin = parseInt(margins[1].replace("px", "")) * ratio;
+					}
+					var bgp = (lrg_img_x + x_margin) + "px " + lrg_img_y + "px";
+					
+					//Time to move the magnifying glass with the mouse
+					var mag_x = mouse_x - large_child.width() / 2;
+					var mag_y = mouse_y - large_child.height() / 2;
+					//Now the glass moves with the mouse
+					//The logic is to deduct half of the glass's width and height from the 
+					//mouse coordinates to place it with its center at the mouse coordinates
+					
+					//If you hover on the image now, you should see the magnifying glass in action
+					large_child.css({left: mag_x, top: mag_y, backgroundPosition: bgp});
+				}
+			}
+		}
+	})
+}
+
+function toggleMagnify(btn) {
+	var mg_obj = $(btn).closest(".magbutton").siblings(".mag-div");
+	if ($(btn).hasClass("active")) {
+		mg_obj.removeClass("magnify");
+		mg_obj.unbind('mousemove');
+	} else {
+		mg_obj.addClass("magnify");
+		addMouseMoveMag(mg_obj);
+	}
+}
+
+$(document).on("wb-ready.wb-lbx", function(event) {
+	/* var real_width = 0;
+	var real_height = 0;
+	var prev_src = ""; */
+	
+	//$(".large").css("background","url('" + $(".small").attr("src") + "') no-repeat");
+	$(".large").each(function() {
+		small_sib = $(this).siblings(".small");
+		$(this).css("background","url('" + small_sib.attr("src") + "') no-repeat");
+		var image_object = new Image();
+		image_object.src = small_sib.attr("src");
+		sm_width = small_sib.width();
+		sm_height = small_sib.height();
+		lg_width = image_object.width;
+		lg_height = image_object.height;
+		
+		if (sm_width == lg_width && sm_height == lg_height) {
+			$(this).parent().removeClass("magnify");
+		}
+	});
+	
+	//Now the mousemove function
+	/* $(".magnify").mousemove(function(e){
+		if ($(this).parent().hasClass("active")) {
+			
+			//Find the child button
+			//var button_child = $(this).children(".btn");
+			
+			//if (button_child.hasClass("active")) {
+			
+			var large_child = $(this).children(".large");
+			var small_child = $(this).children(".small");
+			
+			if (prev_src != small_child.attr("src")) {
+				real_width = 0;
+				real_height = 0;
+				prev_src = small_child.attr("src");
+				//large_child.css('margin', small_child.css('margin'));
+				margins = small_child.css('margin').split(" ");
+			}
+		
+			//When the user hovers on the image, the script will first calculate
+			//the native dimensions if they don't exist. Only after the native dimensions
+			//are available, the script will show the zoomed version.
+			if (!real_width && !real_height) {
+				//This will create a new image object with the same image as that in .small
+				//We cannot directly get the dimensions from .small because of the 
+				//width specified to 200px in the html. To get the actual dimensions we have
+				//created this image object.
+				var image_object = new Image();
+				image_object.src = small_child.attr("src");
+				
+				//This code is wrapped in the .load function which is important.
+				//width and height of the object would return 0 if accessed before 
+				//the image gets loaded.
+				real_width = image_object.width;
+				real_height = image_object.height;
+			} else {
+				//x/y coordinates of the mouse
+				//This is the position of .magnify with respect to the document.
+				//NOTE: $(this) = div.magnify
+				var magnify_offset = $(this).offset();
+				//var magnify_offset = $(this).position()
+				
+				//We will deduct the positions of .magnify from the mouse positions with
+				//respect to the document to get the mouse positions with respect to the 
+				//container(.magnify)
+				var mouse_x = e.pageX - magnify_offset.left;
+				var mouse_y = e.pageY - magnify_offset.top;
+				
+				//Finally the code to fade out the glass if the mouse is outside the 
+				//	container
+				if (mouse_x < $(this).width() && mouse_y < $(this).height() && 
+					mouse_x > 0 && mouse_y > 0) {
+					large_child.fadeIn(100);
+				} else {
+					large_child.fadeOut(100);
+				}
+				
+				if (large_child.is(":visible"))
+				{
+					//The background position of .large will be changed according to the position
+					//of the mouse over the .small image. So we will get the ratio of the pixel
+					//under the mouse pointer with respect to the image and use that to position 
+					//the large image inside the magnifying glass
+					var lrg_img_x = Math.round(mouse_x / small_child.width() * real_width - 
+						large_child.width() / 2) * -1;
+					var lrg_img_y = Math.round(mouse_y / small_child.height() * real_height - 
+						large_child.height() / 2) * -1;
+					//Margin adjustment
+					ratio = real_width / small_child.width();
+					x_margin = parseInt(margins[1].replace("px", "")) * ratio;
+					var bgp = (lrg_img_x + x_margin) + "px " + lrg_img_y + "px";
+					
+					//Time to move the magnifying glass with the mouse
+					var mag_x = mouse_x - large_child.width() / 2;
+					var mag_y = mouse_y - large_child.height() / 2;
+					//Now the glass moves with the mouse
+					//The logic is to deduct half of the glass's width and height from the 
+					//mouse coordinates to place it with its center at the mouse coordinates
+					
+					//If you hover on the image now, you should see the magnifying glass in action
+					large_child.css({left: mag_x, top: mag_y, backgroundPosition: bgp});
+				}
+			}
+		}
+	}) */
+});
 
 function showPopup(props, featId) {
 	//info.tooltip('hide');
