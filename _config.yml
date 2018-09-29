@@ -1,4 +1,0 @@
-name: Kevin Ballantyne's Page
-markdown: kramdown
-gems:
-  - jekyll-redirect-from

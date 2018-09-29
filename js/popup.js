@@ -105,10 +105,14 @@ function create_photo_html(photos) {
 	// Create the warppers for each image in the carousel
 	for (var i = 0; i < photos.length; i++) {
 		caption = photos[i]['caption'];
-		link = photos[i]['link'];
-		img_src = photos[i]['img_src'];
-		date_taken = photos[i]['date_taken'].replace('Date Taken: ', '');
-		source = photos[i]['source'].replace('Source: ', '');
+		//link = photos[i]['link'];
+		img_url = photos[i]['url'];
+		modern_url = photos[i]['modernUrl'];
+		date_taken = photos[i]['dateTaken']; //.replace('Date Taken: ', '');
+		//source = photos[i]['source'].replace('Source: ', '');
+		source = photos[i]['sources'][0]
+		src_link = source['url']
+		src_name = source['name']
 		if (i == 0) {
 			active_str = ' active';
 		} else {
@@ -138,22 +142,22 @@ function create_photo_html(photos) {
 		window.alert("carousel_height: " + carousel_height); */
 	
 		//if (img_height > carousel_height) {
-		if (img_src.length > 1) {
+		if (modern_url) {
 			photo_html += ['', '<div class="item' + active_str + ' carousel-item">', 
 								'<div id="cf2">', 
-									'<img class="bottom carousel-img" src="' + img_src[1] + '" alt="" onclick="imgClick()">', 
+									'<img class="bottom carousel-img" src="' + modern_url + '" alt="" onclick="imgClick()">', 
 									//'<div class="mag-div magnify">', 
 									'<div class="mag-div">', 
 										'<div class="large"></div>', 
-										'<img class="small top carousel-img" src="' + img_src[0] + '" alt="" onclick="imgClick()">', 
+										'<img class="small top carousel-img" src="' + img_url + '" alt="" onclick="imgClick()">', 
 									'</div>',
 								'</div>', 
 								'<div class="carousel-caption">', 
 									'<p class="carousel-text-sm">***Click on image to toggle between then & now***</p>', 
 									'<hr class="trim" style="height:1px;border:none;color:#333;background-color:#AAAAAA">', 
 									'<p class="carousel-caption-txt">' + caption + '</p>', 
-									'<p class="carousel-text-sm">Date Taken:' + date_taken + '</p>', 
-									'<p class="carousel-text-sm">Source: <a href="' + link + '">' + source + '</a></p>', 
+									'<p class="carousel-text-sm">Date Taken: ' + date_taken + '</p>', 
+									'<p class="carousel-text-sm">Source: <a href="' + src_link + '">' + src_name + '</a></p>', 
 								'</div>', 
 							'</div>'
 						  ].join('\n');
@@ -162,7 +166,7 @@ function create_photo_html(photos) {
 								//'<div class="mag-div magnify">',
 								'<div class="mag-div">',
 									'<div class="large"></div>',
-									'<img class="small carousel-img" src="' + img_src[0] + '" alt="">', 
+									'<img class="small carousel-img" src="' + img_url + '" alt="">', 
 								'</div>', 
 								'<div class="magbutton">', 
 									//'<button type="button" class="btn btn-info" onclick="toggleMagnify(this)" data-toggle="button" aria-pressed="false" autocomplete="off"><i class="glyphicon glyphicon-zoom-in"></i></button>', 									
@@ -175,7 +179,7 @@ function create_photo_html(photos) {
 								'<div class="carousel-caption">', 
 									'<p class="carousel-caption-txt">' + caption + '</p>', 
 									'<p class="carousel-text-sm">Date Taken: ' + date_taken + '</p>', 
-									'<p class="carousel-text-sm">Source: <a href="' + link + '">' + source + '</a></p>', 
+									'<p class="carousel-text-sm">Source: <a href="' + src_link + '">' + src_name + '</a></p>', 
 								'</div>', 
 							'</div>'
 						  ].join('\n');
@@ -231,7 +235,7 @@ function create_photo_html(photos) {
 	photo_html += ['', '<ul class="thumbnails-carousel clearfix">'].join('\n');
 	
 	for (var i = 0; i < photos.length; i++) {
-		img_src = photos[i]['img_src'][0];
+		img_src = photos[i]['url'];
 		photo_html += ['', '<li><img class="tn" src="' + img_src + '" alt=""></li>'].join('\n');
 	}
 	
@@ -466,7 +470,7 @@ $(document).on("wb-ready.wb-lbx", function(event) {
 function showPopup(props, featId) {
 	//info.tooltip('hide');
 
-	$(".modal-title").html(props['name']).text();
+	$(".modal-title").html(props['buildingName']).text();
 
 	popup_html = getPopupContent();
 	popup_html = popup_html.replace('${id}', checkInput(props['id']));
@@ -477,32 +481,28 @@ function showPopup(props, featId) {
 	popup_html = popup_html.replace('${history}', checkInput(props['history']));
 	popup_html = popup_html.replace('${addrss}', checkInput(props['addrss']));
 	popup_html = popup_html.replace('${occupant}', checkInput(props['occupant']));
-	//featId = checkInput(props['id'])
 	
 	// Create links for sources:
-	/* src_text = props['sources'];
-	start_pos = src_text.indexOf("http");
-	end_pos = src_text.indexOf("\n", start_pos); */
 	sources = checkInput(props['sources']);
-	sources = sources.replace(/<a/g, '<a target="_blank" class="popup-a"');
-	popup_html = popup_html.replace('${sources}', sources);
+	if (sources.length > 0) {
+		//sources = sources.replace(/<a/g, '<a target="_blank" class="popup-a"');
+		source_html = '';
+		for (var i = 0; i < sources.length; i++) {
+			src_name = sources[i]['name'];
+			src_url = sources[i]['url'];
+			source_html += [src_name + ':',
+							'<a href="' + src_url + '">', 
+								src_url, 
+							'</a>', 
+							'<br>'
+						  ].join('\n');
+		}
+		popup_html = popup_html.replace('${sources}', source_html);
+	} else {
+		popup_html = popup_html.replace('${sources}', 'n/a');
+	}
 	
-	// Parse the photos HTML:
-	//alert(props['photos']);
-	// parsed_html = $.parseHTML(props['photos']);
-	// //alert(parsed_html);
-	// nodeNames = [];
-	// nodeData = [];
-	
-	// $.each(parsed_html, function(i, el) {
-		// //alert(el.nodeName);
-		// //alert(el.length);
-		// //alert(el.data);
-		// nodeNames[i] = el.nodeName;
-		// nodeData[i] = el.data;
-	// });
-	
-	photo_html = props['photos'];
+	/* photo_html = props['photos'];
 	parser = new DOMParser();
 	htmlDoc = parser.parseFromString(photo_html, "text/html");
 	
@@ -512,21 +512,12 @@ function showPopup(props, featId) {
 		htmlDoc.innerHTML = photo_html;
 	}
 	
-	//td_elements = htmlDoc.getElementsByTagName('td');
 	table_elements = htmlDoc.getElementsByClassName('container');
-	//a_elements = htmlDoc.getElementsByTagName('a');
-	
-	//alert(table_elements.length);
-	//alert(a_elements);
-	// for (var i = 0; i < a_elements.length; i++) {
-	//	alert(a_elements[i]);
-	// }
 	
 	// Grab each photo info:
 	var photos = [];
 	for (var i = 0; i < table_elements.length; i++) {
-		//alert('Node Name: ' + table_elements[i].nodeName);
-		//alert('Text: ' + table_elements[i].innerText);
+		
 		var photo = {};
 		child_elements = table_elements[i].children;
 		
@@ -567,44 +558,11 @@ function showPopup(props, featId) {
 			photo['link'] = link;
 		}
 		photos.push(photo);
-		
-		/* child_elements = table_elements[i].children;
-		//alert(child_elements);
-		for (var j = 0; j < child_elements.length; j++) {
-			//alert(child_elements[j].rows);
-			table_rows = child_elements[j].rows;
-			// Get the caption of the current photo:
-			caption = table_rows[0].innerText;
-			photo['caption'] = caption;
-			//alert('Caption: ' + caption.trim());
-			// Get the link of the current photo:
-			a_element = table_rows[1].getElementsByTagName('a');
-			if (a_element.length == 0) {
-				photo['link'] = "";
-			} else {
-				link = a_element[0].href;
-				photo['link'] = link;
-			}
-			//alert('Link: ' + link.trim());
-			// Get the src of the image:
-			img_element = table_rows[1].getElementsByTagName('img');
-			img_src = img_element[0].src;
-			photo['img_src'] = img_src;
-			//alert('Src: ' + src);
-			// Get the source info and parse:
-			source_str = table_rows[2].innerText;
-			sources = source_str.trim().split(/\r?\n/).filter(Boolean);
-			date_taken = sources[0];
-			source = sources[1];
-			photo['date_taken'] = date_taken;
-			photo['source'] = source;
-			//alert('Date Taken: ' + date_taken);
-			//alert('Source: ' + source);
-			photos.push(photo);
-		} */
-	}
+	} */
 	
-	new_ph_html = create_photo_html(photos);
+	photo_info = props['photos'];
+	
+	new_ph_html = create_photo_html(photo_info);
 	//alert(new_ph_html);
 	
 	popup_html = popup_html.replace('${photos}', new_ph_html);
