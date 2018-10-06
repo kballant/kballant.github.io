@@ -185,6 +185,7 @@ function fillFeature(feature) {
 			colour = 'rgba(128,128,128,0.5)'
 			break;
 		default:
+			window.alert(classification);
 			colour = 'rgba(255,255,255,0.5)'
 	}
 	
@@ -761,7 +762,7 @@ var roadLayer = new ol.layer.Vector({
 var buildingLayer = new ol.layer.Vector({
 	title: 'Bygone Buildings of Ottawa',
 	source: new ol.source.Vector({
-		url: '../files/Ottawa_Bygone_Buildings.geojson', 
+		url: '../files/Ottawa_Bygone_Buildings.json', 
 		format: new ol.format.GeoJSON({
 			dataProjection: 'EPSG:3857', featureProjection: 'EPSG:3857'
 		})

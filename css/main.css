@@ -550,6 +550,14 @@ ul.resume.posts {
     visibility: visible;
 }
 
+.select-text {
+	color: #000000;
+}
+
+.download-btn {
+	line-height: 18px;
+}
+
 @media (min-width: 767px) {
 	.dropdown:hover .dropdown-menu {
 		/* display: block; */
