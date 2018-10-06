@@ -157,7 +157,7 @@ function create_photo_html(photos) {
 									'<hr class="trim" style="height:1px;border:none;color:#333;background-color:#AAAAAA">', 
 									'<p class="carousel-caption-txt">' + caption + '</p>', 
 									'<p class="carousel-text-sm">Date Taken: ' + date_taken + '</p>', 
-									'<p class="carousel-text-sm">Source: <a href="' + src_link + '">' + src_name + '</a></p>', 
+									'<p class="carousel-text-sm">Source: <a href="' + src_link + '" target="_blank">' + src_name + '</a></p>', 
 								'</div>', 
 							'</div>'
 						  ].join('\n');
@@ -179,7 +179,7 @@ function create_photo_html(photos) {
 								'<div class="carousel-caption">', 
 									'<p class="carousel-caption-txt">' + caption + '</p>', 
 									'<p class="carousel-text-sm">Date Taken: ' + date_taken + '</p>', 
-									'<p class="carousel-text-sm">Source: <a href="' + src_link + '">' + src_name + '</a></p>', 
+									'<p class="carousel-text-sm">Source: <a href="' + src_link + '" target="_blank">' + src_name + '</a></p>', 
 								'</div>', 
 							'</div>'
 						  ].join('\n');
@@ -491,7 +491,7 @@ function showPopup(props, featId) {
 			src_name = sources[i]['name'];
 			src_url = sources[i]['url'];
 			source_html += [src_name + ':',
-							'<a href="' + src_url + '">', 
+							'<a href="' + src_url + '" target="_blank">', 
 								src_url, 
 							'</a>', 
 							'<br>'
