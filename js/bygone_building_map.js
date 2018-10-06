@@ -762,7 +762,7 @@ var roadLayer = new ol.layer.Vector({
 var buildingLayer = new ol.layer.Vector({
 	title: 'Bygone Buildings of Ottawa',
 	source: new ol.source.Vector({
-		url: '../files/Ottawa_Bygone_Buildings.json', 
+		url: '../files/Ottawa_Bygone_Buildings.geojson', 
 		format: new ol.format.GeoJSON({
 			dataProjection: 'EPSG:3857', featureProjection: 'EPSG:3857'
 		})
