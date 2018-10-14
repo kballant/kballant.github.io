@@ -7232,17 +7232,17 @@
                 "buildingName": "Family Theatre", 
                 "classification": "commercial", 
                 "dateBuilt": "1911", 
-                "dateDemolished": null, 
+                "dateDemolished": "", 
                 "status": "Location now occupied by the Sun Life Financial Centre.", 
-                "history": "", 
+                "history": "The Family Theatre was built as a vaudeville house with a 1,142-seat capacity. In about 1912, the theatre became one of the first theatres in Ottawa to show films. However, throughout its existence the theatre was used for plays and burlesque shows. The theatre went through several name changes such as the Franklin, the Capital, the Galvin and the Embassy. The theatre was closed in 1932.", 
                 "address": {
                     "unitNumber": "80", 
                     "street": "Queen Street", 
                     "neighbourhood": "Centretown"
                 }, 
-                "occupant": null, 
+                "occupant": "", 
                 "dateAdded": "2015-01-31", 
-                "dateUpdated": "2015-01-31", 
+                "dateUpdated": "2018-10-06", 
                 "architects": [], 
                 "photos": [
                     {
@@ -7258,7 +7258,12 @@
                         ]
                     }
                 ], 
-                "sources": []
+                "sources": [
+                    {
+                        "name": "All that Glitters: A Memorial to Ottawa's Capitol Theatre and its Predecessors", 
+                        "url": "http://parkscanadahistory.com/series/chs/13/chs13-1n.htm"
+                    }
+                ]
             }, 
             "geometry": {
                 "type": "Polygon", 

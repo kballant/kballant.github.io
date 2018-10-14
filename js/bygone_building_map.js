@@ -1067,12 +1067,14 @@ var highlightFeature = function(pixel) {
 				$('.tooltip > .tooltip-inner').removeClass('road-info');
 				
 				// Get the name of the tool name
-				var toolname = $('<div>').html(feature.get('name')).html().replace(/&amp;/g, '&');
+				//var toolname = $('<div>').html(feature.get('name')).html().replace(/&amp;/g, '&');
+				var props = feature.getProperties();
+				var buildName = props['buildingName']
 				
 				// Hide any previous tooltips
 				info.tooltip('hide')
 				// Change the 'data-original-title' attribute to the tool name
-					.attr('data-original-title', toolname)
+					.attr('data-original-title', buildName)
 				// Set the title of the tool tip
 					.tooltip('fixTitle')
 				// Show the tool tip where the cursor is
