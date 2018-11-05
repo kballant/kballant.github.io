@@ -34932,7 +34932,7 @@
                 "address": {
                     "unitNumber": "24", 
                     "street": "Lydia Street", 
-                    "neighbourhood": ""
+                    "neighbourhood": "West Centretown"
                 }, 
                 "occupant": null, 
                 "dateAdded": "2018-10-25", 
@@ -35015,7 +35015,7 @@
                 "address": {
                     "unitNumber": "385", 
                     "street": "Sparks Street", 
-                    "neighbourhood": "centretown"
+                    "neighbourhood": "Centretown"
                 }, 
                 "occupant": null, 
                 "dateAdded": "2018-11-04", 
@@ -35086,7 +35086,7 @@
                 "address": {
                     "unitNumber": "215", 
                     "street": "Metcalfe Street", 
-                    "neighbourhood": "centretown"
+                    "neighbourhood": "Centretown"
                 }, 
                 "occupant": null, 
                 "dateAdded": "2018-11-04", 
@@ -35221,7 +35221,7 @@
             "properties": {
                 "id": 395, 
                 "buildingName": "Fire Station No. 3", 
-                "classification": "Institution", 
+                "classification": "institute", 
                 "dateBuilt": "", 
                 "dateDemolished": "", 
                 "status": "Location now occupied by Hamelin Hall (University of Ottawa).", 

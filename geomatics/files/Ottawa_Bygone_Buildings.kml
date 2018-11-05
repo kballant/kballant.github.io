@@ -35663,7 +35663,7 @@ Library & Archives Canada, MIKAN no. 3345227</a></small>
     </Placemark>
     <Placemark>
       <name><![CDATA[Fire Station No. 3]]></name>
-      <styleUrl>#residential_map</styleUrl>
+      <styleUrl>#institute_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[395]]></value>
