@@ -35495,6 +35495,670 @@ Library & Archives Canada, MIKAN no. 4169796</a></small>
         </outerBoundaryIs>
       </Polygon>
     </Placemark>
+    <Placemark>
+      <name><![CDATA[385 Sparks Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[393]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[385 Sparks Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[Location now occupied by the Garden of the Provinces.]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[385 Sparks Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - Looking north west at Sparks-Bay intersection (385 Sparks is the centre-left building).
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/385_Sparks_Street_e010900556.jpg" title="Looking north west at Sparks-Bay intersection (385 Sparks is the centre-left building)." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 15 July 1938<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4125129">
+Library & Archives Canada, MIKAN no. 4125129</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.7074143866,45.4186550042,0.0 -75.7073489887,45.4186829864,0.0 -75.7074003514,45.4187468132,0.0 -75.7074363675,45.4187319386,0.0 -75.7074958164,45.4188032433,0.0 -75.7075304968,45.4187889822,0.0 -75.7074143866,45.4186550042,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[215 Metcalfe Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[394]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[215 Metcalfe Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[Location now occupied by the Regency Towers.]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[215 Metcalfe Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - View of northeast corner of Metcalfe & Cooper Streets.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/215_Metcalfe_Street_e999904492.jpg" title="View of northeast corner of Metcalfe & Cooper Streets." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: July 1961<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3345227">
+Library & Archives Canada, MIKAN no. 3345227</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.692933039,45.418104066,0.0 -75.6929199045,45.4180895344,0.0 -75.6929347329,45.418085007,0.0 -75.692888894,45.4180276267,0.0 -75.6930149156,45.4179765235,0.0 -75.6929718784,45.417927112,0.0 -75.6929311225,45.4179434944,0.0 -75.6929094438,45.4179210983,0.0 -75.6928853854,45.4179296928,0.0 -75.6928562019,45.4178937571,0.0 -75.6928044936,45.4179133837,0.0 -75.6927994954,45.417907397,0.0 -75.6927838249,45.4179142399,0.0 -75.6927775992,45.4179065427,0.0 -75.6927400979,45.4179210981,0.0 -75.6927463136,45.4179305534,0.0 -75.6927232186,45.4179400379,0.0 -75.692730624,45.4179469542,0.0 -75.6926657804,45.4179730296,0.0 -75.692697916,45.4180099093,0.0 -75.6927299242,45.4179975673,0.0 -75.6928382517,45.4181250732,0.0 -75.6928482173,45.4181214097,0.0 -75.6928586739,45.4181342505,0.0 -75.692933039,45.418104066,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Fire Station No. 3]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[395]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[Fire Station No. 3]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[Location now occupied by Hamelin Hall (University of Ottawa).]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - Front of Fire Station No. 3
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Fire_Station_No3_e999904498.jpg" title="Front of Fire Station No. 3" border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: July 1961<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3345227">
+Library & Archives Canada, MIKAN no. 3345227</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.685961009,45.4236476472,0.0 -75.6860360936,45.4237347304,0.0 -75.6860140014,45.4237430725,0.0 -75.6860403082,45.4237689767,0.0 -75.6860599475,45.4237614665,0.0 -75.6860861556,45.4237925007,0.0 -75.686069002,45.4237974691,0.0 -75.6860590095,45.4238102018,0.0 -75.6860721465,45.4238240089,0.0 -75.6860891684,45.4238258806,0.0 -75.6861050873,45.4238217557,0.0 -75.6861113923,45.4238106984,0.0 -75.6861030623,45.4238003575,0.0 -75.686218577,45.4237492878,0.0 -75.686120873,45.4236346252,0.0 -75.6861564969,45.42361957,0.0 -75.6861219096,45.4235807599,0.0 -75.685961009,45.4236476472,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[374 Nepean Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[396]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[374 Nepean Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[Location now occupied by Centennial Public School.]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[374 Nepean Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - Rowhouses along Nepean Street at the corner of Percy Street.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/374-382_Nepean_Street_e999904507.jpg" title="Rowhouses along Nepean Street at the corner of Percy Street." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: July 1961<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3345227">
+Library & Archives Canada, MIKAN no. 3345227</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.7039685887,45.4149494157,0.0 -75.7039693207,45.4149329545,0.0 -75.70398603,45.4149267303,0.0 -75.7038495332,45.4147593638,0.0 -75.7038056391,45.4147773854,0.0 -75.7038859654,45.4148754334,0.0 -75.7038617341,45.4148861722,0.0 -75.7039174306,45.4149533012,0.0 -75.7039449267,45.4149578596,0.0 -75.7039685887,45.4149494157,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[376 Nepean Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[397]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[376 Nepean Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[Location now occupied by Centennial Public School.]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[376 Nepean Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - Rowhouses along Nepean Street at the corner of Percy Street.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/374-382_Nepean_Street_e999904507.jpg" title="Rowhouses along Nepean Street at the corner of Percy Street." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: July 1961<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3345227">
+Library & Archives Canada, MIKAN no. 3345227</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.704036726,45.4149206585,0.0 -75.7040373028,45.414903468,0.0 -75.7040517824,45.4148967329,0.0 -75.7039184392,45.4147342418,0.0 -75.7038742306,45.4147508081,0.0 -75.7039215269,45.4148083924,0.0 -75.7039100071,45.4148140722,0.0 -75.7039446517,45.4148521355,0.0 -75.703932094,45.4148579241,0.0 -75.7039858745,45.4149260018,0.0 -75.7040095325,45.4149324531,0.0 -75.704036726,45.4149206585,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[378 Nepean Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[398]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[378 Nepean Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[Location now occupied by Centennial Public School.]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[378 Nepean Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - Rowhouses along Nepean Street at the corner of Percy Street.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/374-382_Nepean_Street_e999904507.jpg" title="Rowhouses along Nepean Street at the corner of Percy Street." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: July 1961<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3345227">
+Library & Archives Canada, MIKAN no. 3345227</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.7041044528,45.4148949217,0.0 -75.7041044996,45.4148775151,0.0 -75.704122527,45.4148691055,0.0 -75.7039884942,45.4147045286,0.0 -75.7039435548,45.4147226625,0.0 -75.7039898168,45.4147803579,0.0 -75.7039819808,45.4147834163,0.0 -75.7040167836,45.4148222093,0.0 -75.7039974265,45.4148309474,0.0 -75.7040519378,45.4148974613,0.0 -75.7040767909,45.4149045319,0.0 -75.7041044528,45.4148949217,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[380 Nepean Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[399]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[380 Nepean Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[Location now occupied by Centennial Public School.]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[380 Nepean Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - Rowhouses along Nepean Street at the corner of Percy Street.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/374-382_Nepean_Street_e999904507.jpg" title="Rowhouses along Nepean Street at the corner of Percy Street." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: July 1961<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3345227">
+Library & Archives Canada, MIKAN no. 3345227</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.7041730653,45.4148665428,0.0 -75.7041756598,45.4148477545,0.0 -75.7041894917,45.4148432317,0.0 -75.7040559379,45.4146781592,0.0 -75.7040081551,45.4146972823,0.0 -75.7040557012,45.4147540659,0.0 -75.7040472129,45.4147578778,0.0 -75.7040792568,45.414795089,0.0 -75.7040679543,45.414800752,0.0 -75.7041233553,45.4148702136,0.0 -75.7041475098,45.4148762121,0.0 -75.7041730653,45.4148665428,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[382 Nepean Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[400]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[382 Nepean Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[Location now occupied by Centennial Public School.]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[382 Nepean Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - Rowhouses along Nepean Street at the corner of Percy Street.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/374-382_Nepean_Street_e999904507.jpg" title="Rowhouses along Nepean Street at the corner of Percy Street." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: July 1961<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3345227">
+Library & Archives Canada, MIKAN no. 3345227</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.7042387837,45.414838822,0.0 -75.7042423255,45.4148208769,0.0 -75.7042558332,45.4148156574,0.0 -75.7041208843,45.4146517562,0.0 -75.7040802034,45.4146685951,0.0 -75.7041287863,45.4147253398,0.0 -75.7041175327,45.4147301356,0.0 -75.7041503031,45.4147676032,0.0 -75.70413503,45.4147736403,0.0 -75.7041892921,45.4148424858,0.0 -75.7042149176,45.4148497854,0.0 -75.7042387837,45.414838822,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
   </Document>
 </kml>
 

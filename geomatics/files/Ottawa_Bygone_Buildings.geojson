@@ -35001,6 +35001,782 @@
                     ]
                 ]
             }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 393, 
+                "buildingName": "385 Sparks Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "Location now occupied by the Garden of the Provinces.", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "385", 
+                    "street": "Sparks Street", 
+                    "neighbourhood": "centretown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-11-04", 
+                "dateUpdated": "2018-11-04", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "Looking north west at Sparks-Bay intersection (385 Sparks is the centre-left building).", 
+                        "dateTaken": "1938-07-15", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/385_Sparks_Street_e010900556.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "Library & Archives Canada, MIKAN no. 4125129", 
+                                "url": "http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=4125129"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8427710.818793904, 
+                            5687672.713861949
+                        ], 
+                        [
+                            -8427703.538725452, 
+                            5687677.151637466
+                        ], 
+                        [
+                            -8427709.256399792, 
+                            5687687.274100884
+                        ], 
+                        [
+                            -8427713.265696168, 
+                            5687684.915098698
+                        ], 
+                        [
+                            -8427719.883521026, 
+                            5687696.2235185485
+                        ], 
+                        [
+                            -8427723.744121999, 
+                            5687693.961804854
+                        ], 
+                        [
+                            -8427710.818793904, 
+                            5687672.713861949
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 394, 
+                "buildingName": "215 Metcalfe Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "Location now occupied by the Regency Towers.", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "215", 
+                    "street": "Metcalfe Street", 
+                    "neighbourhood": "centretown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-11-04", 
+                "dateUpdated": "2018-11-04", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "View of northeast corner of Metcalfe & Cooper Streets.", 
+                        "dateTaken": "1961-07", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/215_Metcalfe_Street_e999904492.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "Library & Archives Canada, MIKAN no. 3345227", 
+                                "url": "http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3345227"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8426098.762552505, 
+                            5687585.339590656
+                        ], 
+                        [
+                            -8426097.300421054, 
+                            5687583.035004292
+                        ], 
+                        [
+                            -8426098.951111035, 
+                            5687582.317002514
+                        ], 
+                        [
+                            -8426093.848353628, 
+                            5687573.217005961
+                        ], 
+                        [
+                            -8426107.877008926, 
+                            5687565.112512313
+                        ], 
+                        [
+                            -8426103.08613448, 
+                            5687557.276305367
+                        ], 
+                        [
+                            -8426098.549207453, 
+                            5687559.874401958
+                        ], 
+                        [
+                            -8426096.135946421, 
+                            5687556.322596485
+                        ], 
+                        [
+                            -8426093.457774121, 
+                            5687557.685602327
+                        ], 
+                        [
+                            -8426090.209078891, 
+                            5687551.986533939
+                        ], 
+                        [
+                            -8426084.452940894, 
+                            5687555.09913537
+                        ], 
+                        [
+                            -8426083.896545963, 
+                            5687554.149696849
+                        ], 
+                        [
+                            -8426082.152108194, 
+                            5687555.23491551
+                        ], 
+                        [
+                            -8426081.459069202, 
+                            5687554.014209116
+                        ], 
+                        [
+                            -8426077.284443738, 
+                            5687556.322561055
+                        ], 
+                        [
+                            -8426077.976378696, 
+                            5687557.822082984
+                        ], 
+                        [
+                            -8426075.405446853, 
+                            5687559.326235759
+                        ], 
+                        [
+                            -8426076.229817664, 
+                            5687560.423100131
+                        ], 
+                        [
+                            -8426069.01145541, 
+                            5687564.5584105365
+                        ], 
+                        [
+                            -8426072.588782053, 
+                            5687570.407191134
+                        ], 
+                        [
+                            -8426076.151915396, 
+                            5687568.449862699
+                        ], 
+                        [
+                            -8426088.21087159, 
+                            5687588.671132442
+                        ], 
+                        [
+                            -8426089.320241315, 
+                            5687588.090138254
+                        ], 
+                        [
+                            -8426090.484260939, 
+                            5687590.126577915
+                        ], 
+                        [
+                            -8426098.762552505, 
+                            5687585.339590656
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 395, 
+                "buildingName": "Fire Station No. 3", 
+                "classification": "Institution", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "Location now occupied by Hamelin Hall (University of Ottawa).", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "", 
+                    "street": "Laurier Avenue East", 
+                    "neighbourhood": "Sandy Hill"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-11-04", 
+                "dateUpdated": "2018-11-04", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "Front of Fire Station No. 3", 
+                        "dateTaken": "1961-07", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Fire_Station_No3_e999904498.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "Library & Archives Canada, MIKAN no. 3345227", 
+                                "url": "http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&rec_nbr=3345227"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8425322.639720548, 
+                            5688464.545002911
+                        ], 
+                        [
+                            -8425330.998098763, 
+                            5688478.356977513
+                        ], 
+                        [
+                            -8425328.538806165, 
+                            5688479.680098678
+                        ], 
+                        [
+                            -8425331.467262927, 
+                            5688483.788689843
+                        ], 
+                        [
+                            -8425333.65350528, 
+                            5688482.597512915
+                        ], 
+                        [
+                            -8425336.57097206, 
+                            5688487.519761577
+                        ], 
+                        [
+                            -8425334.661444895, 
+                            5688488.3077745
+                        ], 
+                        [
+                            -8425333.5490884, 
+                            5688490.327265719
+                        ], 
+                        [
+                            -8425335.011486817, 
+                            5688492.517172218
+                        ], 
+                        [
+                            -8425336.906360222, 
+                            5688492.814037318
+                        ], 
+                        [
+                            -8425338.678446745, 
+                            5688492.1598015325
+                        ], 
+                        [
+                            -8425339.380308822, 
+                            5688490.406033093
+                        ], 
+                        [
+                            -8425338.453022951, 
+                            5688488.765893785
+                        ], 
+                        [
+                            -8425351.312064763, 
+                            5688480.665883514
+                        ], 
+                        [
+                            -8425340.435699336, 
+                            5688462.47962603
+                        ], 
+                        [
+                            -8425344.401340434, 
+                            5688460.0917791305
+                        ], 
+                        [
+                            -8425340.551097183, 
+                            5688453.936237167
+                        ], 
+                        [
+                            -8425322.639720548, 
+                            5688464.545002911
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 396, 
+                "buildingName": "374 Nepean Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "Location now occupied by Centennial Public School.", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "374", 
+                    "street": "Nepean Street", 
+                    "neighbourhood": "Centretown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-11-04", 
+                "dateUpdated": "2018-11-04", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "Rowhouses along Nepean Street at the corner of Percy Street.", 
+                        "dateTaken": "1961-07", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/374-382_Nepean_Street_e999904507.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "Library & Archives Canada, MIKAN no. 3345227", 
+                                "url": "http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3345227"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8427327.23431883, 
+                            5687085.054323076
+                        ], 
+                        [
+                            -8427327.315814283, 
+                            5687082.443860577
+                        ], 
+                        [
+                            -8427329.175875144, 
+                            5687081.456809629
+                        ], 
+                        [
+                            -8427313.981127618, 
+                            5687054.915519785
+                        ], 
+                        [
+                            -8427309.094862653, 
+                            5687057.7734157685
+                        ], 
+                        [
+                            -8427318.036739333, 
+                            5687073.322051584
+                        ], 
+                        [
+                            -8427315.339328377, 
+                            5687075.025031898
+                        ], 
+                        [
+                            -8427321.539431935, 
+                            5687085.670485373
+                        ], 
+                        [
+                            -8427324.600281192, 
+                            5687086.393370529
+                        ], 
+                        [
+                            -8427327.23431883, 
+                            5687085.054323076
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 397, 
+                "buildingName": "376 Nepean Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "Location now occupied by Centennial Public School.", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "376", 
+                    "street": "Nepean Street", 
+                    "neighbourhood": "Centretown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-11-04", 
+                "dateUpdated": "2018-11-04", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "Rowhouses along Nepean Street at the corner of Percy Street.", 
+                        "dateTaken": "1961-07", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/374-382_Nepean_Street_e999904507.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "Library & Archives Canada, MIKAN no. 3345227", 
+                                "url": "http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3345227"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8427334.819332257, 
+                            5687080.493935216
+                        ], 
+                        [
+                            -8427334.88354746, 
+                            5687077.76783334
+                        ], 
+                        [
+                            -8427336.495401133, 
+                            5687076.699763809
+                        ], 
+                        [
+                            -8427321.65170816, 
+                            5687050.931640697
+                        ], 
+                        [
+                            -8427316.730431067, 
+                            5687053.5587511035
+                        ], 
+                        [
+                            -8427321.995423554, 
+                            5687062.690568141
+                        ], 
+                        [
+                            -8427320.71304723, 
+                            5687063.591274341
+                        ], 
+                        [
+                            -8427324.569674376, 
+                            5687069.627429053
+                        ], 
+                        [
+                            -8427323.171751918, 
+                            5687070.545391169
+                        ], 
+                        [
+                            -8427329.158575661, 
+                            5687081.341294602
+                        ], 
+                        [
+                            -8427331.792169914, 
+                            5687082.36434387
+                        ], 
+                        [
+                            -8427334.819332257, 
+                            5687080.493935216
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 398, 
+                "buildingName": "378 Nepean Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "Location now occupied by Centennial Public School.", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "378", 
+                    "street": "Nepean Street", 
+                    "neighbourhood": "Centretown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-11-04", 
+                "dateUpdated": "2018-11-04", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "Rowhouses along Nepean Street at the corner of Percy Street.", 
+                        "dateTaken": "1961-07", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/374-382_Nepean_Street_e999904507.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "Library & Archives Canada, MIKAN no. 3345227", 
+                                "url": "http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3345227"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8427342.358651714, 
+                            5687076.412544747
+                        ], 
+                        [
+                            -8427342.36385659, 
+                            5687073.652175628
+                        ], 
+                        [
+                            -8427344.370657645, 
+                            5687072.3185565015
+                        ], 
+                        [
+                            -8427329.450190237, 
+                            5687046.219677347
+                        ], 
+                        [
+                            -8427324.44756628, 
+                            5687049.095380051
+                        ], 
+                        [
+                            -8427329.597422818, 
+                            5687058.244801466
+                        ], 
+                        [
+                            -8427328.72513039, 
+                            5687058.729805026
+                        ], 
+                        [
+                            -8427332.599357225, 
+                            5687064.881670551
+                        ], 
+                        [
+                            -8427330.444531249, 
+                            5687066.267379374
+                        ], 
+                        [
+                            -8427336.51270143, 
+                            5687076.815283551
+                        ], 
+                        [
+                            -8427339.279334363, 
+                            5687077.936540257
+                        ], 
+                        [
+                            -8427342.358651714, 
+                            5687076.412544747
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 399, 
+                "buildingName": "380 Nepean Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "Location now occupied by Centennial Public School.", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "380", 
+                    "street": "Nepean Street", 
+                    "neighbourhood": "Centretown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-11-04", 
+                "dateUpdated": "2018-11-04", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "Rowhouses along Nepean Street at the corner of Percy Street.", 
+                        "dateTaken": "1961-07", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/374-382_Nepean_Street_e999904507.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "Library & Archives Canada, MIKAN no. 3345227", 
+                                "url": "http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3345227"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8427349.996555576, 
+                            5687071.91215661
+                        ], 
+                        [
+                            -8427350.285372872, 
+                            5687068.932669258
+                        ], 
+                        [
+                            -8427351.825132435, 
+                            5687068.2154376665
+                        ], 
+                        [
+                            -8427336.957997203, 
+                            5687042.037970798
+                        ], 
+                        [
+                            -8427331.63883935, 
+                            5687045.0705424845
+                        ], 
+                        [
+                            -8427336.931647448, 
+                            5687054.075367658
+                        ], 
+                        [
+                            -8427335.986734679, 
+                            5687054.679866252
+                        ], 
+                        [
+                            -8427339.553838165, 
+                            5687060.580878308
+                        ], 
+                        [
+                            -8427338.295655577, 
+                            5687061.478938693
+                        ], 
+                        [
+                            -8427344.462861119, 
+                            5687072.494290875
+                        ], 
+                        [
+                            -8427347.151734527, 
+                            5687073.445533268
+                        ], 
+                        [
+                            -8427349.996555576, 
+                            5687071.91215661
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 400, 
+                "buildingName": "382 Nepean Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "Location now occupied by Centennial Public School.", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "382", 
+                    "street": "Nepean Street", 
+                    "neighbourhood": "Centretown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-11-04", 
+                "dateUpdated": "2018-11-04", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "Rowhouses along Nepean Street at the corner of Percy Street.", 
+                        "dateTaken": "1961-07", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/374-382_Nepean_Street_e999904507.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "Library & Archives Canada, MIKAN no. 3345227", 
+                                "url": "http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3345227"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8427357.312296081, 
+                            5687067.5161364805
+                        ], 
+                        [
+                            -8427357.706560664, 
+                            5687064.670378
+                        ], 
+                        [
+                            -8427359.210233666, 
+                            5687063.842661577
+                        ], 
+                        [
+                            -8427344.187793963, 
+                            5687037.850942676
+                        ], 
+                        [
+                            -8427339.659213318, 
+                            5687040.521287032
+                        ], 
+                        [
+                            -8427345.067444744, 
+                            5687049.519941587
+                        ], 
+                        [
+                            -8427343.814697616, 
+                            5687050.280463398
+                        ], 
+                        [
+                            -8427347.462673709, 
+                            5687056.222141564
+                        ], 
+                        [
+                            -8427345.762485472, 
+                            5687057.1795201
+                        ], 
+                        [
+                            -8427351.802919567, 
+                            5687068.097155859
+                        ], 
+                        [
+                            -8427354.655528827, 
+                            5687069.254747457
+                        ], 
+                        [
+                            -8427357.312296081, 
+                            5687067.5161364805
+                        ]
+                    ]
+                ]
+            }
         }
     ]
 }
