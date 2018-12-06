@@ -7623,7 +7623,7 @@
             "type": "Feature", 
             "properties": {
                 "id": 71, 
-                "buildingName": "Y.M.C.A.", 
+                "buildingName": "Y.W.C.A.", 
                 "classification": "recreational", 
                 "dateBuilt": "", 
                 "dateDemolished": null, 
@@ -35773,6 +35773,3303 @@
                         [
                             -8427357.312296081, 
                             5687067.5161364805
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 401, 
+                "buildingName": "626-628 St. Patrick Street", 
+                "classification": "mix", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "626-628", 
+                    "street": "St. Patrick Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "View of southwest corner of Cobourg & St. Patrick Streets.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/626-628_St_Patrick_Street_1968-160.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-160.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8424777.333354132, 
+                            5690383.60246337
+                        ], 
+                        [
+                            -8424766.68031672, 
+                            5690365.935935176
+                        ], 
+                        [
+                            -8424764.620977486, 
+                            5690366.971610879
+                        ], 
+                        [
+                            -8424761.865691548, 
+                            5690362.090889636
+                        ], 
+                        [
+                            -8424760.295596253, 
+                            5690362.855097612
+                        ], 
+                        [
+                            -8424756.912214635, 
+                            5690356.186739842
+                        ], 
+                        [
+                            -8424753.44011706, 
+                            5690358.180567066
+                        ], 
+                        [
+                            -8424765.008808691, 
+                            5690378.11608372
+                        ], 
+                        [
+                            -8424763.256744046, 
+                            5690378.7954309685
+                        ], 
+                        [
+                            -8424759.5197584, 
+                            5690372.746875526
+                        ], 
+                        [
+                            -8424754.938286636, 
+                            5690375.282952975
+                        ], 
+                        [
+                            -8424764.71684318, 
+                            5690391.345230247
+                        ], 
+                        [
+                            -8424777.333354132, 
+                            5690383.60246337
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 402, 
+                "buildingName": "685 St. Patrick Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "685", 
+                    "street": "St. Patrick Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "Front view of 685 St. Patrick Street.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/685_St_Patrick_Street_1968-211-10.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-211-10.jpg"
+                            }
+                        ]
+                    }, 
+                    {
+                        "caption": "Views of 683-687 St. Patrick Street, from left to right.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/683-687_St_Patrick_Street_1968-211-11.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-211-11.jpg"
+                            }
+                        ]
+                    }, 
+                    {
+                        "caption": "681-687 St. Patrick Street taken at the end of Charlotte Street, from left to right starting with house in centre of photo with external stairwell.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/681-687_St_Patrick_Street_1968-97-03.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-97-03.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8424588.262460101, 
+                            5690531.548892933
+                        ], 
+                        [
+                            -8424581.448367313, 
+                            5690535.894071221
+                        ], 
+                        [
+                            -8424585.596035058, 
+                            5690543.596957344
+                        ], 
+                        [
+                            -8424588.756196005, 
+                            5690541.819383855
+                        ], 
+                        [
+                            -8424591.027545182, 
+                            5690545.967093609
+                        ], 
+                        [
+                            -8424595.965298451, 
+                            5690542.905710675
+                        ], 
+                        [
+                            -8424593.693949208, 
+                            5690538.6592489155
+                        ], 
+                        [
+                            -8424592.60764369, 
+                            5690539.350528619
+                        ], 
+                        [
+                            -8424588.262460101, 
+                            5690531.548892933
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 403, 
+                "buildingName": "683 St. Patrick Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "683", 
+                    "street": "St. Patrick Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "Views of 683-687 St. Patrick Street, from left to right.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/683-687_St_Patrick_Street_1968-211-11.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-211-11.jpg"
+                            }
+                        ]
+                    }, 
+                    {
+                        "caption": "681-687 St. Patrick Street taken at the end of Charlotte Street, from left to right starting with house in centre of photo with external stairwell.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/681-687_St_Patrick_Street_1968-97-03.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-97-03.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8424599.421744628, 
+                            5690525.426141014
+                        ], 
+                        [
+                            -8424592.015138887, 
+                            5690529.870076402
+                        ], 
+                        [
+                            -8424598.434159482, 
+                            5690541.226888029
+                        ], 
+                        [
+                            -8424602.779374287, 
+                            5690538.264254199
+                        ], 
+                        [
+                            -8424606.334536161, 
+                            5690543.992039671
+                        ], 
+                        [
+                            -8424612.259827062, 
+                            5690540.436876314
+                        ], 
+                        [
+                            -8424606.33455564, 
+                            5690530.561395262
+                        ], 
+                        [
+                            -8424603.371913787, 
+                            5690532.240217902
+                        ], 
+                        [
+                            -8424599.421744628, 
+                            5690525.426141014
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 404, 
+                "buildingName": "687 St. Patrick Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "687", 
+                    "street": "St. Patrick Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "Views of 683-687 St. Patrick Street, from left to right.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/683-687_St_Patrick_Street_1968-211-11.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-211-11.jpg"
+                            }
+                        ]
+                    }, 
+                    {
+                        "caption": "681-687 St. Patrick Street taken at the end of Charlotte Street, from left to right starting with house in centre of photo with external stairwell.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/681-687_St_Patrick_Street_1968-97-03.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-97-03.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8424577.695683315, 
+                            5690537.079109973
+                        ], 
+                        [
+                            -8424571.572873756, 
+                            5690540.337983138
+                        ], 
+                        [
+                            -8424576.7080783, 
+                            5690548.830920829
+                        ], 
+                        [
+                            -8424578.485669563, 
+                            5690548.040891501
+                        ], 
+                        [
+                            -8424580.65826073, 
+                            5690551.497321857
+                        ], 
+                        [
+                            -8424584.608466545, 
+                            5690548.929713173
+                        ], 
+                        [
+                            -8424577.695683315, 
+                            5690537.079109973
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 405, 
+                "buildingName": "433-435 Clarence Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "433-435", 
+                    "street": "Clarence Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "Northwest corner of Clarence & Cobourg Streets.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/433-435_Clarence_Street_1968-224.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-224.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8424706.727859577, 
+                            5690198.723227167
+                        ], 
+                        [
+                            -8424703.902453205, 
+                            5690193.882487901
+                        ], 
+                        [
+                            -8424706.47873739, 
+                            5690192.491380242
+                        ], 
+                        [
+                            -8424708.654153386, 
+                            5690196.288646091
+                        ], 
+                        [
+                            -8424712.806445044, 
+                            5690193.844588752
+                        ], 
+                        [
+                            -8424706.395286577, 
+                            5690183.342721312
+                        ], 
+                        [
+                            -8424700.621433053, 
+                            5690186.595047875
+                        ], 
+                        [
+                            -8424699.544526795, 
+                            5690184.61845758
+                        ], 
+                        [
+                            -8424691.551777683, 
+                            5690189.549745735
+                        ], 
+                        [
+                            -8424699.622660445, 
+                            5690202.982937855
+                        ], 
+                        [
+                            -8424706.727859577, 
+                            5690198.723227167
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 406, 
+                "buildingName": "37-39 Augusta Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "37-39", 
+                    "street": "Augusta Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "View of front of 37-39 Augusta Street.", 
+                        "dateTaken": "1966", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/37-39_Augusta_Street_1966-1745.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1966-1745.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8424848.461688315, 
+                            5690196.2354821665
+                        ], 
+                        [
+                            -8424846.99170255, 
+                            5690193.884457587
+                        ], 
+                        [
+                            -8424849.225170549, 
+                            5690192.487967226
+                        ], 
+                        [
+                            -8424850.401159545, 
+                            5690194.368785731
+                        ], 
+                        [
+                            -8424858.233015884, 
+                            5690189.635367086
+                        ], 
+                        [
+                            -8424850.927138763, 
+                            5690177.689237704
+                        ], 
+                        [
+                            -8424843.168793153, 
+                            5690182.540186041
+                        ], 
+                        [
+                            -8424844.153727703, 
+                            5690184.376948052
+                        ], 
+                        [
+                            -8424839.730846673, 
+                            5690186.978869837
+                        ], 
+                        [
+                            -8424846.110667156, 
+                            5690197.705473664
+                        ], 
+                        [
+                            -8424848.461688315, 
+                            5690196.2354821665
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 407, 
+                "buildingName": "45-49 Augusta Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "45-49", 
+                    "street": "Augusta Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "View of the southeast corner of Papineau & Augusta Streets.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/45-49_Augusta_Street_1968-220.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-220.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8424833.309578838, 
+                            5690145.401601098
+                        ], 
+                        [
+                            -8424823.583218386, 
+                            5690129.605199929
+                        ], 
+                        [
+                            -8424813.104270466, 
+                            5690136.135976665
+                        ], 
+                        [
+                            -8424822.829567969, 
+                            5690151.940157401
+                        ], 
+                        [
+                            -8424833.309578838, 
+                            5690145.401601098
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 408, 
+                "buildingName": "133-135 Friel Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "133-135", 
+                    "street": "Friel Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "View of 133-135 and 137 Friel Street, from left to right.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/133-137_Friel_Street_1968-235.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown%20images/2nd%20batch/1968-235.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8425101.185332922, 
+                            5689838.07391804
+                        ], 
+                        [
+                            -8425101.969807941, 
+                            5689839.296275374
+                        ], 
+                        [
+                            -8425111.804091426, 
+                            5689833.263194393
+                        ], 
+                        [
+                            -8425105.200824268, 
+                            5689822.031136723
+                        ], 
+                        [
+                            -8425095.338982303, 
+                            5689827.9434616575
+                        ], 
+                        [
+                            -8425095.799486678, 
+                            5689828.857313778
+                        ], 
+                        [
+                            -8425090.694768077, 
+                            5689832.170636195
+                        ], 
+                        [
+                            -8425096.080722235, 
+                            5689841.387101875
+                        ], 
+                        [
+                            -8425101.185332922, 
+                            5689838.07391804
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 409, 
+                "buildingName": "137 Friel Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "137", 
+                    "street": "Friel Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "View of 133-135 and 137 Friel Street, from left to right.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/133-137_Friel_Street_1968-235.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown%20images/2nd%20batch/1968-235.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8425104.827461313, 
+                            5689820.926532646
+                        ], 
+                        [
+                            -8425101.670180602, 
+                            5689815.347278675
+                        ], 
+                        [
+                            -8425091.5103659, 
+                            5689821.420956484
+                        ], 
+                        [
+                            -8425092.602233185, 
+                            5689822.818286152
+                        ], 
+                        [
+                            -8425086.201353148, 
+                            5689826.324690416
+                        ], 
+                        [
+                            -8425088.72918843, 
+                            5689830.54606444
+                        ], 
+                        [
+                            -8425104.827461313, 
+                            5689820.926532646
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 410, 
+                "buildingName": "129-131 Friel Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "129-131", 
+                    "street": "Friel Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "Front view of 129-131 Friel Street.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/129-131_Friel_Street_1968-236.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/3rd batch/1968-236.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8425103.344056118, 
+                            5689855.163882562
+                        ], 
+                        [
+                            -8425108.828347452, 
+                            5689852.009642292
+                        ], 
+                        [
+                            -8425109.440173691, 
+                            5689853.835623731
+                        ], 
+                        [
+                            -8425120.33266121, 
+                            5689847.2164655775
+                        ], 
+                        [
+                            -8425113.762582358, 
+                            5689836.524378698
+                        ], 
+                        [
+                            -8425098.317825928, 
+                            5689846.069513696
+                        ], 
+                        [
+                            -8425103.344056118, 
+                            5689855.163882562
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 411, 
+                "buildingName": "127 Friel Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "127", 
+                    "street": "Friel Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "Front view of 127 Friel Street.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/127_Friel_Street_1968-237.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/3rd batch/1968-237.jpg"
+                            }
+                        ]
+                    }, 
+                    {
+                        "caption": "North side view of 127 Friel Street.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/127_Friel_Street_2_1968-238.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/3rd batch/1968-238.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8425122.65718707, 
+                            5689851.179973208
+                        ], 
+                        [
+                            -8425106.41121071, 
+                            5689860.788033282
+                        ], 
+                        [
+                            -8425108.799157124, 
+                            5689864.919789048
+                        ], 
+                        [
+                            -8425114.476861244, 
+                            5689861.3799102735
+                        ], 
+                        [
+                            -8425115.432010382, 
+                            5689863.178752283
+                        ], 
+                        [
+                            -8425125.775529684, 
+                            5689856.773267011
+                        ], 
+                        [
+                            -8425122.65718707, 
+                            5689851.179973208
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 412, 
+                "buildingName": "350-352 Clarence Street", 
+                "classification": "commercial", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "350-352", 
+                    "street": "Clarence Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "View of southeast corner of Clarence & Friel Streets.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/350-352_Clarence_Street_1968-239.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-239.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8425123.884413892, 
+                            5689871.262263108
+                        ], 
+                        [
+                            -8425129.054309297, 
+                            5689879.542653808
+                        ], 
+                        [
+                            -8425124.466153832, 
+                            5689882.322511889
+                        ], 
+                        [
+                            -8425131.332736023, 
+                            5689893.782031591
+                        ], 
+                        [
+                            -8425143.543737086, 
+                            5689886.337744952
+                        ], 
+                        [
+                            -8425131.933484176, 
+                            5689866.569097112
+                        ], 
+                        [
+                            -8425123.884413892, 
+                            5689871.262263108
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 413, 
+                "buildingName": "354-356 Clarence Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "354-356", 
+                    "street": "Clarence Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "View of 350-360 Clarence Street, from right to left.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/350-360_Clarence_Street_1968-240.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-240.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8425117.633412333, 
+                            5689901.623180584
+                        ], 
+                        [
+                            -8425130.436808106, 
+                            5689894.171865124
+                        ], 
+                        [
+                            -8425124.436777977, 
+                            5689883.839569966
+                        ], 
+                        [
+                            -8425123.685295004, 
+                            5689884.4172645835
+                        ], 
+                        [
+                            -8425121.483135289, 
+                            5689880.580596967
+                        ], 
+                        [
+                            -8425109.22163985, 
+                            5689887.7647628
+                        ], 
+                        [
+                            -8425117.633412333, 
+                            5689901.623180584
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 414, 
+                "buildingName": "358-360 Clarence Street", 
+                "classification": "industrial", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "358-360", 
+                    "street": "Clarence Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "View of 350-360 Clarence Street, from right to left.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/350-360_Clarence_Street_1968-240.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-240.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8425102.291507734, 
+                            5689894.885572737
+                        ], 
+                        [
+                            -8425100.65175811, 
+                            5689894.50218537
+                        ], 
+                        [
+                            -8425089.213918408, 
+                            5689901.202582276
+                        ], 
+                        [
+                            -8425095.387107309, 
+                            5689912.149030387
+                        ], 
+                        [
+                            -8425116.304816239, 
+                            5689899.5061184345
+                        ], 
+                        [
+                            -8425103.481703904, 
+                            5689877.3819846315
+                        ], 
+                        [
+                            -8425094.941213626, 
+                            5689882.6023332365
+                        ], 
+                        [
+                            -8425102.291507734, 
+                            5689894.885572737
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 415, 
+                "buildingName": "359 Clarence Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "349-355", 
+                    "street": "Clarence Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "Looking east down Clarence Street. 349-356 is the large brick  building in the foreground. 359 is the building in the centre with the white deck.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/349-359_Clarence_Street_1968-241.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-241.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8425129.46181463, 
+                            5689928.988922055
+                        ], 
+                        [
+                            -8425120.192008141, 
+                            5689934.401306989
+                        ], 
+                        [
+                            -8425124.601221187, 
+                            5689942.235363367
+                        ], 
+                        [
+                            -8425127.383787781, 
+                            5689940.653708387
+                        ], 
+                        [
+                            -8425129.988877978, 
+                            5689945.397829844
+                        ], 
+                        [
+                            -8425136.678338757, 
+                            5689941.348658366
+                        ], 
+                        [
+                            -8425129.46181463, 
+                            5689928.988922055
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 416, 
+                "buildingName": "349-351 Murray Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "349-351", 
+                    "street": "Murray Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "View of 349-355 Murray Street from left to right.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/349-355_Murray_Street_1968-247.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-247.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8425303.47532437, 
+                            5689991.02268596
+                        ], 
+                        [
+                            -8425297.552877534, 
+                            5689981.665053343
+                        ], 
+                        [
+                            -8425298.677578025, 
+                            5689981.07370853
+                        ], 
+                        [
+                            -8425292.388158921, 
+                            5689971.54537055
+                        ], 
+                        [
+                            -8425282.391404662, 
+                            5689977.380333943
+                        ], 
+                        [
+                            -8425288.19572276, 
+                            5689987.097814839
+                        ], 
+                        [
+                            -8425289.156710984, 
+                            5689986.656324515
+                        ], 
+                        [
+                            -8425294.784447916, 
+                            5689995.931354653
+                        ], 
+                        [
+                            -8425303.47532437, 
+                            5689991.02268596
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 417, 
+                "buildingName": "353-355 Murray Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "353-355", 
+                    "street": "Murray Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "View of 349-355 Murray Street from left to right.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/349-355_Murray_Street_1968-247.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-247.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8425289.829920616, 
+                            5689998.541308691
+                        ], 
+                        [
+                            -8425284.312271457, 
+                            5689989.301902614
+                        ], 
+                        [
+                            -8425285.475319352, 
+                            5689988.439136072
+                        ], 
+                        [
+                            -8425279.497994259, 
+                            5689979.014867155
+                        ], 
+                        [
+                            -8425269.658603963, 
+                            5689984.736945717
+                        ], 
+                        [
+                            -8425275.578716904, 
+                            5689994.293057021
+                        ], 
+                        [
+                            -8425276.73983166, 
+                            5689993.681705139
+                        ], 
+                        [
+                            -8425282.040197838, 
+                            5690003.005090744
+                        ], 
+                        [
+                            -8425289.829920616, 
+                            5689998.541308691
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 418, 
+                "buildingName": "433 Rideau Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "433", 
+                    "street": "Rideau Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "View of Rideau Street with 425-433 from left to right.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/425-433_Rideau_Street_1968-391.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-391.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8424807.606216902, 
+                            5689634.163494921
+                        ], 
+                        [
+                            -8424790.531164031, 
+                            5689606.08066692
+                        ], 
+                        [
+                            -8424789.411955468, 
+                            5689606.822470821
+                        ], 
+                        [
+                            -8424788.559837716, 
+                            5689606.275197409
+                        ], 
+                        [
+                            -8424785.871750169, 
+                            5689607.626151801
+                        ], 
+                        [
+                            -8424786.266220367, 
+                            5689608.4472197415
+                        ], 
+                        [
+                            -8424778.580914292, 
+                            5689612.930361341
+                        ], 
+                        [
+                            -8424795.959958784, 
+                            5689641.390188833
+                        ], 
+                        [
+                            -8424807.606216902, 
+                            5689634.163494921
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 419, 
+                "buildingName": "425 Rideau Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "425", 
+                    "street": "Rideau Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "View of Rideau Street with 425-433 from left to right.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/425-433_Rideau_Street_1968-391.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-391.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8424837.709571958, 
+                            5689601.340440626
+                        ], 
+                        [
+                            -8424826.258869445, 
+                            5689582.443318884
+                        ], 
+                        [
+                            -8424816.998380342, 
+                            5689587.783448306
+                        ], 
+                        [
+                            -8424823.419149244, 
+                            5689598.289659767
+                        ], 
+                        [
+                            -8424820.99840063, 
+                            5689599.56746309
+                        ], 
+                        [
+                            -8424826.511228293, 
+                            5689608.632693305
+                        ], 
+                        [
+                            -8424829.874459459, 
+                            5689606.475055305
+                        ], 
+                        [
+                            -8424827.802795386, 
+                            5689603.355677622
+                        ], 
+                        [
+                            -8424833.708259007, 
+                            5689599.850816561
+                        ], 
+                        [
+                            -8424835.222702393, 
+                            5689602.816392182
+                        ], 
+                        [
+                            -8424837.709571958, 
+                            5689601.340440626
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 420, 
+                "buildingName": "431 Rideau Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "431", 
+                    "street": "Rideau Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "View of Rideau Street with 425-433 from left to right.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/425-433_Rideau_Street_1968-391.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-391.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8424801.429788727, 
+                            5689598.881027627
+                        ], 
+                        [
+                            -8424792.183534738, 
+                            5689604.292811886
+                        ], 
+                        [
+                            -8424800.872808991, 
+                            5689618.952437715
+                        ], 
+                        [
+                            -8424810.054017177, 
+                            5689613.437684139
+                        ], 
+                        [
+                            -8424801.429788727, 
+                            5689598.881027627
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 421, 
+                "buildingName": "393-399 Rideau Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "393-399", 
+                    "street": "Rideau Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "Looking at the northeast corner of Friel & Rideau Streets.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/393-399_Rideau_Street_1968-394.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-394.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8424908.043966971, 
+                            5689542.037677341
+                        ], 
+                        [
+                            -8424911.309886055, 
+                            5689547.5127502885
+                        ], 
+                        [
+                            -8424920.615810143, 
+                            5689541.953378762
+                        ], 
+                        [
+                            -8424917.268042145, 
+                            5689536.488794004
+                        ], 
+                        [
+                            -8424919.922940154, 
+                            5689534.929690011
+                        ], 
+                        [
+                            -8424923.038780015, 
+                            5689540.496772121
+                        ], 
+                        [
+                            -8424932.488014765, 
+                            5689534.691275709
+                        ], 
+                        [
+                            -8424928.799454436, 
+                            5689528.633366796
+                        ], 
+                        [
+                            -8424929.358719984, 
+                            5689527.619290109
+                        ], 
+                        [
+                            -8424927.849914009, 
+                            5689525.351960406
+                        ], 
+                        [
+                            -8424926.78530545, 
+                            5689525.271463904
+                        ], 
+                        [
+                            -8424924.357028564, 
+                            5689521.322975971
+                        ], 
+                        [
+                            -8424924.76287182, 
+                            5689520.347460022
+                        ], 
+                        [
+                            -8424923.76401963, 
+                            5689519.177162493
+                        ], 
+                        [
+                            -8424922.936573273, 
+                            5689518.5600521425
+                        ], 
+                        [
+                            -8424921.634154845, 
+                            5689519.007932711
+                        ], 
+                        [
+                            -8424921.61882988, 
+                            5689520.419696067
+                        ], 
+                        [
+                            -8424900.720144583, 
+                            5689532.951379575
+                        ], 
+                        [
+                            -8424906.559702223, 
+                            5689542.904276438
+                        ], 
+                        [
+                            -8424908.043966971, 
+                            5689542.037677341
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 422, 
+                "buildingName": "357-359 Murray Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "357-359", 
+                    "street": "Murray Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "Front  view of 357-359 Murray Street before demolition.", 
+                        "dateTaken": "1974", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/357-359_Murray_Street_1974-137-03.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/3rd batch/1974-137-03.jpg"
+                            }
+                        ]
+                    }, 
+                    {
+                        "caption": "View of 357-359 Murray Street and surrounding buildings taken from the southeast corner of Friel and Murray Streets.", 
+                        "dateTaken": "1974", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/357-359_Murray_Street_2_1974-137-04.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/3rd batch/1974-137-04.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8425197.979515186, 
+                            5690040.4438416995
+                        ], 
+                        [
+                            -8425199.720050583, 
+                            5690039.458397773
+                        ], 
+                        [
+                            -8425194.770939253, 
+                            5690031.315410272
+                        ], 
+                        [
+                            -8425183.87779436, 
+                            5690038.024925691
+                        ], 
+                        [
+                            -8425189.14867972, 
+                            5690046.225422778
+                        ], 
+                        [
+                            -8425190.897204261, 
+                            5690045.114128999
+                        ], 
+                        [
+                            -8425193.880471548, 
+                            5690050.3107571965
+                        ], 
+                        [
+                            -8425201.35031091, 
+                            5690046.200451629
+                        ], 
+                        [
+                            -8425197.979515186, 
+                            5690040.4438416995
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 423, 
+                "buildingName": "329 Besserer Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "329", 
+                    "street": "Besserer Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "Rear view of 329 Besserer Street.", 
+                        "dateTaken": "1966", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/329_Besserer_Street_1966-1752.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/5th batch/1966-1752.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8424949.430944704, 
+                            5689381.4139501415
+                        ], 
+                        [
+                            -8424947.390316382, 
+                            5689382.50827198
+                        ], 
+                        [
+                            -8424941.946212707, 
+                            5689373.345323225
+                        ], 
+                        [
+                            -8424937.648395438, 
+                            5689375.669049789
+                        ], 
+                        [
+                            -8424936.023433095, 
+                            5689374.872303474
+                        ], 
+                        [
+                            -8424933.685503753, 
+                            5689376.143218566
+                        ], 
+                        [
+                            -8424933.509273812, 
+                            5689378.250105662
+                        ], 
+                        [
+                            -8424938.933835339, 
+                            5689387.5919920085
+                        ], 
+                        [
+                            -8424943.508225115, 
+                            5689384.889826599
+                        ], 
+                        [
+                            -8424947.219443746, 
+                            5689391.090013893
+                        ], 
+                        [
+                            -8424947.619772479, 
+                            5689390.849465947
+                        ], 
+                        [
+                            -8424950.26485919, 
+                            5689395.721966143
+                        ], 
+                        [
+                            -8424951.141187929, 
+                            5689395.219552506
+                        ], 
+                        [
+                            -8424951.872394003, 
+                            5689396.485791459
+                        ], 
+                        [
+                            -8424954.001505733, 
+                            5689395.265039297
+                        ], 
+                        [
+                            -8424953.34243321, 
+                            5689394.125999168
+                        ], 
+                        [
+                            -8424956.09615689, 
+                            5689392.5472305445
+                        ], 
+                        [
+                            -8424949.430944704, 
+                            5689381.4139501415
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 424, 
+                "buildingName": "665 St. Patrick Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "665", 
+                    "street": "St. Patrick Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "665-667 St. Patrick Street taken at the end of Charlotte Street, from left to right.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/665-667_St_Patrick_Street_1968-97-01.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-97-01.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8424670.749863766, 
+                            5690505.388825234
+                        ], 
+                        [
+                            -8424661.70792684, 
+                            5690489.397890255
+                        ], 
+                        [
+                            -8424654.764341464, 
+                            5690493.898433663
+                        ], 
+                        [
+                            -8424660.399894513, 
+                            5690503.986404645
+                        ], 
+                        [
+                            -8424663.071076518, 
+                            5690502.26357112
+                        ], 
+                        [
+                            -8424666.462703926, 
+                            5690508.178562119
+                        ], 
+                        [
+                            -8424670.749863766, 
+                            5690505.388825234
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 425, 
+                "buildingName": "667 St. Patrick Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "667", 
+                    "street": "St. Patrick Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "665-667 St. Patrick Street taken at the end of Charlotte Street, from left to right.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/665-667_St_Patrick_Street_1968-97-01.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-97-01.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8424644.670122596, 
+                            5690514.17476893
+                        ], 
+                        [
+                            -8424647.091236038, 
+                            5690512.704311361
+                        ], 
+                        [
+                            -8424640.614374803, 
+                            5690501.8938356135
+                        ], 
+                        [
+                            -8424633.915784368, 
+                            5690505.639222799
+                        ], 
+                        [
+                            -8424640.458933622, 
+                            5690516.892316583
+                        ], 
+                        [
+                            -8424639.47138843, 
+                            5690517.484844903
+                        ], 
+                        [
+                            -8424642.844607836, 
+                            5690523.352550363
+                        ], 
+                        [
+                            -8424647.94235885, 
+                            5690519.900588074
+                        ], 
+                        [
+                            -8424644.670122596, 
+                            5690514.17476893
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 426, 
+                "buildingName": "669 St. Patrick Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "669", 
+                    "street": "St. Patrick Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "669-671 St. Patrick Street taken at the end of Charlotte Street, from left to right.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/669-671_St_Patrick_Street_1968-97-02.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-97-02.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8424641.446489556, 
+                            5690521.040006868
+                        ], 
+                        [
+                            -8424632.854820376, 
+                            5690506.128095296
+                        ], 
+                        [
+                            -8424626.92956268, 
+                            5690509.979520892
+                        ], 
+                        [
+                            -8424631.274766086, 
+                            5690518.274892606
+                        ], 
+                        [
+                            -8424633.348609336, 
+                            5690516.991081568
+                        ], 
+                        [
+                            -8424637.200048516, 
+                            5690523.706386309
+                        ], 
+                        [
+                            -8424641.446489556, 
+                            5690521.040006868
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 427, 
+                "buildingName": "671 St. Patrick Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "671", 
+                    "street": "St. Patrick Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "669-671 St. Patrick Street taken at the end of Charlotte Street, from left to right.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/669-671_St_Patrick_Street_1968-97-02.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-97-02.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8424625.744517753, 
+                            5690523.015115681
+                        ], 
+                        [
+                            -8424626.9295717, 
+                            5690522.126322869
+                        ], 
+                        [
+                            -8424621.695580555, 
+                            5690512.942154544
+                        ], 
+                        [
+                            -8424615.967821881, 
+                            5690516.793577961
+                        ], 
+                        [
+                            -8424624.16444879, 
+                            5690532.199303112
+                        ], 
+                        [
+                            -8424629.003424745, 
+                            5690528.940393091
+                        ], 
+                        [
+                            -8424625.744517753, 
+                            5690523.015115681
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 428, 
+                "buildingName": "681 St. Patrick Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "681", 
+                    "street": "St. Patrick Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "681-687 St. Patrick Street taken at the end of Charlotte Street, from left to right starting with house in centre of photo with external stairwell.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/681-687_St_Patrick_Street_1968-97-03.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-97-03.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8424602.581894122, 
+                            5690523.549811739
+                        ], 
+                        [
+                            -8424608.902171189, 
+                            5690534.314076182
+                        ], 
+                        [
+                            -8424613.24737938, 
+                            5690531.450197018
+                        ], 
+                        [
+                            -8424610.581009028, 
+                            5690526.709971712
+                        ], 
+                        [
+                            -8424612.753610846, 
+                            5690525.327410041
+                        ], 
+                        [
+                            -8424609.297207851, 
+                            5690519.303379909
+                        ], 
+                        [
+                            -8424602.581894122, 
+                            5690523.549811739
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 429, 
+                "buildingName": "345 Murray Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "345", 
+                    "street": "Murray Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "View of 349-355 Murray Street (wooden siding) from left to right.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/345-349_Murray_Street_1968-210-02.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-210-02.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8425318.518076016, 
+                            5689985.686714488
+                        ], 
+                        [
+                            -8425309.227692073, 
+                            5689970.8555735415
+                        ], 
+                        [
+                            -8425302.153517123, 
+                            5689975.055820836
+                        ], 
+                        [
+                            -8425307.985178705, 
+                            5689984.673680999
+                        ], 
+                        [
+                            -8425310.260222776, 
+                            5689983.201772428
+                        ], 
+                        [
+                            -8425313.77210301, 
+                            5689988.504611504
+                        ], 
+                        [
+                            -8425318.518076016, 
+                            5689985.686714488
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 430, 
+                "buildingName": "347 Murray Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "347", 
+                    "street": "Murray Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "View of 345-347 Murray Street (wooden siding) from left to right.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/345-347_Murray_Street_1968-210-02.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-210-02.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8425306.00613775, 
+                            5689983.9312837
+                        ], 
+                        [
+                            -8425302.794678885, 
+                            5689978.663739417
+                        ], 
+                        [
+                            -8425303.397622006, 
+                            5689978.285457603
+                        ], 
+                        [
+                            -8425296.638471652, 
+                            5689967.214433281
+                        ], 
+                        [
+                            -8425292.266813304, 
+                            5689969.77044621
+                        ], 
+                        [
+                            -8425302.522459628, 
+                            5689986.11691619
+                        ], 
+                        [
+                            -8425306.00613775, 
+                            5689983.9312837
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 431, 
+                "buildingName": "321 Murray Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "321", 
+                    "street": "Murray Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "View of 321-339 Murray Street from left to right.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/321-339_Murray_Street_1968-210-03.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-210-03.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8425358.311819026, 
+                            5689953.698715661
+                        ], 
+                        [
+                            -8425360.78203414, 
+                            5689952.259747149
+                        ], 
+                        [
+                            -8425357.654849142, 
+                            5689946.878055455
+                        ], 
+                        [
+                            -8425356.056311585, 
+                            5689947.808755726
+                        ], 
+                        [
+                            -8425349.135362558, 
+                            5689937.2371915495
+                        ], 
+                        [
+                            -8425344.39774044, 
+                            5689939.797903267
+                        ], 
+                        [
+                            -8425357.515504725, 
+                            5689961.367835765
+                        ], 
+                        [
+                            -8425361.354786335, 
+                            5689958.935438606
+                        ], 
+                        [
+                            -8425358.311819026, 
+                            5689953.698715661
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 432, 
+                "buildingName": "337-339 Murray Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "337-339", 
+                    "street": "Murray Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "View of 321-339 Murray Street from left to right.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/321-339_Murray_Street_1968-210-03.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-210-03.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8425348.846405825, 
+                            5689950.750597278
+                        ], 
+                        [
+                            -8425350.533593284, 
+                            5689949.596479483
+                        ], 
+                        [
+                            -8425344.483454399, 
+                            5689939.547886811
+                        ], 
+                        [
+                            -8425334.093490535, 
+                            5689945.596774759
+                        ], 
+                        [
+                            -8425340.211414563, 
+                            5689955.6129052965
+                        ], 
+                        [
+                            -8425341.470786968, 
+                            5689954.878863185
+                        ], 
+                        [
+                            -8425345.579332937, 
+                            5689961.398072283
+                        ], 
+                        [
+                            -8425352.832144424, 
+                            5689956.99539948
+                        ], 
+                        [
+                            -8425348.846405825, 
+                            5689950.750597278
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 433, 
+                "buildingName": "529-537 St. Patrick Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "529-537", 
+                    "street": "St. Patrick Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "West side of 529-537 St. Patrick Street.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/529-537_St_Patrick_Street_1_1968-254-03.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-254-03.jpg"
+                            }
+                        ]
+                    }, 
+                    {
+                        "caption": "East side of 529-537 St. Patrick Street.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/529-537_St_Patrick_Street_2_1968-254-09.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-254-09.jpg"
+                            }
+                        ]
+                    }, 
+                    {
+                        "caption": "View of 529-537 St. Patrick Street looking east down the street.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/529-537_St_Patrick_Street_3_1968-254-04.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-254-04.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8425058.742059872, 
+                            5690248.681701495
+                        ], 
+                        [
+                            -8425033.851672437, 
+                            5690263.28257122
+                        ], 
+                        [
+                            -8425040.732876163, 
+                            5690274.83309355
+                        ], 
+                        [
+                            -8425041.59799003, 
+                            5690274.359797595
+                        ], 
+                        [
+                            -8425044.53572229, 
+                            5690279.215879322
+                        ], 
+                        [
+                            -8425047.779900078, 
+                            5690277.441016784
+                        ], 
+                        [
+                            -8425049.307930797, 
+                            5690279.977197124
+                        ], 
+                        [
+                            -8425054.174196247, 
+                            5690277.314900316
+                        ], 
+                        [
+                            -8425052.527840313, 
+                            5690274.562443581
+                        ], 
+                        [
+                            -8425055.32927369, 
+                            5690272.748786821
+                        ], 
+                        [
+                            -8425052.548652213, 
+                            5690267.66624917
+                        ], 
+                        [
+                            -8425055.674499886, 
+                            5690265.675107942
+                        ], 
+                        [
+                            -8425060.150458373, 
+                            5690273.342796344
+                        ], 
+                        [
+                            -8425068.958705055, 
+                            5690268.3833497865
+                        ], 
+                        [
+                            -8425064.817342032, 
+                            5690260.813622783
+                        ], 
+                        [
+                            -8425065.79059182, 
+                            5690260.281163229
+                        ], 
+                        [
+                            -8425058.742059872, 
+                            5690248.681701495
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 434, 
+                "buildingName": "559-561 St. Patrick Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "559-561", 
+                    "street": "St. Patrick Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "Front view of 559-561 St. Patrick Street.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/559-561_St_Patrick_Street_1968-254-08.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-254-08.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8424980.406222606, 
+                            5690320.57901314
+                        ], 
+                        [
+                            -8424974.538511544, 
+                            5690310.770525886
+                        ], 
+                        [
+                            -8424976.001747174, 
+                            5690309.863841755
+                        ], 
+                        [
+                            -8424970.603468098, 
+                            5690300.8400470065
+                        ], 
+                        [
+                            -8424961.29345467, 
+                            5690306.440874328
+                        ], 
+                        [
+                            -8424966.691725537, 
+                            5690315.464681301
+                        ], 
+                        [
+                            -8424968.33505798, 
+                            5690314.387582182
+                        ], 
+                        [
+                            -8424974.202761551, 
+                            5690324.1960772425
+                        ], 
+                        [
+                            -8424980.406222606, 
+                            5690320.57901314
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 435, 
+                "buildingName": "121 Chapel Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "121", 
+                    "street": "Chapel Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "Front view of 121 Chapel Street looking toward the south.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/121_Chapel_Street_1968-355.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-355.jpg"
+                            }
+                        ]
+                    }, 
+                    {
+                        "caption": "Closer front view of 121 Chapel Street.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/121_Chapel_Street_2_1968-373-08.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/7th batch/1968-373-08.jpg"
+                            }
+                        ]
+                    }, 
+                    {
+                        "caption": "Front view of 121 Chapel Street looking toward the north.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/121_Chapel_Street_3_1968-373-06.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/7th batch/1968-373-06.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8424815.342297332, 
+                            5689800.524228106
+                        ], 
+                        [
+                            -8424823.133446759, 
+                            5689796.289677485
+                        ], 
+                        [
+                            -8424825.389981547, 
+                            5689800.015519067
+                        ], 
+                        [
+                            -8424838.814246317, 
+                            5689792.109895493
+                        ], 
+                        [
+                            -8424835.73738572, 
+                            5689786.924748969
+                        ], 
+                        [
+                            -8424838.039240321, 
+                            5689785.304924513
+                        ], 
+                        [
+                            -8424835.238191789, 
+                            5689780.6100780815
+                        ], 
+                        [
+                            -8424832.920004034, 
+                            5689781.915239697
+                        ], 
+                        [
+                            -8424829.759140393, 
+                            5689776.294989851
+                        ], 
+                        [
+                            -8424815.950651236, 
+                            5689784.3774019815
+                        ], 
+                        [
+                            -8424818.566620877, 
+                            5689789.029246813
+                        ], 
+                        [
+                            -8424810.96209272, 
+                            5689793.309635128
+                        ], 
+                        [
+                            -8424815.342297332, 
+                            5689800.524228106
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 436, 
+                "buildingName": "127 Chapel Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "127", 
+                    "street": "Chapel Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "Front view of 127-133 Chapel Street, 127 on the left and 131-133 on the right.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/127-133_Chapel_Street_1_1968-373-07.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/7th batch/1968-373-07.jpg"
+                            }
+                        ]
+                    }, 
+                    {
+                        "caption": "Front view of 127-133 Chapel Street with connection built after 1912.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/127-133_Chapel_Street_2_1968-373-05.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/7th batch/1968-373-05.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8424805.535517279, 
+                            5689779.734455457
+                        ], 
+                        [
+                            -8424809.984138181, 
+                            5689776.8347068345
+                        ], 
+                        [
+                            -8424811.51383443, 
+                            5689779.835512253
+                        ], 
+                        [
+                            -8424826.400551997, 
+                            5689771.017136192
+                        ], 
+                        [
+                            -8424826.035340767, 
+                            5689770.509291252
+                        ], 
+                        [
+                            -8424826.336806469, 
+                            5689769.213065295
+                        ], 
+                        [
+                            -8424825.120223762, 
+                            5689767.039041657
+                        ], 
+                        [
+                            -8424823.857221475, 
+                            5689766.759231934
+                        ], 
+                        [
+                            -8424821.93481866, 
+                            5689763.721172148
+                        ], 
+                        [
+                            -8424802.938024048, 
+                            5689775.278926619
+                        ], 
+                        [
+                            -8424805.535517279, 
+                            5689779.734455457
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 437, 
+                "buildingName": "131-133 Chapel Street", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "131-133", 
+                    "street": "Chapel Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-02", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "Front view of 127-133 Chapel Street, 127 on the left and 131-133 on the right.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/127-133_Chapel_Street_1_1968-373-07.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/7th batch/1968-373-07.jpg"
+                            }
+                        ]
+                    }, 
+                    {
+                        "caption": "Front view of 127-133 Chapel Street with connection built after 1912.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/127-133_Chapel_Street_2_1968-373-05.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/7th batch/1968-373-05.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8424801.231454799, 
+                            5689770.5631329445
+                        ], 
+                        [
+                            -8424810.33167595, 
+                            5689764.946889785
+                        ], 
+                        [
+                            -8424811.31055139, 
+                            5689766.674545514
+                        ], 
+                        [
+                            -8424820.382683052, 
+                            5689761.198008354
+                        ], 
+                        [
+                            -8424818.399927141, 
+                            5689757.631765723
+                        ], 
+                        [
+                            -8424819.55651777, 
+                            5689756.8852697555
+                        ], 
+                        [
+                            -8424816.459114844, 
+                            5689752.037658417
+                        ], 
+                        [
+                            -8424815.306097267, 
+                            5689752.540679068
+                        ], 
+                        [
+                            -8424813.714410102, 
+                            5689749.893759784
+                        ], 
+                        [
+                            -8424804.624338338, 
+                            5689755.260916741
+                        ], 
+                        [
+                            -8424805.444674397, 
+                            5689756.614761384
+                        ], 
+                        [
+                            -8424796.199703187, 
+                            5689762.044332278
+                        ], 
+                        [
+                            -8424801.231454799, 
+                            5689770.5631329445
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 438, 
+                "buildingName": "62-64 Chamberlain Avenue", 
+                "classification": "residential", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "Location now occupied by a parking lot.", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "62-64", 
+                    "street": "Chamberlain Avenue", 
+                    "neighbourhood": "Glebe-Dows Lake"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-02", 
+                "dateUpdated": "2018-12-05", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "View of the front of 62-64 Chamberlain Avenue.", 
+                        "dateTaken": "", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/62-64 Chamberlain.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "Private Collection of Lishman-Beattie Family", 
+                                "url": ""
+                            }
+                        ]
+                    }, 
+                    {
+                        "caption": "The front porch of 62-64 Chamberlain Avenue.\n", 
+                        "dateTaken": "", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/62-72 Chamberlain_2.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "Private Collection of Lishman-Beattie Family", 
+                                "url": ""
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8426209.95467216, 
+                            5685838.687141675
+                        ], 
+                        [
+                            -8426208.117331741, 
+                            5685839.51294176
+                        ], 
+                        [
+                            -8426204.866967108, 
+                            5685833.682904723
+                        ], 
+                        [
+                            -8426196.12106907, 
+                            5685838.855156071
+                        ], 
+                        [
+                            -8426199.886793554, 
+                            5685844.556152277
+                        ], 
+                        [
+                            -8426198.147014506, 
+                            5685845.538687944
+                        ], 
+                        [
+                            -8426204.103570845, 
+                            5685854.731616852
+                        ], 
+                        [
+                            -8426215.591813127, 
+                            5685847.840942911
+                        ], 
+                        [
+                            -8426209.95467216, 
+                            5685838.687141675
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        {
+            "type": "Feature", 
+            "properties": {
+                "id": 439, 
+                "buildingName": "349-355 Clarence Street", 
+                "classification": "mix", 
+                "dateBuilt": "", 
+                "dateDemolished": "", 
+                "status": "", 
+                "history": "", 
+                "address": {
+                    "unitNumber": "349-355", 
+                    "street": "Clarence Street", 
+                    "neighbourhood": "Lowertown"
+                }, 
+                "occupant": null, 
+                "dateAdded": "2018-12-05", 
+                "dateUpdated": "2018-12-05", 
+                "architects": [], 
+                "photos": [
+                    {
+                        "caption": "Looking east down Clarence Street. 349-356 is the large brick  building in the foreground. 359 is the building in the centre with the white deck.", 
+                        "dateTaken": "1968", 
+                        "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/349-359_Clarence_Street_1968-241.jpg", 
+                        "modernUrl": null, 
+                        "sources": [
+                            {
+                                "name": "CMHC Photo Archive Collection", 
+                                "url": "ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-241.jpg"
+                            }
+                        ]
+                    }
+                ], 
+                "sources": []
+            }, 
+            "geometry": {
+                "type": "Polygon", 
+                "coordinates": [
+                    [
+                        [
+                            -8425153.73207774, 
+                            5689939.0679181
+                        ], 
+                        [
+                            -8425148.62678186, 
+                            5689930.728236228
+                        ], 
+                        [
+                            -8425152.323048804, 
+                            5689928.6172025995
+                        ], 
+                        [
+                            -8425157.229912505, 
+                            5689937.029386866
+                        ], 
+                        [
+                            -8425169.491608443, 
+                            5689929.871608699
+                        ], 
+                        [
+                            -8425158.443068119, 
+                            5689911.1982089
+                        ], 
+                        [
+                            -8425132.622668376, 
+                            5689926.826822097
+                        ], 
+                        [
+                            -8425138.539081104, 
+                            5689936.823815099
+                        ], 
+                        [
+                            -8425139.726524454, 
+                            5689936.173894086
+                        ], 
+                        [
+                            -8425144.885685932, 
+                            5689944.693804391
+                        ], 
+                        [
+                            -8425153.73207774, 
+                            5689939.0679181
                         ]
                     ]
                 ]

@@ -9272,14 +9272,14 @@ Library & Archives Canada, MIKAN no. 3325748</a></small>
       </Polygon>
     </Placemark>
     <Placemark>
-      <name><![CDATA[Y.M.C.A.]]></name>
+      <name><![CDATA[Y.W.C.A.]]></name>
       <styleUrl>#rec_map</styleUrl>
       <ExtendedData>
         <Data name="id">
           <value><![CDATA[71]]></value>
         </Data>
         <Data name="name">
-          <value><![CDATA[Y.M.C.A.]]></value>
+          <value><![CDATA[Y.W.C.A.]]></value>
         </Data>
         <Data name="dateBuilt">
           <value><![CDATA[n/a]]></value>
@@ -36155,6 +36155,3490 @@ Library & Archives Canada, MIKAN no. 3345227</a></small>
         <outerBoundaryIs>
           <LinearRing>
             <coordinates>-75.7042387837,45.414838822,0.0 -75.7042423255,45.4148208769,0.0 -75.7042558332,45.4148156574,0.0 -75.7041208843,45.4146517562,0.0 -75.7040802034,45.4146685951,0.0 -75.7041287863,45.4147253398,0.0 -75.7041175327,45.4147301356,0.0 -75.7041503031,45.4147676032,0.0 -75.70413503,45.4147736403,0.0 -75.7041892921,45.4148424858,0.0 -75.7042149176,45.4148497854,0.0 -75.7042387837,45.414838822,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[626-628 St. Patrick Street]]></name>
+      <styleUrl>#mix_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[401]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[626-628 St. Patrick Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[626-628 St. Patrick Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - View of southwest corner of Cobourg & St. Patrick Streets.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/626-628_St_Patrick_Street_1968-160.jpg" title="View of southwest corner of Cobourg & St. Patrick Streets." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-160.jpg">
+CMHC Photo Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6810624386,45.4357458308,0.0 -75.6809667407,45.4356344688,0.0 -75.6809482413,45.4356409972,0.0 -75.6809234902,45.4356102313,0.0 -75.6809093858,45.4356150485,0.0 -75.6808789923,45.435573014,0.0 -75.680847802,45.4355855823,0.0 -75.6809517253,45.4357112471,0.0 -75.6809359862,45.4357155294,0.0 -75.6809024163,45.435677402,0.0 -75.6808612602,45.4356933883,0.0 -75.6809491025,45.4357946378,0.0 -75.6810624386,45.4357458308,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[685 St. Patrick Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[402]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[685 St. Patrick Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[685 St. Patrick Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - Front view of 685 St. Patrick Street.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/685_St_Patrick_Street_1968-211-10.jpg" title="Front view of 685 St. Patrick Street." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-211-10.jpg">
+CMHC Photo Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="row">
+					<b>Photo 2</b> - Views of 683-687 St. Patrick Street, from left to right.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/683-687_St_Patrick_Street_1968-211-11.jpg" title="Views of 683-687 St. Patrick Street, from left to right." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-211-11.jpg">
+CMHC Photo Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="row">
+					<b>Photo 3</b> - 681-687 St. Patrick Street taken at the end of Charlotte Street, from left to right starting with house in centre of photo with external stairwell.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/681-687_St_Patrick_Street_1968-97-03.jpg" title="681-687 St. Patrick Street taken at the end of Charlotte Street, from left to right starting with house in centre of photo with external stairwell." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-97-03.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6793639858,45.4366784118,0.0 -75.6793027738,45.4367058014,0.0 -75.6793400329,45.4367543562,0.0 -75.6793684211,45.4367431513,0.0 -75.679388825,45.4367692962,0.0 -75.6794331816,45.4367499989,0.0 -75.6794127777,45.4367232316,0.0 -75.6794030193,45.436727589,0.0 -75.6793639858,45.4366784118,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[683 St. Patrick Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[403]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[683 St. Patrick Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[683 St. Patrick Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - Views of 683-687 St. Patrick Street, from left to right.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/683-687_St_Patrick_Street_1968-211-11.jpg" title="Views of 683-687 St. Patrick Street, from left to right." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-211-11.jpg">
+CMHC Photo Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="row">
+					<b>Photo 2</b> - 681-687 St. Patrick Street taken at the end of Charlotte Street, from left to right starting with house in centre of photo with external stairwell.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/681-687_St_Patrick_Street_1968-97-03.jpg" title="681-687 St. Patrick Street taken at the end of Charlotte Street, from left to right starting with house in centre of photo with external stairwell." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-97-03.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6794642314,45.4366398173,0.0 -75.6793976967,45.4366678295,0.0 -75.6794553597,45.4367394166,0.0 -75.6794943935,45.4367207418,0.0 -75.67952633,45.4367568465,0.0 -75.6795795578,45.4367344368,0.0 -75.6795263302,45.4366721872,0.0 -75.6794997164,45.4366827695,0.0 -75.6794642314,45.4366398173,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[687 St. Patrick Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[404]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[687 St. Patrick Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[687 St. Patrick Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - Views of 683-687 St. Patrick Street, from left to right.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/683-687_St_Patrick_Street_1968-211-11.jpg" title="Views of 683-687 St. Patrick Street, from left to right." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-211-11.jpg">
+CMHC Photo Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="row">
+					<b>Photo 2</b> - 681-687 St. Patrick Street taken at the end of Charlotte Street, from left to right starting with house in centre of photo with external stairwell.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/681-687_St_Patrick_Street_1968-97-03.jpg" title="681-687 St. Patrick Street taken at the end of Charlotte Street, from left to right starting with house in centre of photo with external stairwell." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-97-03.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6792690628,45.4367132713,0.0 -75.6792140607,45.4367338134,0.0 -75.679260191,45.4367873481,0.0 -75.6792761594,45.4367823682,0.0 -75.6792956761,45.4368041556,0.0 -75.6793311614,45.4367879709,0.0 -75.6792690628,45.4367132713,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[433-435 Clarence Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[405]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[433-435 Clarence Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[433-435 Clarence Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - Northwest corner of Clarence & Cobourg Streets.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/433-435_Clarence_Street_1968-224.jpg" title="Northwest corner of Clarence & Cobourg Streets." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-224.jpg">
+CMHC Photo Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6804281786,45.4345804221,0.0 -75.6804027976,45.4345499076,0.0 -75.6804259407,45.4345411385,0.0 -75.6804454828,45.4345650753,0.0 -75.6804827835,45.4345496687,0.0 -75.6804251911,45.4344834681,0.0 -75.6803733236,45.4345039698,0.0 -75.6803636496,45.43449151,0.0 -75.6802918495,45.4345225953,0.0 -75.6803643515,45.434607274,0.0 -75.6804281786,45.4345804221,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[37-39 Augusta Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[406]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[37-39 Augusta Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[37-39 Augusta Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - View of front of 37-39 Augusta Street.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/37-39_Augusta_Street_1966-1745.jpg" title="View of front of 37-39 Augusta Street." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1966<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1966-1745.jpg">
+CMHC Photo Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6817013953,45.4345647401,0.0 -75.6816881901,45.43454992,0.0 -75.6817082537,45.434541117,0.0 -75.6817188178,45.4345529731,0.0 -75.6817891726,45.4345231351,0.0 -75.6817235428,45.4344478303,0.0 -75.6816538484,45.4344784092,0.0 -75.6816626962,45.4344899876,0.0 -75.6816229648,45.4345063893,0.0 -75.6816802757,45.4345740065,0.0 -75.6817013953,45.4345647401,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[45-49 Augusta Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[407]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[45-49 Augusta Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[45-49 Augusta Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - View of the southeast corner of Papineau & Augusta Streets.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/45-49_Augusta_Street_1968-220.jpg" title="View of the southeast corner of Papineau & Augusta Streets." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-220.jpg">
+CMHC Photo Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6815652815,45.4342442983,0.0 -75.6814779082,45.434144722,0.0 -75.6813837742,45.4341858903,0.0 -75.681471138,45.4342855155,0.0 -75.6815652815,45.4342442983,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[133-135 Friel Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[408]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[133-135 Friel Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[133-135 Friel Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - View of 133-135 and 137 Friel Street, from left to right.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/133-137_Friel_Street_1968-235.jpg" title="View of 133-135 and 137 Friel Street, from left to right." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown%20images/2nd%20batch/1968-235.jpg">
+CMHC Photo Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6839716504,45.4323069561,0.0 -75.6839786974,45.4323146618,0.0 -75.6840670403,45.4322766296,0.0 -75.6840077222,45.4322058233,0.0 -75.6839191317,45.4322430943,0.0 -75.6839232685,45.4322488551,0.0 -75.683877412,45.4322697421,0.0 -75.6839257949,45.4323278422,0.0 -75.6839716504,45.4323069561,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[137 Friel Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[409]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[137 Friel Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[137 Friel Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - View of 133-135 and 137 Friel Street, from left to right.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/133-137_Friel_Street_1968-235.jpg" title="View of 133-135 and 137 Friel Street, from left to right." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown%20images/2nd%20batch/1968-235.jpg">
+CMHC Photo Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6840043682,45.4321988599,0.0 -75.6839760058,45.4321636885,0.0 -75.6838847387,45.4322019767,0.0 -75.6838945471,45.4322107854,0.0 -75.683837047,45.4322328896,0.0 -75.6838597549,45.4322595009,0.0 -75.6840043682,45.4321988599,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[129-131 Friel Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[410]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[129-131 Friel Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[129-131 Friel Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - Front view of 129-131 Friel Street.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/129-131_Friel_Street_1968-236.jpg" title="Front view of 129-131 Friel Street." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/3rd batch/1968-236.jpg">
+CMHC Photo Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6839910425,45.4324146901,0.0 -75.6840403087,45.432394806,0.0 -75.6840458049,45.4324063169,0.0 -75.6841436538,45.4323645901,0.0 -75.6840846337,45.4322971879,0.0 -75.6839458911,45.4323573598,0.0 -75.6839910425,45.4324146901,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[127 Friel Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[411]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[127 Friel Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[127 Friel Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - Front view of 127 Friel Street.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/127_Friel_Street_1968-237.jpg" title="Front view of 127 Friel Street." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/3rd batch/1968-237.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="row">
+					<b>Photo 2</b> - North side view of 127 Friel Street.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/127_Friel_Street_2_1968-238.jpg" title="North side view of 127 Friel Street." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/3rd batch/1968-238.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6841645353,45.4323895758,0.0 -75.6840185952,45.4324501443,0.0 -75.6840400465,45.4324761906,0.0 -75.6840910502,45.4324538755,0.0 -75.6840996305,45.4324652152,0.0 -75.6841925479,45.4324248355,0.0 -75.6841645353,45.4323895758,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[350-352 Clarence Street]]></name>
+      <styleUrl>#comm_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[412]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[350-352 Clarence Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[350-352 Clarence Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - View of southeast corner of Clarence & Friel Streets.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/350-352_Clarence_Street_1968-239.jpg" title="View of southeast corner of Clarence & Friel Streets." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-239.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6841755597,45.4325161731,0.0 -75.6842220017,45.4325683719,0.0 -75.6841807856,45.4325858959,0.0 -75.6842424691,45.4326581356,0.0 -75.6843521624,45.4326112076,0.0 -75.6842478657,45.4324865877,0.0 -75.6841755597,45.4325161731,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[354-356 Clarence Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[413]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[354-356 Clarence Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[354-356 Clarence Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - View of 350-360 Clarence Street, from right to left.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/350-360_Clarence_Street_1968-240.jpg" title="View of 350-360 Clarence Street, from right to left." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-240.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.684119406,45.4327075654,0.0 -75.6842344209,45.4326605931,0.0 -75.6841805217,45.4325954593,0.0 -75.684173771,45.432599101,0.0 -75.6841539886,45.432574915,0.0 -75.6840438418,45.4326202033,0.0 -75.684119406,45.4327075654,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[358-360 Clarence Street]]></name>
+      <styleUrl>#industrial_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[414]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[358-360 Clarence Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[358-360 Clarence Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - View of 350-360 Clarence Street, from right to left.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/350-360_Clarence_Street_1968-240.jpg" title="View of 350-360 Clarence Street, from right to left." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-240.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6839815873,45.4326650922,0.0 -75.6839668572,45.4326626754,0.0 -75.6838641093,45.432704914,0.0 -75.683919564,45.4327739193,0.0 -75.684107471,45.4326942197,0.0 -75.683992279,45.4325547513,0.0 -75.6839155585,45.4325876599,0.0 -75.6839815873,45.4326650922,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[359 Clarence Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[415]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[359 Clarence Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[349-355 Clarence Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - Looking east down Clarence Street. 349-356 is the large brick  building in the foreground. 359 is the building in the centre with the white deck.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/349-359_Clarence_Street_1968-241.jpg" title="Looking east down Clarence Street. 349-356 is the large brick  building in the foreground. 359 is the building in the centre with the white deck." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-241.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6842256623,45.432880076,0.0 -75.6841423902,45.432914195,0.0 -75.6841819989,45.4329635798,0.0 -75.6842069951,45.4329536093,0.0 -75.684230397,45.4329835156,0.0 -75.6842904895,45.4329579902,0.0 -75.6842256623,45.432880076,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[349-351 Murray Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[416]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[349-351 Murray Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[349-351 Murray Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - View of 349-355 Murray Street from left to right.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/349-355_Murray_Street_1968-247.jpg" title="View of 349-355 Murray Street from left to right." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-247.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6857888523,45.4332711278,0.0 -75.68573565,45.4332121388,0.0 -75.6857457534,45.4332084111,0.0 -75.6856892546,45.4331483459,0.0 -75.6855994522,45.4331851286,0.0 -75.6856515933,45.4332463861,0.0 -75.685660226,45.433243603,0.0 -75.6857107808,45.4333020712,0.0 -75.6857888523,45.4332711278,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[353-355 Murray Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[417]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[353-355 Murray Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[353-355 Murray Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - View of 349-355 Murray Street from left to right.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/349-355_Murray_Street_1968-247.jpg" title="View of 349-355 Murray Street from left to right." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-247.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6856662735,45.4333185239,0.0 -75.6856167077,45.4332602803,0.0 -75.6856271555,45.4332548415,0.0 -75.6855734603,45.4331954325,0.0 -75.6854850715,45.4332315035,0.0 -75.6855382528,45.4332917437,0.0 -75.6855486833,45.4332878898,0.0 -75.6855962973,45.4333466628,0.0 -75.6856662735,45.4333185239,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[433 Rideau Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[418]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[433 Rideau Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[433 Rideau Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - View of Rideau Street with 425-433 from left to right.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/425-433_Rideau_Street_1968-391.jpg" title="View of Rideau Street with 425-433 from left to right." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-391.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6813343843,45.4310215023,0.0 -75.6811809965,45.4308444655,0.0 -75.6811709425,45.4308491419,0.0 -75.6811632878,45.4308456918,0.0 -75.6811391403,45.4308542084,0.0 -75.6811426839,45.4308593845,0.0 -75.6810736456,45.4308876466,0.0 -75.6812297642,45.4310670599,0.0 -75.6813343843,45.4310215023,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[425 Rideau Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[419]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[425 Rideau Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[425 Rideau Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - View of Rideau Street with 425-433 from left to right.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/425-433_Rideau_Street_1968-391.jpg" title="View of Rideau Street with 425-433 from left to right." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-391.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6816048073,45.4308145826,0.0 -75.6815019439,45.430695453,0.0 -75.6814187556,45.4307291178,0.0 -75.6814764343,45.4307953501,0.0 -75.6814546883,45.4308034055,0.0 -75.6815042109,45.4308605537,0.0 -75.6815344233,45.4308469517,0.0 -75.6815158133,45.4308272868,0.0 -75.6815688629,45.4308051918,0.0 -75.6815824674,45.4308238871,0.0 -75.6816048073,45.4308145826,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[431 Rideau Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[420]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[431 Rideau Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[431 Rideau Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - View of Rideau Street with 425-433 from left to right.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/425-433_Rideau_Street_1968-391.jpg" title="View of Rideau Street with 425-433 from left to right." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-391.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6812789005,45.4307990782,0.0 -75.68119584,45.4308331946,0.0 -75.6812738971,45.4309256104,0.0 -75.6813563733,45.4308908448,0.0 -75.6812789005,45.4307990782,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[393-399 Rideau Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[421]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[393-399 Rideau Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[393-399 Rideau Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - Looking at the northeast corner of Friel & Rideau Streets.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/393-399_Rideau_Street_1968-394.jpg" title="Looking at the northeast corner of Friel & Rideau Streets." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-394.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.682236632,45.4304407304,0.0 -75.6822659702,45.430475246,0.0 -75.6823495668,45.4304401989,0.0 -75.6823194932,45.4304057494,0.0 -75.6823433426,45.4303959205,0.0 -75.6823713327,45.4304310163,0.0 -75.6824562166,45.4303944175,0.0 -75.6824230817,45.4303562275,0.0 -75.6824281057,45.4303498346,0.0 -75.6824145518,45.430335541,0.0 -75.6824049883,45.4303350335,0.0 -75.6823831747,45.4303101416,0.0 -75.6823868204,45.4303039918,0.0 -75.6823778476,45.4302966141,0.0 -75.6823704145,45.4302927237,0.0 -75.6823587147,45.4302955472,0.0 -75.682358577,45.4303044472,0.0 -75.682170841,45.430383449,0.0 -75.6822232986,45.4304461935,0.0 -75.682236632,45.4304407304,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[357-359 Murray Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[422]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[357-359 Murray Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[357-359 Murray Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - Front  view of 357-359 Murray Street before demolition.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/357-359_Murray_Street_1974-137-03.jpg" title="Front  view of 357-359 Murray Street before demolition." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1974<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/3rd batch/1974-137-03.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="row">
+					<b>Photo 2</b> - View of 357-359 Murray Street and surrounding buildings taken from the southeast corner of Friel and Murray Streets.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/357-359_Murray_Street_2_1974-137-04.jpg" title="View of 357-359 Murray Street and surrounding buildings taken from the southeast corner of Friel and Murray Streets." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1974<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/3rd batch/1974-137-04.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6848411673,45.4335826696,0.0 -75.6848568028,45.4335764576,0.0 -75.6848123442,45.4335251258,0.0 -75.6847144894,45.4335674213,0.0 -75.6847618386,45.4336191155,0.0 -75.6847775458,45.4336121102,0.0 -75.684804345,45.4336448686,0.0 -75.6848714477,45.4336189581,0.0 -75.6848411673,45.4335826696,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[329 Besserer Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[423]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[329 Besserer Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[329 Besserer Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - Rear view of 329 Besserer Street.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/329_Besserer_Street_1966-1752.jpg" title="Rear view of 329 Besserer Street." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1966<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/5th batch/1966-1752.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6826084175,45.4294281254,0.0 -75.6825900862,45.4294350242,0.0 -75.682541181,45.4293772586,0.0 -75.6825025731,45.429391908,0.0 -75.6824879758,45.4293868851,0.0 -75.6824669738,45.4293948973,0.0 -75.6824653907,45.4294081796,0.0 -75.6825141204,45.4294670733,0.0 -75.6825552128,45.4294500382,0.0 -75.6825885513,45.4294891258,0.0 -75.6825921475,45.4294876093,0.0 -75.6826159087,45.4295183268,0.0 -75.6826237809,45.4295151594,0.0 -75.6826303494,45.4295231421,0.0 -75.6826494756,45.4295154462,0.0 -75.682643555,45.4295082654,0.0 -75.6826682921,45.4294983124,0.0 -75.6826084175,45.4294281254,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[665 St. Patrick Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[424]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[665 St. Patrick Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[665 St. Patrick Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - 665-667 St. Patrick Street taken at the end of Charlotte Street, from left to right.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/665-667_St_Patrick_Street_1968-97-01.jpg" title="665-667 St. Patrick Street taken at the end of Charlotte Street, from left to right." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-97-01.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6801049828,45.4365135128,0.0 -75.6800237577,45.4364127144,0.0 -75.6799613824,45.4364410834,0.0 -75.6800120074,45.4365046727,0.0 -75.6800360031,45.4364938129,0.0 -75.6800664706,45.4365310979,0.0 -75.6801049828,45.4365135128,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[667 St. Patrick Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[425]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[667 St. Patrick Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[667 St. Patrick Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - 665-667 St. Patrick Street taken at the end of Charlotte Street, from left to right.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/665-667_St_Patrick_Street_1968-97-01.jpg" title="665-667 St. Patrick Street taken at the end of Charlotte Street, from left to right." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-97-01.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6798707045,45.4365688947,0.0 -75.6798924537,45.4365596258,0.0 -75.6798342711,45.4364914823,0.0 -75.6797740966,45.4365150912,0.0 -75.6798328747,45.4365860247,0.0 -75.6798240034,45.4365897597,0.0 -75.6798543056,45.4366267465,0.0 -75.6799000995,45.4366049872,0.0 -75.6798707045,45.4365688947,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[669 St. Patrick Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[426]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[669 St. Patrick Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[669 St. Patrick Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - 669-671 St. Patrick Street taken at the end of Charlotte Street, from left to right.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/669-671_St_Patrick_Street_1968-97-02.jpg" title="669-671 St. Patrick Street taken at the end of Charlotte Street, from left to right." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-97-02.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6798417461,45.4366121695,0.0 -75.6797645658,45.4365181728,0.0 -75.6797113383,45.4365424501,0.0 -75.6797503719,45.4365947397,0.0 -75.6797690016,45.4365866473,0.0 -75.6798035997,45.4366289769,0.0 -75.6798417461,45.4366121695,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[671 St. Patrick Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[427]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[671 St. Patrick Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[671 St. Patrick Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - 669-671 St. Patrick Street taken at the end of Charlotte Street, from left to right.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/669-671_St_Patrick_Street_1968-97-02.jpg" title="669-671 St. Patrick Street taken at the end of Charlotte Street, from left to right." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-97-02.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6797006929,45.4366246195,0.0 -75.6797113384,45.4366190171,0.0 -75.6796643206,45.436561125,0.0 -75.6796128673,45.4365854023,0.0 -75.6796864989,45.4366825116,0.0 -75.6797299681,45.4366619693,0.0 -75.6797006929,45.4366246195,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[681 St. Patrick Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[428]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[681 St. Patrick Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[681 St. Patrick Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - 681-687 St. Patrick Street taken at the end of Charlotte Street, from left to right starting with house in centre of photo with external stairwell.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/681-687_St_Patrick_Street_1968-97-03.jpg" title="681-687 St. Patrick Street taken at the end of Charlotte Street, from left to right starting with house in centre of photo with external stairwell." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-97-03.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6794926195,45.43662799,0.0 -75.6795493955,45.436695842,0.0 -75.6795884292,45.4366777897,0.0 -75.6795644768,45.4366479099,0.0 -75.6795839936,45.436639195,0.0 -75.6795529442,45.4366012228,0.0 -75.6794926195,45.43662799,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[345 Murray Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[429]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[345 Murray Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[345 Murray Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - View of 349-355 Murray Street (wooden siding) from left to right.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/345-349_Murray_Street_1968-210-02.jpg" title="View of 349-355 Murray Street (wooden siding) from left to right." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-210-02.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6859239836,45.4332374907,0.0 -75.6858405267,45.4331439975,0.0 -75.6857769783,45.4331704753,0.0 -75.685829365,45.4332311047,0.0 -75.6858498021,45.433221826,0.0 -75.6858813498,45.4332552543,0.0 -75.6859239836,45.4332374907,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[347 Murray Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[430]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[347 Murray Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[347 Murray Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - View of 345-347 Murray Street (wooden siding) from left to right.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/345-347_Murray_Street_1968-210-02.jpg" title="View of 345-347 Murray Street (wooden siding) from left to right." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-210-02.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.685811587,45.4332264248,0.0 -75.6857827379,45.433193219,0.0 -75.6857881543,45.4331908344,0.0 -75.6857274358,45.4331210443,0.0 -75.6856881645,45.4331371571,0.0 -75.6857802926,45.4332402026,0.0 -75.685811587,45.4332264248,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[321 Murray Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[431]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[321 Murray Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[321 Murray Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - View of 321-339 Murray Street from left to right.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/321-339_Murray_Street_1968-210-03.jpg" title="View of 321-339 Murray Street from left to right." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-210-03.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6862814569,45.4330358432,0.0 -75.6863036472,45.4330267722,0.0 -75.6862755552,45.4329928467,0.0 -75.6862611953,45.4329987137,0.0 -75.6861990234,45.432932072,0.0 -75.6861564646,45.4329482144,0.0 -75.6862743035,45.4330841883,0.0 -75.6863087923,45.4330688548,0.0 -75.6862814569,45.4330358432,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[337-339 Murray Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[432]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[337-339 Murray Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[337-339 Murray Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - View of 321-339 Murray Street from left to right.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/321-339_Murray_Street_1968-210-03.jpg" title="View of 321-339 Murray Street from left to right." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-210-03.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6861964277,45.4330172587,0.0 -75.6862115839,45.4330099833,0.0 -75.6861572346,45.4329466383,0.0 -75.6860639,45.4329847697,0.0 -75.6861188582,45.43304791,0.0 -75.6861301713,45.4330432827,0.0 -75.686167079,45.4330843789,0.0 -75.6862322322,45.4330566251,0.0 -75.6861964277,45.4330172587,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[529-537 St. Patrick Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[433]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[529-537 St. Patrick Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[529-537 St. Patrick Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - West side of 529-537 St. Patrick Street.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/529-537_St_Patrick_Street_1_1968-254-03.jpg" title="West side of 529-537 St. Patrick Street." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-254-03.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="row">
+					<b>Photo 2</b> - East side of 529-537 St. Patrick Street.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/529-537_St_Patrick_Street_2_1968-254-09.jpg" title="East side of 529-537 St. Patrick Street." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-254-09.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="row">
+					<b>Photo 3</b> - View of 529-537 St. Patrick Street looking east down the street.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/529-537_St_Patrick_Street_3_1968-254-04.jpg" title="View of 529-537 St. Patrick Street looking east down the street." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-254-04.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.683590376,45.4348953438,0.0 -75.6833667818,45.4349873825,0.0 -75.6834285967,45.4350601928,0.0 -75.6834363682,45.4350572093,0.0 -75.6834627583,45.4350878203,0.0 -75.6834919012,45.4350766322,0.0 -75.6835056277,45.4350926194,0.0 -75.6835493422,45.4350758372,0.0 -75.6835345527,45.4350584867,0.0 -75.6835597184,45.4350470541,0.0 -75.6835347396,45.4350150156,0.0 -75.6835628196,45.4350024642,0.0 -75.6836030278,45.4350507985,0.0 -75.6836821537,45.435019536,0.0 -75.6836449512,45.4349718191,0.0 -75.683653694,45.4349684627,0.0 -75.683590376,45.4348953438,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[559-561 St. Patrick Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[434]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[559-561 St. Patrick Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[559-561 St. Patrick Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - Front view of 559-561 St. Patrick Street.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/559-561_St_Patrick_Street_1968-254-08.jpg" title="Front view of 559-561 St. Patrick Street." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/4thbatchJune2012/1968-254-08.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6828866732,45.4353485576,0.0 -75.6828339626,45.4352867287,0.0 -75.6828471071,45.4352810134,0.0 -75.6827986135,45.4352241309,0.0 -75.6827149803,45.4352594363,0.0 -75.6827634737,45.4353163189,0.0 -75.6827782361,45.4353095292,0.0 -75.6828309465,45.4353713581,0.0 -75.6828866732,45.4353485576,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[121 Chapel Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[435]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[121 Chapel Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[121 Chapel Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - Front view of 121 Chapel Street looking toward the south.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/121_Chapel_Street_1968-355.jpg" title="Front view of 121 Chapel Street looking toward the south." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-355.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="row">
+					<b>Photo 2</b> - Closer front view of 121 Chapel Street.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/121_Chapel_Street_2_1968-373-08.jpg" title="Closer front view of 121 Chapel Street." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/7th batch/1968-373-08.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="row">
+					<b>Photo 3</b> - Front view of 121 Chapel Street looking toward the north.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/121_Chapel_Street_3_1968-373-06.jpg" title="Front view of 121 Chapel Street looking toward the north." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/7th batch/1968-373-06.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6814038787,45.4320702446,0.0 -75.6814738678,45.4320435501,0.0 -75.6814941386,45.4320670377,0.0 -75.6816147308,45.4320172009,0.0 -75.6815870909,45.4319845138,0.0 -75.6816077688,45.4319743025,0.0 -75.6815826066,45.4319447063,0.0 -75.6815617819,45.431952934,0.0 -75.6815333874,45.431917504,0.0 -75.6814093436,45.4319684554,0.0 -75.6814328433,45.4319977805,0.0 -75.6813645307,45.432024764,0.0 -75.6814038787,45.4320702446,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[127 Chapel Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[436]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[127 Chapel Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[127 Chapel Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - Front view of 127-133 Chapel Street, 127 on the left and 131-133 on the right.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/127-133_Chapel_Street_1_1968-373-07.jpg" title="Front view of 127-133 Chapel Street, 127 on the left and 131-133 on the right." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/7th batch/1968-373-07.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="row">
+					<b>Photo 2</b> - Front view of 127-133 Chapel Street with connection built after 1912.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/127-133_Chapel_Street_2_1968-373-05.jpg" title="Front view of 127-133 Chapel Street with connection built after 1912." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/7th batch/1968-373-05.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6813157829,45.4319391864,0.0 -75.6813557455,45.4319209064,0.0 -75.681369487,45.4319398234,0.0 -75.6815032167,45.4318842325,0.0 -75.6814999359,45.4318810311,0.0 -75.6815026441,45.4318728597,0.0 -75.6814917153,45.4318591547,0.0 -75.6814803696,45.4318573907,0.0 -75.6814631003,45.4318382388,0.0 -75.6812924492,45.4319110988,0.0 -75.6813157829,45.4319391864,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[131-133 Chapel Street]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[437]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[131-133 Chapel Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[131-133 Chapel Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - Front view of 127-133 Chapel Street, 127 on the left and 131-133 on the right.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/127-133_Chapel_Street_1_1968-373-07.jpg" title="Front view of 127-133 Chapel Street, 127 on the left and 131-133 on the right." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/7th batch/1968-373-07.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="row">
+					<b>Photo 2</b> - Front view of 127-133 Chapel Street with connection built after 1912.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/127-133_Chapel_Street_2_1968-373-05.jpg" title="Front view of 127-133 Chapel Street with connection built after 1912." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/7th batch/1968-373-05.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6812771188,45.4318813705,0.0 -75.6813588675,45.4318459658,0.0 -75.6813676609,45.4318568569,0.0 -75.6814491573,45.4318223328,0.0 -75.6814313459,45.4317998513,0.0 -75.6814417357,45.4317951453,0.0 -75.6814139112,45.431764586,0.0 -75.6814035535,45.4317677571,0.0 -75.6813892551,45.4317510709,0.0 -75.6813075976,45.4317849054,0.0 -75.6813149668,45.4317934401,0.0 -75.6812319179,45.4318276681,0.0 -75.6812771188,45.4318813705,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[62-64 Chamberlain Avenue]]></name>
+      <styleUrl>#residential_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[438]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[62-64 Chamberlain Avenue]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[Location now occupied by a parking lot.]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[62-64 Chamberlain Avenue]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - View of the front of 62-64 Chamberlain Avenue.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/62-64 Chamberlain.jpg" title="View of the front of 62-64 Chamberlain Avenue." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: n/a<br>
+					</div>
+					<div>
+						<b>Source</b>: Private Collection of Lishman-Beattie Family</small>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="row">
+					<b>Photo 2</b> - The front porch of 62-64 Chamberlain Avenue.
+
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/62-72 Chamberlain_2.jpg" title="The front porch of 62-64 Chamberlain Avenue.
+" border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: n/a<br>
+					</div>
+					<div>
+						<b>Source</b>: Private Collection of Lishman-Beattie Family</small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6939318948,45.4070894281,0.0 -75.6939153897,45.4070946362,0.0 -75.6938861912,45.4070578676,0.0 -75.6938076254,45.4070904877,0.0 -75.6938414535,45.4071264425,0.0 -75.6938258248,45.4071326391,0.0 -75.6938793335,45.4071906166,0.0 -75.6939825341,45.4071471588,0.0 -75.6939318948,45.4070894281,0.0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[349-355 Clarence Street]]></name>
+      <styleUrl>#mix_map</styleUrl>
+      <ExtendedData>
+        <Data name="id">
+          <value><![CDATA[439]]></value>
+        </Data>
+        <Data name="name">
+          <value><![CDATA[349-355 Clarence Street]]></value>
+        </Data>
+        <Data name="dateBuilt">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="dateDemolished">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="architect">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="status">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="history">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="addrss">
+          <value><![CDATA[349-355 Clarence Street]]></value>
+        </Data>
+        <Data name="occupant">
+          <value><![CDATA[n/a]]></value>
+        </Data>
+        <Data name="sources">
+          <value/>
+        </Data>
+        <Data name="photos">
+          <value><![CDATA[
+			<style type="text/css">
+				.row {
+					border: solid black 1px;
+					padding: 3px;
+				}
+				.container {
+					padding: 3px;
+				}
+			</style>
+			<div class="container">
+				<div class="row">
+					<b>Photo 1</b> - Looking east down Clarence Street. 349-356 is the large brick  building in the foreground. 359 is the building in the centre with the white deck.
+				</div>
+				
+				<div>
+					<img src="http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/349-359_Clarence_Street_1968-241.jpg" title="Looking east down Clarence Street. 349-356 is the large brick  building in the foreground. 359 is the building in the centre with the white deck." border="1" width="500">
+				</div>
+				
+				<div class="row">
+					<div>
+						<small><b>Date Taken</b>: 1968<br>
+					</div>
+					<div>
+						<b>Source</b>: <a href="ftp://ftp.cmhc-schl.gc.ca/chic-ccdh/photos/Lowertown images/2nd batch/1968-241.jpg">
+CMHC Photo Archive Collection</a></small>
+					</div>
+				</div>
+			</div>
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$("img").click(function() {
+						$("#cf2 img.top").toggleClass("transparent");
+					});
+				});
+			</script>]]></value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-75.6844436858,45.4329436127,0.0 -75.6843978242,45.4328910404,0.0 -75.6844310283,45.4328777327,0.0 -75.6844751074,45.432930762,0.0 -75.6845852561,45.4328856403,0.0 -75.6844860054,45.4327679254,0.0 -75.6842540568,45.4328664463,0.0 -75.6843072048,45.4329294661,0.0 -75.6843178718,45.4329253691,0.0 -75.6843642173,45.4329790775,0.0 -75.6844436858,45.4329436127,0.0</coordinates>
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
