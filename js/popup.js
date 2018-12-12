@@ -25,7 +25,7 @@ function get_kml() {
 			return out_content;
 		}
 	};
-	xhttp.open("GET", "../files/Ottawa_Bygone_Buildings.kml", false);
+	xhttp.open("GET", "../files/Ottawa_Bygone_Buildings.geojson", false);
 	xhttp.send();
 	out_content = xhttp.responseText;
 	//alert(out_content);
@@ -33,9 +33,49 @@ function get_kml() {
 }
 
 function create_popup(id_num) {
-	var xmlDoc = new DOMParser().parseFromString(get_kml(),'text/xml');
+	//var xmlDoc = new DOMParser().parseFromString(get_kml(),'text/xml');
 	
-	var kml = xmlDoc.getElementsByTagName("Placemark");
+	jsonDoc = get_kml();
+	
+	json_data = JSON.parse(jsonDoc);
+	
+	//alert(json_data);
+	
+	features = json_data.features;
+	
+	//alert(features)
+
+	var build_id = "";
+	
+	for (i=0; i<features.length; i++) {
+		var feat = features[i];
+		var props = feat.properties;
+		
+		var building_info = new Object();
+		
+		//alert(props['id']);
+		
+		building_info['id'] = props['id'];
+		building_info['buildingName'] = props['buildingName'];
+		building_info['dateBuilt'] = props['dateBuilt'];
+		building_info['dateDemolished'] = props['dateDemolished'];
+		building_info['architect'] = props['architects']['name'];
+		building_info['status'] = props['status'];
+		building_info['history'] = props['history'];
+		building_info['occupant'] = props['occupant'];
+		building_info['address'] = props['address'];
+		building_info['architects'] = props['architects'];
+		
+		building_info['sources'] = props['sources'];
+		
+		building_info['photos'] = props['photos']
+		
+		if (id_num == building_info["id"]) { break; }
+	}
+	
+	showPopup(building_info);
+	
+	/* var kml = xmlDoc.getElementsByTagName("Placemark");
 	
 	var build_id = "";
 	
@@ -58,9 +98,9 @@ function create_popup(id_num) {
 			//if (build_id == id_num) {
 			//	alert(build_name)
 			//}
-	}
+	} */
 	
-	showPopup(building_info);
+	//alert(building_info['name']);
 	
 }
 
@@ -471,15 +511,42 @@ function showPopup(props, featId) {
 	//info.tooltip('hide');
 
 	$(".modal-title").html(props['buildingName']).text();
-
+	
+	
+	// Get the address
+	address_json = props['address'];
+	address_str = address_json['unitNumber'] + " " + address_json['street'];
+	//building_info['addrss'] = address_str;
+	
+	if (address_str == "") {
+		address_str = 'n/a';
+	}
+	
+	// Get the architects
+	arch_lst = props['architects'];
+	arch_html = "";
+	for (var i=0; i<arch_lst.length; i++) {
+		arch_name = arch_lst[i]['name'];
+		arch_url = arch_lst[i]['url'];
+		arch_html += ['<a href="' + arch_url + '" target="_blank">', 
+							arch_name, 
+					  '</a>', 
+					  '<br>'
+					  ].join('\n');
+	}
+	
+	if (arch_html == "") {
+		arch_html = 'n/a';
+	}
+	
 	popup_html = getPopupContent();
 	popup_html = popup_html.replace('${id}', checkInput(props['id']));
 	popup_html = popup_html.replace('${dateBuilt}', checkInput(props['dateBuilt']));
 	popup_html = popup_html.replace('${dateDemolished}', checkInput(props['dateDemolished']));
-	popup_html = popup_html.replace('${architect}', checkInput(props['architect']));
+	popup_html = popup_html.replace('${architect}', arch_html);
 	popup_html = popup_html.replace('${status}', checkInput(props['status']));
 	popup_html = popup_html.replace('${history}', checkInput(props['history']));
-	popup_html = popup_html.replace('${addrss}', checkInput(props['addrss']));
+	popup_html = popup_html.replace('${addrss}', address_str);
 	popup_html = popup_html.replace('${occupant}', checkInput(props['occupant']));
 	
 	// Create links for sources:
@@ -561,6 +628,8 @@ function showPopup(props, featId) {
 	} */
 	
 	photo_info = props['photos'];
+	
+	//alert(photo_info);
 	
 	new_ph_html = create_photo_html(photo_info);
 	//alert(new_ph_html);
