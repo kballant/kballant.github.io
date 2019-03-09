@@ -1,0 +1,112 @@
+<nav class="navbar navbar-default grad-nav">
+	<button class="navbar-toggler visible-xs" type="button" data-toggle="collapse" data-target="#navbar-header" aria-controls="navbar-header">
+		&#9776;
+	</button>
+	<div class="container-fluid">
+		<!--alert({{ page.url }})-->
+		<div id="navbar-header" class="navbar-collapse collapse">
+			<ul class="nav navbar-nav nav-font">
+				<li> <!-- Home -->
+					<a {% if page.url == "/" %}class="active"{% endif %} href="/">
+						HOME
+					</a>
+				</li>
+				<li class="dropdown"> <!-- Geomatics -->
+					<a href="#" data-toggle="dropdown" data-submenu="" aria-expanded="false"> <!-- aria-haspopup="true" aria-expanded="false">-->
+						GEOMATICS
+						<span class="caret"></span>
+					</a>
+					<ul class="dropdown-menu nav-font sub-menu">
+						<li> <!-- List of Projects -->
+							<a {% if page.url == "/geomatics/" %}class="active"{% endif %} 
+								href="/geomatics">
+								List of Projects
+							</a>
+						</li>
+						<li> <!-- bygone Buildings of Ottawa -->
+							<a {% if page.url == "/geomatics/bygone-buildings-ottawa/" %}
+									class="active"
+								{% endif %} href="/geomatics/bygone-buildings-ottawa">
+								Ottawa's Bygone Buildings
+							</a>
+						</li>
+						<li> <!-- LBO Map -->
+							<a {% if page.url == "/geomatics/bygone-buildings-ottawa/map.html" %}
+									class="active pad-left-30"
+								{% else %}
+									class="pad-left-30" 
+								{% endif %} href="/geomatics/bygone-buildings-ottawa/map">
+								&#10149;Map
+							</a>
+						</li>
+						<li> <!-- LBO Map -->
+							<a {% if page.url == "/geomatics/bygone-buildings-ottawa/building-list.html" %}
+									class="active pad-left-30"
+								{% else %}
+									class="pad-left-30" 
+								{% endif %} href="/geomatics/bygone-buildings-ottawa/building-list">
+								&#10149;List
+							</a>
+						</li>
+						<li> <!-- Fire Insurance Plans -->
+							<a {% if page.url == "/geomatics/fire-plans.html" %}
+									class="active"
+								{% endif %} href="/geomatics/fire-plans">
+								Fire Insurance Plans
+							</a>
+						</li>
+						<li> <!-- Documents -->
+							<a {% if page.url == "/geomatics/documents.html" %}
+									class="active"
+								{% endif %} href="/geomatics/documents">
+								Documents
+							</a>
+						</li>
+					</ul>
+				</li>
+				<li class="dropdown">
+					<a href="#" data-toggle="dropdown" data-submenu="" aria-expanded="false"> <!-- aria-haspopup="true" aria-expanded="false">-->
+						ABOUT
+						<span class="caret"></span>
+					</a>
+					<ul class="dropdown-menu nav-font sub-menu">
+						<li>
+							<a {% if page.url == "/about/" %}
+									class="active"
+								{% endif %} href="/about">About Me
+							</a>
+						</li>
+						<li><a {% if page.url == "/about/resume.html" %}
+									class="active"
+								{% endif %} href="/about/resume">Resume</a></li>
+					</ul>
+				</li>
+				<li class="dropdown"> <!-- Other Interests -->
+					<a href="#" data-toggle="dropdown" data-submenu="" aria-expanded="false"> <!-- aria-haspopup="true" aria-expanded="false">-->
+						OTHER INTERESTS
+						<span class="caret"></span>
+					</a>
+					<ul class="dropdown-menu nav-font sub-menu">
+						<li> <!-- List of Projects -->
+							<a {% if page.url == "/music/" %}class="active"{% endif %} 
+								href="/music">
+								Music
+							</a>
+						</li>
+					</ul>
+				</li>
+				<!-- <li class="dropdown">
+					<a href="#" class="dropdown-toggle disabled" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+						Other Interests
+						<span class="caret"></span>
+					</a>
+					<ul class="dropdown-menu">
+						<li><a href="#">Music</a></li>
+						<li><a href="#">Photography</a></li>
+						<li><a href="#">Scripting</a></li> 
+					</ul>
+				</li> -->
+			</ul>
+		</div>
+	</div>
+</nav>

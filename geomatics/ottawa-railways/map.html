@@ -1,0 +1,42 @@
+---
+layout: main
+title: Map of Ottawa's 1930 Railway Network
+description: An Openlayers map showing Ottawa's railway network in 1930.
+keywords: Ottawa, history, Ottawa history, railways
+---
+<div> <!-- class="container"> -->
+	<div class="row">
+		<div class="col-md-2 col-sm-2 sidebar-map">
+			<div class="map-title">
+				<h2 class="map-title-text">Ottawa's 1930 Railway Network</h2>
+			</div>
+			<p class="mobile_only">
+				NOTE: Selecting buildings currently doesn't work on mobile devices. Sorry for the inconvenience.<br>
+				A <a href="./building-list.html">list of buildings</a> is available.
+			</p>
+			<hr class="hr-map" style="height:1px;border:none;color:#333;background-color:#ffffff">
+			<div class="col-md-12 col-sm-12 legend-col">
+				{% include_relative legend.html %}
+			</div>
+		</div>
+		<div class="col-md-10 col-sm-10 map-col">
+			<div id="map" class="map"><div id="info"></div></div>
+			<div id="popup" class="ol-popup">
+				<a href="#" id="popup-closer" class="ol-popup-closer"></a>
+				<div id="popup-content"></div>
+			</div>
+			<p class="small" style="text-align:left !important;">
+				Map created using OpenLayers 4<br>
+			</p>
+			<div class="dropdown">
+				<button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Download Railways Map
+				<span class="caret"></span></button>
+				<ul class="dropdown-menu">
+					<li><a href="../files/1930_Ottawa_Railways.geojson" target="_blank">GeoJSON</a></li>
+				</ul>
+			</div>
+			<br>
+			{% include footer.html %}
+		</div>
+	</div>
+</div>

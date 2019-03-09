@@ -19,6 +19,7 @@
 		<meta name="description" content="{{ page.description }}" />
 		<meta name="keywords" content="{{ page.keywords }}" />
 		{% if page.url == "/geomatics/bygone-buildings-ottawa/map.html" or 
+			page.url == "/geomatics/ottawa-railways/map.html" or 
 			page.url == "/geomatics/fire-plans-map.html" or
 			page.url == "/geomatics/bygone-buildings-ottawa/building-list.html" %}
 			<link rel="stylesheet" href="/ol/ol.css" type="text/css">
@@ -38,6 +39,7 @@
 		<noscript><link rel="stylesheet" href="/wet-boew/css/noscript.min.css" /></noscript>
 		<link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap.min.css">
 		{% if page.url == "/geomatics/bygone-buildings-ottawa/map.html" or 
+			page.url == "/geomatics/ottawa-railways/map.html" or 
 			page.url == "/geomatics/fire-plans-map.html" or
 			page.url == "/geomatics/bygone-buildings-ottawa/building-list.html" %}
 			<link rel="stylesheet" href="/css/mapstyle.css" type="text/css">
@@ -60,7 +62,8 @@
 	</head>
 	<body class="main">
 		<!--<a class="wb-lbx" title="Example of inline content" href="#inline_content">Inline content</a>-->
-		{% if page.url == "/geomatics/bygone-buildings-ottawa/map.html" or
+		{% if page.url == "/geomatics/bygone-buildings-ottawa/map.html" or 
+			page.url == "/geomatics/ottawa-railways/map.html" or 
 			page.url == "/geomatics/bygone-buildings-ottawa/building-list.html" %}
 			<section id="inline_content" class="map-popup mfp-hide modal-dialog modal-content overlay-def">
 				<header class="modal-header popover-header">
@@ -84,7 +87,8 @@
 				</div>
 			</section>
 		{% endif %}
-		{% if page.url != "/geomatics/bygone-buildings-ottawa/map.html" %}
+		{% if page.url != "/geomatics/bygone-buildings-ottawa/map.html" and 
+			page.url != "/geomatics/ottawa-railways/map.html" %}
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
@@ -123,9 +127,7 @@
 			</div><!-- /.container -->
 			<div class="row">
 				<div class="col-md-9">
-					<footer>
-						<p class="foot-text">Site created by <a href="mailto:geomatics@kballantyne.ca">Kevin Ballantyne</a> using Github, &#169; 2018.</p>
-					</footer>
+					{% include footer.html %}
 				</div>
 			</div>
 		{% else %}
@@ -153,6 +155,7 @@
 
 		<![endif]-->
 		{% if page.url == "/geomatics/bygone-buildings-ottawa/map.html" or 
+			page.url == "/geomatics/ottawa-railways/map.html" or 
 			page.url == "/geomatics/fire-plans-map.html" %}
 			<script src="/wet-boew/js/deps/prettify.min.js"></script>
 			<!--<script src="/js/sql.js"></script>-->
@@ -161,6 +164,11 @@
 			<!--<script src="/bootstrap/js/thumbnails.carousel.js"></script>-->
 			<script src="/js/popup.js"></script>
 			<script src="/js/bygone_building_map.js"></script>
+		{% endif %}
+		{% if page.url == "/geomatics/ottawa-railways/map.html" %}
+			<!--<script src="/bootstrap/js/thumbnails.carousel.js"></script>-->
+			<script src="/js/popup.js"></script>
+			<script src="/js/railway_map.js"></script>
 		{% endif %}
 		{% if page.url == "/geomatics/bygone-buildings-ottawa/building-list.html" %}
 			<!--<script src="/bootstrap/js/thumbnails.carousel.js"></script>-->
