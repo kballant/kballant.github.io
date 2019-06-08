@@ -11,10 +11,20 @@ body {
 a {
     text-decoration: underline !important;
     color: #9FCCED !important;
+	font-weight: bold !important;
 }
 a:hover {
     text-decoration: underline !important;
 	color: #00CCFF !important;
+	font-weight: bold !important;
+}
+a.on-white {
+    text-decoration: underline !important;
+    color: #0074D9 !important;
+}
+a.on-white:hover {
+    text-decoration: underline !important;
+	color: #001f3f !important;
 }
 header {
 	background: #fff;

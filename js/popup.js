@@ -528,7 +528,7 @@ function showPopup(props, featId) {
 	for (var i=0; i<arch_lst.length; i++) {
 		arch_name = arch_lst[i]['name'];
 		arch_url = arch_lst[i]['url'];
-		arch_html += ['<a href="' + arch_url + '" target="_blank">', 
+		arch_html += ['<a class="on-white" href="' + arch_url + '" target="_blank">', 
 							arch_name, 
 					  '</a>', 
 					  '<br>'
@@ -558,7 +558,7 @@ function showPopup(props, featId) {
 			src_name = sources[i]['name'];
 			src_url = sources[i]['url'];
 			source_html += [src_name + ':',
-							'<a href="' + src_url + '" target="_blank">', 
+							'<a class="on-white" href="' + src_url + '" target="_blank">', 
 								src_url, 
 							'</a>', 
 							'<br>'
