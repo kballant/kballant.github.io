@@ -197,6 +197,14 @@ h2.map-title-text {
 	margin-top: 0px;
 	margin-bottom: 0px;
 }
+.title-img {
+	display: block !important;
+	margin-left: auto !important;
+	margin-right: auto !important;
+	width: 90% !important;
+	max-width: 200px !important;
+	min-width: 120px !important;
+}
 th {
 	color:#FFFFFF !important;
 }
@@ -603,6 +611,9 @@ summary {
 	}
 	.geo-logo {
 		width: 50% !important;
+	}
+	.title-img {
+		width: 100px !important;
 	}
 	.sidebar-map {
 		padding-left: 0px !important;
