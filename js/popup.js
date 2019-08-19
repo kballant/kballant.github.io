@@ -3,77 +3,77 @@ function getPopupContent() {
 	xhttp.onreadystatechange = function() {
 		if (xhttp.readyState == 4 && xhttp.status == 200) {
 			//document.getElementById("demo").innerHTML = xhttp.responseText;
-			out_content = xhttp.responseText;
-			//alert(out_content);
-			return out_content;
+			outContent = xhttp.responseText;
+			//alert(outContent);
+			return outContent;
 		}
 	};
 	xhttp.open("GET", "../files/popup_html2.txt", false);
 	xhttp.send();
-	out_content = xhttp.responseText;
-	//alert(out_content);
-	return out_content;
+	outContent = xhttp.responseText;
+	//alert(outContent);
+	return outContent;
 }
 
-function get_kml() {
+function getKML() {
 	var xhttp = new XMLHttpRequest();
 	xhttp.onreadystatechange = function() {
 		if (xhttp.readyState == 4 && xhttp.status == 200) {
 			//document.getElementById("demo").innerHTML = xhttp.responseText;
-			out_content = xhttp.responseText;
-			//alert(out_content);
-			return out_content;
+			outContent = xhttp.responseText;
+			//alert(outContent);
+			return outContent;
 		}
 	};
 	xhttp.open("GET", "../files/Ottawa_Bygone_Buildings.geojson", false);
 	xhttp.send();
-	out_content = xhttp.responseText;
-	//alert(out_content);
-	return out_content;
+	outContent = xhttp.responseText;
+	//alert(outContent);
+	return outContent;
 }
 
-function create_popup(id_num) {
+function createPopup(idNum) {
 	//var xmlDoc = new DOMParser().parseFromString(get_kml(),'text/xml');
 	
-	jsonDoc = get_kml();
+	jsonDoc = getKML();
 	
-	json_data = JSON.parse(jsonDoc);
+	jsonData = JSON.parse(jsonDoc);
 	
-	//alert(json_data);
+	//alert(jsonData);
 	
-	features = json_data.features;
+	features = jsonData.features;
 	
 	//alert(features)
 
-	var build_id = "";
+	var buildID = "";
 	
 	for (i=0; i<features.length; i++) {
 		var feat = features[i];
 		var props = feat.properties;
 		
-		var building_info = new Object();
+		var buildingInfo = new Object();
 		
 		//alert(props['id']);
 		
-		building_info['id'] = props['id'];
-		building_info['buildingName'] = props['buildingName'];
-		building_info['dateBuilt'] = props['dateBuilt'];
-		building_info['dateDemolished'] = props['dateDemolished'];
-		building_info['architect'] = props['architects']['name'];
-		building_info['status'] = props['status'];
-		building_info['history'] = props['history'];
-		building_info['occupant'] = props['occupant'];
-		building_info['address'] = props['address'];
-		building_info['architects'] = props['architects'];
+		buildingInfo['id'] = props['id'];
+		buildingInfo['buildingName'] = props['buildingName'];
+		buildingInfo['dateBuilt'] = props['dateBuilt'];
+		buildingInfo['dateDemolished'] = props['dateDemolished'];
+		buildingInfo['architect'] = props['architects']['name'];
+		buildingInfo['status'] = props['status'];
+		buildingInfo['history'] = props['history'];
+		buildingInfo['occupant'] = props['occupant'];
+		buildingInfo['address'] = props['address'];
+		buildingInfo['architects'] = props['architects'];
 		
-		building_info['sources'] = props['sources'];
+		buildingInfo['sources'] = props['sources'];
 		
-		building_info['photos'] = props['photos']
+		buildingInfo['photos'] = props['photos']
 		
-		if (id_num == building_info["id"]) { break; }
+		if (idNum == buildingInfo["id"]) { break; }
 	}
 	
-	showPopup(building_info);
+	showPopup(buildingInfo);
 	
 	/* var kml = xmlDoc.getElementsByTagName("Placemark");
 	
@@ -104,21 +104,21 @@ function create_popup(id_num) {
 	
 }
 
-function checkInput(in_text) {
-	if (in_text) {
-		return in_text;
+function checkInput(inText) {
+	if (inText) {
+		return inText;
 	} else {
 		return "n/a";
 	}
 }
 
-var img_height = 0;
-var img_width = 0;
+var imgHeight = 0;
+var imgWidth = 0;
 
-function create_photo_html(photos) {
+function createPhotoHTML(photos) {
 	
 	// Bootstrap Carousel:
-	var photo_html = ['<div class="container carousel-container">',
+	var photoHTML = ['<div class="container carousel-container">',
 						'<br>',
 						'<div id="photoCarousel" class="carousel slide" data-ride="carousel" data-interval="false">',
 					 ].join('\n');
@@ -128,17 +128,17 @@ function create_photo_html(photos) {
 	// Create the indicators for each image in the carousel
 	/*for (var i = 0; i < photos.length; i++) {
 		if (i == 0) {
-			active_str = ' class="active"';
+			activeStr = ' class="active"';
 		} else {
-			active_str = '';
+			activeStr = '';
 		}
-		photo_html += `
-			<li data-target="#photoCarousel" data-slide-to="${i}"${active_str}></li>`
+		photoHTML += `
+			<li data-target="#photoCarousel" data-slide-to="${i}"${activeStr}></li>`
 	}*/
-	//photo_html += `
+	//photoHTML += `
 		//</ol>
 	
-	photo_html += ['', '<!-- Wrapper for slides -->', 
+	photoHTML += ['', '<!-- Wrapper for slides -->', 
 					'<div class="carousel-inner" role="listbox">', 
 				  ].join('\n');
 	
@@ -146,31 +146,31 @@ function create_photo_html(photos) {
 	for (var i = 0; i < photos.length; i++) {
 		caption = photos[i]['caption'];
 		//link = photos[i]['link'];
-		img_url = photos[i]['url'];
-		modern_url = photos[i]['modernUrl'];
-		date_taken = photos[i]['dateTaken']; //.replace('Date Taken: ', '');
+		imgURL = photos[i]['url'];
+		modernURL = photos[i]['modernUrl'];
+		dateTaken = photos[i]['dateTaken']; //.replace('Date Taken: ', '');
 		//source = photos[i]['source'].replace('Source: ', '');
 		source = photos[i]['sources'][0]
-		src_link = source['url']
-		src_name = source['name']
+		srcLink = source['url']
+		srcName = source['name']
 		if (i == 0) {
-			active_str = ' active';
+			activeStr = ' active';
 		} else {
-			active_str = '';
+			activeStr = '';
 		}
 		
 		// Get dimensions of the current image
-		//var image_object = new Image();
-		//image_object.src = img_src[0]
+		//var imageObject = new Image();
+		//imageObject.src = imgSrc[0]
 		
-		//img_width = image_object.width;
-		//img_height = image_object.height;
+		//imgWidth = imageObject.width;
+		//imgHeight = imageObject.height;
 		
-		/* $("<img/>").attr("src", img_src[0]).load(function(){
+		/* $("<img/>").attr("src", imgSrc[0]).load(function(){
 			//s = {w:this.width, h:this.height};
-			img_width = this.width;
-			img_height = this.height;
-			alert(img_width + ' ' + img_height);      
+			imgWidth = this.width;
+			imgHeight = this.height;
+			alert(imgWidth + ' ' + imgHeight);      
 		});
 		
 		var carousel_height = 480;
@@ -178,35 +178,35 @@ function create_photo_html(photos) {
 		//carheight_str = carheight_str.replace("px", "");
 		//carousel_height = parseInt(carheight_str);
 		
-		window.alert("img_height: " + img_height);
+		window.alert("imgHeight: " + imgHeight);
 		window.alert("carousel_height: " + carousel_height); */
 	
-		//if (img_height > carousel_height) {
-		if (modern_url) {
-			photo_html += ['', '<div class="item' + active_str + ' carousel-item">', 
+		//if (imgHeight > carousel_height) {
+		if (modernURL) {
+			photoHTML += ['', '<div class="item' + activeStr + ' carousel-item">', 
 								'<div id="cf2">', 
-									'<img class="bottom carousel-img" src="' + modern_url + '" alt="" onclick="imgClick()">', 
+									'<img class="bottom carousel-img" src="' + modernURL + '" alt="" onclick="imgClick()">', 
 									//'<div class="mag-div magnify">', 
 									'<div class="mag-div">', 
 										'<div class="large"></div>', 
-										'<img class="small top carousel-img" src="' + img_url + '" alt="" onclick="imgClick()">', 
+										'<img class="small top carousel-img" src="' + imgURL + '" alt="" onclick="imgClick()">', 
 									'</div>',
 								'</div>', 
 								'<div class="carousel-caption">', 
 									'<p class="carousel-text-sm">***Click on image to toggle between then & now***</p>', 
 									'<hr class="trim" style="height:1px;border:none;color:#333;background-color:#AAAAAA">', 
 									'<p class="carousel-caption-txt">' + caption + '</p>', 
-									'<p class="carousel-text-sm">Date Taken: ' + date_taken + '</p>', 
-									'<p class="carousel-text-sm">Source: <a href="' + src_link + '" target="_blank">' + src_name + '</a></p>', 
+									'<p class="carousel-text-sm">Date Taken: ' + dateTaken + '</p>', 
+									'<p class="carousel-text-sm">Source: <a href="' + srcLink + '" target="_blank">' + srcName + '</a></p>', 
 								'</div>', 
 							'</div>'
 						  ].join('\n');
 		} else {
-			photo_html += ['', '<div class="item' + active_str + ' carousel-item">', 
+			photoHTML += ['', '<div class="item' + activeStr + ' carousel-item">', 
 								//'<div class="mag-div magnify">',
 								'<div class="mag-div">',
 									'<div class="large"></div>',
-									'<img class="small carousel-img" src="' + img_url + '" alt="">', 
+									'<img class="small carousel-img" src="' + imgURL + '" alt="">', 
 								'</div>', 
 								'<div class="magbutton">', 
 									//'<button type="button" class="btn btn-info" onclick="toggleMagnify(this)" data-toggle="button" aria-pressed="false" autocomplete="off"><i class="glyphicon glyphicon-zoom-in"></i></button>', 									
@@ -218,33 +218,33 @@ function create_photo_html(photos) {
 								'</div>', 
 								'<div class="carousel-caption">', 
 									'<p class="carousel-caption-txt">' + caption + '</p>', 
-									'<p class="carousel-text-sm">Date Taken: ' + date_taken + '</p>', 
-									'<p class="carousel-text-sm">Source: <a href="' + src_link + '" target="_blank">' + src_name + '</a></p>', 
+									'<p class="carousel-text-sm">Date Taken: ' + dateTaken + '</p>', 
+									'<p class="carousel-text-sm">Source: <a href="' + srcLink + '" target="_blank">' + srcName + '</a></p>', 
 								'</div>', 
 							'</div>'
 						  ].join('\n');
 		}
 		/* } else {
-			if (img_src.length > 1) {
-				photo_html += ['', '<div class="item' + active_str + ' carousel-item">', 
+			if (imgSrc.length > 1) {
+				photoHTML += ['', '<div class="item' + activeStr + ' carousel-item">', 
 									'<div id="cf2">', 
-										'<img class="bottom carousel-img" src="' + img_src[1] + '" alt="" onclick="imgClick()">', 
-										'<img class="top carousel-img" src="' + img_src[0] + '" alt="" onclick="imgClick()">', 
+										'<img class="bottom carousel-img" src="' + imgSrc[1] + '" alt="" onclick="imgClick()">', 
+										'<img class="top carousel-img" src="' + imgSrc[0] + '" alt="" onclick="imgClick()">', 
 									'</div>', 
 									'<div class="carousel-caption">', 
 										'<p class="carousel-text-sm">***Click on image to toggle between then & now***</p>', 
 										'<p class="carousel-caption-txt">' + caption + '</p>', 
-										'<p class="carousel-text-sm">Date Taken:' + date_taken + '</p>', 
+										'<p class="carousel-text-sm">Date Taken:' + dateTaken + '</p>', 
 										'<p class="carousel-text-sm">Source: <a href="' + link + '">' + source + '</a></p>', 
 									'</div>', 
 								'</div>'
 							  ].join('\n');
 			} else {
-				photo_html += ['', '<div class="item' + active_str + ' carousel-item">', 
-									'<img class="carousel-img" src="' + img_src[0] + '" alt="">', 
+				photoHTML += ['', '<div class="item' + activeStr + ' carousel-item">', 
+									'<img class="carousel-img" src="' + imgSrc[0] + '" alt="">', 
 									'<div class="carousel-caption">', 
 										'<p class="carousel-caption-txt">' + caption + '</p>', 
-										'<p class="carousel-text-sm">Date Taken: ' + date_taken + '</p>', 
+										'<p class="carousel-text-sm">Date Taken: ' + dateTaken + '</p>', 
 									'<p class="carousel-text-sm">Source: <a href="' + link + '">' + source + '</a></p>', 
 									'</div>', 
 								'</div>'
@@ -253,13 +253,13 @@ function create_photo_html(photos) {
 		} */
 	}
 	
-	photo_html += ['', '</div>', 
+	photoHTML += ['', '</div>', 
 					'<!-- Left and right controls -->'
 				  ].join('\n')
 	
 	// Create the left and right arrows for the carousel if more than one image
 	if (photos.length > 1) {
-		photo_html += ['', '<a class="left arrow carousel-control" href="#photoCarousel" role="button" data-slide="prev">', 
+		photoHTML += ['', '<a class="left arrow carousel-control" href="#photoCarousel" role="button" data-slide="prev">', 
 			'<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>', 
 			'<span class="sr-only">Previous</span>', 
 		'</a>', 
@@ -272,25 +272,25 @@ function create_photo_html(photos) {
 	
 	// Create thumbnails for carousel
 	
-	photo_html += ['', '<ul class="thumbnails-carousel clearfix">'].join('\n');
+	photoHTML += ['', '<ul class="thumbnails-carousel clearfix">'].join('\n');
 	
 	for (var i = 0; i < photos.length; i++) {
-		img_src = photos[i]['url'];
-		photo_html += ['', '<li><img class="tn" src="' + img_src + '" alt=""></li>'].join('\n');
+		imgSrc = photos[i]['url'];
+		photoHTML += ['', '<li><img class="tn" src="' + imgSrc + '" alt=""></li>'].join('\n');
 	}
 	
-	photo_html += ['', '</ul>', '</div>', '</div>'].join('\n');
+	photoHTML += ['', '</ul>', '</div>', '</div>'].join('\n');
 
-	return photo_html;
+	return photoHTML;
 }
 
 function imgClick() {
 	$("#cf2 img.top").toggleClass("transparent");
 }
 
-var real_width = 0;
-var real_height = 0;
-var prev_src = "";
+var realWidth = 0;
+var realHeight = 0;
+var prevSrc = "";
 
 function addMouseMoveMag(obj) {
 	
@@ -302,85 +302,85 @@ function addMouseMoveMag(obj) {
 			
 			//if (button_child.hasClass("active")) {
 			
-			var large_child = obj.children(".large");
-			var small_child = obj.children(".small");
+			var largeChild = obj.children(".large");
+			var smallChild = obj.children(".small");
 			
-			if (prev_src != small_child.attr("src")) {
-				real_width = 0;
-				real_height = 0;
-				prev_src = small_child.attr("src");
-				//large_child.css('margin', small_child.css('margin'));
-				margins = small_child.css('margin').split(" ");
+			if (prevSrc != smallChild.attr("src")) {
+				realWidth = 0;
+				realHeight = 0;
+				prevSrc = smallChild.attr("src");
+				//largeChild.css('margin', smallChild.css('margin'));
+				margins = smallChild.css('margin').split(" ");
 			}
 		
 			//When the user hovers on the image, the script will first calculate
 			//the native dimensions if they don't exist. Only after the native dimensions
 			//are available, the script will show the zoomed version.
-			if (!real_width && !real_height) {
+			if (!realWidth && !realHeight) {
 				//This will create a new image object with the same image as that in .small
 				//We cannot directly get the dimensions from .small because of the 
 				//width specified to 200px in the html. To get the actual dimensions we have
 				//created this image object.
-				var image_object = new Image();
-				image_object.src = small_child.attr("src");
+				var imageObject = new Image();
+				imageObject.src = smallChild.attr("src");
 				
 				//This code is wrapped in the .load function which is important.
 				//width and height of the object would return 0 if accessed before 
 				//the image gets loaded.
-				real_width = image_object.width;
-				real_height = image_object.height;
+				realWidth = imageObject.width;
+				realHeight = imageObject.height;
 			} else {
 				//x/y coordinates of the mouse
 				//This is the position of .magnify with respect to the document.
 				//NOTE: $(this) = div.magnify
-				var magnify_offset = obj.offset();
-				//var magnify_offset = $(this).position()
+				var magnifyOffset = obj.offset();
+				//var magnifyOffset = $(this).position()
 				
 				//We will deduct the positions of .magnify from the mouse positions with
 				//respect to the document to get the mouse positions with respect to the 
 				//container(.magnify)
-				var mouse_x = e.pageX - magnify_offset.left;
-				var mouse_y = e.pageY - magnify_offset.top;
+				var mouseX = e.pageX - magnifyOffset.left;
+				var mouseY = e.pageY - magnifyOffset.top;
 				
 				//Finally the code to fade out the glass if the mouse is outside the 
 				//	container
-				if (mouse_x < obj.width() && mouse_y < obj.height() && 
-					mouse_x > 0 && mouse_y > 0) {
-					large_child.fadeIn(100);
+				if (mouseX < obj.width() && mouseY < obj.height() && 
+					mouseX > 0 && mouseY > 0) {
+					largeChild.fadeIn(100);
 				} else {
-					large_child.fadeOut(100);
+					largeChild.fadeOut(100);
 				}
 				
-				if (large_child.is(":visible"))
+				if (largeChild.is(":visible"))
 				{
 					//The background position of .large will be changed according to the position
 					//of the mouse over the .small image. So we will get the ratio of the pixel
 					//under the mouse pointer with respect to the image and use that to position 
 					//the large image inside the magnifying glass
-					var lrg_img_x = Math.round(mouse_x / small_child.width() * real_width - 
-						large_child.width() / 2) * -1;
-					var lrg_img_y = Math.round(mouse_y / small_child.height() * real_height - 
-						large_child.height() / 2) * -1;
+					var lrgImgX = Math.round(mouseX / smallChild.width() * realWidth - 
+						largeChild.width() / 2) * -1;
+					var lrgImgY = Math.round(mouseY / smallChild.height() * realHeight - 
+						largeChild.height() / 2) * -1;
 					//Margin adjustment
-					ratio = real_width / small_child.width();
+					ratio = realWidth / smallChild.width();
 					if (margins[1] == undefined) {
-						obj_width = obj.width();
-						small_width = small_child.width();
-						x_margin = ((obj_width - small_width) / 2) * ratio;
+						objWidth = obj.width();
+						smallWidth = smallChild.width();
+						xMargin = ((objWidth - smallWidth) / 2) * ratio;
 					} else {
-						x_margin = parseInt(margins[1].replace("px", "")) * ratio;
+						xMargin = parseInt(margins[1].replace("px", "")) * ratio;
 					}
-					var bgp = (lrg_img_x + x_margin) + "px " + lrg_img_y + "px";
+					var bgp = (lrgImgX + xMargin) + "px " + lrgImgY + "px";
 					
 					//Time to move the magnifying glass with the mouse
-					var mag_x = mouse_x - large_child.width() / 2;
-					var mag_y = mouse_y - large_child.height() / 2;
+					var magX = mouseX - largeChild.width() / 2;
+					var magY = mouseY - largeChild.height() / 2;
 					//Now the glass moves with the mouse
 					//The logic is to deduct half of the glass's width and height from the 
 					//mouse coordinates to place it with its center at the mouse coordinates
 					
 					//If you hover on the image now, you should see the magnifying glass in action
-					large_child.css({left: mag_x, top: mag_y, backgroundPosition: bgp});
+					largeChild.css({left: magX, top: magY, backgroundPosition: bgp});
 				}
 			}
 		}
@@ -388,33 +388,33 @@ function addMouseMoveMag(obj) {
 }
 
 function toggleMagnify(btn) {
-	var mg_obj = $(btn).closest(".magbutton").siblings(".mag-div");
+	var mgObj = $(btn).closest(".magbutton").siblings(".mag-div");
 	if ($(btn).hasClass("active")) {
-		mg_obj.removeClass("magnify");
-		mg_obj.unbind('mousemove');
+		mgObj.removeClass("magnify");
+		mgObj.unbind('mousemove');
 	} else {
-		mg_obj.addClass("magnify");
-		addMouseMoveMag(mg_obj);
+		mgObj.addClass("magnify");
+		addMouseMoveMag(mgObj);
 	}
 }
 
 $(document).on("wb-ready.wb-lbx", function(event) {
-	/* var real_width = 0;
-	var real_height = 0;
-	var prev_src = ""; */
+	/* var realWidth = 0;
+	var realHeight = 0;
+	var prevSrc = ""; */
 	
 	//$(".large").css("background","url('" + $(".small").attr("src") + "') no-repeat");
 	$(".large").each(function() {
-		small_sib = $(this).siblings(".small");
-		$(this).css("background","url('" + small_sib.attr("src") + "') no-repeat");
-		var image_object = new Image();
-		image_object.src = small_sib.attr("src");
-		sm_width = small_sib.width();
-		sm_height = small_sib.height();
-		lg_width = image_object.width;
-		lg_height = image_object.height;
+		smallSib = $(this).siblings(".small");
+		$(this).css("background","url('" + smallSib.attr("src") + "') no-repeat");
+		var imageObject = new Image();
+		imageObject.src = smallSib.attr("src");
+		smWidth = smallSib.width();
+		smHeight = smallSib.height();
+		lgWidth = imageObject.width;
+		lgHeight = imageObject.height;
 		
-		if (sm_width == lg_width && sm_height == lg_height) {
+		if (smWidth == lgWidth && smHeight == lgHeight) {
 			$(this).parent().removeClass("magnify");
 		}
 	});
@@ -428,79 +428,79 @@ $(document).on("wb-ready.wb-lbx", function(event) {
 			
 			//if (button_child.hasClass("active")) {
 			
-			var large_child = $(this).children(".large");
-			var small_child = $(this).children(".small");
+			var largeChild = $(this).children(".large");
+			var smallChild = $(this).children(".small");
 			
-			if (prev_src != small_child.attr("src")) {
-				real_width = 0;
-				real_height = 0;
-				prev_src = small_child.attr("src");
-				//large_child.css('margin', small_child.css('margin'));
-				margins = small_child.css('margin').split(" ");
+			if (prevSrc != smallChild.attr("src")) {
+				realWidth = 0;
+				realHeight = 0;
+				prevSrc = smallChild.attr("src");
+				//largeChild.css('margin', smallChild.css('margin'));
+				margins = smallChild.css('margin').split(" ");
 			}
 		
 			//When the user hovers on the image, the script will first calculate
 			//the native dimensions if they don't exist. Only after the native dimensions
 			//are available, the script will show the zoomed version.
-			if (!real_width && !real_height) {
+			if (!realWidth && !realHeight) {
 				//This will create a new image object with the same image as that in .small
 				//We cannot directly get the dimensions from .small because of the 
 				//width specified to 200px in the html. To get the actual dimensions we have
 				//created this image object.
-				var image_object = new Image();
-				image_object.src = small_child.attr("src");
+				var imageObject = new Image();
+				imageObject.src = smallChild.attr("src");
 				
 				//This code is wrapped in the .load function which is important.
 				//width and height of the object would return 0 if accessed before 
 				//the image gets loaded.
-				real_width = image_object.width;
-				real_height = image_object.height;
+				realWidth = imageObject.width;
+				realHeight = imageObject.height;
 			} else {
 				//x/y coordinates of the mouse
 				//This is the position of .magnify with respect to the document.
 				//NOTE: $(this) = div.magnify
-				var magnify_offset = $(this).offset();
-				//var magnify_offset = $(this).position()
+				var magnifyOffset = $(this).offset();
+				//var magnifyOffset = $(this).position()
 				
 				//We will deduct the positions of .magnify from the mouse positions with
 				//respect to the document to get the mouse positions with respect to the 
 				//container(.magnify)
-				var mouse_x = e.pageX - magnify_offset.left;
-				var mouse_y = e.pageY - magnify_offset.top;
+				var mouseX = e.pageX - magnifyOffset.left;
+				var mouseY = e.pageY - magnifyOffset.top;
 				
 				//Finally the code to fade out the glass if the mouse is outside the 
 				//	container
-				if (mouse_x < $(this).width() && mouse_y < $(this).height() && 
-					mouse_x > 0 && mouse_y > 0) {
-					large_child.fadeIn(100);
+				if (mouseX < $(this).width() && mouseY < $(this).height() && 
+					mouseX > 0 && mouseY > 0) {
+					largeChild.fadeIn(100);
 				} else {
-					large_child.fadeOut(100);
+					largeChild.fadeOut(100);
 				}
 				
-				if (large_child.is(":visible"))
+				if (largeChild.is(":visible"))
 				{
 					//The background position of .large will be changed according to the position
 					//of the mouse over the .small image. So we will get the ratio of the pixel
 					//under the mouse pointer with respect to the image and use that to position 
 					//the large image inside the magnifying glass
-					var lrg_img_x = Math.round(mouse_x / small_child.width() * real_width - 
-						large_child.width() / 2) * -1;
-					var lrg_img_y = Math.round(mouse_y / small_child.height() * real_height - 
-						large_child.height() / 2) * -1;
+					var lrgImgX = Math.round(mouseX / smallChild.width() * realWidth - 
+						largeChild.width() / 2) * -1;
+					var lrgImgY = Math.round(mouseY / smallChild.height() * realHeight - 
+						largeChild.height() / 2) * -1;
 					//Margin adjustment
-					ratio = real_width / small_child.width();
-					x_margin = parseInt(margins[1].replace("px", "")) * ratio;
-					var bgp = (lrg_img_x + x_margin) + "px " + lrg_img_y + "px";
+					ratio = realWidth / smallChild.width();
+					xMargin = parseInt(margins[1].replace("px", "")) * ratio;
+					var bgp = (lrgImgX + xMargin) + "px " + lrgImgY + "px";
 					
 					//Time to move the magnifying glass with the mouse
-					var mag_x = mouse_x - large_child.width() / 2;
-					var mag_y = mouse_y - large_child.height() / 2;
+					var magX = mouseX - largeChild.width() / 2;
+					var magY = mouseY - largeChild.height() / 2;
 					//Now the glass moves with the mouse
 					//The logic is to deduct half of the glass's width and height from the 
 					//mouse coordinates to place it with its center at the mouse coordinates
 					
 					//If you hover on the image now, you should see the magnifying glass in action
-					large_child.css({left: mag_x, top: mag_y, backgroundPosition: bgp});
+					largeChild.css({left: magX, top: magY, backgroundPosition: bgp});
 				}
 			}
 		}
@@ -514,69 +514,69 @@ function showPopup(props, featId) {
 	
 	
 	// Get the address
-	address_json = props['address'];
-	address_str = address_json['unitNumber'] + " " + address_json['street'];
-	//building_info['addrss'] = address_str;
+	addressJSON = props['address'];
+	addressStr = addressJSON['unitNumber'] + " " + addressJSON['street'];
+	//building_info['addrss'] = addressStr;
 	
-	if (address_str == "") {
-		address_str = 'n/a';
+	if (addressStr == "") {
+		addressStr = 'n/a';
 	}
 	
 	// Get the architects
-	arch_lst = props['architects'];
-	arch_html = "";
-	for (var i=0; i<arch_lst.length; i++) {
-		arch_name = arch_lst[i]['name'];
-		arch_url = arch_lst[i]['url'];
-		arch_html += ['<a class="on-white" href="' + arch_url + '" target="_blank">', 
-							arch_name, 
+	archLst = props['architects'];
+	archHTML = "";
+	for (var i=0; i<archLst.length; i++) {
+		archName = archLst[i]['name'];
+		archURL = archLst[i]['url'];
+		archHTML += ['<a class="on-white" href="' + archURL + '" target="_blank">', 
+							archName, 
 					  '</a>', 
 					  '<br>'
 					  ].join('\n');
 	}
 	
-	if (arch_html == "") {
-		arch_html = 'n/a';
+	if (archHTML == "") {
+		archHTML = 'n/a';
 	}
 	
-	popup_html = getPopupContent();
-	popup_html = popup_html.replace('${id}', checkInput(props['id']));
-	popup_html = popup_html.replace('${dateBuilt}', checkInput(props['dateBuilt']));
-	popup_html = popup_html.replace('${dateDemolished}', checkInput(props['dateDemolished']));
-	popup_html = popup_html.replace('${architect}', arch_html);
-	popup_html = popup_html.replace('${status}', checkInput(props['status']));
-	popup_html = popup_html.replace('${history}', checkInput(props['history']));
-	popup_html = popup_html.replace('${addrss}', address_str);
-	popup_html = popup_html.replace('${occupant}', checkInput(props['occupant']));
+	popupHTML = getPopupContent();
+	popupHTML = popupHTML.replace('${id}', checkInput(props['id']));
+	popupHTML = popupHTML.replace('${dateBuilt}', checkInput(props['dateBuilt']));
+	popupHTML = popupHTML.replace('${dateDemolished}', checkInput(props['dateDemolished']));
+	popupHTML = popupHTML.replace('${architect}', archHTML);
+	popupHTML = popupHTML.replace('${status}', checkInput(props['status']));
+	popupHTML = popupHTML.replace('${history}', checkInput(props['history']));
+	popupHTML = popupHTML.replace('${addrss}', addressStr);
+	popupHTML = popupHTML.replace('${occupant}', checkInput(props['occupant']));
 	
 	// Create links for sources:
 	sources = checkInput(props['sources']);
 	if (sources.length > 0) {
 		//sources = sources.replace(/<a/g, '<a target="_blank" class="popup-a"');
-		source_html = '';
+		sourceHTML = '';
 		for (var i = 0; i < sources.length; i++) {
-			src_name = sources[i]['name'];
-			src_url = sources[i]['url'];
-			source_html += [src_name + ':',
-							'<a class="on-white" href="' + src_url + '" target="_blank">', 
-								src_url, 
+			srcName = sources[i]['name'];
+			srcURL = sources[i]['url'];
+			sourceHTML += [srcName + ':',
+							'<a class="on-white" href="' + srcURL + '" target="_blank">', 
+								srcURL, 
 							'</a>', 
 							'<br>'
 						  ].join('\n');
 		}
-		popup_html = popup_html.replace('${sources}', source_html);
+		popupHTML = popupHTML.replace('${sources}', sourceHTML);
 	} else {
-		popup_html = popup_html.replace('${sources}', 'n/a');
+		popupHTML = popupHTML.replace('${sources}', 'n/a');
 	}
 	
-	/* photo_html = props['photos'];
+	/* photoHTML = props['photos'];
 	parser = new DOMParser();
-	htmlDoc = parser.parseFromString(photo_html, "text/html");
+	htmlDoc = parser.parseFromString(photoHTML, "text/html");
 	
 	// Correct htmlDoc if null
 	if (htmlDoc == null) {
 		htmlDoc = document.createElement('div');
-		htmlDoc.innerHTML = photo_html;
+		htmlDoc.innerHTML = photoHTML;
 	}
 	
 	table_elements = htmlDoc.getElementsByClassName('container');
@@ -594,26 +594,26 @@ function showPopup(props, featId) {
 		
 		// Get the source URL of photo
 		img_element = child_elements[1].getElementsByTagName('img');
-		var img_src = [];
+		var imgSrc = [];
 		if (img_element.length > 1) {
-			img_src.push(img_element[1].src);
-			img_src.push(img_element[0].src);
+			imgSrc.push(img_element[1].src);
+			imgSrc.push(img_element[0].src);
 		} else {
-			img_src.push(img_element[0].src);
+			imgSrc.push(img_element[0].src);
 		}
-		photo['img_src'] = img_src;
+		photo['imgSrc'] = imgSrc;
 		
 		// Parse source info
 		source_str = child_elements[2].innerText;
 		sources = source_str.trim().split(/\r?\n/).filter(Boolean);
 		var filter_srcs = sources.filter(function(v){return v.replace(/\s/g,'')!==''});
-		date_taken = filter_srcs[0];
+		dateTaken = filter_srcs[0];
 		if (filter_srcs.length == 3) {
 			source = filter_srcs[2];
 		} else {
 			source = "";
 		}
-		photo['date_taken'] = date_taken;
+		photo['dateTaken'] = dateTaken;
 		photo['source'] = source;
 		
 		// Get the link info from source
@@ -627,19 +627,19 @@ function showPopup(props, featId) {
 		photos.push(photo);
 	} */
 	
-	photo_info = props['photos'];
+	photoInfo = props['photos'];
 	
-	//alert(photo_info);
+	//alert(photoInfo);
 	
-	new_ph_html = create_photo_html(photo_info);
-	//alert(new_ph_html);
+	newPhHTML = createPhotoHTML(photoInfo);
+	//alert(newPhHTML);
 	
-	popup_html = popup_html.replace('${photos}', new_ph_html);
+	popupHTML = popupHTML.replace('${photos}', newPhHTML);
 	if (featId > -1 && featId != null) {
-		popup_html += "\n<!--Feature_ID=" + featId.toString() + "-->"
+		popupHTML += "\n<!--Feature_ID=" + featId.toString() + "-->"
 	}
 	
-	$(".modal-body").html(popup_html);
+	$(".modal-body").html(popupHTML);
 	
 	$(document).trigger("open.wb-lbx", [
 		[
