@@ -50,6 +50,10 @@
 			<script src="/js/sorttable.js"></script>
 		{% endif %}
 		
+		{% if page.url == "/geomatics/ottawa-railways/map.html" %}
+			<link rel="stylesheet" href="/css/rSlider.css" type="text/css">	
+		{% endif %}
+		
 		<script>
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -172,6 +176,7 @@
 		{% if page.url == "/geomatics/ottawa-railways/map.html" %}
 			<!--<script src="/bootstrap/js/thumbnails.carousel.js"></script>-->
 			<script src="/js/popup.js"></script>
+			<script src="/js/rSlider.js"></script>
 			<script src="/js/railway_map.js"></script>
 		{% endif %}
 		{% if page.url == "/geomatics/bygone-buildings-ottawa/building-list.html" %}

@@ -24,6 +24,7 @@ body.main-map {
 	margin-right: 15px;
 	margin-left: 15px;
 	border-width: 2px !important;
+	border-left: 0px !important;
 	border-color: #000000 !important;
 }
 /* div.map {
@@ -278,6 +279,18 @@ div.round-border {
     border: 0px;
 	background: rgb(255,162,75);
 }
+.legend-railways {
+	display: block;
+    float: left;
+    height: 5px;
+    width: 25px;
+	margin-top: 5px;
+    margin-right: 5px;
+    margin-left: 0;
+    border: 1px !important;
+	border-color: #FFFFFF !important;
+	/*background: rgb(255,162,75);*/
+}
 .legend-cnr {
 	display: block;
     float: left;
@@ -457,6 +470,26 @@ p.mag {
 #cf2 img.transparent {
 	opacity:0;
 }
+.fullscreen:-moz-full-screen {
+	height: 100%;
+}
+.fullscreen:-webkit-full-screen {
+	height: 100%;
+}
+.fullscreen:-ms-fullscreen {
+	height: 100%;
+}
+.fullscreen:fullscreen {
+	height: 100%;
+}
+.fullscreen {
+	margin-bottom: 10px;
+	width: 100%;
+	/*height: 400px; */
+	min-height: 82% !important;
+    height: 82vh !important;
+	/*height: 100%; */
+}
 .kb-maplogo {
 	max-width: 300px !important;
 	width: 80% !important;
@@ -563,6 +596,117 @@ ul.thumbnails-carousel li {
 .mobile_only {
 	display: none;
 }
+
+/* The following items are for the sidepanel of the
+	railway map: */
+.sidepanel {
+	background: #1F6B75;
+	width: 375px;
+	height: 100%;
+	float: left;
+}
+.carousel.sidepanel {
+	border: 2px solid #000000 !important;
+	border-right: 0px !important;
+	margin-left: 5px;
+}
+.sidepanel-title {
+	width: 100%;
+	font-size: 3em;
+	color: #ffffff;
+	display: block;
+	text-align: center;
+	padding: 0px !important;
+}
+.carousel-item-rail {
+	background: linear-gradient(top, #6688BB 0%, #446688 100%) !important;
+	background: -moz-linear-gradient(top, #6688BB 0%, #446688 100%) !important;
+	background: -webkit-linear-gradient(top, #6688BB 0%,#446688 100%) !important;
+	background: -ms-linear-gradient(top, #6688BB 0%,#446688 100%) !important;
+	border-style: solid;
+    border-width: 1px;
+}
+.item.rail {
+	background: transparent !important;
+	height: 100%;
+}
+.h1-sidepanel {
+	font-size: 1.6em !important;
+	padding: 0px !important;
+	text-align: center !important;
+}
+p.sidepanel-title {
+	font-size: 0.7em !important;
+}
+.sidepanel-bar {
+	background: #000066 !important;
+	/*height: 15%;*/
+	height: 78px;
+}
+div.sidepanel-text {
+	border: none !important;
+	width: 95%;
+	overflow-y: scroll;
+	/*height: 85%;*/
+	padding-left: 10px !important;
+	padding-right: 10px !important;
+	padding-top: 5px;
+	/*font-size: 1.3em !important;*/
+	margin: 0px !important;
+	margin-top: 5px !important;
+}
+.sidepanel-p {
+	font-size: 1.3em !important;
+	border: none !important;
+	width: 95%;
+	text-align: left;
+	padding-left: 10px !important;
+	padding-right: 10px !important;
+	padding-top: 5px !important;
+	/*margin-right: 25px;*/
+}
+.sidepanel-image {
+	border: 1px solid #000000 !important;
+	background: #000066 !important;
+	text-align: center !important;
+}
+.sidepanel-legend {
+	/* background: #3D5286 !important;
+	/*background: #AAAAAA;*/
+	background: #CCCCFF;
+	color: #FFFFFF;
+	font-size: 1em;
+	padding-left: 10px;
+	padding-bottom: 2px;
+	margin-top: 5px;
+	/*margin-left: 15px;*/
+	margin-right: 15px;
+	border: 1px solid #000000;
+	border-radius: 5px;
+}
+.sidepanel-legend-title {
+	/*color: #3D5286;*/
+	color: #000066;
+	font-family: 'Catamaran' !important;
+	font-size: 1.3em !important;
+	font-weight: bold !important;
+	padding-top: 5px !important;
+	margin-top: 5px !important;
+	padding-bottom: 5px !important;
+	text-align: center;
+	text-shadow: 1px 2px white !important;
+}
+.li-sideleg {
+	list-style-type: none;
+	margin-right: 20px;
+	padding-left: 5px;
+	font-size: 1em;
+	color: #000066;
+	text-shadow: 1px 1px white !important;
+	font-weight: bold;
+}
+
+/* The following items are for mobile device resizing: */
 @media only screen and (max-width: 768px) {
 	.map-popup {
 		width: 100% !important;
@@ -584,5 +728,8 @@ ul.thumbnails-carousel li {
 	}
 	.mobile_only {
 		display: inline;
+	}
+	.rs-container {
+		display: none !important;
 	}
 }

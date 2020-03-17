@@ -22,6 +22,20 @@ function cleanURL() {
 	}
 }
 
+function createCustControl() {
+	
+	var customControl = function(opt_options) {
+		var element = document.createElement('div');
+		element.className = 'custom-control ol-unselectable ol-control';
+		ol.control.Control.call(this, {
+			element: element
+		});
+	};
+	ol.inherits(customControl, ol.control.Control);
+	
+	return customControl;
+}
+
 function resizeGeomatics() {
 	/* Resizes the Geomatics text on the page
 	*/ 
@@ -353,17 +367,22 @@ function closePopup(featId) {
 	setHighlight(featId);
 };
 
-function createMap(lyrList, viewInfo) {
+function createMap(lyrList, viewInfo, custControl) {
 	
 	// Create the OL map object
 	var map = new ol.Map({
+		control: ol.control.defaults().extend([
+				new ol.control.FullScreen({
+					source: 'fullscreen'
+				})
+			]), 
 		layers: lyrList,
 		target: document.getElementById('map'),
 		view: new ol.View({
 				center: viewInfo['centre'], 
 				projection: prj,
 				zoom: viewInfo['zoom']
-		})
+			})
 	});
 	
 	return map

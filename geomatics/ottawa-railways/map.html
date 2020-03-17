@@ -1,7 +1,7 @@
 ---
 layout: main
-title: Map of Ottawa's 1930 Railway Network
-description: An Openlayers map showing Ottawa's railway network in 1930.
+title: Map of Ottawa's Railways Through the Years
+description: An Openlayers map showing Ottawa's railways throught the years.
 keywords: Ottawa, history, Ottawa history, railways
 ---
 <div> <!-- class="container"> -->
@@ -21,23 +21,35 @@ keywords: Ottawa, history, Ottawa history, railways
 			</div>
 		</div>
 		<div class="col-md-10 col-sm-10 map-col">
-			<div id="map" class="map"><div id="info"></div></div>
-			<div id="popup" class="ol-popup">
-				<a href="#" id="popup-closer" class="ol-popup-closer"></a>
-				<div id="popup-content"></div>
+			<div class="row" style="margin-left: 10px">
+				<input type="text" id="slider" class="slider">
 			</div>
-			<p class="small" style="text-align:left !important;">
-				Map created using OpenLayers 4<br>
-			</p>
-			<div class="dropdown">
-				<button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Download Railways Map
-				<span class="caret"></span></button>
-				<ul class="dropdown-menu">
-					<li><a href="../files/1930_Ottawa_Railways.geojson" target="_blank">GeoJSON</a></li>
-				</ul>
+			<div id="fullscreen" class="row fullscreen">
+				<!-- <div class="sidepanel">
+					<span class="sidepanel-title"> -->
+						{% include_relative sidepanel.html %}
+					<!-- </span>
+				</div> -->
+				<div id="map" class="map">
+					<div id="info"></div>
+				</div>
+				<div id="popup" class="ol-popup">
+					<a href="#" id="popup-closer" class="ol-popup-closer"></a>
+					<div id="popup-content"></div>
+				</div>
+				<p class="small" style="text-align:left !important;">
+					Map created using OpenLayers 4<br>
+				</p>
+				<!-- <div class="dropdown">
+					<button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Download Railways Map
+					<span class="caret"></span></button>
+					<ul class="dropdown-menu">
+						<li><a href="../files/1930_Ottawa_Railways.geojson" target="_blank">GeoJSON</a></li>
+					</ul>
+				</div> -->
+				<br>
+				{% include footer.html %}
 			</div>
-			<br>
-			{% include footer.html %}
 		</div>
 	</div>
 </div>

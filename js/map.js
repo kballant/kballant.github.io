@@ -439,10 +439,10 @@ function Map() {
 		height = img.height;
 		width = img.width;
 		map_popup = document.getElementById('inline_content').style;
-		alert(map_popup.cssText);
+		//alert(map_popup.cssText);
 		popup_height = map_popup.style.height;
 		
-		alert("height: " + height + ", width: " + width + ", popup_height: " + popup_height);
+		//alert("height: " + height + ", width: " + width + ", popup_height: " + popup_height);
 	};
 	
 	function createMap() {
