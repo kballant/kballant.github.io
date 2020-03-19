@@ -180,6 +180,13 @@ window.addEventListener('resize', function(event){
 
 //document.getElementsByClassName("sidepanel-bar").style.height = "50px";
 
+years = ['Intro', '1855', '1870', '1871', '1880', '1883', 
+		'1893', '1896', '1898', '1901', '1909', '1912', 
+		'1913', '1915', '1939', '1952', '1953', '1957', 
+		'1960', '1962', '1967', '1970', '1972', '1982', 
+		'1984', '1986', '1990', '1998', '1999', '2002', 
+		'2014'];
+
 // Add all the base layers
 lyrList = addBaseLayers()
 
@@ -340,9 +347,15 @@ function setStyles(val) {
 	}
 }
 
-function setYear(val) {
+function setYear(year, origin) {
 	
-	setStyles(val);
+	setStyles(year);
+	
+	if (origin == 'carousel') {
+		mySlider.setValues(year);
+	} else {
+		setCarousel(year)
+	}
 	
 	//items = $('.item');
 	//var totalItems = $('.item').length;
@@ -364,16 +377,40 @@ function setCarousel(val) {
 	//}
 }
 
-$('#myCarousel').on('slid.bs.carousel', function () {
-	//clickType = 'carousel';
-	var curYear = $('div.active')[0].id;
-	setYear(curYear);
-	//sleep(1000);
+/* $('#myCarousel').on('slid.bs.carousel', function () {
 	
-	//console.log('carousel');
-	//console.log(curYear);
-	//mySlider.setValues(parseInt(curYear));
-	mySlider.setValues(curYear);
+	var curYear = $('div.active')[0].id;
+	setYear(curYear, 'carousel');
+	
+	//mySlider.setValues(curYear);
+}) */
+
+$('.right.carousel-control').click(function () {
+	var curYear = $('div.active')[0].id;
+	
+	var yearIdx = years.indexOf(curYear);
+	
+	if (yearIdx < years.length - 1) {
+		var curYear = years[yearIdx + 1];
+	} else {
+		var curYear = years[0]
+	}
+	
+	setYear(curYear, 'carousel');
+})
+
+$('.left.carousel-control').click(function () {
+	var curYear = $('div.active')[0].id;
+	
+	var yearIdx = years.indexOf(curYear);
+	
+	if (yearIdx > 0) {
+		var curYear = years[yearIdx - 1];
+	} else {
+		var curYear = years[years.length - 1]
+	}
+	
+	setYear(curYear, 'carousel');
 })
 
 // Create the slider object
@@ -385,19 +422,14 @@ var mySlider = new rSlider({
 			1957, 1960, 1962, 1967, 1970, 1972, 
 			1982, 1984, 1986, 1990, 1998, 1999, 
 			2002, 2014], */
-	values: ['Intro', '1855', '1870', '1871', '1880', '1883', 
-			'1893', '1896', '1898', '1901', '1909', '1912', 
-			'1913', '1915', '1939', '1952', '1953', '1957', 
-			'1960', '1962', '1967', '1970', '1972', '1982', 
-			'1984', '1986', '1990', '1998', '1999', '2002', 
-			'2014'],
+	values: years,
     range: false, // range slider
 	width: 1000, 
 	tooltip: false, 
 	onChange: function (vals) {
 				//console.log('slider');
 				//console.log(vals);
-				setYear(vals);
-				setCarousel(vals);
+				setYear(vals, 'slider');
+				//setCarousel(vals);
 			}
 });
