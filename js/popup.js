@@ -515,7 +515,13 @@ function showPopup(props, featId) {
 	
 	// Get the address
 	address_json = props['address'];
-	address_str = address_json['unitNumber'] + " " + address_json['street'];
+	unit_numbs = address_json['unitNumber'].split(';');
+	streets = address_json['street'].split(';');
+	addresses = [];
+	for (var i=0; i<unit_numbs.length; i++) {
+		addresses.push(unit_numbs[i] + " " + streets[i]);
+	}
+	address_str = addresses.join(";");
 	//building_info['addrss'] = address_str;
 	
 	if (address_str == "") {
