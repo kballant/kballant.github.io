@@ -521,7 +521,7 @@ function showPopup(props, featId) {
 	for (var i=0; i<unit_numbs.length; i++) {
 		addresses.push(unit_numbs[i] + " " + streets[i]);
 	}
-	address_str = addresses.join(";");
+	address_str = addresses.join("; ");
 	//building_info['addrss'] = address_str;
 	
 	if (address_str == "") {
