@@ -267,7 +267,7 @@
                 "dateBuilt": "1906",
                 "dateDemolished": "1961",
                 "status": "Location now occupied by a parking lot for the Courtyard Marriot Hotel.",
-                "history": "The Institut Canadien-Fran\u00e7ais d'Ottawa built the Monument National building in 1906. The Roman Catholic Archdiocese of Ottawa bought the building in 1921 for the price of $54,000 to establish a parochial hall.",
+                "history": "The Institut Canadien-Fran&#231;ais d'Ottawa built the Monument National building in 1906. The Roman Catholic Archdiocese of Ottawa bought the building in 1921 for the price of $54,000 to establish a parochial hall.",
                 "address": {
                     "unitNumber": "113",
                     "street": "George Street",
@@ -313,7 +313,7 @@
                         "url": "https://www.newspapers.com/clip/7677320/monument_national_building_sold_to/"
                     },
                     {
-                        "name": "Institut Canadien-Fran\u00e7ais d'Ottawa - Historique",
+                        "name": "Institut Canadien-Fran&#231;ais d'Ottawa - Historique",
                         "url": "https://www.icfo.ca/historique"
                     }
                 ]
@@ -531,7 +531,7 @@
                 "classification": "commercial",
                 "dateBuilt": "1907",
                 "dateDemolished": "2012",
-                "status": "Collapsed during the construction for the expansion of the Rideau Centre. Outside fa\u00e7ade saved before collapse and integrated into expansion of the Rideau Centre.",
+                "status": "Collapsed during the construction for the expansion of the Rideau Centre. Outside fa&#231;ade saved before collapse and integrated into expansion of the Rideau Centre.",
                 "history": "Charles Ogilvy built this 3 storey building in 1907. A fourth floor was added in 1931 and a fifth floor was built in 1934.",
                 "address": {
                     "unitNumber": "128;10",
@@ -4382,7 +4382,7 @@
                 "dateBuilt": "1872",
                 "dateDemolished": "1970",
                 "status": "Currently occupied by the Place Bell building.",
-                "history": "Designed by James Bowes, the inside chapel contained decorative cast-iron columns. The Congr\u00e9gation de Notre-Dame moved to 1495 Heron Road just prior to demolition. The congregation shut down after eight years in its Heron Road location.",
+                "history": "Designed by James Bowes, the inside chapel contained decorative cast-iron columns. The Congr&#233;gation de Notre-Dame moved to 1495 Heron Road just prior to demolition. The congregation shut down after eight years in its Heron Road location.",
                 "address": {
                     "unitNumber": "34-38",
                     "street": "Gloucester Street",
@@ -5326,7 +5326,7 @@
             "type": "Feature",
             "properties": {
                 "id": 52,
-                "buildingName": "\u00c9cole Ste-Famille",
+                "buildingName": "&#201;cole Ste-Famille",
                 "classification": "education",
                 "dateBuilt": "",
                 "dateDemolished": "1962-1965",
@@ -5343,7 +5343,7 @@
                 "architects": [],
                 "photos": [
                     {
-                        "caption": "\u00c9cole Ste Famille located along Sherwood Street near the corner of Ottawa Street.",
+                        "caption": "&#201;cole Ste Famille located along Sherwood Street near the corner of Ottawa Street.",
                         "dateTaken": null,
                         "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Ecole_Ste_Famille.jpg",
                         "modernUrl": null,
@@ -6332,7 +6332,7 @@
                 "buildingName": "22 Vittoria Street",
                 "classification": "residential",
                 "dateBuilt": "",
-                "dateDemolished": "c1931",
+                "dateDemolished": "1929",
                 "status": "Demolished to make room for government buildings. Location now part of the grounds of the Supreme Court of Canada.",
                 "history": "",
                 "address": {
@@ -6394,7 +6394,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"13 Families Are Told To Vacate December First\", The Ottawa Journal, 05 Nov 1929, p.1",
+                        "url": "https://www.newspapers.com/image/43711712/?terms=%22Wellington%2BStreet%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -9948,7 +9953,7 @@
                 "buildingName": "Fire Station No 2",
                 "classification": "institute",
                 "dateBuilt": "1897",
-                "dateDemolished": "mid-1960s",
+                "dateDemolished": "1965",
                 "status": "Location now occupied by Delta City Centre.",
                 "history": "Also known as the Victoria Ward Fire Hall.",
                 "address": {
@@ -10045,7 +10050,7 @@
                 "buildingName": "Capital Hotel",
                 "classification": "hotel",
                 "dateBuilt": "",
-                "dateDemolished": "c1931",
+                "dateDemolished": "1929",
                 "status": "Location now part of the grounds of the Supreme Court of Canada.",
                 "history": "This location was the Capital Hotel from 1901 to 1912. It became a restaurant in 1913. Various occupants lived in the building from 1913 to 1915. The federal government took it over in 1916 for use as the Department of Mines & Geological Survey and the Victoria Museum. In 1923, the building was used by the Boy Scouts Association.",
                 "address": {
@@ -10062,7 +10067,7 @@
                         "caption": "203-211 Wellington Street, October 1900.",
                         "dateTaken": "1900-10",
                         "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/203-211_Wellington_Street_a028188.jpg",
-                        "modernUrl": "None",
+                        "modernUrl": "",
                         "sources": [
                             {
                                 "name": "Library & Archives Canada, MIKAN no. 3424255",
@@ -10074,7 +10079,7 @@
                         "caption": "The Capital Hotel, E.C. Hillman, Proprietor",
                         "dateTaken": "c1912",
                         "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/203-205_Wellington_Street_e011168003.jpg",
-                        "modernUrl": "None",
+                        "modernUrl": "",
                         "sources": [
                             {
                                 "name": "Library & Archives Canada, MIKAN no. 3600201",
@@ -10086,7 +10091,7 @@
                         "caption": "Rear (north) view and yard of the Capital Hotel.",
                         "dateTaken": "1912",
                         "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/Capital_Hotel_3_e011168005.jpg",
-                        "modernUrl": "None",
+                        "modernUrl": "",
                         "sources": [
                             {
                                 "name": "Library & Archives Canada, MIKAN no. 3600203",
@@ -10095,7 +10100,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"13 Families Are Told To Vacate December First\", The Ottawa Journal, 05 Nov 1929, p.1",
+                        "url": "https://www.newspapers.com/image/43711712/?terms=%22Wellington%2BStreet%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -13595,7 +13605,7 @@
                 "dateBuilt": "1873-05",
                 "dateDemolished": "c1964",
                 "status": "Location now occupied by the Centennial Towers.",
-                "history": "Although the St. Patrick\u2019s Orphanage and Asylum was established on December 17, 1865, the building itself was completed in May 1873 after it was decided that a permanent facility was needed for the asylum. In 1884, an annex was added to the building. In 1933, St. Patrick's changed its name to St. Patrick's Home and in 1961, they changed focus to only care for the elderly. On June 4, 1964, the home moved to 2865 Riverside Drive. The building at the corner of Laurier and Kent was probably demolished not longer after since by 1965, a new high-rise was well under construction according to the 1965 air photos provided on the geoOttawa website.",
+                "history": "Although the St. Patrick&#8217;s Orphanage and Asylum was established on December 17, 1865, the building itself was completed in May 1873 after it was decided that a permanent facility was needed for the asylum. In 1884, an annex was added to the building. In 1933, St. Patrick's changed its name to St. Patrick's Home and in 1961, they changed focus to only care for the elderly. On June 4, 1964, the home moved to 2865 Riverside Drive. The building at the corner of Laurier and Kent was probably demolished not longer after since by 1965, a new high-rise was well under construction according to the 1965 air photos provided on the geoOttawa website.",
                 "address": {
                     "unitNumber": "None",
                     "street": "Kent Street",
@@ -13634,7 +13644,7 @@
                         "url": "http://maps.ottawa.ca/geoottawa/"
                     },
                     {
-                        "name": "St. Patrick\u2019s Home History",
+                        "name": "St. Patrick&#8217;s Home History",
                         "url": "http://stpats.ca/about-us/history/"
                     }
                 ]
@@ -15616,7 +15626,7 @@
                 "buildingName": "12 Bank Street",
                 "classification": "recreational",
                 "dateBuilt": "",
-                "dateDemolished": "c1931",
+                "dateDemolished": "1929",
                 "status": "Location now part of the grounds of the Supreme Court of Canada.",
                 "history": "Occupied by the Civil Service Club between 1911-1913.",
                 "address": {
@@ -15678,7 +15688,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"13 Families Are Told To Vacate December First\", The Ottawa Journal, 05 Nov 1929, p.1",
+                        "url": "https://www.newspapers.com/image/43711712/?terms=%22Wellington%2BStreet%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -15751,7 +15766,7 @@
                 "buildingName": "47 Vittoria Street",
                 "classification": "residential",
                 "dateBuilt": "",
-                "dateDemolished": "c1931",
+                "dateDemolished": "1929",
                 "status": "Location now part of the grounds of the Supreme Court of Canada.",
                 "history": "",
                 "address": {
@@ -15801,7 +15816,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"13 Families Are Told To Vacate December First\", The Ottawa Journal, 05 Nov 1929, p.1",
+                        "url": "https://www.newspapers.com/image/43711712/?terms=%22Wellington%2BStreet%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -15953,7 +15973,7 @@
                 "buildingName": "14 Vittoria Street",
                 "classification": "residential",
                 "dateBuilt": "",
-                "dateDemolished": "",
+                "dateDemolished": "1929",
                 "status": "Location now part of the grounds of the Supreme Court of Canada.",
                 "history": "",
                 "address": {
@@ -16003,7 +16023,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"13 Families Are Told To Vacate December First\", The Ottawa Journal, 05 Nov 1929, p.1",
+                        "url": "https://www.newspapers.com/image/43711712/?terms=%22Wellington%2BStreet%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -16318,7 +16343,7 @@
                 "buildingName": "57 Vittoria Street",
                 "classification": "residential",
                 "dateBuilt": "",
-                "dateDemolished": "c1931",
+                "dateDemolished": "1929",
                 "status": "Location now part of the grounds of the Supreme Court of Canada.",
                 "history": "",
                 "address": {
@@ -16356,7 +16381,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"13 Families Are Told To Vacate December First\", The Ottawa Journal, 05 Nov 1929, p.1",
+                        "url": "https://www.newspapers.com/image/43711712/?terms=%22Wellington%2BStreet%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -16686,7 +16716,7 @@
                 "buildingName": "207-215 Wellington Street",
                 "classification": "mix",
                 "dateBuilt": "",
-                "dateDemolished": "c1931",
+                "dateDemolished": "1929",
                 "status": "Location now occupied by the Confederation Building.",
                 "history": "",
                 "address": {
@@ -16724,7 +16754,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"13 Families Are Told To Vacate December First\", The Ottawa Journal, 05 Nov 1929, p.1",
+                        "url": "https://www.newspapers.com/image/43711712/?terms=%22Wellington%2BStreet%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -16868,7 +16903,7 @@
                 "buildingName": "Almonte House Hotel",
                 "classification": "hotel",
                 "dateBuilt": "",
-                "dateDemolished": "c1931",
+                "dateDemolished": "1929",
                 "status": "Location now part of the grounds of the Supreme Court of Canada.",
                 "history": "",
                 "address": {
@@ -16906,7 +16941,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"13 Families Are Told To Vacate December First\", The Ottawa Journal, 05 Nov 1929, p.1",
+                        "url": "https://www.newspapers.com/image/43711712/?terms=%22Wellington%2BStreet%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -16959,7 +16999,7 @@
                 "buildingName": "255-263 Wellington Street",
                 "classification": "mix",
                 "dateBuilt": "",
-                "dateDemolished": "c1931",
+                "dateDemolished": "1929",
                 "status": "Location now occupied by the Justice Building.",
                 "history": "",
                 "address": {
@@ -17021,7 +17061,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"13 Families Are Told To Vacate December First\", The Ottawa Journal, 05 Nov 1929, p.1",
+                        "url": "https://www.newspapers.com/image/43711712/?terms=%22Wellington%2BStreet%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -17260,7 +17305,7 @@
                 "buildingName": "217-221 Wellington Street",
                 "classification": "commercial",
                 "dateBuilt": "",
-                "dateDemolished": "c1931",
+                "dateDemolished": "1929",
                 "status": "Location now occupied by the Confederation Building.",
                 "history": "",
                 "address": {
@@ -17298,7 +17343,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"13 Families Are Told To Vacate December First\", The Ottawa Journal, 05 Nov 1929, p.1",
+                        "url": "https://www.newspapers.com/image/43711712/?terms=%22Wellington%2BStreet%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -17335,7 +17385,7 @@
                 "buildingName": "251-253 Wellington Street",
                 "classification": "mix",
                 "dateBuilt": "",
-                "dateDemolished": "c1931",
+                "dateDemolished": "1929",
                 "status": "Location now occupied by the Justice Building.",
                 "history": "",
                 "address": {
@@ -17361,7 +17411,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"13 Families Are Told To Vacate December First\", The Ottawa Journal, 05 Nov 1929, p.1",
+                        "url": "https://www.newspapers.com/image/43711712/?terms=%22Wellington%2BStreet%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -17414,7 +17469,7 @@
                 "buildingName": "247-249 Wellington Street",
                 "classification": "mix",
                 "dateBuilt": "",
-                "dateDemolished": "c1931",
+                "dateDemolished": "1929",
                 "status": "Location now occupied by the Justice Building.",
                 "history": "",
                 "address": {
@@ -17452,7 +17507,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"13 Families Are Told To Vacate December First\", The Ottawa Journal, 05 Nov 1929, p.1",
+                        "url": "https://www.newspapers.com/image/43711712/?terms=%22Wellington%2BStreet%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -17580,9 +17640,9 @@
                 "buildingName": "Hawkesbury Lumber",
                 "classification": "commercial",
                 "dateBuilt": "",
-                "dateDemolished": "",
+                "dateDemolished": "1936",
                 "status": "Location now part of the grounds of the Supreme Court of Canada.",
-                "history": "This building was the Bank of British North America from at least 1875 to sometime between 1901 and 1909 based on City of Ottawa directories. From 1909 to 1912, the building contained the Hawkesbury Lumber Co. Ltd. offices. After 1913, the building was used for federal government sevices. From 1913 to at least 1916, the building was used by Customs Preventive Services. In 1923, the building is listed as the Office of the Chief Electoral Officer.",
+                "history": "This building was the Bank of British North America from at least 1875 to sometime between 1901 and 1909 based on City of Ottawa directories. From 1909 to 1912, the building contained the Hawkesbury Lumber Co. Ltd. offices. After 1913, the building was used for federal government sevices. From 1913 to at least 1916, the building was used by Customs Preventive Services. In 1923, the building is listed as the Office of the Chief Electoral Officer. When the building was demolished in 1936, Prime Minister William Lyon Mackenzie King obtained the archway and erected it on his estate in the Gatineau Hills. He also took some of the stones from the building to construct ruins on his estate. The archway and ruins are at \"Moorside\" at the Mackenzie King Estate in Gatineau Park.",
                 "address": {
                     "unitNumber": "241",
                     "street": "Wellington Street",
@@ -17630,7 +17690,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "About Mackenzie King Estate",
+                        "url": "https://ncc-ccn.maps.arcgis.com/apps/Cascade/index.html?appid=18d79f3ee9714a74982f24bc0709f534"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -17873,7 +17938,7 @@
                 "buildingName": "34 Vittoria Street",
                 "classification": "residential",
                 "dateBuilt": "",
-                "dateDemolished": "c1931",
+                "dateDemolished": "1929",
                 "status": "Location now part of the grounds of the Supreme Court of Canada.",
                 "history": "",
                 "address": {
@@ -17923,7 +17988,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"13 Families Are Told To Vacate December First\", The Ottawa Journal, 05 Nov 1929, p.1",
+                        "url": "https://www.newspapers.com/image/43711712/?terms=%22Wellington%2BStreet%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -18064,7 +18134,7 @@
                 "buildingName": "3 Kent Street",
                 "classification": "residential",
                 "dateBuilt": "",
-                "dateDemolished": "c1931",
+                "dateDemolished": "1929",
                 "status": "Location now part of the grounds of the Supreme Court of Canada.",
                 "history": "",
                 "address": {
@@ -18102,7 +18172,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"13 Families Are Told To Vacate December First\", The Ottawa Journal, 05 Nov 1929, p.1",
+                        "url": "https://www.newspapers.com/image/43711712/?terms=%22Wellington%2BStreet%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -18285,7 +18360,7 @@
                 "buildingName": "13 Kent Street & 59 Vittoria Street",
                 "classification": "residential",
                 "dateBuilt": "",
-                "dateDemolished": "c1931",
+                "dateDemolished": "1929",
                 "status": "Location now part of the grounds of the Supreme Court of Canada.",
                 "history": "",
                 "address": {
@@ -18335,7 +18410,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"13 Families Are Told To Vacate December First\", The Ottawa Journal, 05 Nov 1929, p.1",
+                        "url": "https://www.newspapers.com/image/43711712/?terms=%22Wellington%2BStreet%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -18412,7 +18492,7 @@
                 "buildingName": "Victoria Lawn Bowling Club",
                 "classification": "recreational",
                 "dateBuilt": "",
-                "dateDemolished": "c1931",
+                "dateDemolished": "1929",
                 "status": "Location now part of the grounds of the Supreme Court of Canada.",
                 "history": "",
                 "address": {
@@ -18450,7 +18530,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"13 Families Are Told To Vacate December First\", The Ottawa Journal, 05 Nov 1929, p.1",
+                        "url": "https://www.newspapers.com/image/43711712/?terms=%22Wellington%2BStreet%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -19977,7 +20062,7 @@
                 "buildingName": "49 Kent Street",
                 "classification": "residential",
                 "dateBuilt": "",
-                "dateDemolished": "c1931",
+                "dateDemolished": "1929",
                 "status": "Location now occupied by the Justice Building.",
                 "history": "",
                 "address": {
@@ -20015,7 +20100,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"13 Families Are Told To Vacate December First\", The Ottawa Journal, 05 Nov 1929, p.1",
+                        "url": "https://www.newspapers.com/image/43711712/?terms=%22Wellington%2BStreet%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -20068,7 +20158,7 @@
                 "buildingName": "53-55 Kent Street",
                 "classification": "commercial",
                 "dateBuilt": "",
-                "dateDemolished": "c1931",
+                "dateDemolished": "1929",
                 "status": "Location now occupied by the Justice Building.",
                 "history": "",
                 "address": {
@@ -20094,7 +20184,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"13 Families Are Told To Vacate December First\", The Ottawa Journal, 05 Nov 1929, p.1",
+                        "url": "https://www.newspapers.com/image/43711712/?terms=%22Wellington%2BStreet%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -20131,7 +20226,7 @@
                 "buildingName": "39-41 Kent Street",
                 "classification": "residential",
                 "dateBuilt": "",
-                "dateDemolished": "c1931",
+                "dateDemolished": "1929",
                 "status": "Location now occupied by the Justice Building.",
                 "history": "",
                 "address": {
@@ -20169,7 +20264,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"13 Families Are Told To Vacate December First\", The Ottawa Journal, 05 Nov 1929, p.1",
+                        "url": "https://www.newspapers.com/image/43711712/?terms=%22Wellington%2BStreet%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -20222,7 +20322,7 @@
                 "buildingName": "37 Kent Street",
                 "classification": "residential",
                 "dateBuilt": "",
-                "dateDemolished": "c1931",
+                "dateDemolished": "1929",
                 "status": "Location now occupied by the Justice Building.",
                 "history": "",
                 "address": {
@@ -20284,7 +20384,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"13 Families Are Told To Vacate December First\", The Ottawa Journal, 05 Nov 1929, p.1",
+                        "url": "https://www.newspapers.com/image/43711712/?terms=%22Wellington%2BStreet%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -20361,7 +20466,7 @@
                 "buildingName": "43-47 Kent Street",
                 "classification": "residential",
                 "dateBuilt": "",
-                "dateDemolished": "c1931",
+                "dateDemolished": "1929",
                 "status": "Location now occupied by the Justice Building.",
                 "history": "",
                 "address": {
@@ -20399,7 +20504,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"13 Families Are Told To Vacate December First\", The Ottawa Journal, 05 Nov 1929, p.1",
+                        "url": "https://www.newspapers.com/image/43711712/?terms=%22Wellington%2BStreet%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -21512,10 +21622,10 @@
             "type": "Feature",
             "properties": {
                 "id": 237,
-                "buildingName": "404 Laurier Street East",
+                "buildingName": "404 Laurier Avenue East",
                 "classification": "residential",
                 "dateBuilt": "",
-                "dateDemolished": "",
+                "dateDemolished": "c1926",
                 "status": "Location now occupied by the Strathcona apartments.",
                 "history": "",
                 "address": {
@@ -21747,7 +21857,7 @@
                 ],
                 "sources": [
                     {
-                        "name": "Bank\u2019s Heritage: the churches",
+                        "name": "Bank&#8217;s Heritage: the churches",
                         "url": "http://www.centretownbuzz.com/2016/01/15/banks-heritage-the-churches/"
                     }
                 ]
@@ -21867,7 +21977,7 @@
                 "buildingName": "Bank of Ottawa (Gladstone & Bank)",
                 "classification": "bank",
                 "dateBuilt": "",
-                "dateDemolished": "",
+                "dateDemolished": "before 1969",
                 "status": "As of 2017, location occupied by Esso gas station.",
                 "history": "",
                 "address": {
@@ -22184,7 +22294,7 @@
                 "buildingName": "115 Vittoria Street",
                 "classification": "residential",
                 "dateBuilt": "",
-                "dateDemolished": "c1938",
+                "dateDemolished": "1937",
                 "status": "Location now part of the grounds of the Supreme Court of Canada.",
                 "history": "",
                 "address": {
@@ -22210,7 +22320,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"To Wreck Buildings\", The Ottawa Journal, 21 Jul 1937, p.12",
+                        "url": "https://www.newspapers.com/image/46200939/?terms=Vittoria"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -23572,7 +23687,7 @@
                 "buildingName": "City Hotel",
                 "classification": "hotel",
                 "dateBuilt": "",
-                "dateDemolished": "",
+                "dateDemolished": "1956",
                 "status": "Location now occupied by a Blue Cactus Restaurant.",
                 "history": "",
                 "address": {
@@ -23598,7 +23713,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"'Stony Monday's' Bloodshed Marked Ottawa's Blackest Day\", The Ottawa Journal, 02 Feb 1957, p.44",
+                        "url": "https://www.newspapers.com/image/50100859/?terms=%22City%2BHotel%22%2Bclarence"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -26667,9 +26787,9 @@
                 "buildingName": "374-386 Sussex Drive",
                 "classification": "residential",
                 "dateBuilt": "",
-                "dateDemolished": "",
+                "dateDemolished": "1942",
                 "status": "Location now occupied by the National Art Gallery of Canada.",
-                "history": "",
+                "history": "Demolished for a Girl's Hostel to house low-paid workers during the war.",
                 "address": {
                     "unitNumber": "374-386",
                     "street": "Sussex Street (now Sussex Drive)",
@@ -26705,7 +26825,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"Printing Bureau Employes [sic] Will Lose Parking Space\", The Ottawa Journal, 19 Oct 1942, p.22",
+                        "url": "https://www.newspapers.com/image/48324038/?terms=sussex%2Band%2Bst%2Bpatrick%2Bhostel"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -27422,7 +27547,7 @@
                 "architects": [],
                 "photos": [
                     {
-                        "caption": "Front view of 262-264 Water Street (now Bruy\u00e8re Street).",
+                        "caption": "Front view of 262-264 Water Street (now Bruy&#232;re Street).",
                         "dateTaken": "",
                         "url": "http://www.kballantyne.ca/geomatics/bygone-buildings-ottawa/photos/262-264_Water_Street_a051831.jpg",
                         "modernUrl": null,
@@ -30574,9 +30699,9 @@
                 "buildingName": "10 MacLaren Street",
                 "classification": "residential",
                 "dateBuilt": "",
-                "dateDemolished": "1960s",
-                "status": "Demolished for Deep Cut Community renewal duing the 1960s. Location now occupied by 20 Driveway apartments.",
-                "history": "",
+                "dateDemolished": "1963",
+                "status": "Location now occupied by 20 Driveway apartments.",
+                "history": "Demolished for Deep Cut Community renewal duing the 1960s and a possible Somerset Bridge.",
                 "address": {
                     "unitNumber": "10",
                     "street": "MacLaren Street",
@@ -30600,7 +30725,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"Mayor Speeds Demolition\", The Ottawa Journal, 07 Jun 1963, p.34",
+                        "url": "https://www.newspapers.com/image/42417198/?terms=%22maclaren%22%2B%22central%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -30653,9 +30783,9 @@
                 "buildingName": "2 MacLaren Street",
                 "classification": "residential",
                 "dateBuilt": "",
-                "dateDemolished": "1960s",
-                "status": "Demolished for Deep Cut Community renewal duing the 1960s. Location now occupied by 20 Driveway apartments.",
-                "history": "",
+                "dateDemolished": "1963",
+                "status": "Location now occupied by 20 Driveway apartments.",
+                "history": "Demolished for Deep Cut Community renewal duing the 1960s and a possible Somerset Bridge.",
                 "address": {
                     "unitNumber": "2",
                     "street": "MacLaren Street",
@@ -30803,9 +30933,9 @@
                 "buildingName": "24 MacLaren Street",
                 "classification": "residential",
                 "dateBuilt": "",
-                "dateDemolished": "1960s",
-                "status": "Demolished for Deep Cut Community renewal duing the 1960s. Location now occupied by 20 Driveway apartments.",
-                "history": "",
+                "dateDemolished": "1963",
+                "status": "Location now occupied by 20 Driveway apartments.",
+                "history": "Demolished for Deep Cut Community renewal duing the 1960s and a possible Somerset Bridge.",
                 "address": {
                     "unitNumber": "24",
                     "street": "MacLaren Street",
@@ -30841,7 +30971,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"Mayor Speeds Demolition\", The Ottawa Journal, 07 Jun 1963, p.34",
+                        "url": "https://www.newspapers.com/image/42417198/?terms=%22maclaren%22%2B%22central%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -30886,9 +31021,9 @@
                 "buildingName": "20-22 MacLaren Street",
                 "classification": "residential",
                 "dateBuilt": "",
-                "dateDemolished": "1960s",
-                "status": "Demolished for Deep Cut Community renewal duing the 1960s. Location now occupied by 20 Driveway apartments.",
-                "history": "",
+                "dateDemolished": "1963",
+                "status": "Location now occupied by 20 Driveway apartments.",
+                "history": "Demolished for Deep Cut Community renewal duing the 1960s and a possible Somerset Bridge.",
                 "address": {
                     "unitNumber": "20-22",
                     "street": "MacLaren Street",
@@ -30912,7 +31047,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"Mayor Speeds Demolition\", The Ottawa Journal, 07 Jun 1963, p.34",
+                        "url": "https://www.newspapers.com/image/42417198/?terms=%22maclaren%22%2B%22central%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -31080,9 +31220,9 @@
                 "buildingName": "13 Central Avenue",
                 "classification": "residential",
                 "dateBuilt": "",
-                "dateDemolished": "1960s",
-                "status": "Demolished for Deep Cut Community renewal duing the 1960s. Location now occupied by 20 Driveway apartments.",
-                "history": "",
+                "dateDemolished": "1963",
+                "status": "Location now occupied by 20 Driveway apartments.",
+                "history": "Demolished for Deep Cut Community renewal duing the 1960s and a possible Somerset Bridge.",
                 "address": {
                     "unitNumber": "13",
                     "street": "Central Avenue",
@@ -31118,7 +31258,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"Mayor Speeds Demolition\", The Ottawa Journal, 07 Jun 1963, p.34",
+                        "url": "https://www.newspapers.com/image/42417198/?terms=%22maclaren%22%2B%22central%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -31163,9 +31308,9 @@
                 "buildingName": "19-21 Central Avenue",
                 "classification": "residential",
                 "dateBuilt": "",
-                "dateDemolished": "1960s",
-                "status": "Demolished for Deep Cut Community renewal duing the 1960s. Location now occupied by 20 Driveway apartments.",
-                "history": "",
+                "dateDemolished": "1963",
+                "status": "Location now occupied by 20 Driveway apartments.",
+                "history": "Demolished for Deep Cut Community renewal duing the 1960s and a possible Somerset Bridge.",
                 "address": {
                     "unitNumber": "19-21",
                     "street": "Central Avenue",
@@ -31189,7 +31334,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"Mayor Speeds Demolition\", The Ottawa Journal, 07 Jun 1963, p.34",
+                        "url": "https://www.newspapers.com/image/42417198/?terms=%22maclaren%22%2B%22central%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -31258,9 +31408,9 @@
                 "buildingName": "17 Central Avenue",
                 "classification": "residential",
                 "dateBuilt": "",
-                "dateDemolished": "1960s",
-                "status": "Demolished for Deep Cut Community renewal duing the 1960s. Location now occupied by 20 Driveway apartments.",
-                "history": "",
+                "dateDemolished": "1963",
+                "status": "Location now occupied by 20 Driveway apartments.",
+                "history": "Demolished for Deep Cut Community renewal duing the 1960s and a possible Somerset Bridge.",
                 "address": {
                     "unitNumber": "17",
                     "street": "Central Avenue",
@@ -31284,7 +31434,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"Mayor Speeds Demolition\", The Ottawa Journal, 07 Jun 1963, p.34",
+                        "url": "https://www.newspapers.com/image/42417198/?terms=%22maclaren%22%2B%22central%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -31329,9 +31484,9 @@
                 "buildingName": "23-25 Central Avenue",
                 "classification": "residential",
                 "dateBuilt": "",
-                "dateDemolished": "1960s",
-                "status": "Demolished for Deep Cut Community renewal duing the 1960s. Location now occupied by 20 Driveway apartments.",
-                "history": "",
+                "dateDemolished": "1963",
+                "status": "Location now occupied by 20 Driveway apartments.",
+                "history": "Demolished for Deep Cut Community renewal duing the 1960s and a possible Somerset Bridge.",
                 "address": {
                     "unitNumber": "23-25",
                     "street": "Central Avenue",
@@ -31355,7 +31510,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"Mayor Speeds Demolition\", The Ottawa Journal, 07 Jun 1963, p.34",
+                        "url": "https://www.newspapers.com/image/42417198/?terms=%22maclaren%22%2B%22central%22%2Bdemolition"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -31567,7 +31727,7 @@
                 "classification": "residential",
                 "dateBuilt": "",
                 "dateDemolished": "before 1937",
-                "status": "Location now occupied by an extension of the Juniorat du Sacr\u00e9-Coeur built in 1937.",
+                "status": "Location now occupied by an extension of the Juniorat du Sacr&#233;-Coeur built in 1937.",
                 "history": "",
                 "address": {
                     "unitNumber": "84",
@@ -32648,8 +32808,8 @@
                 "classification": "hotel",
                 "dateBuilt": "1907",
                 "dateDemolished": "1979-11",
-                "status": "Destroyed by fire on November 1979.",
-                "history": "",
+                "status": "Destroyed by arson fire on November 1979.",
+                "history": "Closed its doors on 26 July 1978.",
                 "address": {
                     "unitNumber": "352-364",
                     "street": "Bank Street",
@@ -32673,7 +32833,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"Arson suspected as fire destroys Alexandra Hotel\", The Ottawa Journal, 05 Nov 1979, p.1",
+                        "url": "https://www.newspapers.com/image/43165051"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -33569,7 +33734,7 @@
                 "id": 377,
                 "buildingName": "St. Joseph's Church",
                 "classification": "religious",
-                "dateBuilt": "",
+                "dateBuilt": "1892",
                 "dateDemolished": "1930-12-27",
                 "status": "Church burned on December 27, 1930. Location now occupied by the 3rd St. Joseph's Church.",
                 "history": "",
@@ -33596,7 +33761,12 @@
                         ]
                     }
                 ],
-                "sources": []
+                "sources": [
+                    {
+                        "name": "\"St. Joseph's Walls Will Be\", The Ottawa Journal, 29 Dec 1930, p.15",
+                        "url": "https://www.newspapers.com/image/48460498"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
