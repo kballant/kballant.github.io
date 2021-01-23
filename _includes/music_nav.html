@@ -6,6 +6,11 @@
 		<!--alert({{ page.url }})-->
 		<div id="navbar-header" class="navbar-collapse collapse">
 			<ul class="nav navbar-nav nav-font">
+				<li> <!-- Site Home -->
+					<a {% if page.url == "/" %}class="active"{% endif %} href="/">
+						MAIN PAGE
+					</a>
+				</li>
 				<li> <!-- Music Home -->
 					<a {% if page.url == "/music" %}class="active"{% endif %} href="/music">
 						MUSIC HOME
@@ -36,11 +41,6 @@
 							</a>
 						</li>
 					</ul>
-				</li>
-				<li> <!-- Site Home -->
-					<a {% if page.url == "/" %}class="active"{% endif %} href="/">
-						MAIN PAGE
-					</a>
 				</li>
 				<!-- <li> 
 					<!-- List of Projects

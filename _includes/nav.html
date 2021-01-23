@@ -131,6 +131,51 @@
 						</li>
 					</ul>
 				</li>
+				<li class="dropdown"> <!-- Music -->
+					<a href="#" data-toggle="dropdown" data-submenu="" aria-expanded="false"> <!-- aria-haspopup="true" aria-expanded="false">-->
+						MUSIC
+						<span class="caret"></span>
+					</a>
+					<ul class="dropdown-menu nav-font sub-menu">
+						<li> <!-- Music Bio -->
+							<a {% if page.url == "/music" %}class="active"{% endif %} 
+								href="/music">
+								Music Home
+							</a>
+						</li>
+						<li> <!-- Music Bio -->
+							<a {% if page.url == "/music/bio" %}class="active"{% endif %} 
+								href="/music/bio">
+								Bio
+							</a>
+						</li>
+						<li class="dropdown dropdown-submenu"> <!-- Albums -->
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+								Albums
+							</a>
+							<ul class="dropdown-menu nav-font"> <!-- sub-menu"> -->
+								<li>
+									<a {% if page.url == "/music/albums/drunk-on-a-bike" %}
+											class="active pad-left-30 sub-font"
+										{% else %}
+											class="pad-left-30 sub-font" 
+										{% endif %} href="/music/albums/drunk-on-a-bike">
+										Drunk On A Bike
+									</a>
+								</li>
+								<li> <!-- A Poet & A One Man Band -->
+									<a {% if page.url == "/music/albums/a-poet-and-a-one-man-band" %}
+											class="active pad-left-30 sub-font"
+										{% else %}
+											class="pad-left-30 sub-font" 
+										{% endif %} href="/music/albums/a-poet-and-a-one-man-band">
+										A Poet & A One Man Band
+									</a>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
 				<li class="dropdown">
 					<a href="#" data-toggle="dropdown" data-submenu="" aria-expanded="false"> <!-- aria-haspopup="true" aria-expanded="false">-->
 						ABOUT
@@ -143,25 +188,28 @@
 								{% endif %} href="/about">About Me
 							</a>
 						</li>
-						<li><a {% if page.url == "/about/resume.html" %}
+						<li>
+							<a {% if page.url == "/about/resume.html" %}
 									class="active"
-								{% endif %} href="/about/resume">Resume</a></li>
+								{% endif %} href="/about/resume">Resume
+							</a>
+						</li>
 					</ul>
 				</li>
-				<li class="dropdown"> <!-- Other Interests -->
-					<a href="#" data-toggle="dropdown" data-submenu="" aria-expanded="false"> <!-- aria-haspopup="true" aria-expanded="false">-->
+				<!-- <li class="dropdown"> <!-- Other Interests
+					<a href="#" data-toggle="dropdown" data-submenu="" aria-expanded="false"> <!-- aria-haspopup="true" aria-expanded="false">
 						OTHER INTERESTS
 						<span class="caret"></span>
 					</a>
 					<ul class="dropdown-menu nav-font sub-menu">
-						<li> <!-- List of Projects -->
+						<li> <!-- List of Projects
 							<a {% if page.url == "/music/" %}class="active"{% endif %} 
 								href="/music">
 								Music
 							</a>
 						</li>
 					</ul>
-				</li>
+				</li> -->
 				<!-- <li class="dropdown">
 					<a href="#" class="dropdown-toggle disabled" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
 						Other Interests

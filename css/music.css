@@ -656,6 +656,15 @@ ul.thumbnails-carousel li {
 	vertical-align: middle !important;
 }
 
+.vr {
+    width:10px;
+    background-color:#FFFFFF;
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:150px;
+}
+
 /* @media (min-width: 1031px) {
 	.title {
 		background-size: 100%;
