@@ -1,0 +1,21 @@
+${photo}
+<br>
+<p class="center"><a class="popup-a" href="./map.html?id=${id}"><img src="../../images/map-map-marker-icon.png" alt="Locate on map" title="Locate on map"/></a></p>
+<div class="popup-table">
+	<div class="popup-row">
+		<div class="popup-cell heading-cell">
+			<p class="popover-text"><b>Origin:</b></p>
+		</div>
+		<div class="popup-cell">
+			<p class="popover-text">${origin}</p>
+		</div>
+	</div>
+	<div class="popup-row">
+		<div class="popup-cell heading-cell">
+			<p class="popover-text"><b>Sources:</b></p>
+		</div>
+		<div class="popup-cell">
+			<p class="popover-text">${sources}</p>
+		</div>
+	</div>
+</div>

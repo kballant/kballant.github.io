@@ -195,7 +195,7 @@ var opts = {};
 opts['Name'] = 'rails'
 opts['Title'] = 'Railways'
 //opts['URL'] = '../files/1930_Ottawa_Railways.geojson', 
-opts['URL'] = '../files/Ottawa_Railway_Temporal.geojson', 
+opts['URL'] = '../../files/Ottawa_Railway_Temporal.geojson', 
 opts['dataProj'] = 'EPSG:4269'
 opts['featProj'] = 'EPSG:3857'
 

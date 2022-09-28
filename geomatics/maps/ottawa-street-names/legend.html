@@ -1,0 +1,22 @@
+<button class="btn btn-primary visible-custom" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+	Legend
+</button>
+<div class="collapse dont-collapse-sm" id="collapseExample">
+	<div class="row-fluid legend round-border">
+		<h1 class="legend-title">
+			Background Layers
+		</h1>
+		<ul class="ul-leg">
+			<li class="legend-txt li-leg">
+				<input id="osm" name="base_layer" onclick="refreshLayers()"
+					class="osm legend-radio" type="radio"/>
+					<label for="osm">OpenStreetMaps</label>
+			</li>
+			<li class="legend-txt li-leg">
+				<input id="bingmap" name="base_layer" onclick="refreshLayers()" 
+					class="bingmaps legend-radio" type="radio"/>
+					<label for="bingmap">Air Photo</label>
+			</li>
+		</ul>
+	</div>
+</div>

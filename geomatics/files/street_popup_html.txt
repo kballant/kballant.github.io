@@ -1,0 +1,11 @@
+<br>
+<div class="row">
+	${photo}
+	<p class="street-p">${origin}</p>
+</div>
+<hr>
+<div class="row popup-source">
+	<p class="street-p"><b>Sources:</b><br>
+	${sources}
+	</p>
+</div>

@@ -17,71 +17,40 @@
 						<span class="caret"></span>
 					</a>
 					<ul class="dropdown-menu nav-font sub-menu">
-						<li> <!-- List of Projects -->
-							<a {% if page.url == "/geomatics/" %}class="active"{% endif %} 
-								href="/geomatics">
-								List of Projects
-							</a>
-						</li>
 						<li class="dropdown dropdown-submenu">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">
-								Ottawa's Bygone Buildings<!-- <span class="caret"></span>-->
+								Maps<!-- <span class="caret"></span>-->
 							</a>
 							<ul class="dropdown-menu nav-font"> <!-- sub-menu"> -->
 								<li>
-									<a {% if page.url == "/geomatics/bygone-buildings-ottawa/" %}
+									<a {% if page.url == "/geomatics/maps/bygone-buildings-ottawa/" %}
 											class="active pad-left-30 sub-font"
 										{% else %}
 											class="pad-left-30 sub-font" 
-										{% endif %} href="/geomatics/bygone-buildings-ottawa">
-										Project Home
+										{% endif %} href="/geomatics/maps/bygone-buildings-ottawa/">
+										Ottawa's Bygone Buildings
 									</a>
 								</li>
 								<li>
-									<a {% if page.url == "/geomatics/bygone-buildings-ottawa/map.html" %}
+									<a {% if page.url == "/geomatics/maps/ottawa-railways/" %}
 											class="active pad-left-30 sub-font"
 										{% else %}
 											class="pad-left-30 sub-font" 
-										{% endif %} href="/geomatics/bygone-buildings-ottawa/map">
-										Map
+										{% endif %} href="/geomatics/maps/ottawa-railways/">
+										Ottawa's Railways Through The Years
 									</a>
 								</li>
 								<li>
-									<a {% if page.url == "/geomatics/bygone-buildings-ottawa/building-list.html" %}
+									<a {% if page.url == "/geomatics/maps/ottawa-street-names/index.html" %}
 											class="active pad-left-30 sub-font"
 										{% else %}
 											class="pad-left-30 sub-font" 
-										{% endif %} href="/geomatics/bygone-buildings-ottawa/building-list">
-										Building List
+										{% endif %} href="/geomatics/maps/ottawa-street-names/index.html">
+										Ottawa Street Name Origins
 									</a>
 								</li>
 							</ul>
 						</li>
-						<!-- <li> <!-- bygone Buildings of Ottawa
-							<a {% if page.url == "/geomatics/bygone-buildings-ottawa/" %}
-									class="active"
-								{% endif %} href="/geomatics/bygone-buildings-ottawa">
-								Ottawa's Bygone Buildings
-							</a>
-						</li>
-						<li> <!-- Bygone Map
-							<a {% if page.url == "/geomatics/bygone-buildings-ottawa/map.html" %}
-									class="active pad-left-30"
-								{% else %}
-									class="pad-left-30" 
-								{% endif %} href="/geomatics/bygone-buildings-ottawa/map">
-								&#10149;Map
-							</a>
-						</li>
-						<li> <!-- Building List
-							<a {% if page.url == "/geomatics/bygone-buildings-ottawa/building-list.html" %}
-									class="active pad-left-30"
-								{% else %}
-									class="pad-left-30" 
-								{% endif %} href="/geomatics/bygone-buildings-ottawa/building-list">
-								&#10149;List
-							</a>
-						</li> -->
 						<li> <!-- Fire Insurance Plans -->
 							<a {% if page.url == "/geomatics/fire-plans.html" %}
 									class="active"
@@ -89,44 +58,31 @@
 								Fire Insurance Plans
 							</a>
 						</li>
-						<li class="dropdown dropdown-submenu"> <!-- Ottawa's Historic Railways -->
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">
-								Ottawa's Railways Through The Years
-							</a>
-							<ul class="dropdown-menu nav-font">
-								<li>
-									<a {% if page.url == "/geomatics/ottawa-railways/" %}
-											class="active pad-left-30 sub-font"
-										{% else %}
-											class="pad-left-30 sub-font" 
-										{% endif %} href="/geomatics/ottawa-railways">
-										Project Home
-									</a>
-								</li>
-								<li>
-									<a {% if page.url == "/geomatics/ottawa-railways/map.html" %}
-											class="active pad-left-30 sub-font"
-										{% else %}
-											class="pad-left-30 sub-font" 
-										{% endif %} href="/geomatics/ottawa-railways/map">
-										Map
-									</a>
-								</li>
-							</ul>
-						<!-- <li> <!-- Railway Map
-							<a {% if page.url == "/geomatics/ottawa-railways/map.html" %}
-									class="active pad-left-30"
-								{% else %}
-									class="pad-left-30" 
-								{% endif %} href="/geomatics/ottawa-railways/map">
-								&#10149;Map
-							</a>
-						</li> -->
 						<li> <!-- Documents -->
 							<a {% if page.url == "/geomatics/documents.html" %}
 									class="active"
 								{% endif %} href="/geomatics/documents">
 								Documents
+							</a>
+						</li>
+					</ul>
+				</li>
+				<li class="dropdown"> <!-- Music -->
+					<a href="#" data-toggle="dropdown" data-submenu="" aria-expanded="false"> <!-- aria-haspopup="true" aria-expanded="false">-->
+						FORGOTTEN OTTAWA
+						<span class="caret"></span>
+					</a>
+					<ul class="dropdown-menu nav-font sub-menu">
+						<li> <!-- The Standish Hall -->
+							<a {% if page.url == "/forgotten-ottawa/russell-house.html" %}class="active"{% endif %} 
+								href="/forgotten-ottawa/russell-house.html">
+								The Russell House Hotel
+							</a>
+						</li>
+						<li> <!-- The Standish Hall -->
+							<a {% if page.url == "/forgotten-ottawa/standish-hall.html" %}class="active"{% endif %} 
+								href="/forgotten-ottawa/standish-hall.html">
+								The Standish Hall Hotel
 							</a>
 						</li>
 					</ul>

@@ -18,10 +18,11 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 		<meta name="description" content="{{ page.description }}" />
 		<meta name="keywords" content="{{ page.keywords }}" />
-		{% if page.url == "/geomatics/bygone-buildings-ottawa/map.html" or 
-			page.url == "/geomatics/ottawa-railways/map.html" or 
-			page.url == "/geomatics/fire-plans-map.html" or
-			page.url == "/geomatics/bygone-buildings-ottawa/building-list.html" %}
+		{% if page.url == "/geomatics/maps/bygone-buildings-ottawa/" or 
+			page.url == "/geomatics/maps/ottawa-railways/" or 
+			page.url == "/geomatics/fire-plans-map.html" or 
+			page.url == "/geomatics/maps/ottawa-street-names/" or 
+			page.url == "/geomatics/maps/bygone-buildings-ottawa/building-list.html" %}
 			<link rel="stylesheet" href="/ol/ol.css" type="text/css">
 			<script src="/ol/polyfill.min.js"></script>
 			<script src="/ol/requestanimationfix.js"></script>
@@ -38,19 +39,20 @@
 		<![endif]-->
 		<noscript><link rel="stylesheet" href="/wet-boew/css/noscript.min.css" /></noscript>
 		<link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap.min.css">
-		{% if page.url == "/geomatics/bygone-buildings-ottawa/map.html" or 
-			page.url == "/geomatics/ottawa-railways/map.html" or 
+		{% if page.url == "/geomatics/maps/bygone-buildings-ottawa/" or 
+			page.url == "/geomatics/maps/ottawa-railways/" or 
+			page.url == "/geomatics/maps/ottawa-street-names/" or 
 			page.url == "/geomatics/fire-plans-map.html" or
-			page.url == "/geomatics/bygone-buildings-ottawa/building-list.html" %}
+			page.url == "/geomatics/maps/bygone-buildings-ottawa/building-list.html" %}
 			<link rel="stylesheet" href="/css/mapstyle.css" type="text/css">
 			<link rel="stylesheet" href="/css/magnify.css" type="text/css">
 		{% endif %}
 		
-		{% if page.url == "/geomatics/bygone-buildings-ottawa/building-list.html" %}
+		{% if page.url == "/geomatics/maps/bygone-buildings-ottawa/building-list.html" %}
 			<script src="/js/sorttable.js"></script>
 		{% endif %}
 		
-		{% if page.url == "/geomatics/ottawa-railways/map.html" %}
+		{% if page.url == "/geomatics/maps/ottawa-railways/" %}
 			<link rel="stylesheet" href="/css/rSlider.css" type="text/css">	
 		{% endif %}
 		
@@ -66,9 +68,10 @@
 	</head>
 	<body class="main">
 		<!--<a class="wb-lbx" title="Example of inline content" href="#inline_content">Inline content</a>-->
-		{% if page.url == "/geomatics/bygone-buildings-ottawa/map.html" or 
-			page.url == "/geomatics/ottawa-railways/map.html" or 
-			page.url == "/geomatics/bygone-buildings-ottawa/building-list.html" %}
+		{% if page.url == "/geomatics/maps/bygone-buildings-ottawa/" or 
+			page.url == "/geomatics/maps/ottawa-railways/" or 
+			page.url == "/geomatics/maps/ottawa-street-names/" or 
+			page.url == "/geomatics/maps/bygone-buildings-ottawa/building-list.html" %}
 			<section id="inline_content" class="map-popup mfp-hide modal-dialog modal-content overlay-def">
 				<header class="modal-header popover-header">
 					<h2 class="modal-title pg-title popover-title">Title</h2>
@@ -91,8 +94,9 @@
 				</div>
 			</section>
 		{% endif %}
-		{% if page.url != "/geomatics/bygone-buildings-ottawa/map.html" and 
-			page.url != "/geomatics/ottawa-railways/map.html" %}
+		{% if page.url != "/geomatics/maps/bygone-buildings-ottawa/" and 
+			page.url != "/geomatics/maps/ottawa-railways/" and 
+			page.url != "/geomatics/maps/ottawa-street-names/" %}
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
@@ -162,27 +166,36 @@
 		<script src="/wet-boew/js/ie8-wet-boew2.min.js"></script>
 
 		<![endif]-->
-		{% if page.url == "/geomatics/bygone-buildings-ottawa/map.html" or 
-			page.url == "/geomatics/ottawa-railways/map.html" or 
-			page.url == "/geomatics/fire-plans-map.html" %}
+		
+		{% if page.url == "/geomatics/maps/bygone-buildings-ottawa/" or 
+			page.url == "/geomatics/maps/ottawa-railways/" or 
+			page.url == "/geomatics/maps/ottawa-street-names/" or 
+			page.url == "/geomatics/fire-plans-map.html" or 
+			page.url == "/geomatics/maps/bygone-buildings-ottawa/building-list.html" %}
 			<script src="/wet-boew/js/deps/prettify.min.js"></script>
+			<script src="/js/popup_functions.js"></script>
 			<!--<script src="/js/sql.js"></script>-->
 		{% endif %}
-		{% if page.url == "/geomatics/bygone-buildings-ottawa/map.html" %}
+		{% if page.url == "/geomatics/maps/bygone-buildings-ottawa/" %}
 			<!--<script src="/bootstrap/js/thumbnails.carousel.js"></script>-->
-			<script src="/js/popup.js"></script>
+			<script src="/js/building_popup.js"></script>
 			<script src="/js/bygone_building_map.js"></script>
 		{% endif %}
-		{% if page.url == "/geomatics/ottawa-railways/map.html" %}
+		{% if page.url == "/geomatics/maps/ottawa-railways/" %}
 			<!--<script src="/bootstrap/js/thumbnails.carousel.js"></script>-->
-			<script src="/js/popup.js"></script>
+			<!--<script src="/js/street_popup.js"></script>-->
 			<!--<script src="/js/rSlider.js"></script>-->
 			<script src="/js/rSlider.min.js"></script>
 			<script src="/js/railway_map.js"></script>
 		{% endif %}
-		{% if page.url == "/geomatics/bygone-buildings-ottawa/building-list.html" %}
+		{% if page.url == "/geomatics/maps/ottawa-street-names/" %}
 			<!--<script src="/bootstrap/js/thumbnails.carousel.js"></script>-->
-			<script src="/js/popup.js"></script>
+			<script src="/js/street_popup.js"></script>
+			<script src="/js/street_names_map.js"></script>
+		{% endif %}
+		{% if page.url == "/geomatics/maps/bygone-buildings-ottawa/building-list.html" %}
+			<!--<script src="/bootstrap/js/thumbnails.carousel.js"></script>-->
+			<script src="/js/building_popup.js"></script>
 			<script src="/js/KmlMapParser.js"></script>
 		{% endif %}
 		{% if page.url == "/geomatics/fire-plans-map.html" %}

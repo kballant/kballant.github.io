@@ -166,7 +166,7 @@ function addLayer(opts, lyrList=null, styleFunction=null) {
 	return featOverlay;
 } */
 
-function addFeatOverlay(map, name, widths) {
+function addFeatOverlay(map, name, widths, field='name', params=null) {
 	// Create a style cache dictionary for highlighting rails
 	var highlightStyleCache = {};
 
@@ -182,22 +182,40 @@ function addFeatOverlay(map, name, widths) {
 				} else {
 					width = widths[2];
 				}
-				var text = resolution < 5000 ? feature.get('name') : '';
+				
+				if (params == null) {
+					var strokeColour = '#FF00FF';
+					var textFont = '12px Calibri,sans-serif';
+					var textPlacement = null;
+					var textFillColour = '#000';
+					var textStrokeColour = '#f00';
+					var textWidth = 3;
+				} else {
+					var strokeColour = params.strokeColour;
+					var textFont = params.textFont;
+					var textPlacement = params.textPlacement;
+					var textFillColour = params.textFillColour;
+					var textStrokeColour = params.textStrokeColour;
+					var textWidth = params.textWidth;
+				}
+				
+				var text = resolution < 5000 ? feature.get(field) : '';
 				if (!highlightStyleCache[text]) {
 					highlightStyleCache[text] = new ol.style.Style({
 						stroke: new ol.style.Stroke({
-							color: '#FF00FF',
+							color: strokeColour,
 							width: width
 						}),
 						text: new ol.style.Text({
-							font: '12px Calibri,sans-serif',
+							font: textFont,
 							text: text,
+							placement: textPlacement, 
 							fill: new ol.style.Fill({
-								color: '#000'
+								color: textFillColour
 							}),
 							stroke: new ol.style.Stroke({
-								color: '#f00',
-							width: 3
+								color: textStrokeColour,
+							width: textWidth
 							})
 						})
 					});
@@ -224,7 +242,7 @@ function addPopup(map) {
 	return map, popup
 }
 
-function addSingleClick(inMap, hasPopup=false) {
+function addSingleClick(inMap, hasPopup=false, geomType='polygon') {
 	// Display popup on click
 	inMap.on('singleclick', function(evt) {
 		//var pixel = evt;
@@ -234,14 +252,14 @@ function addSingleClick(inMap, hasPopup=false) {
 			var coordinates = inMap.getEventCoordinate(evt.originalEvent);
 			//var feature = vectorlayer.getClosestFeatureToCoordinate(coordinates);
 			if (hasPopup) {
-				displayPopup(evt, coordinates);
+				displayPopup(evt, coordinates, geomType);
 			}
 		} else {
 			// If not using a mobile device, the location is based on the 
 			//		cursor location
 			var pixel = inMap.getEventPixel(evt.originalEvent);
 			if (hasPopup) {
-				displayPopup(evt, pixel);
+				displayPopup(evt, pixel, geomType);
 			}
 		}
 	});
@@ -330,11 +348,13 @@ function bindOpen() {
 		var mapPopup = document.getElementById('inline_content');
 		
 		// Set the width of the popup based on the window size
-		if ($(window).width() > 768) {
+		/* if ($(window).width() > 768) {
 			mapPopup.style.width = "600px";
 		} else {
 			mapPopup.style.width = "100% !important";
-		}
+		}*/
+		
+		resizePopup(mapPopup);
 	});
 }
 
@@ -415,7 +435,7 @@ function getCentre(viewInfo) {
 	return viewInfo;
 }
 
-function getFeature(coord, mapLyrs, lyrDict) {
+function getFeature(coord, mapLyrs, lyrDict, geomType='polygon') {
 	/* Gets a feature at the specified coordinates.
 	:param coord: The coordinates where the feature is located.
 	:return: The feature at the specified coordinates.
@@ -425,11 +445,19 @@ function getFeature(coord, mapLyrs, lyrDict) {
 	//		found at the specified coordinates
 	for (var key in lyrDict) {
 		//var lyr = getLayer(key);
+		feature = null;
 		var lyr = getLyr(mapLyrs, key);
 		var lyrSrc = lyr.getSource();
-		var features = lyrSrc.getFeaturesAtCoordinate(coord);
-		if (features.length > 0) {
-			return features[0];
+		if (geomType == 'polygon') {
+			var features = lyrSrc.getFeaturesAtCoordinate(coord);
+			if (features.length > 0) {
+				feature = features[0];
+			}
+		} else {
+			feature = lyrSrc.getClosestFeatureToCoordinate(coord);
+		}
+		if (feature != null && feature != undefined) {
+			return feature;
 		}
 	}
 	
@@ -474,7 +502,7 @@ function getPopupContent() {
 	};
 	
 	// Open the popup_html.txt file
-	xhttp.open("GET", "../files/popup_html.txt", false);
+	xhttp.open("GET", "../../files/popup_html.txt", false);
 	xhttp.send();
 	
 	// Get the contents of the file
@@ -547,7 +575,7 @@ function highlightFeature(pixel) { //, overlayList) {
 	}
 }
 
-function displayPopup(evt, pixel) {
+function displayPopup(evt, pixel, geomType='polygon') {
 	/* Displays the popup for a feature at pixel
 	*/
 	
@@ -557,16 +585,19 @@ function displayPopup(evt, pixel) {
 	var features = [];
 	
 	// Check for mobile device
-	if (detectmob) {
+	/* if (detectmob()) {
 		// If mobile device, using the getFeature function
-		var feature = getFeature(pixel, lyrList, lyrDict);
+		var feature = getFeature(pixel, lyrList);
 		features.push(feature);
 	} else {
 		// Otherwise, use forEachFeatureAtPixel map function
 		map.forEachFeatureAtPixel(pixel, function(feature, layer) {
 			features.push(feature);
-		}, null);
-	}
+		}, 0);
+	} */
+	
+	var feature = getFeature(pixel, lyrList, lyrDict, geomType);
+	features.push(feature);
 	
 	// If features were found at pixel location
 	if (features.length > 0) {
@@ -680,7 +711,9 @@ function refreshLayers() {
 	// Make all layers invisible except the checked one
 	var totalLayers = map.getLayers().getLength();
 	for (i = 0; i < 2; i++) {
-		var lyr_name = map.getLayers().item(i).get('name')
+		var lyr = map.getLayers().item(i);
+		if (lyr == undefined) { continue; }
+		var lyr_name = lyr.get('name');
 		if (lyr_name == check_rad) {
 			map.getLayers().item(i).setVisible(true);
 		} else {

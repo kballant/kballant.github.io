@@ -1,0 +1,97 @@
+---
+layout: main
+title: Ottawa's Bygone Buildings
+redirect_from: 
+  - /geomatics/lost-buildings-ottawa/map
+  - /geomatics/former-buildings-ottawa
+  - /geomatics/projects/former-buildings-ottawa
+  - /geomatics/lost-buildings-ottawa
+  - /geomatics/bygone-buildings-ottawa/map
+  - /geomatics/bygone-buildings
+  - /geomatics/bygone-buildings-ottawa
+description: An Openlayers map showing the buildings which no longer exist in Ottawa.
+keywords: Ottawa, history, Ottawa history, buildings, lost buildings, bygone buildings, historic photos
+---
+<div> <!-- class="container"> -->
+	<div class="row">
+		<div class="col-md-2 col-sm-2 sidebar-map">
+			<div class="map-title">
+				<!--<h2 class="map-title-text">Ottawa's Bygone Buildings</h2>-->
+				<img class="title-img building-map-logo" src="/geomatics/images/Bygone_Buildings_logo2.png" width=200>
+			</div>
+			<p class="mobile_only">
+				NOTE: Selecting buildings currently doesn't work on mobile devices. Sorry for the inconvenience.<br>
+				A <a href="./building-list.html">list of buildings</a> is available.
+			</p>
+			<hr class="hr-map" style="height:1px;border:none;color:#333;background-color:#ffffff">
+			<div class="col-md-12 col-sm-12 legend-col">
+				{% include_relative legend.html %}
+			</div>
+		</div>
+		<div class="col-md-10 col-sm-10 map-col">
+			<div id="map" class="map"><div id="info"></div></div>
+			<div id="popup" class="ol-popup">
+				<a href="#" id="popup-closer" class="ol-popup-closer"></a>
+				<div id="popup-content"></div>
+			</div>
+			<p class="small" style="text-align:left !important;">
+				Map created using OpenLayers 4<br>
+			</p>
+			<div class="dropdown">
+				<button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Download Buildings Map
+				<span class="caret"></span></button>
+				<ul class="dropdown-menu">
+					<li><a href="../files/Ottawa_Bygone_Buildings.kml">KML</a></li>
+					<!-- <li><a href="#">SHP</a></li> -->
+					<li><a href="../files/Ottawa_Bygone_Buildings.geojson" target="_blank">GeoJSON</a></li>
+				</ul>
+			</div>
+			<br>
+			<div class="description">
+				<hr class="standard">
+				<div class="pg-title">
+					<h2>Ottawa's Bygone Buildings</h2>
+					<!--<img class="title-img building-title-img" src="/geomatics/images/Bygone_Buildings_main.png">-->
+				</div>
+				<hr class="standard">
+				<p class="description">Through the years, Ottawa has seen many buildings come and go. Some were lost to fire, 
+				some demolished for the expansion of parkland, roads and other improvements while others
+				were removed to make way for newer buildings.</p>
+				
+				<p class="description">The map above shows the outline footprint of buildings which existed in 1912 but no 
+				longer exist today. Each footprint contains information and photos of these buildings.
+				</p>
+				
+				<p class="description">The map is also available as a  
+				<a href="/geomatics/files/Ottawa_Bygone_Buildings.kml">KML file</a>
+				which can be viewed in Google Earth.</p>
+				
+				<p class="description">There is also a <a href="./building-list.html">list of the buildings</a>.</p>
+				
+				<p class="description">
+					The location of each building is based on the 1912 Fire Insurance map sheets found at 
+					<a href="http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&lang=eng&rec_nbr=3816030">
+						Library & Archives Canada
+					</a>
+					. Each sheet was georeferenced using software QGIS, GDAL and Google Earth. To download a 
+					KMZ file of one of the fire insurance plans, please go to the 
+					<a href="/geomatics/fire-plans">Fire Insurance Plans page.</a>
+				</p>
+				
+				<p class="description">Since all historic information is based on the 1912 insurance maps, no buildings 
+				demolished prior to 1912 will be included in the KML file.</p>
+
+				<p class="description">Photos of buildings have been collected from sites on the Internet. 
+				Click on the source link below the photos to navigate to their source.</p>
+
+				<p class="description">This project is on-going so please visit this site in the future as the 
+				KML file will be updated whenever possible.</p>
+
+				<p class="description"><a href="/geomatics/files/Ottawa_Bygone_Buildings.kml">Download</a>
+				a copy of the KML file shown in the map above.</p>
+				<br>
+				{% include footer.html %}
+			</div>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,59 @@
+---
+layout: main
+title: Ottawa Street Name Origins
+description: An Openlayers map showing the origin of street names in Ottawa.
+keywords: Ottawa, history, Ottawa history, street names, roads
+---
+
+<div> <!-- class="container"> -->
+	<div class="row">
+		<div class="col-md-2 col-sm-2 sidebar-map">
+			<div class="map-title">
+				<!--<h2 class="map-title-text">Ottawa's 1930 Railway Network</h2>-->
+				<img class="title-img rail-map-logo" src="/geomatics/images/street-sign-logo.png"> <!-- width=200>-->
+			</div>
+			<!-- <p class="mobile_only">
+				NOTE: Selecting buildings currently doesn't work on mobile devices. Sorry for the inconvenience.<br>
+				A <a href="./building-list.html">list of buildings</a> is available.
+			</p> -->
+			<hr class="hr-map" style="height:1px;border:none;color:#333;background-color:#ffffff">
+			<div class="col-md-12 col-sm-12 legend-col">
+				{% include_relative legend.html %}
+			</div>
+		</div>
+		<div class="col-md-10 col-sm-10 map-col">
+			<!--<div class="row" style="margin-left: 10px">
+				<input type="text" id="slider" class="slider">
+			</div>-->
+			<div id="fullscreen" class="row fullscreen">
+				<div id="map" class="map">
+					<div id="info"></div>
+				</div>
+				<div id="popup" class="ol-popup">
+					<a href="#" id="popup-closer" class="ol-popup-closer"></a>
+					<div id="popup-content"></div>
+				</div>
+				<p class="small" style="text-align:left !important;">
+					Map created using OpenLayers 4<br>
+					This map is a work in progress. New streets will be added in the future.
+				</p>
+			</div>
+			<br>
+			<div class="description">
+				<hr class="standard">
+				<div class="pg-title">
+					<h2>Ottawa Street Name Origins</h2>
+				</div>
+				<hr class="standard">
+				<p class="description">Hidden within the street names of Ottawa are the names of people and places from the city's history. The names of former mayors and politicians, military officials, royalty, lumber barons, businessmen and farmers are some of the historic figures who are immortalized in the names of the city's streets.</p>
+				<p class="description">This map explores the origins of many streets in Ottawa. </p>
+				<br>
+				{% include footer.html %}
+			</div>
+		</div>
+	</div>
+	<br>
+	<!--<div class="row" style="width: 50%; margin: auto;">
+		
+	</div>-->
+</div>

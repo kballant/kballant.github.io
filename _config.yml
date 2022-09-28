@@ -32,6 +32,7 @@ encoding: utf-8
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -41,7 +42,12 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+  - geomatics/maps/bygone-buildings-ottawa/backup/
+  - js/backup/
+  - _includes/backup/
+  - geomatics/_old/
+  - geomatics/maps/ottawa-railways/backup/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

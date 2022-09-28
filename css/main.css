@@ -303,8 +303,9 @@ p.center {
 }
 footer {
 	/* background: rgba(50, 113, 231, 0.6);  */
-	background-color: #3355AA;
+	/* background-color: #3355AA; */
 	background: rgba(51, 85, 170, 0.6);
+	/* background-color: transparent;
 	/*background: linear-gradient(left top, #000022 0%, #0000cc 100%);  
 	background: -moz-linear-gradient(left top, #000022 0%, 0000cc 100%);
 	background: -webkit-linear-gradient(left top, #000022 0%,#0000cc 100%); */
@@ -312,7 +313,19 @@ footer {
     font-size: 1em;
 	border-radius: 5px;
 }
-
+hr.standard {
+	height: 1px;
+	border: none;
+	color: #333;
+	background-color: #ffffff
+}
+div.description {
+	margin-right: 30px;
+}
+p.description {
+	padding-left: 15px;
+	padding-right: 15px;
+}
 .foot-text {
 	padding-left: 30px;
 	font-size: small;
@@ -589,6 +602,15 @@ summary {
 
 .download-btn {
 	line-height: 18px;
+}
+
+.footnotes {
+	font-size: 0.8em;
+}
+
+.youtube {
+	margin: auto;
+	display: block;
 }
 
 @media (min-width: 767px) {

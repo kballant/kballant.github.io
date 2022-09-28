@@ -69,7 +69,7 @@ function resetStyles(lyrList, styles) {
 			ol.Observable.unByKey(key);
 			
 			// Using AJAX, load the KML file
-			$.ajax('../files/Ottawa_Bygone_Buildings.geojson').done(function(data) {
+			$.ajax('../../files/Ottawa_Bygone_Buildings.geojson').done(function(data) {
 				//kmlLayer.getSource().forEachFeature(function(feature) {
 				buildingLayer.getSource().forEachFeature(function(feature) {
 					// For each feature in the KML file
@@ -371,18 +371,12 @@ function closePopup(featId) {
 	setHighlight(featId);
 };
 
-function resizePopup(img) {
-	/* Resizes the popup based on the input image.
-		NOTE: This method is no longer used.
-	*/ 
-
-	height = img.height;
-	width = img.width;
-	mapPopup = document.getElementById('inline_content').style;
-	alert(mapPopup.cssText);
-	popupHeight = mapPopup.style.height;
-	
-	alert("height: " + height + ", width: " + width + ", popup_height: " + popupHeight);
+function resizePopup(mapPopup) {
+	if ($(window).width() > 768) {
+		mapPopup.style.width = "600px";
+	} else {
+		mapPopup.style.width = "100% !important";
+	}
 }
 
 function getPopupContent() {
@@ -400,7 +394,7 @@ function getPopupContent() {
 	};
 	
 	// Open the popup_html.txt file
-	xhttp.open("GET", "../files/popup_html.txt", false);
+	xhttp.open("GET", "../../files/building_popup_html.txt", false);
 	xhttp.send();
 	
 	// Get the contents of the file
@@ -667,7 +661,7 @@ lyrList = addBaseLayers()
 var roadOpts = {};
 roadOpts['Name'] = 'roads'
 roadOpts['Title'] = '1912 Roads'
-roadOpts['URL'] = '../files/1912_Roads.geojson', 
+roadOpts['URL'] = '../../files/1912_Roads.geojson', 
 roadOpts['dataProj'] = 'EPSG:4269'
 roadOpts['featProj'] = 'EPSG:3857'
 
@@ -705,7 +699,7 @@ lyrList = addLayer(roadOpts, lyrList, roadStyleFunc);
 var buildOpts = {};
 buildOpts['Name'] = 'buildings'
 buildOpts['Title'] = 'Bygone Buildings of Ottawa'
-buildOpts['URL'] = '../files/Ottawa_Bygone_Buildings.geojson', 
+buildOpts['URL'] = '../../files/Ottawa_Bygone_Buildings.geojson', 
 buildOpts['dataProj'] = 'EPSG:3857'
 buildOpts['featProj'] = 'EPSG:3857'
 
