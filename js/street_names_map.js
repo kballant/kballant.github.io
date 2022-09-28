@@ -7,7 +7,7 @@
 
 // Page Methods
 
-var geojson_fn = 'Ottawa_Street_Name_Origins_dev.geojson';
+var geojson_fn = 'Ottawa_Street_Name_Origins.geojson';
 
 function addFeatIds(lyrList) {
 	
