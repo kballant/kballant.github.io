@@ -424,8 +424,8 @@ var lyrDict = {'streets': streetLayer}
 
 // Set the zoom, centre and rotation of the map
 var viewInfo = {};
-viewInfo['zoom'] = 13;
-viewInfo['centre'] = ol.proj.transform([-75.67824, 45.41501], "EPSG:4326", "EPSG:3857");
+viewInfo['zoom'] = 11;
+viewInfo['centre'] = ol.proj.transform([-75.71480, 45.32943], "EPSG:4326", "EPSG:3857");
 viewInfo['rotation'] = 0;
 
 // Reset the centre variable based on the URL

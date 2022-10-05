@@ -8,6 +8,14 @@ function imgClick() {
 	$("#cf2 img.top").toggleClass("transparent");
 }
 
+function parseOrigin(origin) {
+	origin = checkInput(origin)
+	var out_origin = '<p class="street-p">' 
+					+ origin.replaceAll('<br>', '</p><p class="street-p">') 
+					+ "</p>";
+	return out_origin;
+}
+
 function createPhotoHtml(photos) {
 	
 	var photo_html = '';
@@ -59,7 +67,9 @@ function showPopup(props, featId) {
 	
 	popup_html = getPopupContent(template_fn);
 	popup_html = popup_html.replace('${id}', checkInput(props['id']));
-	popup_html = popup_html.replace('${origin}', checkInput(props['origin']));
+	
+	origin_html = parseOrigin(origin);
+	popup_html = popup_html.replace('${origin}', origin_html);
 	// popup_html = popup_html.replace('${photo}', checkInput(props['photo']));
 	// popup_html = popup_html.replace('${source}', checkInput(props['source']));
 	
@@ -72,12 +82,52 @@ function showPopup(props, featId) {
 		//sources = sources.replace(/<a/g, '<a target="_blank" class="popup-a"');
 		source_html = '';
 		for (var i = 0; i < sources.length; i++) {
-			src_name = (i + 1) + ". " + sources[i]['name'];
-			src_url = sources[i]['url'];
-			source_html += [src_name + ':',
-							'<a class="on-white" href="' + src_url + '" target="_blank">', 
-								src_url, 
-							'</a>', 
+			var src_type = sources[i]['type'];
+			var accessed = new Date(sources[i]['accessed']);
+			var author = sources[i]['author'];
+			var title = sources[i]['title'];
+			var city = sources[i]['city'];
+			var print_date = new Date(sources[i]['date']);
+			var publisher = sources[i]['publisher'];
+			var title = sources[i]['title'];
+			var url = sources[i]['url'];
+			if (src_type == 'newspaper') {
+				if (author != null && author != 'null') {
+					author = author + ". ";
+				} else {
+					author = '';
+				}
+				citation = (i + 1) + '. ' 
+							+ author + '"' 
+							+ title + '". ' 
+							+ publisher + '. ' 
+							+ formatDate(print_date) + '. ' 
+							+ '<a class="on-white" href="' + url + '" target="_blank">' 
+							+ url + '</a>. (accessed ' 
+							+ formatDate(accessed) + ").";
+			} else if (src_type == 'webpage') {
+				if (author != null && author != 'null') {
+					author = author + ". ";
+				} else {
+					author = '';
+				}
+				citation = (i + 1) + '. ' 
+							+ author + '"' 
+							+ title + '". ' 
+							+ '<a class="on-white" href="' 
+							+ url + '" target="_blank">' 
+							+ url + '</a>. ( accessed - ' 
+							+ formatDate(accessed) + ").";
+			} else if (src_type == 'book') {
+				citation = (i + 1) + '. ' 
+							+ author + '"' 
+							+ title + '". ' 
+							+ city + ': ' + publisher + '. ' 
+							+ formatDate(print_date) + '.';
+			}
+			// src_name = (i + 1) + ". " + sources[i]['name'];
+			// src_url = sources[i]['url'];
+			source_html += [citation, 
 							'<br>'
 						  ].join('\n');
 		}

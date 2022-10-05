@@ -24,7 +24,13 @@
                 ],
                 "sources": [
                     {
-                        "name": "Erskine Henry Bronson | The Canadian Encyclopedia",
+                        "type": "webpage",
+                        "author": null,
+                        "title": "Erskine Henry Bronson | The Canadian Encyclopedia",
+                        "date": null,
+                        "publisher": null,
+                        "city": null,
+                        "accessed": "2022-10-02",
                         "url": "https://www.thecanadianencyclopedia.ca/en/article/erskine-henry-bronson"
                     }
                 ]
@@ -558,7 +564,13 @@
                 "photos": [],
                 "sources": [
                     {
-                        "name": "Mullington, Dave. Chain of Office: Biographical Sketches of the Early Mayors of Ottawa. Renfrew, Ontario: General Store Publishing House. 2005",
+                        "type": "book",
+                        "author": "Mullinton, Dave",
+                        "title": "Chain of Office: Biographical Sketches of the Early Mayors of Ottawa",
+                        "date": "2005",
+                        "publisher": "General Store Publishing House",
+                        "city": "Renfrew, Ontario",
+                        "accessed": null,
                         "url": null
                     }
                 ]
@@ -732,7 +744,7 @@
             "properties": {
                 "id": 3,
                 "street_name": "Sparks Street",
-                "origin": "The street is named after <b>Nicolas Sparks</b> (1794 - 27 February 1862), one of the first settlers in the area that is now downtown Ottawa. He came to Lower Canada in 1816 and joined the services of Philemon Wright, the founder of Hull. When he earned enough capital, he went out on his own and purchased a 200 acre lot on the south side of the Ottawa River (lot C, concession C in Nepean Township) for \u00a395 in 1821. However, due to legal technicalities, the property was not fully his until 1830.<br>Although successful in the timber trade, Sparks true success was in land purchases. With the building of the Rideau Canal in 1826, Sparks sold the west part of his property for \u00a3200 per acre. He also divided up his property over time for the new community of Bytown. Today, Sparks Street sits on the lot that Nicholas Sparks once owned.",
+                "origin": "The street was named after <b>Nicolas Sparks</b> (1794 - 27 February 1862), one of the first settlers in the area that is now downtown Ottawa. He came to Lower Canada in 1816 and joined the services of Philemon Wright, the founder of Hull. When he earned enough capital, he went out on his own and purchased a 200 acre lot on the south side of the Ottawa River (lot C, concession C in Nepean Township) for \u00a395 in 1821. However, due to legal technicalities, the property was not fully his until 1830.<br>Although successful in the timber trade, Sparks true success was in land purchases. With the building of the Rideau Canal in 1826, Sparks sold the west part of his property for \u00a3200 per acre. He also divided up his property over time for the new community of Bytown. Today, Sparks Street sits on the lot that Nicholas Sparks once owned.",
                 "photos": [
                     {
                         "caption": "Nicholas Sparks' house, demolished in the 1950s. This was the original front of the house which faced the Ottawa River.",
@@ -743,7 +755,13 @@
                 ],
                 "sources": [
                     {
-                        "name": "Biography - SPARKS, NICHOLAS - Volume IX (1861-1870) - Dictionary of Canadian Biography",
+                        "type": "webpage",
+                        "author": null,
+                        "title": "Biography - SPARKS, NICHOLAS - Volume IX (1861-1870) - Dictionary of Canadian Biography",
+                        "date": null,
+                        "publisher": null,
+                        "city": null,
+                        "accessed": "2022-10-02",
                         "url": "http://www.biographi.ca/en/bio/sparks_nicholas_9E.html"
                     }
                 ]
@@ -822,7 +840,13 @@
                 ],
                 "sources": [
                     {
-                        "name": "Glebe History  |  Glebe Report",
+                        "type": "webpage",
+                        "author": null,
+                        "title": "Glebe History  |  Glebe Report",
+                        "date": null,
+                        "publisher": null,
+                        "city": null,
+                        "accessed": "2022-10-02",
                         "url": "https://www.glebereport.ca/5162/"
                     }
                 ]
@@ -1018,7 +1042,7 @@
             "properties": {
                 "id": 5,
                 "street_name": "Wellington Street",
-                "origin": "Wellington Street is named after <b>Arthur Wellesley, the 1st Duke of Wellington</b> (1 May 1769 \u2013 14 September 1852). He was a politician and soldier who rose to field marshal during the Napoleonic Wars and defeated Napolean at Waterloo in 1815. During his military career, he participated in around 60 battles. After his military career, he became prime minister of Britain from 1828 to 1830 and for a short time in 1834. While as Master-General of Ordnance (the part of the government in charge of fortifications and canals), he was a great advocate for the construction of the Rideau Canal.",
+                "origin": "Wellington Street was named after <b>Arthur Wellesley, the 1st Duke of Wellington</b> (1 May 1769 \u2013 14 September 1852). He was a politician and soldier who rose to field marshal during the Napoleonic Wars and defeated Napolean at Waterloo in 1815. During his military career, he participated in around 60 battles. After his military career, he became prime minister of Britain from 1828 to 1830 and for a short time in 1834.<br>While as Master-General of Ordnance (the part of the government in charge of fortifications and canals), he was a great advocate for the construction of the Rideau Canal.",
                 "photos": [
                     {
                         "caption": "Arthur Wellesley, 1st Duke of Wellington",
@@ -1029,11 +1053,23 @@
                 ],
                 "sources": [
                     {
-                        "name": "Arthur Wellesley, 1st Duke of Wellington - Wikipedia",
+                        "type": "webpage",
+                        "author": null,
+                        "title": "Arthur Wellesley, 1st Duke of Wellington - Wikipedia",
+                        "date": null,
+                        "publisher": null,
+                        "city": null,
+                        "accessed": "2022-10-02",
                         "url": "https://en.wikipedia.org/wiki/Arthur_Wellesley,_1st_Duke_of_Wellington"
                     },
                     {
-                        "name": "Rideau Canal - History of the Rideau Canal",
+                        "type": "webpage",
+                        "author": null,
+                        "title": "Rideau Canal - History of the Rideau Canal",
+                        "date": null,
+                        "publisher": null,
+                        "city": null,
+                        "accessed": "2022-10-02",
                         "url": "http://www.rideau-info.com/canal/history/hist-canal.html"
                     }
                 ]
@@ -1527,11 +1563,17 @@
             "properties": {
                 "id": 6,
                 "street_name": "Slater Street",
-                "origin": "Slater Street is named after <b>James Dyson Slater</b> (10 September 1813 - 24 October 1876), Superintendent of the Rideau Canal. Born in Manchester, England, he came to Canada with his parents in 1830 or 1831 and settled a few miles from Niagara Falls. He became the assistant engineer in charge of the location and construction of the Welland Canal from Port Dalhousie to Thorold and remained in this position from 1841 to 1845. He moved to Bytown in 1845 to become assistant engineer on the improvement works of the Ottawa River. In 1847, he married Esther Sparks, the youngest daughter of Nicholas and Sarah Sparks. For his son-in-law, Nicholas renamed Waugh Street to Slater Street. In 1849, he was appointed a provincial land surveyor and later became the superintendent of the Rideau Canal from 1858 to 1872. While in Ottawa, he served as chairman of the public school board from 1863 to 1870.",
+                "origin": "Slater Street was named after <b>James Dyson Slater</b> (10 September 1813 - 24 October 1876), Superintendent of the Rideau Canal. Born in Manchester, England, he came to Canada with his parents in 1830 or 1831 and settled a few miles from Niagara Falls. He became the assistant engineer in charge of the location and construction of the Welland Canal from Port Dalhousie to Thorold and remained in this position from 1841 to 1845. He moved to Bytown in 1845 to become assistant engineer on the improvement works of the Ottawa River. In 1847, he married Esther Sparks, the youngest daughter of Nicholas and Sarah Sparks. For his son-in-law, Nicholas renamed Waugh Street to Slater Street. In 1849, he was appointed a provincial land surveyor and later became the superintendent of the Rideau Canal from 1858 to 1872. While in Ottawa, he served as chairman of the public school board from 1863 to 1870.",
                 "photos": [],
                 "sources": [
                     {
-                        "name": "James Dyson Slater - Ottawa, Ontario - UK Historical Markers on Waymarking.com",
+                        "type": "webpage",
+                        "author": null,
+                        "title": "James Dyson Slater - Ottawa, Ontario - UK Historical Markers on Waymarking.com",
+                        "date": null,
+                        "publisher": null,
+                        "city": null,
+                        "accessed": "2022-10-02",
                         "url": "https://www.waymarking.com/waymarks/wm15CGX_James_Dyson_Slater_Ottawa_Ontario"
                     }
                 ]
@@ -1639,7 +1681,7 @@
             "properties": {
                 "id": 7,
                 "street_name": "Lisgar Street",
-                "origin": "Lisgar Street is named after <b>Sir John Young</b> (31 August 1807 - 6 October 1876), 1st Baron Lisgar and Governor-General of Canada from 1869 to 1872. Born in Bombay, India, he served as a Conservative Member of Parliament (British) from 1831 to 1855. In 1855, he became lord high commissioner of the Ionian Islands and later governor general of New South Wales. He became the governor general of Canada on 2 February 1869. During his time as governor general, he saw the disturbance led by Louis Riel break out, the transfer or Rupert's Land from the Hudson's Bay Company to Canada and Manitoba joining the confederation. Due to poor health, Lisgar resigned prematurely in June 1872. He died at his family home in Ireland.",
+                "origin": "Lisgar Street (as well as Lisgar Collegiate) was named after <b>Sir John Young</b> (31 August 1807 - 6 October 1876), 1st Baron <b>Lisgar</b> and Governor-General of Canada from 1869 to 1872. Born in Bombay, India, he served as a Conservative Member of Parliament (British) from 1831 to 1855. In 1855, he became lord high commissioner of the Ionian Islands and later governor general of New South Wales. He became the governor general of Canada on 2 February 1869. During his time as governor general, he saw the disturbance led by Louis Riel break out, the transfer or Rupert's Land from the Hudson's Bay Company to Canada and Manitoba joining the confederation. Due to poor health, Lisgar resigned prematurely in June 1872. He died at his family home in Ireland.",
                 "photos": [
                     {
                         "caption": "Sir John Young, 1st Baron Lisgar",
@@ -1650,7 +1692,13 @@
                 ],
                 "sources": [
                     {
-                        "name": "Biography - YOUNG, Sir JOHN, Baron LISGAR - Volume X (1871-1880) - Dictionary of Canadian Biography",
+                        "type": "webpage",
+                        "author": null,
+                        "title": "Biography - YOUNG, Sir JOHN, Baron LISGAR - Volume X (1871-1880) - Dictionary of Canadian Biography",
+                        "date": null,
+                        "publisher": null,
+                        "city": null,
+                        "accessed": "2022-10-02",
                         "url": "http://www.biographi.ca/en/bio/young_john_1807_76_10E.html"
                     }
                 ]
@@ -1734,7 +1782,7 @@
             "properties": {
                 "id": 8,
                 "street_name": "MacLaren Street",
-                "origin": "MacLaren Street is named after lumber merchant <b>James MacLaren</b> (19 March 1818 - 10 February 1892). MacLaren came to Upper Canada from Scotland in 1822 with his family. After the family moved to Wakefield, Lower Canada in th 1840s, he formed James MacLaren and Company with his brother. He established a general store, gristmill, woollen mill and brick-making plant. He also was involved with the timber trade along the Gatineau River. All his ventures proved successful and in 1866, MacLaren purchased the New Edinburgh Mills from Thomas McKay's estate for $82,000. By 1871, the sawmill was producing lumber valued at $150,000 a year. He expanded further in Buckingham where he eventually centred his operations. He co-founded and was president of the Bank of Ottawa, he was the founding directory of Hull Iron Company Limited, he was directory of the Ontario Central Railway and continued to expand his lumber investments in other parts of Ontario and the United States. At the time of his death, his obituary reported his estimated wealth at 5 million dollars.",
+                "origin": "MacLaren Street was named after lumber merchant <b>James MacLaren</b> (19 March 1818 - 10 February 1892). MacLaren came to Upper Canada from Scotland in 1822 with his family. After the family moved to Wakefield, Lower Canada in th 1840s, he formed James MacLaren and Company with his brother. He established a general store, gristmill, woollen mill and brick-making plant. He also was involved with the timber trade along the Gatineau River. All his ventures proved successful and in 1866, MacLaren purchased the New Edinburgh Mills from Thomas McKay's estate for $82,000. By 1871, the sawmill was producing lumber valued at $150,000 a year. He expanded further in Buckingham where he eventually centred his operations. He co-founded and was president of the Bank of Ottawa, he was the founding directory of Hull Iron Company Limited, he was directory of the Ontario Central Railway and continued to expand his lumber investments in other parts of Ontario and the United States. At the time of his death, his obituary reported his estimated wealth at 5 million dollars.",
                 "photos": [
                     {
                         "caption": "James MacLaren",
@@ -1745,7 +1793,13 @@
                 ],
                 "sources": [
                     {
-                        "name": "Biography - MACLAREN, JAMES - Volume XII (1891-1900) - Dictionary of Canadian Biography",
+                        "type": "webpage",
+                        "author": null,
+                        "title": "Biography - MACLAREN, JAMES - Volume XII (1891-1900) - Dictionary of Canadian Biography",
+                        "date": null,
+                        "publisher": null,
+                        "city": null,
+                        "accessed": "2022-10-02",
                         "url": "http://www.biographi.ca/en/bio/maclaren_james_12E.html"
                     }
                 ]
@@ -1844,6 +1898,872 @@
                             -8425192.7926,
                             5687876.0397
                         ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 14,
+                "street_name": "Hazeldean Road",
+                "origin": "Hazeldean Road was named after the small community of Hazeldean at the corners of Hazeldean and Young Roads. The community got its name after the Ontario registry office rejected the community's wish to be called Orange Hill, as there was an Orangeville in Ontario. As a new name was needed when John Young became the first postmaster in 1859, the community chose Hazeldean after a place in Scotland (it's also been suggested that the name was chosen after a place in Ireland).",
+                "photos": [
+                    {
+                        "caption": "Hazeldean village from the \"Illustrated historical atlas of the county of Carleton\" in 1879",
+                        "dateTaken": "1879",
+                        "url": "http://www.kballantyne.ca/geomatics/maps/ottawa-street-names/photos/hazeldean.jpg",
+                        "sourceUrl": "https://digital.library.mcgill.ca/countyatlas/Images/Maps/TownshipMaps/car-m-goulbourn.jpg"
+                    }
+                ],
+                "sources": [
+                    {
+                        "type": "newspaper",
+                        "author": null,
+                        "title": "Origin of Place Names in District: Hazeldean",
+                        "date": "1937-09-04",
+                        "publisher": "The Ottawa Citizen",
+                        "city": "Ottawa, Ontario",
+                        "accessed": "2022-10-03",
+                        "url": "https://www.newspapers.com/image/456482434"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8458609.1795,
+                        5660585.0771
+                    ],
+                    [
+                        -8458312.4067,
+                        5660864.2059
+                    ],
+                    [
+                        -8458274.996,
+                        5660893.6878
+                    ],
+                    [
+                        -8458244.4025,
+                        5660915.5711
+                    ],
+                    [
+                        -8458215.5276,
+                        5660933.218
+                    ],
+                    [
+                        -8458170.5471,
+                        5660955.8564
+                    ],
+                    [
+                        -8458106.0831,
+                        5660982.6161
+                    ],
+                    [
+                        -8458059.4756,
+                        5660995.0527
+                    ],
+                    [
+                        -8458017.1192,
+                        5661004.1201
+                    ],
+                    [
+                        -8457977.3226,
+                        5661009.8075
+                    ],
+                    [
+                        -8457926.5575,
+                        5661011.1763
+                    ],
+                    [
+                        -8457874.9564,
+                        5661010.8417
+                    ],
+                    [
+                        -8457835.2311,
+                        5661005.4883
+                    ],
+                    [
+                        -8457731.9756,
+                        5660992.2803
+                    ],
+                    [
+                        -8457275.8154,
+                        5660925.57
+                    ],
+                    [
+                        -8457024.4786,
+                        5660889.8325
+                    ],
+                    [
+                        -8456929.3,
+                        5660874.0858
+                    ],
+                    [
+                        -8456849.036,
+                        5660862.765
+                    ],
+                    [
+                        -8456789.8534,
+                        5660854.1728
+                    ],
+                    [
+                        -8456732.6942,
+                        5660848.6681
+                    ],
+                    [
+                        -8456694.6593,
+                        5660848.2785
+                    ],
+                    [
+                        -8456636.6845,
+                        5660849.057
+                    ],
+                    [
+                        -8456580.4651,
+                        5660855.8612
+                    ],
+                    [
+                        -8456529.3188,
+                        5660867.8257
+                    ],
+                    [
+                        -8456461.764,
+                        5660889.934
+                    ],
+                    [
+                        -8456395.1483,
+                        5660924.352
+                    ],
+                    [
+                        -8456354.1278,
+                        5660949.7115
+                    ],
+                    [
+                        -8456299.7325,
+                        5660989.3355
+                    ],
+                    [
+                        -8456239.8467,
+                        5661042.1247
+                    ],
+                    [
+                        -8455783.4397,
+                        5661447.3857
+                    ],
+                    [
+                        -8454969.3536,
+                        5662170.1396
+                    ],
+                    [
+                        -8454204.4607,
+                        5662848.0087
+                    ],
+                    [
+                        -8454084.5321,
+                        5662961.0372
+                    ],
+                    [
+                        -8453987.286,
+                        5663075.6471
+                    ],
+                    [
+                        -8453962.9279,
+                        5663111.0594
+                    ],
+                    [
+                        -8453959.0872,
+                        5663116.282
+                    ],
+                    [
+                        -8453951.4727,
+                        5663126.6357
+                    ],
+                    [
+                        -8453896.9937,
+                        5663210.2299
+                    ],
+                    [
+                        -8453640.36,
+                        5663602.7006
+                    ],
+                    [
+                        -8453515.6852,
+                        5663784.0193
+                    ],
+                    [
+                        -8453477.049,
+                        5663832.1436
+                    ],
+                    [
+                        -8453457.0511,
+                        5663851.931
+                    ],
+                    [
+                        -8453454.1843,
+                        5663856.181
+                    ],
+                    [
+                        -8453451.3275,
+                        5663859.0078
+                    ],
+                    [
+                        -8453414.1882,
+                        5663895.7558
+                    ],
+                    [
+                        -8453328.5388,
+                        5663972.0204
+                    ],
+                    [
+                        -8453257.2327,
+                        5664025.6096
+                    ],
+                    [
+                        -8453054.8986,
+                        5664152.2954
+                    ],
+                    [
+                        -8452683.0607,
+                        5664374.5765
+                    ],
+                    [
+                        -8452513.1869,
+                        5664473.049
+                    ],
+                    [
+                        -8452458.279,
+                        5664509.6577
+                    ],
+                    [
+                        -8452369.6527,
+                        5664557.4042
+                    ],
+                    [
+                        -8452254.2364,
+                        5664627.757
+                    ],
+                    [
+                        -8452222.8586,
+                        5664649.3098
+                    ],
+                    [
+                        -8452181.5112,
+                        5664679.9091
+                    ],
+                    [
+                        -8452087.2915,
+                        5664761.7998
+                    ],
+                    [
+                        -8452001.6444,
+                        5664835.2104
+                    ],
+                    [
+                        -8451995.9292,
+                        5664840.8636
+                    ],
+                    [
+                        -8451978.7823,
+                        5664857.8232
+                    ],
+                    [
+                        -8451977.3535,
+                        5664859.2365
+                    ],
+                    [
+                        -8451897.3896,
+                        5664931.2657
+                    ],
+                    [
+                        -8451887.3978,
+                        5664939.7353
+                    ],
+                    [
+                        -8451781.7316,
+                        5665034.355
+                    ],
+                    [
+                        -8451777.4551,
+                        5665037.1715
+                    ],
+                    [
+                        -8451774.5973,
+                        5665039.9981
+                    ],
+                    [
+                        -8451660.3857,
+                        5665138.8284
+                    ],
+                    [
+                        -8451544.7022,
+                        5665244.764
+                    ],
+                    [
+                        -8451397.629,
+                        5665374.6753
+                    ],
+                    [
+                        -8451296.2298,
+                        5665466.4774
+                    ],
+                    [
+                        -8451264.8014,
+                        5665496.1461
+                    ],
+                    [
+                        -8451243.3966,
+                        5665513.0747
+                    ],
+                    [
+                        -8451132.0108,
+                        5665611.9239
+                    ],
+                    [
+                        -8450963.489,
+                        5665763.0316
+                    ],
+                    [
+                        -8450897.7901,
+                        5665822.3495
+                    ],
+                    [
+                        -8450736.5559,
+                        5665966.6574
+                    ],
+                    [
+                        -8450465.0362,
+                        5666209.2867
+                    ],
+                    [
+                        -8449796.9111,
+                        5666812.5511
+                    ],
+                    [
+                        -8449604.634,
+                        5666987.0276
+                    ],
+                    [
+                        -8449496.3878,
+                        5667085.2492
+                    ],
+                    [
+                        -8449362.0528,
+                        5667220.6272
+                    ],
+                    [
+                        -8449154.1447,
+                        5667413.0828
+                    ],
+                    [
+                        -8448883.148,
+                        5667656.7367
+                    ],
+                    [
+                        -8448848.8108,
+                        5667688.438
+                    ],
+                    [
+                        -8448700.56,
+                        5667826.1172
+                    ],
+                    [
+                        -8448668.5273,
+                        5667851.8379
+                    ],
+                    [
+                        -8448647.7588,
+                        5667861.0834
+                    ],
+                    [
+                        -8448491.9312,
+                        5668005.8013
+                    ],
+                    [
+                        -8448354.7574,
+                        5668128.6554
+                    ],
+                    [
+                        -8448299.0213,
+                        5668179.4992
+                    ],
+                    [
+                        -8448290.4417,
+                        5668187.9797
+                    ],
+                    [
+                        -8447985.6623,
+                        5668465.2351
+                    ],
+                    [
+                        -8447933.1484,
+                        5668514.2303
+                    ],
+                    [
+                        -8447494.4498,
+                        5668902.5192
+                    ],
+                    [
+                        -8447461.5884,
+                        5668930.7523
+                    ],
+                    [
+                        -8447418.714,
+                        5668968.8761
+                    ],
+                    [
+                        -8447374.4106,
+                        5669008.4132
+                    ],
+                    [
+                        -8447303.0305,
+                        5669061.9841
+                    ],
+                    [
+                        -8446929.3419,
+                        5669295.5271
+                    ],
+                    [
+                        -8446564.229,
+                        5669519.1561
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 15,
+                "street_name": "Eagleson Road",
+                "origin": "Eagleson Road was named after <b>William Eagleson</b> (24 October 1826 - 26 November 1905), a local pioneer and farmer in Goulbourn Township. He came to Canada from Ballymena, Ireland in 1852 and settled the next year on the west half of Lot 32 Concession 11 in Goulbourn, today mostly occupied by the Hazeldean Mall. William's 7th son, Albert, later took over the family farm.<br>The junction of Hazeldean and Eagleson Roads became known as Eaglesons Corners and is still shown on maps today as such. At Eaglesons Corners, William owned a hotel and general store and was postmaster.<br>In 1998, descendents of William defended the Eagleson name when someone suggested they rename Eagleson Road after they mistook the disgraced hockey executive Alan Eagleson to be a descendent of William Eagleson.",
+                "photos": [
+                    {
+                        "caption": "The property of William Eagleson (misspelled as Egleston) from the \"Illustrated historical atlas of the county of Carleton\" in 1879",
+                        "dateTaken": "1879",
+                        "url": "http://www.kballantyne.ca/geomatics/maps/ottawa-street-names/photos/eagleson-property.jpg",
+                        "sourceUrl": "https://digital.library.mcgill.ca/countyatlas/Images/Maps/TownshipMaps/car-m-goulbourn.jpg"
+                    }
+                ],
+                "sources": [
+                    {
+                        "type": "newspaper",
+                        "author": "Eagleson, Bob & Karen",
+                        "title": "Eagleson Road has no link with jailbird Alan",
+                        "date": "1998-01-15",
+                        "publisher": "The Ottawa Citizen",
+                        "city": "Ottawa, Ontario",
+                        "accessed": "2022-10-02",
+                        "url": "https://www.newspapers.com/image/465742942/?terms=William%20Eagleson&match=1"
+                    },
+                    {
+                        "type": "newspaper",
+                        "author": "Megrath, Vickie",
+                        "title": "Eagleson honored",
+                        "date": "1981-03-11",
+                        "publisher": "The Ottawa Citizen",
+                        "city": "Ottawa, Ontario",
+                        "accessed": "2022-10-02",
+                        "url": "https://www.newspapers.com/image/462892126"
+                    },
+                    {
+                        "type": "newspaper",
+                        "author": null,
+                        "title": "William Eagleson Obituary",
+                        "date": "1905-11-27",
+                        "publisher": "The Ottawa Citizen",
+                        "city": "Ottawa, Ontario",
+                        "accessed": "2022-10-02",
+                        "url": "https://www.newspapers.com/image/456089281/?terms=William%20Eagleson"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8447582.4112,
+                        5672100.5601
+                    ],
+                    [
+                        -8447569.7387,
+                        5672070.9886
+                    ],
+                    [
+                        -8447553.5065,
+                        5672034.1799
+                    ],
+                    [
+                        -8447550.1966,
+                        5672026.6751
+                    ],
+                    [
+                        -8447548.8093,
+                        5672022.3906
+                    ],
+                    [
+                        -8447547.4111,
+                        5672019.5306
+                    ],
+                    [
+                        -8447539.0004,
+                        5671999.6341
+                    ],
+                    [
+                        -8447466.5136,
+                        5671828.0088
+                    ],
+                    [
+                        -8447454.2091,
+                        5671798.8923
+                    ],
+                    [
+                        -8447450.3943,
+                        5671789.8681
+                    ],
+                    [
+                        -8447389.8028,
+                        5671646.4956
+                    ],
+                    [
+                        -8447289.6766,
+                        5671370.7861
+                    ],
+                    [
+                        -8447287.7132,
+                        5671365.7566
+                    ],
+                    [
+                        -8447203.34,
+                        5671149.3188
+                    ],
+                    [
+                        -8447151.441,
+                        5671021.9675
+                    ],
+                    [
+                        -8447125.2968,
+                        5670957.8357
+                    ],
+                    [
+                        -8447123.9207,
+                        5670952.1272
+                    ],
+                    [
+                        -8446970.7709,
+                        5670557.7969
+                    ],
+                    [
+                        -8446913.7144,
+                        5670407.7947
+                    ],
+                    [
+                        -8446766.0518,
+                        5670040.5892
+                    ],
+                    [
+                        -8446706.2506,
+                        5669879.177
+                    ],
+                    [
+                        -8446564.229,
+                        5669519.1561
+                    ],
+                    [
+                        -8446349.9304,
+                        5668962.0456
+                    ],
+                    [
+                        -8446096.6592,
+                        5668309.2481
+                    ],
+                    [
+                        -8445934.4745,
+                        5667888.3045
+                    ],
+                    [
+                        -8445829.6212,
+                        5667606.5437
+                    ],
+                    [
+                        -8445826.8384,
+                        5667599.4022
+                    ],
+                    [
+                        -8445764.2413,
+                        5667436.5817
+                    ],
+                    [
+                        -8445577.8983,
+                        5666946.722
+                    ],
+                    [
+                        -8445538.9226,
+                        5666849.593
+                    ],
+                    [
+                        -8445402.637,
+                        5666493.9903
+                    ],
+                    [
+                        -8445246.8328,
+                        5666095.5324
+                    ],
+                    [
+                        -8444994.4747,
+                        5665455.1296
+                    ],
+                    [
+                        -8444988.6614,
+                        5665440.3511
+                    ],
+                    [
+                        -8444903.229,
+                        5665222.9584
+                    ],
+                    [
+                        -8444896.1891,
+                        5665205.0836
+                    ],
+                    [
+                        -8444721.0184,
+                        5664760.2797
+                    ],
+                    [
+                        -8444580.4286,
+                        5664397.3231
+                    ],
+                    [
+                        -8444510.3602,
+                        5664216.4234
+                    ],
+                    [
+                        -8444464.0312,
+                        5664096.8109
+                    ],
+                    [
+                        -8444392.9161,
+                        5663913.5577
+                    ],
+                    [
+                        -8444255.3349,
+                        5663553.772
+                    ],
+                    [
+                        -8444162.3037,
+                        5663301.101
+                    ],
+                    [
+                        -8444160.9193,
+                        5663296.8201
+                    ],
+                    [
+                        -8444159.5235,
+                        5663293.9624
+                    ],
+                    [
+                        -8443963.5475,
+                        5662753.18
+                    ],
+                    [
+                        -8443962.4371,
+                        5662750.1254
+                    ],
+                    [
+                        -8443908.2819,
+                        5662604.5244
+                    ],
+                    [
+                        -8443865.2471,
+                        5662487.4783
+                    ],
+                    [
+                        -8443863.8629,
+                        5662483.1977
+                    ],
+                    [
+                        -8443862.4674,
+                        5662480.3402
+                    ],
+                    [
+                        -8443675.1728,
+                        5661957.9705
+                    ],
+                    [
+                        -8443673.7888,
+                        5661953.6901
+                    ],
+                    [
+                        -8443672.3934,
+                        5661950.8327
+                    ],
+                    [
+                        -8443593.2225,
+                        5661742.426
+                    ],
+                    [
+                        -8443441.8564,
+                        5661341.3364
+                    ],
+                    [
+                        -8443383.475,
+                        5661194.2981
+                    ],
+                    [
+                        -8443325.0725,
+                        5661050.1071
+                    ],
+                    [
+                        -8443240.3359,
+                        5660830.2899
+                    ],
+                    [
+                        -8443090.3955,
+                        5660432.0919
+                    ],
+                    [
+                        -8443089.4927,
+                        5660429.7227
+                    ],
+                    [
+                        -8442904.3401,
+                        5659942.5571
+                    ],
+                    [
+                        -8442859.4176,
+                        5659807.8972
+                    ],
+                    [
+                        -8442843.4291,
+                        5659759.9478
+                    ],
+                    [
+                        -8442733.9703,
+                        5659444.636
+                    ],
+                    [
+                        -8442395.6703,
+                        5658504.3663
+                    ],
+                    [
+                        -8442298.3489,
+                        5658268.8522
+                    ],
+                    [
+                        -8441985.8438,
+                        5657478.2474
+                    ],
+                    [
+                        -8441794.2045,
+                        5656993.0696
+                    ],
+                    [
+                        -8441792.8221,
+                        5656988.7913
+                    ],
+                    [
+                        -8441791.4281,
+                        5656985.9352
+                    ],
+                    [
+                        -8441613.6772,
+                        5656537.8722
+                    ],
+                    [
+                        -8441280.5152,
+                        5655688.9183
+                    ],
+                    [
+                        -8440532.3932,
+                        5653797.1546
+                    ],
+                    [
+                        -8440499.0051,
+                        5653722.9396
+                    ],
+                    [
+                        -8440351.9568,
+                        5653346.358
+                    ],
+                    [
+                        -8440350.5637,
+                        5653343.5028
+                    ],
+                    [
+                        -8440349.1826,
+                        5653339.226
+                    ],
+                    [
+                        -8440324.1677,
+                        5653280.7234
+                    ],
+                    [
+                        -8440322.7747,
+                        5653277.8683
+                    ],
+                    [
+                        -8440321.3936,
+                        5653273.5915
+                    ],
+                    [
+                        -8440310.2495,
+                        5653250.7503
+                    ],
+                    [
+                        -8440085.4798,
+                        5652683.027
+                    ],
+                    [
+                        -8440082.7061,
+                        5652675.8954
+                    ],
+                    [
+                        -8439993.9845,
+                        5652443.4238
+                    ],
+                    [
+                        -8439992.6036,
+                        5652439.1474
+                    ],
+                    [
+                        -8439991.2109,
+                        5652436.2924
+                    ],
+                    [
+                        -8439876.1283,
+                        5652138.2106
+                    ],
+                    [
+                        -8439773.5148,
+                        5651874.3581
+                    ],
+                    [
+                        -8439772.1342,
+                        5651870.0819
+                    ],
+                    [
+                        -8439770.7416,
+                        5651867.2271
+                    ],
+                    [
+                        -8439769.3609,
+                        5651862.9509
+                    ],
+                    [
+                        -8439572.5554,
+                        5651346.7109
+                    ],
+                    [
+                        -8439348.0839,
+                        5650754.9289
+                    ],
+                    [
+                        -8439216.4939,
+                        5650404.1647
+                    ],
+                    [
+                        -8439048.8521,
+                        5649963.568
                     ]
                 ]
             }

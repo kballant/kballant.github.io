@@ -43,6 +43,8 @@ function dragElement(elmnt) {
 	}
 } */
 
+const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+
 function getPopupContent(template) {
 	var xhttp = new XMLHttpRequest();
 	xhttp.onreadystatechange = function() {
@@ -81,6 +83,15 @@ function checkInput(in_text) {
 	} else {
 		return "n/a";
 	}
+}
+
+function formatDate(in_date, format='historic') {
+	var out_date = '';
+	if (format == 'historic') {
+		out_date = in_date.getDate() + ' ' + months[in_date.getMonth()] + ' ' + in_date.getFullYear();
+	}
+	
+	return out_date;
 }
 
 var real_width = 0;
