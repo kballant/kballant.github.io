@@ -13,7 +13,7 @@
             "properties": {
                 "id": 1,
                 "street_name": "Bronson Avenue",
-                "origin": "Bronson Avenue was named after the businessman and politician <b>Erskine Henry Bronson</b> (September 12, 1844 \u2013 October 19, 1920). Bronson\u2019s first business was as a partner in the Bronsons and Weston Lumber Company in 1867. As a politician, he first served on Ottawa City Council from 1872 to 1877 and then as a provincial minister from 1886 to 1898. He later became president of the Ottawa Power Company Ltd as a way to diversify the family business. He retired in 1910 and died at Ottawa on October 19, 1920. ",
+                "origin": "Bronson Avenue was named after the businessman and politician <b>Erskine Henry Bronson</b> (September 12, 1844 \u2013 October 19, 1920).<br>Bronson\u2019s first business was as a partner in the Bronsons and Weston Lumber Company in 1867. As a politician, he first served on Ottawa City Council from 1872 to 1877 and then as a provincial minister from 1886 to 1898. He later became president of the Ottawa Power Company Ltd as a way to diversify the family business. He retired in 1910 and died at Ottawa on October 19, 1920. ",
                 "photos": [
                     {
                         "caption": "Erskine Henry Bronson",
@@ -560,7 +560,7 @@
             "properties": {
                 "id": 2,
                 "street_name": "Lyon Street",
-                "origin": "Lyon Street was named after <b>Robert Lyon</b> (July 6, 1829 - March 25, 1888) and his family. Lyon was mayor of Ottawa in 1867 and served as a Liberal member of the Ontario Legislature from 1867 to 1871. He was a practicing barrister prior to being mayor and was named a judge for Carleton County in 1873. ",
+                "origin": "Lyon Street was named after <b>Robert Lyon</b> (July 6, 1829 - March 25, 1888) and his family.<br>Lyon was mayor of Ottawa in 1867 and served as a Liberal member of the Ontario Legislature from 1867 to 1871. He was a practicing barrister prior to being mayor and was named a judge for Carleton County in 1873. ",
                 "photos": [],
                 "sources": [
                     {
@@ -754,7 +754,7 @@
             "properties": {
                 "id": 3,
                 "street_name": "Sparks Street",
-                "origin": "The street was named after <b>Nicolas Sparks</b> (1794 - 27 February 1862), one of the first settlers in the area that is now downtown Ottawa. He came to Lower Canada in 1816 and joined the services of Philemon Wright, the founder of Hull. When he earned enough capital, he went out on his own and purchased a 200 acre lot on the south side of the Ottawa River (lot C, concession C in Nepean Township) for \u00a395 in 1821. However, due to legal technicalities, the property was not fully his until 1830.<br>Although successful in the timber trade, Sparks true success was in land purchases. With the building of the Rideau Canal in 1826, Sparks sold the west part of his property for \u00a3200 per acre. He also divided up his property over time for the new community of Bytown. Today, Sparks Street sits on the lot that Nicholas Sparks once owned.",
+                "origin": "The street was named after <b>Nicolas Sparks</b> (1794 - 27 February 1862), one of the first settlers in the area that is now downtown Ottawa.<br>He came to Lower Canada in 1816 and joined the services of Philemon Wright, the founder of Hull. When he earned enough capital, he went out on his own and purchased a 200 acre lot on the south side of the Ottawa River (lot C, concession C in Nepean Township) for \u00a395 in 1821. However, due to legal technicalities, the property was not fully his until 1830.<br>Although successful in the timber trade, Sparks true success was in land purchases. With the building of the Rideau Canal in 1826, Sparks sold the west part of his property for \u00a3200 per acre. He also divided up his property over time for the new community of Bytown. Today, Sparks Street sits on the lot that Nicholas Sparks once owned.",
                 "photos": [
                     {
                         "caption": "Nicholas Sparks' house, demolished in the 1950s. This was the original front of the house which faced the Ottawa River.",
@@ -839,7 +839,7 @@
             "properties": {
                 "id": 4,
                 "street_name": "O'Connor Street",
-                "origin": "O'Connor Street was named after <b>Daniel O'Connor</b> (1796 - 1858), a significant early citizen of Bytown. Born in 1796 in Ireland, he travelled to the United States and attempted to establish a business. However, after failing to do so, he returned to Ireland in 1824. He left Ireland again in 1826 to the US to try again, settling in upper New York State. Finding little opportunity, he found out about the construction of the Rideau Canal and travelled to Bytown in 1827. He established a business and later became the first justice of the peace as well as treasurer of Carleton County.",
+                "origin": "O'Connor Street was named after <b>Daniel O'Connor</b> (1796 - 1858), a significant early citizen of Bytown.<br>Born in 1796 in Ireland, he travelled to the United States and attempted to establish a business. However, after failing to do so, he returned to Ireland in 1824. He left Ireland again in 1826 to the US to try again, settling in upper New York State. Finding little opportunity, he found out about the construction of the Rideau Canal and travelled to Bytown in 1827. He established a business and later became the first justice of the peace as well as treasurer of Carleton County.",
                 "photos": [
                     {
                         "caption": "Daniel O'Connor",
@@ -1062,7 +1062,7 @@
             "properties": {
                 "id": 5,
                 "street_name": "Wellington Street",
-                "origin": "Wellington Street was named after <b>Arthur Wellesley, the 1st Duke of Wellington</b> (1 May 1769 \u2013 14 September 1852). He was a politician and soldier who rose to field marshal during the Napoleonic Wars and defeated Napolean at Waterloo in 1815. During his military career, he participated in around 60 battles. After his military career, he became prime minister of Britain from 1828 to 1830 and for a short time in 1834.<br>While as Master-General of Ordnance (the part of the government in charge of fortifications and canals), he was a great advocate for the construction of the Rideau Canal.",
+                "origin": "Wellington Street was named after <b>Arthur Wellesley, the 1st Duke of Wellington</b> (1 May 1769 \u2013 14 September 1852).<br>He was a politician and soldier who rose to field marshal during the Napoleonic Wars and defeated Napolean at Waterloo in 1815. During his military career, he participated in around 60 battles. After his military career, he became prime minister of Britain from 1828 to 1830 and for a short time in 1834.<br>While as Master-General of Ordnance (the part of the government in charge of fortifications and canals), he was a great advocate for the construction of the Rideau Canal.",
                 "photos": [
                     {
                         "caption": "Arthur Wellesley, 1st Duke of Wellington",
@@ -1583,7 +1583,7 @@
             "properties": {
                 "id": 6,
                 "street_name": "Slater Street",
-                "origin": "Slater Street was named after <b>James Dyson Slater</b> (10 September 1813 - 24 October 1876), Superintendent of the Rideau Canal. Born in Manchester, England, he came to Canada with his parents in 1830 or 1831 and settled a few miles from Niagara Falls. He became the assistant engineer in charge of the location and construction of the Welland Canal from Port Dalhousie to Thorold and remained in this position from 1841 to 1845. He moved to Bytown in 1845 to become assistant engineer on the improvement works of the Ottawa River. In 1847, he married Esther Sparks, the youngest daughter of Nicholas and Sarah Sparks. For his son-in-law, Nicholas renamed Waugh Street to Slater Street. In 1849, he was appointed a provincial land surveyor and later became the superintendent of the Rideau Canal from 1858 to 1872. While in Ottawa, he served as chairman of the public school board from 1863 to 1870.",
+                "origin": "Slater Street was named after <b>James Dyson Slater</b> (10 September 1813 - 24 October 1876), Superintendent of the Rideau Canal.<br>Born in Manchester, England, he came to Canada with his parents in 1830 or 1831 and settled a few miles from Niagara Falls. He became the assistant engineer in charge of the location and construction of the Welland Canal from Port Dalhousie to Thorold and remained in this position from 1841 to 1845. He moved to Bytown in 1845 to become assistant engineer on the improvement works of the Ottawa River. In 1847, he married Esther Sparks, the youngest daughter of Nicholas and Sarah Sparks. For his son-in-law, Nicholas renamed Waugh Street to Slater Street. In 1849, he was appointed a provincial land surveyor and later became the superintendent of the Rideau Canal from 1858 to 1872. While in Ottawa, he served as chairman of the public school board from 1863 to 1870.",
                 "photos": [],
                 "sources": [
                     {
@@ -1711,7 +1711,7 @@
             "properties": {
                 "id": 7,
                 "street_name": "Lisgar Street",
-                "origin": "Lisgar Street (as well as Lisgar Collegiate) was named after <b>Sir John Young</b> (31 August 1807 - 6 October 1876), 1st Baron <b>Lisgar</b> and Governor-General of Canada from 1869 to 1872. Born in Bombay, India, he served as a Conservative Member of Parliament (British) from 1831 to 1855. In 1855, he became lord high commissioner of the Ionian Islands and later governor general of New South Wales.<br>On 2 February 1869, he became the governor general of Canada. During his time as governor general, he saw the disturbance led by Louis Riel break out, the transfer of Rupert's Land from the Hudson's Bay Company to Canada and Manitoba joining the confederation. Due to poor health, Lisgar resigned prematurely in June 1872 and later died at his family home in Ireland.",
+                "origin": "Lisgar Street (as well as Lisgar Collegiate) was named after <b>Sir John Young</b> (31 August 1807 - 6 October 1876), 1st Baron <b>Lisgar</b> and Governor-General of Canada from 1869 to 1872.<br>Born in Bombay, India, he served as a Conservative Member of Parliament (British) from 1831 to 1855. In 1855, he became lord high commissioner of the Ionian Islands and later governor general of New South Wales.<br>On 2 February 1869, he became the governor general of Canada. During his time as governor general, he saw the disturbance led by Louis Riel break out, the transfer of Rupert's Land from the Hudson's Bay Company to Canada and Manitoba joining the confederation. Due to poor health, Lisgar resigned prematurely in June 1872 and later died at his family home in Ireland.",
                 "photos": [
                     {
                         "caption": "Sir John Young, 1st Baron Lisgar",
@@ -1822,7 +1822,7 @@
             "properties": {
                 "id": 8,
                 "street_name": "MacLaren Street",
-                "origin": "MacLaren Street was named after lumber merchant <b>James MacLaren</b> (19 March 1818 - 10 February 1892). MacLaren came to Upper Canada from Scotland in 1822 with his family. After the family moved to Wakefield, Lower Canada in th 1840s, he formed James MacLaren and Company with his brother. He established a general store, gristmill, woollen mill and brick-making plant. He also was involved with the timber trade along the Gatineau River. All his ventures proved successful and in 1866, MacLaren purchased the New Edinburgh Mills from Thomas McKay's estate for $82,000. By 1871, the sawmill was producing lumber valued at $150,000 a year. He expanded further in Buckingham where he eventually centred his operations. He co-founded and was president of the Bank of Ottawa, he was the founding directory of Hull Iron Company Limited, he was directory of the Ontario Central Railway and continued to expand his lumber investments in other parts of Ontario and the United States. At the time of his death, his obituary reported his estimated wealth at 5 million dollars.",
+                "origin": "MacLaren Street was named after lumber merchant <b>James MacLaren</b> (19 March 1818 - 10 February 1892).<br>MacLaren came to Upper Canada from Scotland in 1822 with his family. After the family moved to Wakefield, Lower Canada in th 1840s, he formed James MacLaren and Company with his brother. He established a general store, gristmill, woollen mill and brick-making plant. He also was involved with the timber trade along the Gatineau River. All his ventures proved successful and in 1866, MacLaren purchased the New Edinburgh Mills from Thomas McKay's estate for $82,000. By 1871, the sawmill was producing lumber valued at $150,000 a year. He expanded further in Buckingham where he eventually centred his operations. He co-founded and was president of the Bank of Ottawa, he was the founding directory of Hull Iron Company Limited, he was directory of the Ontario Central Railway and continued to expand his lumber investments in other parts of Ontario and the United States. At the time of his death, his obituary reported his estimated wealth at 5 million dollars.",
                 "photos": [
                     {
                         "caption": "James MacLaren",
@@ -1957,7 +1957,7 @@
             "properties": {
                 "id": 14,
                 "street_name": "Hazeldean Road",
-                "origin": "Hazeldean Road was named after the small community of Hazeldean at the corners of Hazeldean and Young Roads. The community got its name after the Ontario registry office rejected the community's wish to be called Orange Hill, as there was an Orangeville in Ontario. As a new name was needed when John Young became the first postmaster in 1859, the community chose Hazeldean after a place in Scotland (it's also been suggested that the name was chosen after a place in Ireland).",
+                "origin": "Hazeldean Road was named after the <b>small community of Hazeldean</b> at the corners of Hazeldean and Young Roads.<br>The community got its name after the Ontario registry office rejected the community's wish to be called Orange Hill, as there was an Orangeville in Ontario. As a new name was needed when John Young became the first postmaster in 1859, the community chose Hazeldean after a place in Scotland (it's also been suggested that the name was chosen after a place in Ireland).",
                 "photos": [
                     {
                         "caption": "Hazeldean village from the \"Illustrated historical atlas of the county of Carleton\" in 1879",
@@ -2386,7 +2386,7 @@
             "properties": {
                 "id": 15,
                 "street_name": "Eagleson Road",
-                "origin": "Eagleson Road was named after <b>William Eagleson</b> (24 October 1826 - 26 November 1905), a local pioneer and farmer in Goulbourn Township. He came to Canada from Ballymena, Ireland in 1852 and settled the next year on the west half of Lot 32 Concession 11 in Goulbourn, today mostly occupied by the Hazeldean Mall. William's 7th son, Albert, later took over the family farm.<br>The junction of Hazeldean and Eagleson Roads became known as Eaglesons Corners and is still shown on maps today as such. At Eaglesons Corners, William owned a hotel and general store and was postmaster.<br>In 1998, descendents of William defended the Eagleson name when someone suggested they rename Eagleson Road after they mistook the disgraced hockey executive Alan Eagleson to be a descendent of William Eagleson.",
+                "origin": "Eagleson Road was named after <b>William Eagleson</b> (24 October 1826 - 26 November 1905), a local pioneer and farmer in Goulbourn Township.<br>He came to Canada from Ballymena, Ireland in 1852 and settled the next year on the west half of Lot 32 Concession 11 in Goulbourn, today mostly occupied by the Hazeldean Mall. William's 7th son, Albert, later took over the family farm.<br>The junction of Hazeldean and Eagleson Roads became known as Eaglesons Corners and is still shown on maps today as such. At Eaglesons Corners, William owned a hotel and general store and was postmaster.<br>In 1998, descendents of William defended the Eagleson name when someone suggested they rename Eagleson Road after they mistook the disgraced hockey executive Alan Eagleson to be a descendent of William Eagleson.",
                 "photos": [
                     {
                         "caption": "The property of William Eagleson (misspelled as Egleston) from the \"Illustrated historical atlas of the county of Carleton\" in 1879",
@@ -2823,7 +2823,7 @@
             "properties": {
                 "id": 16,
                 "street_name": "Booth Street",
-                "origin": "Booth Street was named after <b>John Rudolphus Booth</b> (5 April 1827 - 8 December 1925), one of the most successful lumber barons in the Ottawa area. Born in the Eastern Townships, he came to the Ottawa Valley in 1852 to help with the construction of a sawmill in Hull. He was hired as manager of the sawmill. After a year, he started his own shingle mill in Hull but it was soon destroyed by fire. Booth and his wife moved across the river and leased a large sawmill on Chaudi\u00e8re Island. In 1859, he won the contract to supply lumber and timber for the construction of the Parliament Buildings.<br>He began to expand his lumber business, eventually buying 640,000 acres in the Ottawa Valley and exanding his milling into the United States. By 1896, Booth's lumber output was 115 million feet which was more than double that of other Ottawa Valley firms.<br>He also became involved in the Canada Atlantic Railway, helping with its construction in order to complete the project. He also expanded railways to Georgian Bay.<br>His lumber empire was often susceptible to fires. The worst fire occurred on April 26, 1900 which saw lossed for Booth between one and one and a half million dollars.",
+                "origin": "Booth Street was named after <b>John Rudolphus Booth</b> (5 April 1827 - 8 December 1925), one of the most successful lumber barons in the Ottawa area.<br>Born in the Eastern Townships, he came to the Ottawa Valley in 1852 to help with the construction of a sawmill in Hull. He was hired as manager of the sawmill. After a year, he started his own shingle mill in Hull but it was soon destroyed by fire. Booth and his wife moved across the river and leased a large sawmill on Chaudi\u00e8re Island. In 1859, he won the contract to supply lumber and timber for the construction of the Parliament Buildings.<br>He began to expand his lumber business, eventually buying 640,000 acres in the Ottawa Valley and exanding his milling into the United States. By 1896, Booth's lumber output was 115 million feet which was more than double that of other Ottawa Valley firms.<br>He also became involved in the Canada Atlantic Railway, helping with its construction in order to complete the project. He also expanded railways to Georgian Bay.<br>His lumber empire was often susceptible to fires. The worst fire occurred on April 26, 1900 which saw lossed for Booth between one and one and a half million dollars.",
                 "photos": [
                     {
                         "caption": "John Rudolphus Booth",
@@ -3243,7 +3243,7 @@
             "properties": {
                 "id": 18,
                 "street_name": "Rochester Street",
-                "origin": "Rochester Street was named after the <b>John Rochester</b> family. John Rochester Sr. came to Bytown from Rouse's Point, New York in 1827 as part of the 27 American founders. During the construction of the Rideau Canal, he provided provisions to the military. The community of Rochesterville got its name from him.<br>John Rochester Jr. (22 May 1822 - 19 September 1894) was a lumberman, brewer, Mayor of Ottawa from 1870-1871, and a member of parliament from 1872-1882.",
+                "origin": "Rochester Street was named after the <b>John Rochester</b> family.<br>John Rochester Sr. came to Bytown from Rouse's Point, New York in 1827 as part of the 27 American founders. During the construction of the Rideau Canal, he provided provisions to the military. The community of Rochesterville got its name from him.<br>John Rochester Jr. (22 May 1822 - 19 September 1894) was a lumberman, brewer, Mayor of Ottawa from 1870-1871, and a member of parliament from 1872-1882.",
                 "photos": [
                     {
                         "caption": "John Rochester Jr.",
@@ -3369,7 +3369,7 @@
             "properties": {
                 "id": 19,
                 "street_name": "Carling Avenue",
-                "origin": "Carling Avenue is named after <b>John Carling</b> (23 January 1828 - 6 November 1911) who established the Central Experimental Farm while Minister of Agriculture.<br>Born in London Township in Upper Canada, he was elected to the Legislative Assembly of the Province of Canada in 1858. He served as an MP and held the position of 7th Postmaster General from 1882 to 1885 and Minister of Agriculture from 1885 to 1891 under John A. Macdonald. While as Minister of Agriculture, he established the Ontario Agricultural College and the Central Experimental Farm.<br>After losing the 1891 election, he was appointed a Senator by John A. Macdonald. The election was disputed and declared void so Carling resigned from the Senate to resume as an MP. Before the 1896, Carling resigned and was re-appointed to the Senate. He was knighted in 1893 and remained a Senator until his death.<br>Also, his father began Carling Brewery which Carling took over control with his brother in 1849.",
+                "origin": "Carling Avenue was named after <b>John Carling</b> (23 January 1828 - 6 November 1911) who established the Central Experimental Farm while Minister of Agriculture.<br>Born in London Township in Upper Canada, he was elected to the Legislative Assembly of the Province of Canada in 1858. He served as an MP and held the position of 7th Postmaster General from 1882 to 1885 and Minister of Agriculture from 1885 to 1891 under John A. Macdonald. While as Minister of Agriculture, he established the Ontario Agricultural College and the Central Experimental Farm.<br>After losing the 1891 election, he was appointed a Senator by John A. Macdonald. The election was disputed and declared void so Carling resigned from the Senate to resume as an MP. Before the 1896, Carling resigned and was re-appointed to the Senate. He was knighted in 1893 and remained a Senator until his death.<br>Also, his father began Carling Brewery which Carling took over control with his brother in 1849.",
                 "photos": [
                     {
                         "caption": "Sir John Carling",
