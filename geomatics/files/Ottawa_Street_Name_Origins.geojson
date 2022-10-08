@@ -13,7 +13,7 @@
             "properties": {
                 "id": 1,
                 "street_name": "Bronson Avenue",
-                "origin": "Bronson Avenue was named after the businessman and politician <b>Erskine Henry Bronson</b> (September 12, 1844 \u2013 October 19, 1920).<br>Bronson\u2019s first business was as a partner in the Bronsons and Weston Lumber Company in 1867. As a politician, he first served on Ottawa City Council from 1872 to 1877 and then as a provincial minister from 1886 to 1898. He later became president of the Ottawa Power Company Ltd as a way to diversify the family business. He retired in 1910 and died at Ottawa on October 19, 1920. ",
+                "origin": "Bronson Avenue was named after the businessman and politician <b>Erskine Henry Bronson</b> (12 September 1844 \u2013 19 October 1920).<br>Bronson\u2019s first business was as a partner in the Bronsons and Weston Lumber Company in 1867. As a politician, he first served on Ottawa City Council from 1872 to 1877 and then as a provincial minister from 1886 to 1898. He later became president of the Ottawa Power Company Ltd as a way to diversify the family business. He retired in 1910 and died at Ottawa on October 19, 1920. ",
                 "photos": [
                     {
                         "caption": "Erskine Henry Bronson",
@@ -560,7 +560,7 @@
             "properties": {
                 "id": 2,
                 "street_name": "Lyon Street",
-                "origin": "Lyon Street was named after <b>Robert Lyon</b> (July 6, 1829 - March 25, 1888) and his family.<br>Lyon was mayor of Ottawa in 1867 and served as a Liberal member of the Ontario Legislature from 1867 to 1871. He was a practicing barrister prior to being mayor and was named a judge for Carleton County in 1873. ",
+                "origin": "Lyon Street was named after <b>Robert Lyon</b> (6 July 1829 - 25 March 1888) and his family.<br>Lyon was mayor of Ottawa in 1867 and served as a Liberal member of the Ontario Legislature from 1867 to 1871. He was a practicing barrister prior to being mayor and was named a judge for Carleton County in 1873. ",
                 "photos": [],
                 "sources": [
                     {
@@ -1955,9 +1955,707 @@
         {
             "type": "Feature",
             "properties": {
+                "id": 9,
+                "street_name": "Gilmour Street",
+                "origin": "Gilmour Street was named after <b>Allan Gilmour</b> (23 August 1816 - 25 February 1895), one of Ottawa's pioneer lumbermen.<br>Born in Shotts, Scotland, he began in the timber trade working for his uncle who shared his named. He came to Montreal in 1832 with his cousin James and worked for William Ritchie & Company until 1840. The cousins took over management of the branch after Ritchie retired and opened an agency in Bytown. Gilmour permanently moved the business headquarters to Bytown in 1853 after his cousin retired.<br>During the Fenian Raids between 1866-1867, Gilmour was appointed to the rank of major and later colonel in the local militia.<br>Gilmour also enjoyed some recreational activities such as curling, serving as president of the Ottawa Curling Club. He was also a collector of art and at the time of his death, he had a 146-piece art collection value at $11,163, along with an estate worth $1,452,825.",
+                "photos": [
+                    {
+                        "caption": "Allan Gilmour",
+                        "dateTaken": null,
+                        "url": "http://www.kballantyne.ca/geomatics/maps/ottawa-street-names/photos/allan-gilmour.jpg",
+                        "sourceUrl": "https://ottawacurlingclub.ca/index.php/about-the-club/28-club-info/151-club-history"
+                    }
+                ],
+                "sources": [
+                    {
+                        "type": "book",
+                        "author": "Ross, A. H. D.",
+                        "title": "Ottawa Past & Present",
+                        "date": "1927",
+                        "publisher": "Thorburn & Abbot",
+                        "city": "Ottawa",
+                        "accessed": "2022-10-04",
+                        "url": "https://archive.org/details/localhistory_2IS"
+                    },
+                    {
+                        "type": "webpage",
+                        "author": null,
+                        "title": "Ottawa Street Names Project - CHC|CPC",
+                        "date": null,
+                        "publisher": null,
+                        "city": null,
+                        "accessed": "2022-10-07",
+                        "url": "https://www.capitalheritage.ca/ottawa-street-names-project/"
+                    },
+                    {
+                        "type": "webpage",
+                        "author": "Gillis, Robert Peter",
+                        "title": "Biography - GILMOUR, ALLAN (1816-95) - Volume XII (1891-1900) - Dictionary of Canadian Biography",
+                        "date": null,
+                        "publisher": null,
+                        "city": null,
+                        "accessed": "2022-10-07",
+                        "url": "http://www.biographi.ca/en/bio/gilmour_allan_1816_95_12E.html"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8427437.1494,
+                        5686310.2962
+                    ],
+                    [
+                        -8427195.4032,
+                        5686452.0143
+                    ],
+                    [
+                        -8427162.5128,
+                        5686470.2371
+                    ],
+                    [
+                        -8427005.1537,
+                        5686562.8492
+                    ],
+                    [
+                        -8426833.4867,
+                        5686663.8767
+                    ],
+                    [
+                        -8426601.7047,
+                        5686802.8303
+                    ],
+                    [
+                        -8426357.0722,
+                        5686945.9316
+                    ],
+                    [
+                        -8426244.0547,
+                        5687011.8654
+                    ],
+                    [
+                        -8426132.4577,
+                        5687077.8142
+                    ],
+                    [
+                        -8425910.708,
+                        5687206.8662
+                    ],
+                    [
+                        -8425690.347,
+                        5687338.7839
+                    ],
+                    [
+                        -8425471.4438,
+                        5687466.4321
+                    ],
+                    [
+                        -8425361.2865,
+                        5687529.5333
+                    ],
+                    [
+                        -8425258.2677,
+                        5687589.852
+                    ],
+                    [
+                        -8425163.8241,
+                        5687645.9758
+                    ],
+                    [
+                        -8425129.4597,
+                        5687668.4615
+                    ],
+                    [
+                        -8425113.541,
+                        5687695.4146
+                    ],
+                    [
+                        -8425054.2474,
+                        5687791.855
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 10,
+                "street_name": "Lewis Street",
+                "origin": "Lewis Street was named after <b>John Bower Lewis</b> (18 March 1817 - 24 January 1874), the 2nd mayor of Bytown in 1848.<br>Born in France, he came to Canada with his parents in 1820 and settled near Bytown. In Bytown, he practised law and sold land in the area. He was elected to the council of the District of Dalhousie in 1847 and to the first municiapl council of the town. He was chosen as the 2nd mayor of Bytown between 1848-1849. When Ottawa became a city in 1854, Lewis was chosen as the first mayor of the city in 1855. He also filled other civic positions such as police magistrate in 1855, city recorder between 1855-1869, police commissioner in 1863 and city solicitor until his death.",
+                "photos": [
+                    {
+                        "caption": "J. Bower Lewis, Mayor of Ottawa",
+                        "dateTaken": null,
+                        "url": "http://www.kballantyne.ca/geomatics/maps/ottawa-street-names/photos/j-bower-lewis-c002055.jpg",
+                        "sourceUrl": "http://central.bac-lac.gc.ca/.redirect?app=fonandcol&id=3218356&lang=eng"
+                    }
+                ],
+                "sources": [
+                    {
+                        "type": "webpage",
+                        "author": "Swainson, Donald",
+                        "title": "Biography - LEWIS, JOHN BOWER - Volume X (1871-1880) - Dictionary of Canadian Biography",
+                        "date": null,
+                        "publisher": null,
+                        "city": null,
+                        "accessed": "2022-10-07",
+                        "url": "http://www.biographi.ca/en/bio/lewis_john_bower_10E.html"
+                    },
+                    {
+                        "type": "book",
+                        "author": "Ross, A. H. D.",
+                        "title": "Ottawa Past & Present",
+                        "date": "1927",
+                        "publisher": "Thorburn & Abbot",
+                        "city": "Ottawa",
+                        "accessed": "2022-10-04",
+                        "url": "https://archive.org/details/localhistory_2IS"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -8426323.4962,
+                            5686889.9407
+                        ],
+                        [
+                            -8426211.8728,
+                            5686958.743
+                        ],
+                        [
+                            -8426098.8541,
+                            5687024.675
+                        ],
+                        [
+                            -8425879.9495,
+                            5687153.7558
+                        ],
+                        [
+                            -8425811.8323,
+                            5687192.9394
+                        ]
+                    ],
+                    [
+                        [
+                            -8425706.851,
+                            5687253.3268
+                        ],
+                        [
+                            -8425688.2194,
+                            5687267.4088
+                        ],
+                        [
+                            -8425656.7451,
+                            5687285.6432
+                        ],
+                        [
+                            -8425439.2649,
+                            5687413.3027
+                        ],
+                        [
+                            -8425330.5159,
+                            5687477.8445
+                        ],
+                        [
+                            -8425227.483,
+                            5687539.591
+                        ],
+                        [
+                            -8425134.4764,
+                            5687594.3017
+                        ],
+                        [
+                            -8425070.101,
+                            5687630.751
+                        ],
+                        [
+                            -8425049.9649,
+                            5687641.5319
+                        ]
+                    ],
+                    [
+                        [
+                            -8425059.7701,
+                            5687667.7505
+                        ],
+                        [
+                            -8425012.9857,
+                            5687704.9424
+                        ],
+                        [
+                            -8425005.2757,
+                            5687711.4374
+                        ],
+                        [
+                            -8424979.4297,
+                            5687735.435
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 11,
+                "street_name": "Waverley Street",
+                "origin": "Waverley Street was named after <b>a novel called Waverley</b> by Sir Walter Scott. The book was published in 1814 and is a fictional account of a soldier, Edward Waverley, during the Jacobite Rebellion. The book is considered to be the first example of the historical fiction genre.",
+                "photos": [
+                    {
+                        "caption": "Portrait of Sir Walter Scott by Sir Henry Raeburn",
+                        "dateTaken": "1822",
+                        "url": "http://www.kballantyne.ca/geomatics/maps/ottawa-street-names/photos/sir-walter-scott.jpg",
+                        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sir_Henry_Raeburn_-_Portrait_of_Sir_Walter_Scott.jpg"
+                    }
+                ],
+                "sources": [
+                    {
+                        "type": "book",
+                        "author": "Ross, A. H. D.",
+                        "title": "Ottawa Past & Present",
+                        "date": "1927",
+                        "publisher": "Thorburn & Abbot",
+                        "city": "Ottawa",
+                        "accessed": "2022-10-04",
+                        "url": "https://archive.org/details/localhistory_2IS"
+                    },
+                    {
+                        "type": "webpage",
+                        "author": null,
+                        "title": "Waverley Street - Centretown News",
+                        "date": "2010-10-27",
+                        "publisher": "Centretown News",
+                        "city": null,
+                        "accessed": "2022-10-07",
+                        "url": "https://capitalcurrent.ca/archive/centretownnews/1997-2016/2010/10/27/waverley-street/"
+                    },
+                    {
+                        "type": "webpage",
+                        "author": null,
+                        "title": "Waverley (novel) - Wikipedia",
+                        "date": null,
+                        "publisher": null,
+                        "city": null,
+                        "accessed": "2022-10-07",
+                        "url": "https://en.wikipedia.org/wiki/Waverley_(novel)"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -8426268.9308,
+                            5686799.4932
+                        ],
+                        [
+                            -8426041.4871,
+                            5686929.9156
+                        ],
+                        [
+                            -8425931.2832,
+                            5686998.7276
+                        ],
+                        [
+                            -8425822.5714,
+                            5687060.4189
+                        ]
+                    ],
+                    [
+                        [
+                            -8425650.1599,
+                            5687164.35
+                        ],
+                        [
+                            -8425647.9933,
+                            5687165.6824
+                        ],
+                        [
+                            -8425599.3673,
+                            5687192.3039
+                        ],
+                        [
+                            -8425383.2831,
+                            5687322.8301
+                        ],
+                        [
+                            -8425172.9248,
+                            5687449.1287
+                        ],
+                        [
+                            -8425011.2323,
+                            5687544.5258
+                        ],
+                        [
+                            -8424996.909,
+                            5687554.3695
+                        ],
+                        [
+                            -8424799.0614,
+                            5687630.7385
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 12,
+                "street_name": "McLeod Street",
+                "origin": "McLeod Street was named after <b>McLeod Stewart</b> (1847 - 1926), mayor of Ottawa in 1887 to 1888.<br>Born in Ottawa in 1847, he went to Toronto to study at the University of Toronto. He served as a lieutenant in the Governor General's Foot Guards. In 1881, he built the Molson's Bank building on Sparks Street with William Hodgson. He served as president of the Canada Atlantic Railway. He was mayor of Ottawa between 1887-1888 and saw the opening of the first Central Canada Exhibition on 25 September 1888. In 1910, he authored <i>The first half century of Ottawa</i>.",
+                "photos": [
+                    {
+                        "caption": "McLeod Stewart, Mayor of Ottawa",
+                        "dateTaken": null,
+                        "url": "http://www.kballantyne.ca/geomatics/maps/ottawa-street-names/photos/mcleod-stewart-c002050.jpg",
+                        "sourceUrl": "http://central.bac-lac.gc.ca/.redirect?app=fonandcol&id=3221413&lang=eng"
+                    }
+                ],
+                "sources": [
+                    {
+                        "type": "webpage",
+                        "author": null,
+                        "title": "McLeod Stewart - Wikipedia",
+                        "date": null,
+                        "publisher": null,
+                        "city": null,
+                        "accessed": "2022-10-07",
+                        "url": "https://en.wikipedia.org/wiki/McLeod_Stewart"
+                    },
+                    {
+                        "type": "book",
+                        "author": "Ross, A. H. D.",
+                        "title": "Ottawa Past & Present",
+                        "date": "1927",
+                        "publisher": "Thorburn & Abbot",
+                        "city": "Ottawa",
+                        "accessed": "2022-10-04",
+                        "url": "https://archive.org/details/localhistory_2IS"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -8427224.5108,
+                            5685890.6666
+                        ],
+                        [
+                            -8427135.6225,
+                            5685940.7528
+                        ],
+                        [
+                            -8427088.6301,
+                            5685968.3143
+                        ],
+                        [
+                            -8427011.1205,
+                            5686018.4847
+                        ],
+                        [
+                            -8426959.06,
+                            5686047.2777
+                        ],
+                        [
+                            -8426764.5639,
+                            5686156.6318
+                        ],
+                        [
+                            -8426592.8737,
+                            5686260.5052
+                        ],
+                        [
+                            -8426376.869,
+                            5686386.7609
+                        ],
+                        [
+                            -8426362.5348,
+                            5686398.0323
+                        ],
+                        [
+                            -8426211.6423,
+                            5686487.933
+                        ],
+                        [
+                            -8426129.9145,
+                            5686535.6011
+                        ],
+                        [
+                            -8425888.9498,
+                            5686681.5091
+                        ],
+                        [
+                            -8425670.0368,
+                            5686812.0067
+                        ],
+                        [
+                            -8425516.9527,
+                            5686901.7838
+                        ],
+                        [
+                            -8425449.6821,
+                            5686943.9116
+                        ],
+                        [
+                            -8425230.756,
+                            5687074.4018
+                        ]
+                    ],
+                    [
+                        [
+                            -8425205.5897,
+                            5687031.3357
+                        ],
+                        [
+                            -8425093.9417,
+                            5687101.5506
+                        ],
+                        [
+                            -8425016.7125,
+                            5687143.5748
+                        ],
+                        [
+                            -8424995.2791,
+                            5687153.3456
+                        ],
+                        [
+                            -8424976.7766,
+                            5687154.584
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 13,
+                "street_name": "Robertson Road",
+                "origin": "Robertson Road was named after <b>John Robertson</b> (1795 - 1884), a settler and farmer in Nepean Township.<br>Robertson helped build the first eight locks of the Rideau Canal and established a farm, general story and schoolhouse in Bells Corners. The road was named Roberston Road in 1983 to honour this early pioneer and his family.<br>In 2011, there was great controversy when the city considered changing the name of the road to Lloyd Francis Boulevard, a developer, Liberal MP and Speaker of the House of Commons. The main idea was to have a consistently named street through Bells Corerners. However, both the descendents of John and several businesses in community were against the name change. Eventually, the name Robertson Road was retained and extended to Baseline Road while Richmond Road south and through Bells Corners was renamed Old Richmond Road.",
+                "photos": [],
+                "sources": [
+                    {
+                        "type": "newspaper",
+                        "author": null,
+                        "title": "Letters to the Editor - Roberston family shocked by name change",
+                        "date": "2011-04-22",
+                        "publisher": "The Ottawa Citizen",
+                        "city": "Ottawa, Ontario",
+                        "accessed": "2022-10-08",
+                        "url": "https://www.newspapers.com/image/468261955"
+                    },
+                    {
+                        "type": "newspaper",
+                        "author": null,
+                        "title": "Seniors object to change in road's name",
+                        "date": "2011-04-22",
+                        "publisher": "The Ottawa Citizen",
+                        "city": "Ottawa, Ontario",
+                        "accessed": "2022-10-08",
+                        "url": "https://www.newspapers.com/image/468261991"
+                    },
+                    {
+                        "type": "newspaper",
+                        "author": "Chianello, Joanne",
+                        "title": "Robertson Road renaming has west-side businesses fuming",
+                        "date": "2011-04-13",
+                        "publisher": "The Ottawa Citizen",
+                        "city": "Ottawa, Ontario",
+                        "accessed": "2022-10-08",
+                        "url": "https://www.newspapers.com/image/468479786/"
+                    },
+                    {
+                        "type": "newspaper",
+                        "author": null,
+                        "title": "Nepean/ Road name change approved",
+                        "date": "1983-01-19",
+                        "publisher": "The Ottawa Citizen",
+                        "city": "Ottawa, Ontario",
+                        "accessed": "2022-10-08",
+                        "url": "https://www.newspapers.com/image/464107691/"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8446564.229,
+                        5669519.1561
+                    ],
+                    [
+                        -8446557.3296,
+                        5669522.9051
+                    ],
+                    [
+                        -8446424.5294,
+                        5669594.9808
+                    ],
+                    [
+                        -8446197.6561,
+                        5669721.2534
+                    ],
+                    [
+                        -8444686.334,
+                        5670610.7869
+                    ],
+                    [
+                        -8444242.7695,
+                        5670872.8319
+                    ],
+                    [
+                        -8443787.4001,
+                        5671142.3472
+                    ],
+                    [
+                        -8442901.3823,
+                        5671676.4841
+                    ],
+                    [
+                        -8442681.646,
+                        5671808.5999
+                    ],
+                    [
+                        -8442500.4609,
+                        5671913.9611
+                    ],
+                    [
+                        -8442420.5682,
+                        5671960.3172
+                    ],
+                    [
+                        -8442294.9943,
+                        5672036.2151
+                    ],
+                    [
+                        -8442209.3735,
+                        5672088.2213
+                    ],
+                    [
+                        -8442182.2684,
+                        5672103.6689
+                    ],
+                    [
+                        -8442119.5949,
+                        5672139.9507
+                    ],
+                    [
+                        -8441942.5517,
+                        5672245.5807
+                    ],
+                    [
+                        -8441885.4764,
+                        5672279.3003
+                    ],
+                    [
+                        -8441824.1059,
+                        5672317.2582
+                    ],
+                    [
+                        -8441724.2442,
+                        5672373.419
+                    ],
+                    [
+                        -8441570.1113,
+                        5672461.5836
+                    ],
+                    [
+                        -8441495.9683,
+                        5672504.0197
+                    ],
+                    [
+                        -8441384.6859,
+                        5672567.2048
+                    ],
+                    [
+                        -8441254.8588,
+                        5672640.2087
+                    ],
+                    [
+                        -8440989.6856,
+                        5672790.0472
+                    ],
+                    [
+                        -8440823.939,
+                        5672888.7818
+                    ],
+                    [
+                        -8440694.067,
+                        5672966.0537
+                    ],
+                    [
+                        -8440572.762,
+                        5673037.6963
+                    ],
+                    [
+                        -8440445.7496,
+                        5673112.1409
+                    ],
+                    [
+                        -8440195.9926,
+                        5673259.6361
+                    ],
+                    [
+                        -8440141.7668,
+                        5673290.5229
+                    ],
+                    [
+                        -8440044.6775,
+                        5673352.3934
+                    ],
+                    [
+                        -8439976.0716,
+                        5673404.5302
+                    ],
+                    [
+                        -8439943.1567,
+                        5673434.1725
+                    ],
+                    [
+                        -8439922.1732,
+                        5673456.8576
+                    ],
+                    [
+                        -8439913.8773,
+                        5673465.8362
+                    ],
+                    [
+                        -8439842.8027,
+                        5673547.6255
+                    ],
+                    [
+                        -8439806.2166,
+                        5673608.3883
+                    ],
+                    [
+                        -8439692.6235,
+                        5673843.804
+                    ],
+                    [
+                        -8439585.9569,
+                        5674068.562
+                    ],
+                    [
+                        -8439479.9268,
+                        5674300.8636
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "id": 14,
                 "street_name": "Hazeldean Road",
-                "origin": "Hazeldean Road was named after the <b>small community of Hazeldean</b> at the corners of Hazeldean and Young Roads.<br>The community got its name after the Ontario registry office rejected the community's wish to be called Orange Hill, as there was an Orangeville in Ontario. As a new name was needed when John Young became the first postmaster in 1859, the community chose Hazeldean after a place in Scotland (it's also been suggested that the name was chosen after a place in Ireland).",
+                "origin": "Hazeldean Road was named after the <b>small community of Hazeldean</b> at the corners of Hazeldean and Young Roads.<br>The community got its name after the Ontario registry office rejected the community's wish to be called Orange Hill, as there was an Orangeville in Ontario. As a new name was needed when John Young became the first postmaster in 1859, the community chose Hazeldean after a place in Scotland (it's also been suggested that the name was chosen after a place in Ireland).<br>The road was named Hazeldean Road in 1983.",
                 "photos": [
                     {
                         "caption": "Hazeldean village from the \"Illustrated historical atlas of the county of Carleton\" in 1879",
@@ -1976,6 +2674,16 @@
                         "city": "Ottawa, Ontario",
                         "accessed": "2022-10-03",
                         "url": "https://www.newspapers.com/image/456482434"
+                    },
+                    {
+                        "type": "newspaper",
+                        "author": null,
+                        "title": "Nepean/ Road name change approved",
+                        "date": "1983-01-19",
+                        "publisher": "The Ottawa Citizen",
+                        "city": "Ottawa, Ontario",
+                        "accessed": "2022-10-08",
+                        "url": "https://www.newspapers.com/image/464107691/"
                     }
                 ]
             },
