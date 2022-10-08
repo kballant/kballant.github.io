@@ -2439,7 +2439,7 @@
             "properties": {
                 "id": 13,
                 "street_name": "Robertson Road",
-                "origin": "Robertson Road was named after <b>John Robertson</b> (1795 - 1884), a settler and farmer in Nepean Township.<br>Robertson helped build the first eight locks of the Rideau Canal and established a farm, general story and schoolhouse in Bells Corners. The road was named Roberston Road in 1983 to honour this early pioneer and his family.<br>In 2011, there was great controversy when the city considered changing the name of the road to Lloyd Francis Boulevard, a developer, Liberal MP and Speaker of the House of Commons. The main idea was to have a consistently named street through Bells Corerners. However, both the descendents of John and several businesses in community were against the name change. Eventually, the name Robertson Road was retained and extended to Baseline Road while Richmond Road south and through Bells Corners was renamed Old Richmond Road.",
+                "origin": "Robertson Road was named after <b>John Robertson</b> (1795 - 1884), a settler and farmer in Nepean Township.<br>Robertson helped build the first eight locks of the Rideau Canal and established a farm, general story and schoolhouse in Bells Corners.<br>In 2011, there was great controversy when the city considered changing the name of the road to Lloyd Francis Boulevard, a developer, Liberal MP and Speaker of the House of Commons. The main idea was to have a consistently named street through Bells Corerners. However, both the descendents of John and several businesses in community were against the name change. Eventually, the name Robertson Road was retained and extended to Baseline Road while Richmond Road south and through Bells Corners was renamed Old Richmond Road.<br>There was even controversy when the road first got its name. In 1982, When the regional council wanted to rename the former stretch of Highway 7 & 15, residents in Nepean wanted to name the Robertson Road after John who lived on the road while residents in Kanata and Goulbourn Township wanted to name it Hazeldean Road. A diplomatic solution was chosen and in 1983, the stretch between Richmond Road and Eagleson Road (within the City of Nepean) was named Robertson Road while the stretch between Eagleson and Highway 417 was named Hazeldean Road.",
                 "photos": [],
                 "sources": [
                     {
@@ -2481,6 +2481,16 @@
                         "city": "Ottawa, Ontario",
                         "accessed": "2022-10-08",
                         "url": "https://www.newspapers.com/image/464107691/"
+                    },
+                    {
+                        "type": "newspaper",
+                        "author": "Egan, Kelly",
+                        "title": "Fight over highway may end with road having two names",
+                        "date": "1982-09-30",
+                        "publisher": "The Ottawa Citizen",
+                        "city": "Ottawa, Ontario",
+                        "accessed": "2022-10-08",
+                        "url": "https://www.newspapers.com/image/462850272/"
                     }
                 ]
             },
