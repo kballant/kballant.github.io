@@ -116,7 +116,7 @@ function showPopup(props, featId) {
 							+ title + '". ' 
 							+ '<a class="on-white" href="' 
 							+ url + '" target="_blank">' 
-							+ url + '</a>. ( accessed - ' 
+							+ url + '</a>. (accessed - ' 
 							+ formatDate(accessed) + ").";
 			} else if (src_type == 'book') {
 				citation = (i + 1) + '. ' 
