@@ -363,13 +363,17 @@ var streetStyleFunc = function (feature, resolution) {
 	// Set the width of the line (road) based on the zoom level
 	if (map.getView().getZoom() <= 14) {
 		width = widths[0];
-		outline = false;
+		// outline = false;
+		outline = true;
+		outline_width = width + 4;
 	} else if (map.getView().getZoom() > 14 & map.getView().getZoom() < 16) {
 		width = widths[1];
 		outline = true;
+		outline_width = width + 8;
 	} else {
 		width = widths[2];
 		outline = true;
+		outline_width = width + 10;
 	}
 	
 	var outStyle = [
@@ -377,7 +381,8 @@ var streetStyleFunc = function (feature, resolution) {
 			stroke: new ol.style.Stroke({
 				//color: '#FFA24B',
 				//color: 'rgba(0,255,255,0.7)',
-				color: 'rgb(21,195,249)',
+				color: 'rgb(21,195,255)',
+				//color: '#15C3F9',
 				width: width
 			}),
 			text: new ol.style.Text({
@@ -405,7 +410,7 @@ var streetStyleFunc = function (feature, resolution) {
 					//color: '#FFA24B',
 					color: 'rgba(0,0,255,0.7)',
 					//lineDashOffset: 2, 
-					width: width + 10
+					width: outline_width
 				}), 
 				zIndex: 0
 			})
