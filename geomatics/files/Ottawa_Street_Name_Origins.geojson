@@ -8752,6 +8752,860 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 30,
+                "street_name": "Lees Avenue",
+                "origin": "Lees Avenue was named after <b>Robert E. Lees</b> (11 May 1814 - 10 October 1893), a prominent lawyer in the early days of Bytown.<br>Born in Scotland, he came to Canada with his family when he was a child and his family settled near Perth, Ontario (or Pakenham). He first became a schoolteacher and then a lawyer. He was living in Bytown around the time of the Stony Monday riots in 1849. He defended some the rioters against what he saw as persecution by the authorities.<br>Due to the crowdedness, disease and bad drains in Bytown at the time, he moved with his wife and children to an estate in Nepean Township which at the time was wild country but would later become Ottawa East. A friend of Lees questioned why he would want to live \"in the wild woods\" and so he named his estate \"Wildwood\". The house was built in 1863 and the estate stretched from Main Street to the Rideau River and included orchards and gardens.<br>In 1883, some of the estate was taken up by the Canada Atlantic Railway. In 1962, the estate was bought and the house demolished to build the Queensway (Highway 417).",
+                "photos": [
+                    {
+                        "caption": "\"Wildwood\", the home of Robert Lees",
+                        "dateTaken": null,
+                        "url": "http://www.kballantyne.ca/geomatics/maps/ottawa-street-names/photos/wildwood.jpg",
+                        "sourceUrl": "http://history.ottawaeast.ca/HTML%20Documents/Image%20Library/Buildings/X__Wildwood.jpg"
+                    }
+                ],
+                "sources": [
+                    {
+                        "type": "webpage",
+                        "author": null,
+                        "title": "Robert Lees (1814-1893) - Find a Grave Memorial",
+                        "date": "2015-11-21",
+                        "publisher": null,
+                        "city": null,
+                        "accessed": "2022-10-23",
+                        "url": "https://www.findagrave.com/memorial/155239585/robert-lees?_gl=1*3abhhu*_ga*NDM5OTk1MDMxLjE2NDA5NzU0OTk.*_ga_4QT8FMEX30*MTY2NjUzODI2OS42LjEuMTY2NjUzOTI0Mi4yMi4wLjA."
+                    },
+                    {
+                        "type": "webpage",
+                        "author": "Hill, Sue",
+                        "title": "Lees Family",
+                        "date": null,
+                        "publisher": null,
+                        "city": null,
+                        "accessed": "2022-10-23",
+                        "url": "http://history.ottawaeast.ca/HTML%20Documents/Mainstreeter/Lees%20Family.htm"
+                    },
+                    {
+                        "type": "newspaper",
+                        "author": "Walker, Harry J.",
+                        "title": "Queensway Dooms Historic House",
+                        "date": "1962-05-19",
+                        "publisher": "The Ottawa Journal",
+                        "city": "Ottawa, Ontario",
+                        "accessed": "2022-10-23",
+                        "url": "https://www.newspapers.com/image/46199230/?terms=Robert%20Lees&match=1"
+                    },
+                    {
+                        "type": "newspaper",
+                        "author": "Turcotte, Bobbi",
+                        "title": "What's in a name - Lees Avenue",
+                        "date": "1986-01-15",
+                        "publisher": "The Ottawa Citizen",
+                        "city": "Ottawa, Ontario",
+                        "accessed": "2022-10-23",
+                        "url": "https://www.newspapers.com/image/464373528"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8424631.8871,
+                        5686633.8353
+                    ],
+                    [
+                        -8424611.4914,
+                        5686633.9952
+                    ],
+                    [
+                        -8424373.2517,
+                        5686766.4275
+                    ],
+                    [
+                        -8424280.4061,
+                        5686820.6739
+                    ],
+                    [
+                        -8424267.5198,
+                        5686829.1034
+                    ],
+                    [
+                        -8424185.9355,
+                        5686879.6363
+                    ],
+                    [
+                        -8424125.8278,
+                        5686916.1198
+                    ],
+                    [
+                        -8424118.6735,
+                        5686920.3272
+                    ],
+                    [
+                        -8424092.915,
+                        5686935.759
+                    ],
+                    [
+                        -8424035.2902,
+                        5686969.7035
+                    ],
+                    [
+                        -8423995.0776,
+                        5686993.3899
+                    ],
+                    [
+                        -8423976.655,
+                        5687004.2419
+                    ],
+                    [
+                        -8423816.748,
+                        5687098.4468
+                    ],
+                    [
+                        -8423785.3658,
+                        5687117.0877
+                    ],
+                    [
+                        -8423675.0767,
+                        5687182.6047
+                    ],
+                    [
+                        -8423556.2602,
+                        5687257.0098
+                    ],
+                    [
+                        -8423551.9643,
+                        5687259.8194
+                    ],
+                    [
+                        -8423536.2031,
+                        5687271.0726
+                    ],
+                    [
+                        -8423529.0482,
+                        5687275.2797
+                    ],
+                    [
+                        -8423524.7524,
+                        5687278.0893
+                    ],
+                    [
+                        -8423521.8787,
+                        5687280.9136
+                    ],
+                    [
+                        -8423508.947,
+                        5687293.6231
+                    ],
+                    [
+                        -8423485.8839,
+                        5687323.3523
+                    ],
+                    [
+                        -8423452.5275,
+                        5687385.7972
+                    ],
+                    [
+                        -8423442.0873,
+                        5687432.7837
+                    ],
+                    [
+                        -8423441.8082,
+                        5687459.8952
+                    ],
+                    [
+                        -8423443.01,
+                        5687481.3138
+                    ],
+                    [
+                        -8423445.9386,
+                        5687507.6934
+                    ],
+                    [
+                        -8423455.2291,
+                        5687537.556
+                    ],
+                    [
+                        -8423474.0373,
+                        5687575.3975
+                    ],
+                    [
+                        -8423505.5324,
+                        5687609.8684
+                    ],
+                    [
+                        -8423535.2699,
+                        5687631.8698
+                    ],
+                    [
+                        -8423563.6406,
+                        5687644.6148
+                    ],
+                    [
+                        -8423595.8336,
+                        5687653.7034
+                    ],
+                    [
+                        -8423632.4682,
+                        5687658.4494
+                    ],
+                    [
+                        -8423662.6393,
+                        5687653.4937
+                    ],
+                    [
+                        -8423693.1147,
+                        5687642.3105
+                    ],
+                    [
+                        -8423721.7058,
+                        5687628.335
+                    ],
+                    [
+                        -8423779.4973,
+                        5687589.0948
+                    ],
+                    [
+                        -8423805.0317,
+                        5687574.5037
+                    ],
+                    [
+                        -8423835.4645,
+                        5687566.9048
+                    ],
+                    [
+                        -8423857.0673,
+                        5687563.7097
+                    ],
+                    [
+                        -8423879.3438,
+                        5687563.0763
+                    ],
+                    [
+                        -8423911.9611,
+                        5687566.9002
+                    ],
+                    [
+                        -8423931.2631,
+                        5687572.3951
+                    ],
+                    [
+                        -8423950.2302,
+                        5687582.0083
+                    ],
+                    [
+                        -8423965.6833,
+                        5687590.9956
+                    ],
+                    [
+                        -8423989.3489,
+                        5687605.4088
+                    ],
+                    [
+                        -8424009.3891,
+                        5687619.4026
+                    ],
+                    [
+                        -8424035.0528,
+                        5687630.2872
+                    ],
+                    [
+                        -8424047.3337,
+                        5687633.4677
+                    ],
+                    [
+                        -8424072.825,
+                        5687640.068
+                    ],
+                    [
+                        -8424104.5058,
+                        5687644.0717
+                    ],
+                    [
+                        -8424147.7015,
+                        5687652.6451
+                    ],
+                    [
+                        -8424271.441,
+                        5687699.647
+                    ],
+                    [
+                        -8424369.1995,
+                        5687725.157
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 31,
+                "street_name": "Main Street",
+                "origin": "Main Street was named since it was the <b>main street of the village of Ottawa East</b>.",
+                "photos": [
+                    {
+                        "caption": "Main Street about where Highway 417 crosses today",
+                        "dateTaken": "1896-06",
+                        "url": "http://www.kballantyne.ca/geomatics/maps/ottawa-street-names/photos/main-street-a132214-v8.jpg",
+                        "sourceUrl": "http://central.bac-lac.gc.ca/.redirect?app=fonandcol&id=3265064&lang=eng"
+                    }
+                ],
+                "sources": []
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8424829.1024,
+                        5687130.2453
+                    ],
+                    [
+                        -8424829.2906,
+                        5687111.696
+                    ],
+                    [
+                        -8424826.6054,
+                        5687095.9714
+                    ],
+                    [
+                        -8424816.9109,
+                        5687070.1862
+                    ],
+                    [
+                        -8424782.3279,
+                        5686988.7591
+                    ],
+                    [
+                        -8424737.7318,
+                        5686883.8649
+                    ],
+                    [
+                        -8424733.5669,
+                        5686873.8334
+                    ],
+                    [
+                        -8424711.3926,
+                        5686816.5278
+                    ],
+                    [
+                        -8424673.0112,
+                        5686727.0087
+                    ],
+                    [
+                        -8424631.8871,
+                        5686633.8353
+                    ],
+                    [
+                        -8424577.8294,
+                        5686500.6954
+                    ],
+                    [
+                        -8424553.4238,
+                        5686441.6134
+                    ],
+                    [
+                        -8424517.2715,
+                        5686354.5589
+                    ],
+                    [
+                        -8424482.4566,
+                        5686267.3987
+                    ],
+                    [
+                        -8424475.9968,
+                        5686252.2102
+                    ],
+                    [
+                        -8424444.4128,
+                        5686176.1338
+                    ],
+                    [
+                        -8424402.0801,
+                        5686071.9836
+                    ],
+                    [
+                        -8424389.1713,
+                        5686040.2967
+                    ],
+                    [
+                        -8424327.2814,
+                        5685890.5412
+                    ],
+                    [
+                        -8424253.0091,
+                        5685707.4121
+                    ],
+                    [
+                        -8424214.5511,
+                        5685611.8076
+                    ],
+                    [
+                        -8424136.9095,
+                        5685413.7274
+                    ],
+                    [
+                        -8424098.6738,
+                        5685320.4102
+                    ],
+                    [
+                        -8424060.872,
+                        5685219.0619
+                    ],
+                    [
+                        -8424032.861,
+                        5685139.6645
+                    ],
+                    [
+                        -8424012.2388,
+                        5685090.0018
+                    ],
+                    [
+                        -8423967.8193,
+                        5684983.9675
+                    ],
+                    [
+                        -8423921.9951,
+                        5684876.4947
+                    ],
+                    [
+                        -8423916.454,
+                        5684862.1693
+                    ],
+                    [
+                        -8423899.8309,
+                        5684819.1982
+                    ],
+                    [
+                        -8423883.0325,
+                        5684793.3452
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 32,
+                "street_name": "Corkstown Road",
+                "origin": "Corkstown Road was named since many of the first permanent settlers along the road and in the area came from <b>County Cork in Ireland</b>.<br>The settlers are believed to have arrived in the 1840s to Nepean Township and the area later became a significant community as the just off the road was the quarry that supplied the stones for the Parliament Buildings.<br>As the early pioneers had many hardships, one of the first houses along Corkstown Road was turned into a tavern known as Bishop's Palace due to the owner's last name Bishop.<br>There was a Corkstown made up of shanties along what is now Nicholas Street for civilians working on the Rideau Canal. This area was named for the same reason (many came from County Cork) but has no connection the road in Nepean Township.",
+                "photos": [
+                    {
+                        "caption": "Corkstown Road with the property of Henry Bishop and the quarry",
+                        "dateTaken": "1879",
+                        "url": "http://www.kballantyne.ca/geomatics/maps/ottawa-street-names/photos/corkstown.jpg",
+                        "sourceUrl": "https://archive.org/details/cihm_12020"
+                    }
+                ],
+                "sources": [
+                    {
+                        "type": "newspaper",
+                        "author": "Turcotte, Bobbi",
+                        "title": "What's In A Name - Corkstown Road",
+                        "date": "1983-09-28",
+                        "publisher": "The Ottawa Citizen",
+                        "city": "Ottawa, Ontario",
+                        "accessed": "2022-10-24",
+                        "url": "https://www.newspapers.com/image/464061931/"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8447979.9316,
+                        5673032.9645
+                    ],
+                    [
+                        -8447977.1532,
+                        5673034.2117
+                    ],
+                    [
+                        -8447885.8876,
+                        5673074.9931
+                    ],
+                    [
+                        -8447861.7046,
+                        5673080.5082
+                    ],
+                    [
+                        -8447857.4446,
+                        5673080.4757
+                    ],
+                    [
+                        -8447854.6046,
+                        5673080.4541
+                    ],
+                    [
+                        -8447841.8139,
+                        5673081.7815
+                    ],
+                    [
+                        -8447819.1155,
+                        5673078.7589
+                    ],
+                    [
+                        -8447797.8588,
+                        5673072.8977
+                    ],
+                    [
+                        -8447765.3597,
+                        5673051.2778
+                    ],
+                    [
+                        -8447737.2191,
+                        5673016.8679
+                    ],
+                    [
+                        -8447723.2892,
+                        5672981.1418
+                    ],
+                    [
+                        -8447612.1466,
+                        5672656.8682
+                    ],
+                    [
+                        -8447602.3586,
+                        5672636.8455
+                    ],
+                    [
+                        -8447584.116,
+                        5672608.2113
+                    ],
+                    [
+                        -8447570.0359,
+                        5672592.4316
+                    ],
+                    [
+                        -8447536.1853,
+                        5672562.2533
+                    ],
+                    [
+                        -8447486.6942,
+                        5672534.8047
+                    ],
+                    [
+                        -8447465.4498,
+                        5672527.5184
+                    ],
+                    [
+                        -8447390.2599,
+                        5672518.3938
+                    ],
+                    [
+                        -8447117.5043,
+                        5672533.3947
+                    ],
+                    [
+                        -8447081.9958,
+                        5672534.546
+                    ],
+                    [
+                        -8447029.3719,
+                        5672545.5383
+                    ],
+                    [
+                        -8446989.5163,
+                        5672558.0535
+                    ],
+                    [
+                        -8446595.8165,
+                        5672788.6676
+                    ],
+                    [
+                        -8446433.1601,
+                        5672888.5645
+                    ],
+                    [
+                        -8446162.1287,
+                        5673046.0305
+                    ],
+                    [
+                        -8445906.7179,
+                        5673202.1891
+                    ],
+                    [
+                        -8445902.4356,
+                        5673205.0052
+                    ],
+                    [
+                        -8445899.5734,
+                        5673207.8324
+                    ],
+                    [
+                        -8445858.1934,
+                        5673233.155
+                    ],
+                    [
+                        -8445853.9112,
+                        5673235.9711
+                    ],
+                    [
+                        -8445851.049,
+                        5673238.7983
+                    ],
+                    [
+                        -8445491.4402,
+                        5673461.0991
+                    ],
+                    [
+                        -8445411.5377,
+                        5673508.9158
+                    ],
+                    [
+                        -8444983.5168,
+                        5673759.161
+                    ],
+                    [
+                        -8444979.234,
+                        5673761.9768
+                    ],
+                    [
+                        -8444976.3826,
+                        5673763.3791
+                    ],
+                    [
+                        -8444598.2806,
+                        5673984.0851
+                    ],
+                    [
+                        -8444407.0759,
+                        5674096.5547
+                    ],
+                    [
+                        -8444402.7928,
+                        5674099.3704
+                    ],
+                    [
+                        -8444399.9411,
+                        5674100.7725
+                    ],
+                    [
+                        -8444345.7261,
+                        5674131.6877
+                    ],
+                    [
+                        -8443843.4308,
+                        5674426.9024
+                    ],
+                    [
+                        -8442781.6765,
+                        5675048.1598
+                    ],
+                    [
+                        -8442765.9721,
+                        5675058.0071
+                    ],
+                    [
+                        -8442745.9373,
+                        5675076.3711
+                    ],
+                    [
+                        -8442732.9691,
+                        5675099.0669
+                    ],
+                    [
+                        -8442724.2501,
+                        5675123.2226
+                    ],
+                    [
+                        -8442719.8139,
+                        5675144.5632
+                    ],
+                    [
+                        -8442721.0487,
+                        5675167.3755
+                    ],
+                    [
+                        -8442785.6081,
+                        5675612.5619
+                    ],
+                    [
+                        -8442784.0603,
+                        5675628.2265
+                    ],
+                    [
+                        -8442773.9553,
+                        5675648.0967
+                    ],
+                    [
+                        -8442763.943,
+                        5675656.566
+                    ],
+                    [
+                        -8442742.556,
+                        5675666.3673
+                    ],
+                    [
+                        -8442726.0569,
+                        5675667.3353
+                    ],
+                    [
+                        -8442685.7288,
+                        5675667.3269
+                    ],
+                    [
+                        -8442664.4694,
+                        5675661.4517
+                    ],
+                    [
+                        -8442653.1992,
+                        5675649.9576
+                    ],
+                    [
+                        -8442640.5782,
+                        5675629.9011
+                    ],
+                    [
+                        -8442581.6448,
+                        5675491.0323
+                    ],
+                    [
+                        -8442571.2687,
+                        5675472.3749
+                    ],
+                    [
+                        -8442559.0241,
+                        5675453.0434
+                    ],
+                    [
+                        -8442543.3835,
+                        5675435.3807
+                    ],
+                    [
+                        -8442527.7381,
+                        5675418.2836
+                    ],
+                    [
+                        -8442509.2652,
+                        5675402.2946
+                    ],
+                    [
+                        -8442490.2056,
+                        5675389.1288
+                    ],
+                    [
+                        -8442468.882,
+                        5675377.0756
+                    ],
+                    [
+                        -8442452.0402,
+                        5675368.4528
+                    ],
+                    [
+                        -8442430.116,
+                        5675360.9195
+                    ],
+                    [
+                        -8442408.1734,
+                        5675355.6486
+                    ],
+                    [
+                        -8442389.0353,
+                        5675352.0973
+                    ],
+                    [
+                        -8442365.3785,
+                        5675349.6401
+                    ],
+                    [
+                        -8442341.7077,
+                        5675348.8796
+                    ],
+                    [
+                        -8442320.2642,
+                        5675351.531
+                    ],
+                    [
+                        -8442294.2924,
+                        5675356.4076
+                    ],
+                    [
+                        -8442269.9931,
+                        5675363.5603
+                    ],
+                    [
+                        -8442243.9702,
+                        5675374.658
+                    ],
+                    [
+                        -8441483.6724,
+                        5675832.6717
+                    ],
+                    [
+                        -8441421.8704,
+                        5675869.7703
+                    ],
+                    [
+                        -8441279.8579,
+                        5675959.2715
+                    ],
+                    [
+                        -8441247.247,
+                        5675979.0635
+                    ],
+                    [
+                        -8441119.7254,
+                        5676056.4579
+                    ],
+                    [
+                        -8441058.5118,
+                        5676093.6082
+                    ],
+                    [
+                        -8441052.8437,
+                        5676097.0485
+                    ],
+                    [
+                        -8440868.6536,
+                        5676209.5274
+                    ],
+                    [
+                        -8440795.827,
+                        5676254.5266
+                    ],
+                    [
+                        -8440710.1454,
+                        5676307.9674
+                    ],
+                    [
+                        -8440577.3938,
+                        5676383.8162
+                    ],
+                    [
+                        -8440541.6902,
+                        5676406.3218
+                    ],
+                    [
+                        -8440391.7943,
+                        5676493.4267
+                    ],
+                    [
+                        -8440377.4814,
+                        5676506.1337
+                    ],
+                    [
+                        -8440360.2077,
+                        5676533.0693
+                    ],
+                    [
+                        -8440361.1971,
+                        5676584.3916
+                    ],
+                    [
+                        -8440363.9663,
+                        5676592.9672
+                    ],
+                    [
+                        -8440367.0562,
+                        5676613.7239
+                    ]
+                ]
+            }
         }
     ]
 }
