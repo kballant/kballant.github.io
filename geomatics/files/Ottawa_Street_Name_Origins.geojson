@@ -14939,7 +14939,7 @@
                     {
                         "caption": "Outline of the lot Besserer owned over a map of Sandy Hill today.",
                         "dateTaken": null,
-                        "url": "http://www.kballantyne.ca/geomatrics/maps/ottawa-street-names/photos/besserer-lot.jpg",
+                        "url": "http://www.kballantyne.ca/geomatics/maps/ottawa-street-names/photos/besserer-lot.jpg",
                         "sourceUrl": null
                     }
                 ],
@@ -15130,7 +15130,14 @@
                 "id": 37,
                 "street_name": "Bruy\u00e8re Street",
                 "origin": "Bruy\u00e8re Street was named after <b>Mother \u00c9lisabeth Bruy\u00e8re</b> (19 March 1818 - 5 April 1876), founder of the Sisters of Charity in Bytown who opened the first hospital in the town.<br>Born 19 March 1818 in L'Assomption, Lower Canada (now Quebec), Bruy\u00e8re entered the Congregation of the Grey Nuns of the H\u00f4pital G\u00e9n\u00e9ral of Montreal in 1839. She arrived in Bytown on 20 February 1845 to set up the community of Sisters of Charity in Bytown with three other Grey Nuns. Within three months, the sisters set up established a school, a hospital, a hospice for the edlerly and an orphanage. After only two years in Bytown, the Congregation faced a severe tyhpus epidemic. 17 of the 22 Sisters contracted the disease but none of them died. The Sisters continued to provide care to the residents of Bytown and Ottawa. By the time of Bruy\u00e8re's death on 5 April 1876, she had a well-established community of 198 Sisters living in 23 different convents.",
-                "photos": [],
+                "photos": [
+                    {
+                        "caption": "Mother &#201;lisabeth Bruy&#232;re",
+                        "dateTaken": "1871",
+                        "url": "http://www.kballantyne.ca/geomatics/maps/ottawa-street-names/photos/elisabeth-bruyere-a186451-v6.jpg",
+                        "sourceUrl": "http://central.bac-lac.gc.ca/.redirect?app=fonandcol&id=3517479&lang=eng"
+                    }
+                ],
                 "sources": [
                     {
                         "type": "webpage",
