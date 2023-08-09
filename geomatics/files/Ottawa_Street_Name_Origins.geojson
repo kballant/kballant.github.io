@@ -15277,6 +15277,210 @@
         {
             "type": "Feature",
             "properties": {
+                "id": 46,
+                "street_name": "Fisher Avenue",
+                "origin": "Fisher Avenue is named after <b>Harold Fisher</b> (1 November 1877 - 19 December 1928), Mayor of Ottawa from 1917 to 1920.<br>\n\nBorn in Peterborough, Ontario, he attended the University of Toronto and got his law degree from Osgoode Hall. He was called to the Ontario bar in 1902 and moved to Ottawa in 1903.<br>\n\nHis political career started when he was elected as an Alderman in 1913. He later became mayor of Ottawa in 1917. During the flu pandemic in 1918, Fisher realized that the city needed a new hospital. The location the Ottawa City Council chose for the hospital was outside the city in the west end surrounded by farmland. Some were concerned about the distant location of the hospital. However, in time the city expanded west to eventually surround the hospital.<br>\n\nFisher was elected as an MPP in the provincial legislature for the Ontario Liberal Party from 1923 to 1926. He died of pneumonia in 1928.",
+                "photos": [],
+                "sources": [
+                    {
+                        "type": "webpage",
+                        "author": "Powell, James",
+                        "title": "Fisher's 'Folly'",
+                        "date": null,
+                        "publisher": null,
+                        "city": null,
+                        "accessed": "2023-08-08",
+                        "url": "https://www.historicalsocietyottawa.ca/publications/ottawa-stories/important-public-and-private-buildings-in-the-city/fisher-s-folly"
+                    },
+                    {
+                        "type": "webpage",
+                        "author": null,
+                        "title": "Harold Fisher (politician) - Wikipedia",
+                        "date": null,
+                        "publisher": null,
+                        "city": null,
+                        "accessed": "2023-08-08",
+                        "url": "https://en.wikipedia.org/wiki/Harold_Fisher_(politician)"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8429888.1302,
+                        5682983.0758
+                    ],
+                    [
+                        -8429876.8947,
+                        5682968.7038
+                    ],
+                    [
+                        -8429818.5442,
+                        5682826.9306
+                    ],
+                    [
+                        -8429794.8558,
+                        5682776.7802
+                    ],
+                    [
+                        -8429787.8441,
+                        5682766.7283
+                    ],
+                    [
+                        -8429768.4766,
+                        5682710.9146
+                    ],
+                    [
+                        -8429718.4666,
+                        5682589.1935
+                    ],
+                    [
+                        -8429657.3056,
+                        5682444.5459
+                    ],
+                    [
+                        -8429476.6341,
+                        5682014.9194
+                    ],
+                    [
+                        -8429397.4565,
+                        5681823.0402
+                    ],
+                    [
+                        -8429259.9341,
+                        5681490.8349
+                    ],
+                    [
+                        -8429258.5403,
+                        5681487.9691
+                    ],
+                    [
+                        -8429257.1603,
+                        5681483.6773
+                    ],
+                    [
+                        -8429164.0273,
+                        5681266.002
+                    ],
+                    [
+                        -8428961.3261,
+                        5680767.7579
+                    ],
+                    [
+                        -8428754.3701,
+                        5680270.921
+                    ],
+                    [
+                        -8428726.64,
+                        5680199.3523
+                    ],
+                    [
+                        -8428701.711,
+                        5680132.0904
+                    ],
+                    [
+                        -8428636.4303,
+                        5679976.0273
+                    ],
+                    [
+                        -8428594.8105,
+                        5679871.5292
+                    ],
+                    [
+                        -8428510.1514,
+                        5679662.5241
+                    ],
+                    [
+                        -8428438.0085,
+                        5679482.1616
+                    ],
+                    [
+                        -8428392.1165,
+                        5679379.0537
+                    ],
+                    [
+                        -8428350.5855,
+                        5679266.0076
+                    ],
+                    [
+                        -8428268.7096,
+                        5679064.1702
+                    ],
+                    [
+                        -8428235.4009,
+                        5678982.5743
+                    ],
+                    [
+                        -8428160.0156,
+                        5678792.1031
+                    ],
+                    [
+                        -8428113.274,
+                        5678683.3988
+                    ],
+                    [
+                        -8428039.1073,
+                        5678500.4501
+                    ],
+                    [
+                        -8428007.8963,
+                        5678415.7593
+                    ],
+                    [
+                        -8427881.6899,
+                        5678099.4509
+                    ],
+                    [
+                        -8427752.6497,
+                        5677783.1232
+                    ],
+                    [
+                        -8427683.448,
+                        5677595.6939
+                    ],
+                    [
+                        -8427622.423,
+                        5677443.9855
+                    ],
+                    [
+                        -8427575.0583,
+                        5677348.0096
+                    ],
+                    [
+                        -8427556.8284,
+                        5677323.5961
+                    ],
+                    [
+                        -8427538.5987,
+                        5677299.1827
+                    ],
+                    [
+                        -8427516.0792,
+                        5677277.5778
+                    ],
+                    [
+                        -8427488.8033,
+                        5677257.7393
+                    ],
+                    [
+                        -8427466.6946,
+                        5677242.8762
+                    ],
+                    [
+                        -8427412.1012,
+                        5677224.4425
+                    ],
+                    [
+                        -8427341.977,
+                        5677211.7056
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "id": 54,
                 "street_name": "Montreal Road",
                 "origin": "Montreal Road was named due to it being <b>the original road from Ottawa to Montreal</b>. Previously known as the King\u2019s Road.",
@@ -15724,6 +15928,120 @@
                     [
                         -8413939.9021,
                         5692851.7825
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 61,
+                "street_name": "Holland Ave",
+                "origin": "Holland Avenue was named after the Holland Brothers, <b>Andrew Holland</b> (11 August 1844 - 29 March 1923) and <b>George Holland</b> (5 March 1846 - 26 February 1923), journalists and entrepeneurs from Ottawa.<br>\n\nBorn in Bytown, both brothers entered the world of journalism in the start of their careers. Andrew wrote for newspapers in Ottawa while George contributed articles for the Toronto Telegraph, Chicago Times, Washington Post and New York Herald. In January 1873, the brothers became owners and editors of the Ottawa Citizen and later joined the reporting staff for the House of Commons. In 1877, they became the official reporters for the Senate of Canada.<br>\n\nIn 1892, Andrew travelled to Australia and established the Canadian Australian Royal Mail steamship line. However, both brothers made their permanent home in the Kitchissippi community in 1877. The properties they chose would later prove lucrative as the city developed west with the streetcar lines. They started the Ottawa Land Association and bought up more property in the area.<br>\n\nThe brothers were also involved in the promotion and distribution of early moving picture technology. Andrew opened the world's first kinetoscope parlour for the Edison Company in New York City in April 1894. The brothers later brought the vitascope to Ottawa's West End Park in July 1896 for the first moving picture show in Canada on the big screen.<br>\n\nThe brothers both died in 1923 just a little over a month apart.",
+                "photos": [],
+                "sources": [
+                    {
+                        "type": "webpage",
+                        "author": "EDITORKITCHISSIPPICOM",
+                        "title": "The history of Holland Avenue: A story of two brothers",
+                        "date": "2021-09-09",
+                        "publisher": null,
+                        "city": null,
+                        "accessed": "2023-08-08",
+                        "url": "https://kitchissippi.com/2021/09/09/the-history-of-holland-avenue-a-story-of-two-brothers/"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -8430709.1405,
+                        5685306.264
+                    ],
+                    [
+                        -8430673.0503,
+                        5685213.181
+                    ],
+                    [
+                        -8430577.0827,
+                        5684986.8434
+                    ],
+                    [
+                        -8430535.3226,
+                        5684892.2819
+                    ],
+                    [
+                        -8430442.136,
+                        5684673.1111
+                    ],
+                    [
+                        -8430323.9347,
+                        5684393.7859
+                    ],
+                    [
+                        -8430300.3225,
+                        5684335.0694
+                    ],
+                    [
+                        -8430250.2149,
+                        5684221.8883
+                    ],
+                    [
+                        -8430169.6057,
+                        5684027.1023
+                    ],
+                    [
+                        -8430157.1101,
+                        5683995.5986
+                    ],
+                    [
+                        -8430136.2208,
+                        5683949.7475
+                    ],
+                    [
+                        -8430045.8847,
+                        5683732.0494
+                    ],
+                    [
+                        -8429955.4699,
+                        5683522.913
+                    ],
+                    [
+                        -8429869.2704,
+                        5683319.5257
+                    ],
+                    [
+                        -8429764.9778,
+                        5683076.0299
+                    ],
+                    [
+                        -8429749.6404,
+                        5683044.5016
+                    ],
+                    [
+                        -8429741.7131,
+                        5682981.6635
+                    ],
+                    [
+                        -8429741.8772,
+                        5682964.5487
+                    ],
+                    [
+                        -8429753.8373,
+                        5682903.3307
+                    ],
+                    [
+                        -8429788.8008,
+                        5682815.233
+                    ],
+                    [
+                        -8429790.564,
+                        5682779.5915
+                    ],
+                    [
+                        -8429787.8441,
+                        5682766.7283
                     ]
                 ]
             }
