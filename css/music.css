@@ -269,6 +269,7 @@ p {
     line-height: 1.4em;
     color: #FFFFFF;
 	text-shadow: 2px 2px black;
+	margin-top: 5px !important;
 }
 p.sidebar {
 	font-size: 1em;
