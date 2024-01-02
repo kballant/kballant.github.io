@@ -419,6 +419,11 @@ ol.posts li {
 	font-size: 1em !important;
 	color: #77CCFF;
 }
+.song-writer {
+	/* list-style: none !important; */
+	font-size: 0.8em !important;
+	color: #77CCFF;
+}
 .active {
 	background: #330000 !important;
 }
