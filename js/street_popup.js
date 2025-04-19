@@ -19,12 +19,16 @@ function parseOrigin(origin) {
 function createPhotoHtml(photos) {
 	
 	var photo_html = '';
+
+	if (photos == null) {
+		return photo_html;
+	}
 	
 	for (var i = 0; i < photos.length; i++) {
 		caption = photos[i]['caption'];
 		//link = photos[i]['link'];
-		img_url = photos[i]['url'];
-		source_url = photos[i]['sourceUrl'];
+		img_url = photos[i]['photo_url'];
+		source_url = photos[i]['source_url'];
 		date_taken = photos[i]['date'];
 		
 		var img = document.createElement('img');
@@ -78,62 +82,68 @@ function showPopup(props, featId) {
 	
 	// Create links for sources:
 	sources = checkInput(props['sources']);
-	if (sources.length > 0) {
-		//sources = sources.replace(/<a/g, '<a target="_blank" class="popup-a"');
-		source_html = '';
-		for (var i = 0; i < sources.length; i++) {
-			var src_type = sources[i]['type'];
-			var accessed = new Date(sources[i]['accessed']);
-			var author = sources[i]['author'];
-			var title = sources[i]['title'];
-			var city = sources[i]['city'];
-			var print_date = new Date(sources[i]['date']);
-			var publisher = sources[i]['publisher'];
-			var title = sources[i]['title'];
-			var url = sources[i]['url'];
-			if (src_type == 'newspaper') {
-				if (author != null && author != 'null') {
-					author = author + ". ";
-				} else {
-					author = '';
-				}
-				citation = (i + 1) + '. ' 
-							+ author + '"' 
-							+ title + '". ' 
-							+ publisher + '. ' 
-							+ formatDate(print_date) + '. ' 
-							+ '<a class="on-white" href="' + url + '" target="_blank">' 
-							+ url + '</a>. (accessed ' 
-							+ formatDate(accessed) + ").";
-			} else if (src_type == 'webpage') {
-				if (author != null && author != 'null') {
-					author = author + ". ";
-				} else {
-					author = '';
-				}
-				citation = (i + 1) + '. ' 
-							+ author + '"' 
-							+ title + '". ' 
-							+ '<a class="on-white" href="' 
-							+ url + '" target="_blank">' 
-							+ url + '</a>. (accessed - ' 
-							+ formatDate(accessed) + ").";
-			} else if (src_type == 'book') {
-				citation = (i + 1) + '. ' 
-							+ author + '"' 
-							+ title + '". ' 
-							+ city + ': ' + publisher + '. ' 
-							+ formatDate(print_date) + '.';
-			}
-			// src_name = (i + 1) + ". " + sources[i]['name'];
-			// src_url = sources[i]['url'];
-			source_html += [citation, 
-							'<br>'
-						  ].join('\n');
-		}
-		popup_html = popup_html.replace('${sources}', source_html);
-	} else {
+	console.log('sources: ' + sources);
+	if (sources == 'n/a') {
 		popup_html = popup_html.replace('${sources}', 'n/a');
+	} else {
+		if (sources.length > 0) {
+			//sources = sources.replace(/<a/g, '<a target="_blank" class="popup-a"');
+			source_html = '';
+			for (var i = 0; i < sources.length; i++) {
+				var src_type = sources[i]['source_type'];
+				var accessed = new Date(sources[i]['accessed']);
+				var author = sources[i]['author'];
+				var title = sources[i]['title'];
+				var city = sources[i]['city'];
+				var print_date = new Date(sources[i]['date']);
+				var publisher = sources[i]['publisher'];
+				var title = sources[i]['title'];
+				var url = sources[i]['url'];
+
+				if (src_type == 'newspaper') {
+					if (author != null && author != 'null') {
+						author = author + ". ";
+					} else {
+						author = '';
+					}
+					citation = (i + 1) + '. ' 
+								+ author + '"' 
+								+ title + '". ' 
+								+ publisher + '. ' 
+								+ formatDate(print_date) + '. ' 
+								+ '<a class="on-white" href="' + url + '" target="_blank">' 
+								+ url + '</a>. (accessed ' 
+								+ formatDate(accessed) + ").";
+				} else if (src_type == 'book') {
+					citation = (i + 1) + '. ' 
+								+ author + '"' 
+								+ title + '". ' 
+								+ city + ': ' + publisher + '. ' 
+								+ formatDate(print_date) + '.';
+				} else {
+					if (author != null && author != 'null') {
+						author = author + ". ";
+					} else {
+						author = '';
+					}
+					citation = (i + 1) + '. ' 
+								+ author + '"' 
+								+ title + '". ' 
+								+ '<a class="on-white" href="' 
+								+ url + '" target="_blank">' 
+								+ url + '</a>. (accessed - ' 
+								+ formatDate(accessed) + ").";
+				}
+				// src_name = (i + 1) + ". " + sources[i]['name'];
+				// src_url = sources[i]['url'];
+				source_html += [citation, 
+								'<br>'
+							].join('\n');
+			}
+			popup_html = popup_html.replace('${sources}', source_html);
+		} else {
+			popup_html = popup_html.replace('${sources}', 'n/a');
+		}
 	}
 	
 	if (featId > -1 && featId != null) {
