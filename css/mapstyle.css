@@ -539,6 +539,9 @@ p.mag {
 .popup-source {
 	font-size: 0.8em;
 }
+.street-popup {
+	margin: 15px;
+}
 .street-photo {
 	clear: right; 
 	float: right;
@@ -548,6 +551,15 @@ p.mag {
 	border-width: thin;
 	padding: 10px;
 	background: #EEEEEE;
+}
+.other-photo {
+    clear: left;
+    float: left;
+    margin: 10px;
+    border: solid;
+    border-width: thin;
+    padding: 10px;
+    background: #EEEEEE;
 }
 .street-p {
 	color: black;

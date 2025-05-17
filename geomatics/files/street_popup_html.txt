@@ -1,7 +1,8 @@
 <br>
-<div class="row">
+<div class="row street-popup">
 	${photo}
 	<p class="street-p">${origin}</p>
+	${other_photos}
 </div>
 <hr>
 <div class="row popup-source">

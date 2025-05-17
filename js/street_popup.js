@@ -24,7 +24,10 @@ function createPhotoHtml(photos) {
 		return photo_html;
 	}
 	
+	out_photos = new Map();
 	for (var i = 0; i < photos.length; i++) {
+		primary = photos[i]['primary_image'];
+		img_orient = photos[i]['orientation'];
 		caption = photos[i]['caption'];
 		//link = photos[i]['link'];
 		img_url = photos[i]['photo_url'];
@@ -39,25 +42,60 @@ function createPhotoHtml(photos) {
 			var img_height = img.height;
 			var img_width = img.width;
 			
-			if (img_height > img_width) {
+			/*if (img_height > img_width) {
+				img_photo.style.width = "40%";
+			}*/
+			if (img_orient == 'landscape') {
+				img_photo.style.width = "60%";
+			} else {
 				img_photo.style.width = "40%";
 			}
 		};
 
+		console.log(window.location.hostname);
+		console.log("img_url: " + img_url);
+
+		if (window.location.hostname == "127.0.0.1") {
+			img_url = img_url.replace("www.kballantyne.ca", window.location.host);
+			console.log("img_url: " + img_url);
+		}
+
 		img.src = img_url;
+
+		other_photos = out_photos.get('others')
+
+		if (typeof other_photos == 'undefined') {
+			other_photos = [];
+		}
 		
-		photo_html += ['', '<div id="image-photo" class="street-photo" style="width: 50%">', 
+		if (primary == true) {
+			photo_html = ['', '<div id="image-photo" class="street-photo" style="width: 50%">', 
+							'<figure>', 
+							'<a href="' + source_url + '">', 
+							'<img style="width: 100%" href="' + source_url + '" src="' + img_url + '">', 
+							'</a>', 
+							'<figcaption class="street-figcaption">' + caption + '</figcaption>', 
+							'</figure>', 
+							'</div>'
+						].join('\n');
+			out_photos.set("primary", photo_html);
+			continue;
+		}
+
+		photo_html = ['', '<div id="other-photo" class="street-photo" style="width: 100%">', 
 						'<figure>', 
+						'<figcaption class="street-figcaption">' + caption + '</figcaption>', 
 						'<a href="' + source_url + '">', 
 						'<img style="width: 100%" href="' + source_url + '" src="' + img_url + '">', 
 						'</a>', 
-						'<figcaption class="street-figcaption">' + caption + '</figcaption>', 
 						'</figure>', 
 						'</div>'
 					].join('\n');
+		other_photos.push(photo_html);
+		out_photos.set('others', other_photos);
 	}
 					
-	return photo_html;
+	return out_photos;
 }
 
 function showPopup(props, featId) {
@@ -77,8 +115,27 @@ function showPopup(props, featId) {
 	// popup_html = popup_html.replace('${photo}', checkInput(props['photo']));
 	// popup_html = popup_html.replace('${source}', checkInput(props['source']));
 	
-	photo_html = createPhotoHtml(photos);
-	popup_html = popup_html.replace('${photo}', photo_html);
+	photo_htmls = createPhotoHtml(photos);
+	if (photo_htmls) {
+		prime_html = photo_htmls.get('primary');
+		if (prime_html) {
+			popup_html = popup_html.replace('${photo}', prime_html);
+		} else {
+			popup_html = popup_html.replace('${photo}', '');
+		}
+		others = photo_htmls.get('others');
+		if (others) {
+			other_photos_html = others.join('\n');
+			popup_html = popup_html.replace('${other_photos}', other_photos_html);
+		} else {
+			popup_html = popup_html.replace('${other_photos}', '');
+		}
+
+		console.log([...photo_htmls.entries()]);
+	} else {
+		popup_html = popup_html.replace('${photo}', '');
+		popup_html = popup_html.replace('${other_photos}', '');
+	}
 	
 	// Create links for sources:
 	sources = checkInput(props['sources']);
