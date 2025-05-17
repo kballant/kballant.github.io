@@ -418,32 +418,32 @@ function Map() {
 
 	// Popup Methods
 
-	function closePopup(featId) {
-		/* Called once the popup has been closed.
-		:param featId: The ID of the feature that initiated the popup.
-		:return: None
-		*/
+	// function closePopup(featId) {
+	// 	/* Called once the popup has been closed.
+	// 	:param featId: The ID of the feature that initiated the popup.
+	// 	:return: None
+	// 	*/
 
-		// Unlocks the map page
-		POPUP_LOCK = false;
+	// 	// Unlocks the map page
+	// 	POPUP_LOCK = false;
 		
-		// Removes the highlight of the feature with ID featId
-		setHighlight(featId);
-	};
+	// 	// Removes the highlight of the feature with ID featId
+	// 	setHighlight(featId);
+	// };
 
-	function resizePopup(img) {
-		/* Resizes the popup based on the input image.
-			NOTE: This method is no longer used.
-		*/ 
+	// function resizePopup(img) {
+	// 	/* Resizes the popup based on the input image.
+	// 		NOTE: This method is no longer used.
+	// 	*/ 
 
-		height = img.height;
-		width = img.width;
-		map_popup = document.getElementById('inline_content').style;
-		//alert(map_popup.cssText);
-		popup_height = map_popup.style.height;
+	// 	height = img.height;
+	// 	width = img.width;
+	// 	map_popup = document.getElementById('inline_content').style;
+	// 	//alert(map_popup.cssText);
+	// 	popup_height = map_popup.style.height;
 		
-		//alert("height: " + height + ", width: " + width + ", popup_height: " + popup_height);
-	};
+	// 	//alert("height: " + height + ", width: " + width + ", popup_height: " + popup_height);
+	// };
 	
 	function createMap() {
 		// Create the OL map object

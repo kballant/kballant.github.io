@@ -324,24 +324,24 @@ function bindOpen() {
 		// Get the img element
 		imgElements = htmlDoc.getElementsByTagName('img');
 		
-		// Calculate the width of the image based on the height
-		function calculateWidth(img, height) {
-			var newImg = document.createElement('img');
-			newImg.src = img.src;
+		// // Calculate the width of the image based on the height
+		// function calculateWidth(img, height) {
+		// 	var newImg = document.createElement('img');
+		// 	newImg.src = img.src;
 			
-			if (newImg.naturalWidth) {
-				imgHeight = newImg.naturalHeight;
-				imgWidth = newImg.naturalWidth;
-			}
+		// 	if (newImg.naturalWidth) {
+		// 		imgHeight = newImg.naturalHeight;
+		// 		imgWidth = newImg.naturalWidth;
+		// 	}
 			
-			aspect = imgWidth / imgHeight;
+		// 	aspect = imgWidth / imgHeight;
 			
-			newWidth = height * aspect;
+		// 	newWidth = height * aspect;
 			
-			newWidth = parseInt(newWidth.toString());
+		// 	newWidth = parseInt(newWidth.toString());
 			
-			return newWidth;
-		}
+		// 	return newWidth;
+		// }
 		
 		// Get the contents of the popup from the page (element 
 		//		with id 'inline_content')

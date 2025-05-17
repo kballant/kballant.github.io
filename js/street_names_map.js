@@ -47,6 +47,9 @@ function getChkbox(name) {
 	/* Gets a checkbox element from the page with a specified ID.
 	:param name: The name of the checkbox to locate on the page
 	:return: The checkbox element.
+
+	NOTE: May not be used anywhere anymore
+
 	*/
 	chkBox = document.getElementById(name);
 	return chkBox;
@@ -54,6 +57,9 @@ function getChkbox(name) {
 
 function getOverlayStyle() {
 	// Set the width of the line (road) based on the zoom level
+
+	// NOTE: May not be used for the Street Map
+
 	if (map.getView().getZoom() <= 14) {
 		width = widths[0];
 		outline = false;
@@ -90,31 +96,31 @@ function getOverlayStyle() {
 	return overlayStyle;
 }
 
-function uncheckAll(lyrList) {
-	/* Unchecks all the input checkboxes on the map page. 
-	:return: None
-	*/
+// function uncheckAll(lyrList) {
+// 	/* Unchecks all the input checkboxes on the map page. 
+// 	:return: None
+// 	*/
 
-	// Get each checkbox from the page, uncheck them and set all layers
-	//		to invisible
-	$('input[type=checkbox]').each(function () {
-		//curLyr = getLayer(this.id);
-		curLyr = getLyr(lyrList, this.id)
-		this.checked = false;
-		curLyr.setVisible(false);
-	});
-}
+// 	// Get each checkbox from the page, uncheck them and set all layers
+// 	//		to invisible
+// 	$('input[type=checkbox]').each(function () {
+// 		//curLyr = getLayer(this.id);
+// 		curLyr = getLyr(lyrList, this.id)
+// 		this.checked = false;
+// 		curLyr.setVisible(false);
+// 	});
+// }
 
-function cleanURL() {
-	/* Removes any substrings from the URL.
-	:return: None
-	*/
+// function cleanURL() {
+// 	/* Removes any substrings from the URL.
+// 	:return: None
+// 	*/
 	
-	if (location.search.indexOf("?") > -1) {
-		var clean_url = location.protocol + "//" + location.host + location.pathname;
-		window.history.replaceState({}, document.title, clean_url);
-	}
-}
+// 	if (location.search.indexOf("?") > -1) {
+// 		var clean_url = location.protocol + "//" + location.host + location.pathname;
+// 		window.history.replaceState({}, document.title, clean_url);
+// 	}
+// }
 
 function resizeGeomatics() {
 	/* Resizes the Geomatics text on the page
@@ -154,7 +160,7 @@ function closePopup(featId) {
 
 function resizePopup(mapPopup) {
 	if ($(window).width() > 768) {
-		mapPopup.style.width = "850px";
+		mapPopup.style.width = "1050px";
 	} else {
 		mapPopup.style.width = "100% !important";
 	}
