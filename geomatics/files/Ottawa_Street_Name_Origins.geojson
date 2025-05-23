@@ -12522,7 +12522,7 @@
                 ]
             },
             "properties": {
-                "origin": "Named after <b>Victoria Ann</b>, daughter of Larry Armstrong who built Merivale Gardens.",
+                "origin": "A portmanteau of <b>Victoria Ann</b>, daughter of Larry Armstrong who built Merivale Gardens.",
                 "photos": null,
                 "sources": [
                     {
@@ -13010,86 +13010,6 @@
         },
         {
             "type": "Feature",
-            "id": 164,
-            "geometry": {
-                "crs": {
-                    "type": "name",
-                    "properties": {
-                        "name": "EPSG:3857"
-                    }
-                },
-                "type": "MultiLineString",
-                "coordinates": [
-                    [
-                        [
-                            -8431475.0082,
-                            5672510.414300001
-                        ],
-                        [
-                            -8431460.768299999,
-                            5672513.687799997
-                        ],
-                        [
-                            -8431427.0821,
-                            5672523.518799998
-                        ],
-                        [
-                            -8431405.2878,
-                            5672525.427199996
-                        ],
-                        [
-                            -8431384.016599998,
-                            5672522.376599997
-                        ],
-                        [
-                            -8431326.7963,
-                            5672502.548199995
-                        ],
-                        [
-                            -8431310.3988,
-                            5672499.334299997
-                        ],
-                        [
-                            -8431304.594599998,
-                            5672490.336000003
-                        ],
-                        [
-                            -8431261.752099998,
-                            5672390.549099998
-                        ],
-                        [
-                            -8431233.386900002,
-                            5672319.7174
-                        ],
-                        [
-                            -8431174.2294,
-                            5672181.309600001
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "origin": "Named after <b>Ron and Gail</b>, nephew and niece of Larry Armstrong who built Merivale Gardens.",
-                "photos": null,
-                "sources": [
-                    {
-                        "url": "https://www.mgcaottawa.ca/home/community-history/early-history-and-street-names",
-                        "city": "",
-                        "date": null,
-                        "title": "Early History and Street Names",
-                        "author": "",
-                        "accessed": null,
-                        "publisher": "Merivale Gardens Community Association",
-                        "source_id": 174,
-                        "source_type": "webpage"
-                    }
-                ],
-                "photo_st_id": null,
-                "street_name": "Rongail Street"
-            }
-        },
-        {
-            "type": "Feature",
             "id": 70,
             "geometry": {
                 "crs": {
@@ -13324,7 +13244,7 @@
                 ]
             },
             "properties": {
-                "origin": "Named after <b>Armstrong Constructions</b>, the company that built Merivale Gardens.",
+                "origin": "A portmanteau of <b>Armstrong Constructions</b>, the company that built Merivale Gardens.",
                 "photos": null,
                 "sources": [
                     {
@@ -13341,6 +13261,86 @@
                 ],
                 "photo_st_id": null,
                 "street_name": "Arco Way"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 164,
+            "geometry": {
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -8431475.0082,
+                            5672510.414300001
+                        ],
+                        [
+                            -8431460.768299999,
+                            5672513.687799997
+                        ],
+                        [
+                            -8431427.0821,
+                            5672523.518799998
+                        ],
+                        [
+                            -8431405.2878,
+                            5672525.427199996
+                        ],
+                        [
+                            -8431384.016599998,
+                            5672522.376599997
+                        ],
+                        [
+                            -8431326.7963,
+                            5672502.548199995
+                        ],
+                        [
+                            -8431310.3988,
+                            5672499.334299997
+                        ],
+                        [
+                            -8431304.594599998,
+                            5672490.336000003
+                        ],
+                        [
+                            -8431261.752099998,
+                            5672390.549099998
+                        ],
+                        [
+                            -8431233.386900002,
+                            5672319.7174
+                        ],
+                        [
+                            -8431174.2294,
+                            5672181.309600001
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "origin": "The combination of <b>Ron and Gail</b>, nephew and niece of Larry Armstrong who built Merivale Gardens.",
+                "photos": null,
+                "sources": [
+                    {
+                        "url": "https://www.mgcaottawa.ca/home/community-history/early-history-and-street-names",
+                        "city": "",
+                        "date": null,
+                        "title": "Early History and Street Names",
+                        "author": "",
+                        "accessed": null,
+                        "publisher": "Merivale Gardens Community Association",
+                        "source_id": 174,
+                        "source_type": "webpage"
+                    }
+                ],
+                "photo_st_id": null,
+                "street_name": "Rongail Street"
             }
         },
         {
