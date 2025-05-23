@@ -537,7 +537,24 @@ p.mag {
 	width: 50%;
 }
 .popup-source {
-	font-size: 0.8em;
+	font-size: 0.8em !important;
+}
+p.street-photo-source {
+	color: black !important;
+	font-size: 0.9em !important;
+	margin: 0px;
+}
+hr.street-photo-source {
+	border-top: 1px solid lightgray !important;
+	margin: 1px;
+	margin-top: 10px;
+}
+.street-photo-source {
+	color: blue !important;
+}
+.street-photo-img {
+	border: 1px solid grey !important;
+	width: 100% !important;
 }
 .street-popup {
 	margin: 15px;

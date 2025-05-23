@@ -31,6 +31,7 @@ function createPhotoHtml(photos) {
 		caption = photos[i]['caption'];
 		//link = photos[i]['link'];
 		img_url = photos[i]['photo_url'];
+		source_name = photos[i]['source_name'];
 		source_url = photos[i]['source_url'];
 		date_taken = photos[i]['date'];
 		
@@ -67,14 +68,28 @@ function createPhotoHtml(photos) {
 		if (typeof other_photos == 'undefined') {
 			other_photos = [];
 		}
+
+		src_html = `<p class="street-photo-source">Source: ${source_name}</p>`;
+		if (source_url != null && source_url.includes("http")) {
+			// if (primary == true) {
+			// 	src_html = '<br><a class="street-photo-source" href="' + source_url + '">Source</a>';
+			// } else {
+			// 	src_html = '(<a class="street-photo-source" href="' + source_url + '">Source</a>)';
+			// }
+			src_html = `<p class="street-photo-source">Source: <a class="street-photo-source" href="${source_url}">${source_name}</a></p>`;
+		}
 		
 		if (primary == true) {
 			photo_html = ['', '<div id="image-photo" class="street-photo" style="width: 50%">', 
 							'<figure>', 
-							'<a href="' + source_url + '">', 
-							'<img style="width: 100%" href="' + source_url + '" src="' + img_url + '">', 
+							`<a href="${img_url}">`, 
+							`<img class="street-photo-img" href="${img_url}" src="${img_url}">`, 
 							'</a>', 
-							'<figcaption class="street-figcaption">' + caption + '</figcaption>', 
+							'<figcaption class="street-figcaption">',
+							caption,
+							'<hr class="street-photo-source">',
+							src_html,
+							'</figcaption>', 
 							'</figure>', 
 							'</div>'
 						].join('\n');
@@ -84,10 +99,15 @@ function createPhotoHtml(photos) {
 
 		photo_html = ['', '<div id="other-photo" class="street-photo" style="width: 100%">', 
 						'<figure>', 
-						'<figcaption class="street-figcaption">' + caption + '</figcaption>', 
-						'<a href="' + source_url + '">', 
-						'<img style="width: 100%" href="' + source_url + '" src="' + img_url + '">', 
+						'<figcaption class="street-figcaption">',
+						caption,
+						'</figcaption>', 
+						`<a href="${img_url}">`, 
+						`<img class="street-photo-img" href="${img_url}" src="${img_url}">`, 
 						'</a>', 
+						'<figcaption class="street-figcaption">',
+						src_html,
+						'</figcaption>', 
 						'</figure>', 
 						'</div>'
 					].join('\n');
