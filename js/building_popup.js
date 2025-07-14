@@ -88,7 +88,7 @@ function createPhotoHtml(photos) {
 	for (var i = 0; i < photos.length; i++) {
 		caption = photos[i]['caption'];
 		//link = photos[i]['link'];
-		img_url = photos[i]['url'];
+		img_url = photos[i]['url'].replace("http:", "https:");
 		modern_url = photos[i]['modernUrl'];
 		date_taken = photos[i]['dateTaken']; //.replace('Date Taken: ', '');
 		//source = photos[i]['source'].replace('Source: ', '');
