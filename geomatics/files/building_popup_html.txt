@@ -1,6 +1,6 @@
 ${photos}
 <br>
-<p class="center"><a class="popup-a" href="./map.html?id=${id}"><img src="../../../images/map-map-marker-icon.png" alt="Locate on map" title="Locate on map"/></a></p>
+<p class="center"><a class="popup-a" href="./?id=${id}"><img src="../../../images/map-map-marker-icon.png" alt="Locate on map" title="Locate on map"/></a></p>
 <div class="popup-table">
 	<div class="popup-row">
 		<div class="popup-cell heading-cell">

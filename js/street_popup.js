@@ -40,8 +40,8 @@ function createPhotoHtml(photos) {
 		img.onload = function () { 
 			// alert(img.width + ' x ' + img.height); 
 			var img_photo = document.getElementById("image-photo");
-			var img_height = img.height;
-			var img_width = img.width;
+			// var img_height = img.height;
+			// var img_width = img.width;
 			
 			/*if (img_height > img_width) {
 				img_photo.style.width = "40%";
@@ -61,7 +61,7 @@ function createPhotoHtml(photos) {
 			console.log("img_url: " + img_url);
 		}
 
-		img.src = img_url;
+		img.src = img_url.replace("http:", "https:");
 
 		other_photos = out_photos.get('others')
 
