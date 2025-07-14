@@ -167,7 +167,7 @@ function createPhotoHtml(photos) {
 	photo_html += ['', '<ul class="thumbnails-carousel clearfix">'].join('\n');
 	
 	for (var i = 0; i < photos.length; i++) {
-		img_src = photos[i]['url'];
+		img_src = photos[i]['url'].replace("http:", "https:");
 		photo_html += ['', '<li><img class="tn" src="' + img_src + '" alt=""></li>'].join('\n');
 	}
 	
