@@ -375,6 +375,15 @@ div.round-border {
 	padding-bottom: 0px;
 	padding-top: 0px;
 }
+.carousel-full-size-text {
+    /*position: relative;
+    left: auto;
+    right: 0;*/
+	text-align: center;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	font-size: 0.9em;
+}
 .carousel-img-div {
 	background: black;
 }

@@ -18,6 +18,10 @@ function getKml() {
 	return out_content;
 }
 
+function imgClick() {
+	$("#cf2 img.top").toggleClass("transparent");
+}
+
 function createPopup(id_num) {
 	//var xmlDoc = new DOMParser().parseFromString(getKml(),'text/xml');
 	
@@ -102,31 +106,33 @@ function createPhotoHtml(photos) {
 		}
 		
 		if (modern_url) {
-			photo_html += ['', '<div class="item' + active_str + ' carousel-item">', 
+			photo_html += ['', `<div class="item${active_str} carousel-item">`, 
 								'<div id="cf2">', 
-									'<img class="bottom carousel-img" src="' + modern_url + '" alt="" onclick="imgClick()">', 
+									`<img class="bottom carousel-img" src="${modern_url}" alt="" onclick="imgClick()">`, 
 									//'<div class="mag-div magnify">', 
 									'<div class="mag-div">', 
 										'<div class="large"></div>', 
-										'<img class="small top carousel-img" src="' + img_url + '" alt="" onclick="imgClick()">', 
+										`<img class="small top carousel-img" src="${img_url}" alt="" onclick="imgClick()">`, 
 									'</div>',
 								'</div>', 
 								'<div class="carousel-caption">', 
 									'<p class="carousel-text-sm">***Click on image to toggle between then & now***</p>', 
 									'<hr class="trim" style="height:1px;border:none;color:#333;background-color:#AAAAAA">', 
-									'<p class="carousel-caption-txt">' + caption + '</p>', 
-									'<p class="carousel-text-sm">Date Taken: ' + date_taken + '</p>', 
-									'<p class="carousel-text-sm">Source: <a href="' + src_link + '" target="_blank">' + src_name + '</a></p>', 
+									`<p class="carousel-full-size-text"><a href="${img_url}" target="_blank">View original size</a></p>`,
+									`<p class="carousel-caption-txt">${caption}</p>`, 
+									`<p class="carousel-text-sm">Date Taken: ${date_taken}</p>`, 
+									`<p class="carousel-text-sm">Source: <a href="${src_link}" target="_blank">${src_name}</a></p>`, 
 								'</div>', 
 							'</div>'
 						  ].join('\n');
 		} else {
-			photo_html += ['', '<div class="item' + active_str + ' carousel-item">', 
+			photo_html += ['', `<div class="item${active_str} carousel-item">`, 
 								//'<div class="mag-div magnify">',
 								'<div class="mag-div">',
-									'<div class="large"></div>',
-									'<img class="small carousel-img" src="' + img_url + '" alt="">', 
+									'<div class="large"></div>', 
+									`<img class="small carousel-img" src="${img_url}" alt="">`, 
 								'</div>', 
+								`<p class="carousel-full-size-text"><a href="${img_url}" target="_blank">View original size</a></p>`,
 								'<div class="magbutton">', 
 									//'<button type="button" class="btn btn-info" onclick="toggleMagnify(this)" data-toggle="button" aria-pressed="false" autocomplete="off"><i class="glyphicon glyphicon-zoom-in"></i></button>', 									
 									'<p>',
@@ -136,9 +142,9 @@ function createPhotoHtml(photos) {
 									'<hr class="trim" style="height:1px;border:none;color:#333;background-color:#AAAAAA">', 
 								'</div>', 
 								'<div class="carousel-caption">', 
-									'<p class="carousel-caption-txt">' + caption + '</p>', 
-									'<p class="carousel-text-sm">Date Taken: ' + date_taken + '</p>', 
-									'<p class="carousel-text-sm">Source: <a href="' + src_link + '" target="_blank">' + src_name + '</a></p>', 
+									`<p class="carousel-caption-txt">${caption}</p>`, 
+									`<p class="carousel-text-sm">Date Taken: ${date_taken}</p>`, 
+									`<p class="carousel-text-sm">Source: <a href="${src_link}" target="_blank">${src_name}</a></p>`, 
 								'</div>', 
 							'</div>'
 						  ].join('\n');

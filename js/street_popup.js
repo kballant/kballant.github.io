@@ -4,10 +4,6 @@ var template_fn = "../../files/street_popup_html.txt";
 var img_height = 0;
 var img_width = 0;
 
-function imgClick() {
-	$("#cf2 img.top").toggleClass("transparent");
-}
-
 function parseOrigin(origin) {
 	origin = checkInput(origin)
 	var out_origin = '<p class="street-p">' 
