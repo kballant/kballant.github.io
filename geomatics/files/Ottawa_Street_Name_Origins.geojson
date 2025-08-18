@@ -14533,6 +14533,116 @@
         },
         {
             "type": "Feature",
+            "id": 95,
+            "geometry": {
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -8424691.8987,
+                            5685455.527500004
+                        ],
+                        [
+                            -8424658.195399998,
+                            5685469.102200002
+                        ],
+                        [
+                            -8424595.2943,
+                            5685505.463600003
+                        ],
+                        [
+                            -8424558.093,
+                            5685527.911099999
+                        ],
+                        [
+                            -8424548.081699999,
+                            5685533.515699997
+                        ],
+                        [
+                            -8424451.0971,
+                            5685587.541299998
+                        ],
+                        [
+                            -8424352.3934,
+                            5685644.640699998
+                        ],
+                        [
+                            -8424293.840999998,
+                            5685680.666799999
+                        ],
+                        [
+                            -8424253.0091,
+                            5685707.412100002
+                        ],
+                        [
+                            -8424167.4519,
+                            5685765.0317
+                        ],
+                        [
+                            -8424033.1046,
+                            5685840.635700002
+                        ],
+                        [
+                            -8423991.2498,
+                            5685865.3164
+                        ],
+                        [
+                            -8423834.499399997,
+                            5685957.776799999
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "origin": "Named afer <b>William Clegg</b> (March 1796 - 5 March 1894), Chief Clerk and Paymaster of the Ordnance Department for Colonel By.<br><br>Born near Belfast, Ireland, Clegg served as a Lieutenant in the British Army. He arrived in Canada in 1821 and came to Bytown in 1827 with the Royal Engineers. He was present at the laying of the first stone at the Entrance Bay locks of the Rideau Canal. He also had a talent for drawing and made many watercolour sketches of the canal lock stations.<br><br>Clegg was also active in church community. He was a founding member of St. Andrew's Church and witnessed the laying of the cornerstones for two different churches, one in 1828 and a second one in 1872. He was ordained as an elder of the church in 1835. He also cofounded the Bytown Benevolent Society in 1837 for the poor and destitute.<br><br>Clegg was married to Catherine McDuff and had four children. He died at the age of 98 at the home of his daughter.",
+                "photos": [
+                    {
+                        "date": "1875-04-01",
+                        "caption": "Portrait of William Clegg",
+                        "photo_id": 101,
+                        "photo_url": "http://www.kballantyne.ca/geomatics/maps/ottawa-street-names/photos/william-clegg-e010954985-v8.jpg",
+                        "source_url": "https://central.bac-lac.gc.ca/.redirect?app=fonandcol&id=3433753&lang=eng&ecopy=e010954985-v8",
+                        "orientation": "portrait",
+                        "source_name": "Topley Studio / Library and Archives Canada, Item ID 3433753",
+                        "primary_image": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "url": "https://www.newspapers.com/image/464414196",
+                        "city": "Ottawa, Ontario",
+                        "date": "1984-04-25",
+                        "title": "What's in a name - Clegg Street",
+                        "author": "Turcotte, Bobbi",
+                        "accessed": "2025-04-26",
+                        "publisher": "The Ottawa Citizen",
+                        "source_id": 144,
+                        "source_type": "webpage"
+                    },
+                    {
+                        "url": "https://www.standrewsottawa.ca/heritage-biographies-clegg",
+                        "city": "Ottawa, Ontario",
+                        "date": null,
+                        "title": "William Clegg - St. Andrew's Ottawa",
+                        "author": "David B., Sheila U.",
+                        "accessed": null,
+                        "publisher": "",
+                        "source_id": 179,
+                        "source_type": "webpage"
+                    }
+                ],
+                "photo_st_id": 95,
+                "street_name": "Clegg Street"
+            }
+        },
+        {
+            "type": "Feature",
             "id": 25,
             "geometry": {
                 "crs": {
@@ -21280,6 +21390,823 @@
         },
         {
             "type": "Feature",
+            "id": 116,
+            "geometry": {
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -8425111.318,
+                            5686508.102200002
+                        ],
+                        [
+                            -8425097.0686,
+                            5686510.810999996
+                        ],
+                        [
+                            -8425079.0443,
+                            5686517.522200004
+                        ],
+                        [
+                            -8425061.8878,
+                            5686525.579400003
+                        ],
+                        [
+                            -8424990.099600002,
+                            5686563.341399998
+                        ],
+                        [
+                            -8424965.5606,
+                            5686576.538400003
+                        ],
+                        [
+                            -8424841.117799997,
+                            5686646.6161
+                        ],
+                        [
+                            -8424692.423800003,
+                            5686723.579599998
+                        ],
+                        [
+                            -8424673.0112,
+                            5686727.008699999
+                        ],
+                        [
+                            -8424655.3916,
+                            5686728.908699997
+                        ],
+                        [
+                            -8424519.4948,
+                            5686806.002400002
+                        ],
+                        [
+                            -8424323.430699999,
+                            5686925.285300001
+                        ],
+                        [
+                            -8424198.961899998,
+                            5686996.785099998
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "origin": "Named after the 19-century American author <b>Nathianel Hawthorne</b> (4 July 1804 - 19 May 1864). <br><br>Born in Salem, Massachusetts, his family had deep Puritan roots with his great-great-grandfather being a judge overseeing the Salem witch trials. This family history had an impact on his writing with much of his work taking place in New England with an anti-Puritan inspiration.<br><br>Hawthorne was educated at Bowdoin College in 1825. He spent over a decade after college living in solitude during which he wrote short stories, many published anonymously.<br><br>He married Sophia Peabody in 1842 and moved to Concord, Massachusetts. They had 3 children.<br><br>Between 1853 to 1857, during the Presidency of his close friend Franklin Pierce, he served as U.S. Consul in Liverpool, England. After the appointment ended, he returned with his family to Concord in 1860.<br><br>Hawthorne died in Plymouth, New Hampshire at the age of 59.<br><br>Hawthorne's majors works were <i>The Scarlet Letter</i>, <i>The House of the Seven Gables</i> and <i>The Blithedale Romance</i>.",
+                "photos": [
+                    {
+                        "date": "1860-01-01",
+                        "caption": "Photographic portrait of Nathaniel Hawthorne.",
+                        "photo_id": 100,
+                        "photo_url": "http://www.kballantyne.ca/geomatics/maps/ottawa-street-names/photos/nathaniel-hawthorne.jpg",
+                        "source_url": "https://commons.wikimedia.org/wiki/File:Nathaniel_Hawthorne_by_Brady,_1860-64.jpg",
+                        "orientation": "portrait",
+                        "source_name": "File:Nathaniel Hawthorne by Brady, 1860-64.jpg",
+                        "primary_image": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "url": "https://www.newspapers.com/image/461781642",
+                        "city": "Ottawa, Ontario",
+                        "date": "1982-11-03",
+                        "title": "What's in a name - Hawthorne Avenue",
+                        "author": "Turcotte, Bobbi",
+                        "accessed": "2025-05-04",
+                        "publisher": "The Ottawa Citizen",
+                        "source_id": 162,
+                        "source_type": "webpage"
+                    }
+                ],
+                "photo_st_id": 116,
+                "street_name": "Hawthorne Avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 65,
+            "geometry": {
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -8421929.332799995,
+                            5693626.905300003
+                        ],
+                        [
+                            -8421891.849500008,
+                            5693536.543499989
+                        ],
+                        [
+                            -8421872.3891,
+                            5693492.067799997
+                        ],
+                        [
+                            -8421840.494699998,
+                            5693411.76219999
+                        ],
+                        [
+                            -8421782.218900003,
+                            5693268.345399991
+                        ],
+                        [
+                            -8421748.917999998,
+                            5693186.597499996
+                        ],
+                        [
+                            -8421698.989099996,
+                            5693061.835299991
+                        ],
+                        [
+                            -8421667.067799997,
+                            5692984.386899998
+                        ],
+                        [
+                            -8421625.4406,
+                            5692882.563299996
+                        ],
+                        [
+                            -8421615.719300004,
+                            5692859.61249999
+                        ],
+                        [
+                            -8421582.464799998,
+                            5692773.585600003
+                        ],
+                        [
+                            -8421520.079799999,
+                            5692615.854799998
+                        ],
+                        [
+                            -8421429.942000005,
+                            5692390.721799992
+                        ],
+                        [
+                            -8421396.662600001,
+                            5692307.552499996
+                        ],
+                        [
+                            -8421346.729499994,
+                            5692184.228200004
+                        ],
+                        [
+                            -8421307.909000002,
+                            5692086.725299993
+                        ],
+                        [
+                            -8421262.096499994,
+                            5691977.725500004
+                        ],
+                        [
+                            -8421257.903,
+                            5691970.54209999
+                        ],
+                        [
+                            -8421163.765699996,
+                            5691721.107900006
+                        ],
+                        [
+                            -8421069.603799995,
+                            5691474.535199993
+                        ],
+                        [
+                            -8421026.5373,
+                            5691375.564199998
+                        ],
+                        [
+                            -8420965.428199999,
+                            5691233.572300008
+                        ],
+                        [
+                            -8420915.490199998,
+                            5691111.689400005
+                        ],
+                        [
+                            -8420895.942599995,
+                            5691057.439099999
+                        ],
+                        [
+                            -8420873.940499999,
+                            5691004.171999992
+                        ],
+                        [
+                            -8420832.361499997,
+                            5690899.510699996
+                        ],
+                        [
+                            -8420703.542400002,
+                            5690568.360100008
+                        ],
+                        [
+                            -8420632.923400002,
+                            5690384.876900001
+                        ],
+                        [
+                            -8420529.616900003,
+                            5690124.257599994
+                        ],
+                        [
+                            -8420482.502399994,
+                            5690008.050899998
+                        ],
+                        [
+                            -8420480.704700002,
+                            5690001.919699991
+                        ],
+                        [
+                            -8420450.033600003,
+                            5689921.834900007
+                        ],
+                        [
+                            -8420444.570900004,
+                            5689900.364499996
+                        ],
+                        [
+                            -8420329.5191,
+                            5689615.069700008
+                        ],
+                        [
+                            -8420289.284099996,
+                            5689519.000700002
+                        ],
+                        [
+                            -8420287.907200001,
+                            5689514.703800003
+                        ],
+                        [
+                            -8420286.515099997,
+                            5689511.833999995
+                        ],
+                        [
+                            -8420236.580899999,
+                            5689391.397999994
+                        ],
+                        [
+                            -8420235.204000004,
+                            5689387.101099992
+                        ],
+                        [
+                            -8420233.811900001,
+                            5689384.231400004
+                        ],
+                        [
+                            -8420206.198700003,
+                            5689305.428199993
+                        ],
+                        [
+                            -8420069.042800002,
+                            5688959.964399997
+                        ],
+                        [
+                            -8420038.572199997,
+                            5688882.560999999
+                        ],
+                        [
+                            -8420001.1731,
+                            5688787.9577
+                        ],
+                        [
+                            -8419952.6991,
+                            5688664.689800007
+                        ],
+                        [
+                            -8419943.032200003,
+                            5688637.467799995
+                        ],
+                        [
+                            -8419941.655600002,
+                            5688633.171200001
+                        ],
+                        [
+                            -8419940.263699995,
+                            5688630.30170001
+                        ],
+                        [
+                            -8419912.5791,
+                            5688558.639600002
+                        ],
+                        [
+                            -8419880.704100002,
+                            5688479.79829999
+                        ],
+                        [
+                            -8419789.0838,
+                            5688248.734399991
+                        ],
+                        [
+                            -8419733.8008,
+                            5688117.128300008
+                        ],
+                        [
+                            -8419719.990499998,
+                            5688078.445699989
+                        ],
+                        [
+                            -8419702.249999996,
+                            5688034.868500001
+                        ],
+                        [
+                            -8419697.814900003,
+                            5688023.974199996
+                        ],
+                        [
+                            -8419692.0326,
+                            5688010.279399997
+                        ],
+                        [
+                            -8419671.1147,
+                            5687960.738700003
+                        ],
+                        [
+                            -8419664.519899998,
+                            5687945.120200001
+                        ],
+                        [
+                            -8419653.4324,
+                            5687917.884700003
+                        ],
+                        [
+                            -8419641.824100003,
+                            5687888.158900003
+                        ],
+                        [
+                            -8419600.824999997,
+                            5687783.164599994
+                        ],
+                        [
+                            -8419534.485499999,
+                            5687602.630699998
+                        ],
+                        [
+                            -8419510.966499995,
+                            5687541.011699988
+                        ],
+                        [
+                            -8419386.463999998,
+                            5687214.291400005
+                        ],
+                        [
+                            -8419385.072600003,
+                            5687211.422300006
+                        ],
+                        [
+                            -8419383.696399996,
+                            5687207.126299995
+                        ],
+                        [
+                            -8419362.931799995,
+                            5687154.101599994
+                        ],
+                        [
+                            -8419361.540300004,
+                            5687151.232399993
+                        ],
+                        [
+                            -8419360.164199997,
+                            5687146.936499996
+                        ],
+                        [
+                            -8419350.470000004,
+                            5687122.572200004
+                        ],
+                        [
+                            -8419349.0786,
+                            5687119.703100007
+                        ],
+                        [
+                            -8419347.702400004,
+                            5687115.407100003
+                        ],
+                        [
+                            -8419340.7299,
+                            5687102.488500006
+                        ],
+                        [
+                            -8419288.116500001,
+                            5686969.206100004
+                        ],
+                        [
+                            -8419243.790000005,
+                            5686858.846299993
+                        ],
+                        [
+                            -8419223.149800003,
+                            5686794.408899996
+                        ],
+                        [
+                            -8419144.273999996,
+                            5686590.924900007
+                        ],
+                        [
+                            -8419016.737799995,
+                            5686284.178900012
+                        ],
+                        [
+                            -8418989.113800004,
+                            5686208.252499996
+                        ],
+                        [
+                            -8418987.722599998,
+                            5686205.383699999
+                        ],
+                        [
+                            -8418986.346799998,
+                            5686201.088099997
+                        ],
+                        [
+                            -8418972.465699997,
+                            5686169.546099992
+                        ],
+                        [
+                            -8418971.0745,
+                            5686166.677299992
+                        ],
+                        [
+                            -8418969.698699998,
+                            5686162.381700003
+                        ],
+                        [
+                            -8418946.186099997,
+                            5686100.771099993
+                        ],
+                        [
+                            -8418944.795,
+                            5686097.902199992
+                        ],
+                        [
+                            -8418943.419199996,
+                            5686093.606699998
+                        ],
+                        [
+                            -8418867.307200002,
+                            5685898.725899994
+                        ],
+                        [
+                            -8418813.239599997,
+                            5685769.724199998
+                        ],
+                        [
+                            -8418791.058000004,
+                            5685716.689499997
+                        ],
+                        [
+                            -8418623.254899997,
+                            5685322.497800004
+                        ],
+                        [
+                            -8418581.743300006,
+                            5685216.465699995
+                        ],
+                        [
+                            -8418580.352400005,
+                            5685213.5971
+                        ],
+                        [
+                            -8418578.976899995,
+                            5685209.301999994
+                        ],
+                        [
+                            -8418523.6349,
+                            5685067.453000005
+                        ],
+                        [
+                            -8418495.754100004,
+                            5685015.787799995
+                        ],
+                        [
+                            -8418445.420599997,
+                            5684936.770699993
+                        ]
+                    ],
+                    [
+                        [
+                            -8418349.746400002,
+                            5684842.990300003
+                        ],
+                        [
+                            -8418361.290899994,
+                            5684827.4232
+                        ],
+                        [
+                            -8418390.035900004,
+                            5684799.204200003
+                        ],
+                        [
+                            -8418401.580299996,
+                            5684783.637200002
+                        ],
+                        [
+                            -8418399.077400003,
+                            5684752.223600005
+                        ],
+                        [
+                            -8418329.878399998,
+                            5684577.416399992
+                        ],
+                        [
+                            -8418318.613099996,
+                            5684567.306900009
+                        ],
+                        [
+                            -8418298.832999997,
+                            5684555.676399996
+                        ],
+                        [
+                            -8418259.164300002,
+                            5684542.402900009
+                        ],
+                        [
+                            -8418272.641899997,
+                            5684479.779500002
+                        ],
+                        [
+                            -8418268.934799995,
+                            5684428.381399989
+                        ],
+                        [
+                            -8418268.965800004,
+                            5684425.528500003
+                        ],
+                        [
+                            -8418267.590600003,
+                            5684421.233699995
+                        ],
+                        [
+                            -8418246.993899992,
+                            5684353.957099996
+                        ],
+                        [
+                            -8418223.476599995,
+                            5684293.783399993
+                        ],
+                        [
+                            -8418222.0859,
+                            5684290.914999994
+                        ],
+                        [
+                            -8418220.710799998,
+                            5684286.620199999
+                        ],
+                        [
+                            -8418211.103399998,
+                            5684262.58429999
+                        ],
+                        [
+                            -8418187.489200002,
+                            5684203.514499997
+                        ],
+                        [
+                            -8418162.6131,
+                            5684137.620599991
+                        ],
+                        [
+                            -8418154.362500004,
+                            5684111.852300009
+                        ],
+                        [
+                            -8418123.9089,
+                            5684035.912100003
+                        ],
+                        [
+                            -8418083.799599994,
+                            5683932.761200009
+                        ],
+                        [
+                            -8418014.566299995,
+                            5683762.246500006
+                        ],
+                        [
+                            -8417910.8558,
+                            5683494.355899994
+                        ],
+                        [
+                            -8417807.134300001,
+                            5683227.899400003
+                        ],
+                        [
+                            -8417793.355200002,
+                            5683187.80870001
+                        ],
+                        [
+                            -8417760.173899999,
+                            5683101.859100002
+                        ],
+                        [
+                            -8417739.411299998,
+                            5683050.281000008
+                        ],
+                        [
+                            -8417728.657200005,
+                            5683025.7502
+                        ],
+                        [
+                            -8417701.957100002,
+                            5682963.308200004
+                        ],
+                        [
+                            -8417654.697099999,
+                            5682866.772800005
+                        ],
+                        [
+                            -8417568.513900004,
+                            5682743.366699996
+                        ],
+                        [
+                            -8417549.500499997,
+                            5682707.082600004
+                        ],
+                        [
+                            -8417534.152399998,
+                            5682655.835499998
+                        ],
+                        [
+                            -8417527.607500002,
+                            5682614.261900006
+                        ],
+                        [
+                            -8417528.4712,
+                            5682564.470700005
+                        ],
+                        [
+                            -8417535.900199994,
+                            5682525.2848
+                        ],
+                        [
+                            -8417547.751800004,
+                            5682489.023900006
+                        ],
+                        [
+                            -8417562.4176,
+                            5682457.262000008
+                        ],
+                        [
+                            -8417577.977500001,
+                            5682430.9362
+                        ],
+                        [
+                            -8417600.576000001,
+                            5682401.177400008
+                        ],
+                        [
+                            -8417633.042799994,
+                            5682370.88880001
+                        ],
+                        [
+                            -8417657.093899997,
+                            5682353.595900003
+                        ],
+                        [
+                            -8417684.642499998,
+                            5682336.660000001
+                        ],
+                        [
+                            -8417785.163700001,
+                            5682280.304
+                        ],
+                        [
+                            -8418014.075499997,
+                            5682180.8592
+                        ],
+                        [
+                            -8418040.277199997,
+                            5682168.822199997
+                        ],
+                        [
+                            -8418093.299699994,
+                            5682145.602400003
+                        ],
+                        [
+                            -8418132.672100002,
+                            5682128.016299995
+                        ],
+                        [
+                            -8418382.191599995,
+                            5681984.745999998
+                        ],
+                        [
+                            -8418456.533000004,
+                            5681945.62399999
+                        ],
+                        [
+                            -8418546.508100003,
+                            5681906.672199997
+                        ],
+                        [
+                            -8418607.9655,
+                            5681875.965899989
+                        ],
+                        [
+                            -8418792.484400002,
+                            5681769.585100001
+                        ],
+                        [
+                            -8418859.700500004,
+                            5681731.80820001
+                        ],
+                        [
+                            -8418899.401100006,
+                            5681710.510299999
+                        ],
+                        [
+                            -8419092.875900002,
+                            5681594.576399991
+                        ],
+                        [
+                            -8419148.581299992,
+                            5681569.509699994
+                        ],
+                        [
+                            -8419181.392899998,
+                            5681558.456099995
+                        ],
+                        [
+                            -8419207.036800005,
+                            5681553.029299999
+                        ],
+                        [
+                            -8419337.946299996,
+                            5681540.184900006
+                        ],
+                        [
+                            -8419407.035699997,
+                            5681545.47689999
+                        ]
+                    ],
+                    [
+                        [
+                            -8418259.164300002,
+                            5684542.402900009
+                        ],
+                        [
+                            -8418238.857,
+                            5684579.27399999
+                        ],
+                        [
+                            -8418168.0906,
+                            5684679.789799999
+                        ],
+                        [
+                            -8418156.499299996,
+                            5684699.635700005
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "origin": "Named in 1951 after the 12th Prime Minister of Canada, <b>Louis St. Laurent</b> (1 February 1882 - 25 July 1973).<br><br>Born in Compton, Qu\u00e9bec, St-Laurent attended Coll\u00e8ge St-Charles-Borrom\u00e9e in Sherbrooke, Qu\u00e9bec, and later studied law at Universit\u00e9 Laval.<br><br>After being admitted to the Qu\u00e9bec Bar in 1905, he became a prominent lawyer in Qu\u00e9bec City, specialising in constitutional law. From 1914 to 1941, he taught law at Universit\u00e9 Laval. He also served as president of the Canadian Bar Association from 1930 to 1932.<br><br>At the age of 60, St-Laurent began his political career. He was recruited by Prime Minister William Lyon Mackenzie King in 1942 to fill a vacant seat in Qu\u00e9bec and serve as Minister of Justice. St-Laurent won the by-election for Qu\u00e9bec East and, by supporting conscription in 1944, he helped keep the Liberal Party united during a contentious period.<br><br>King made St-Laurent secretary of state for external affairs in 1946. Under this role, he represented Canada at the UN and he also recommended the establishment of an Atlantic security organization which later became NATO in 1949.<br><br>After King's retirement in 1948, St-Laurent easily won the leadership of the Liberal Party and became Prime Minister on 15 November 1948. In the 1949 election, St-Laurent had broad appeal among voters and won 191 seats, the most in Canadian history at the time. In 1953, he won another powerful majority, losing about 22 seats from the previous election. <br><br>During his tenure as Prime Minister, many significant events occurred and major projects and programs were enacted. Newfoundland joined Confederation; the Trans-Canada Highway, the St. Lawrence Seaway and the Trans-Canada Pipeline were completed; old-age pensions were extended; hospital insurance was enacted; and equalization payments among the provinces were approved.<br><br>In 1957, John Diefenbaker's Progressive Conservatives won a minority government, bringing an end to 22 years of Liberal rule. After a short time as Leader of the Opposition, St-Laurent retired in January 1958 and returned to practice law in Qu\u00e9bec. In 1967, he was named a Companion of the Order of Canada. He died of heart failure at the age of 91.<br>",
+                "photos": [
+                    {
+                        "date": null,
+                        "caption": "Louis S. St-Laurent",
+                        "photo_id": 33,
+                        "photo_url": "http://www.kballantyne.ca/geomatics/maps/ottawa-street-names/photos/louis-st-laurent-c000692.jpg",
+                        "source_url": "http://central.bac-lac.gc.ca/.redirect?app=fonandcol&id=3220770&lang=eng&ecopy=c000692",
+                        "orientation": "portrait",
+                        "source_name": "LAC C-000692",
+                        "primary_image": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "url": "https://thecanadianencyclopedia.ca/en/article/louis-st-laurent",
+                        "city": "",
+                        "date": "2015-06-12",
+                        "title": "Louis St-Laurent",
+                        "author": "\nBothwell, Robert",
+                        "accessed": null,
+                        "publisher": "The Canadian Encyclopedia",
+                        "source_id": 212,
+                        "source_type": "webpage"
+                    },
+                    {
+                        "url": "https://en.wikipedia.org/wiki/Louis_St._Laurent",
+                        "city": "",
+                        "date": "2025-08-15",
+                        "title": "Louis St. Laurent - Wikipedia",
+                        "author": "",
+                        "accessed": null,
+                        "publisher": "Wikipedia Foundation, Inc.",
+                        "source_id": 213,
+                        "source_type": "webpage"
+                    }
+                ],
+                "photo_st_id": 65,
+                "street_name": "St-Laurent Boulevard"
+            }
+        },
+        {
+            "type": "Feature",
             "id": 118,
             "geometry": {
                 "crs": {
@@ -22253,6 +23180,120 @@
                 ],
                 "photo_st_id": 60,
                 "street_name": "Moodie Drive"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 126,
+            "geometry": {
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:3857"
+                    }
+                },
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -8451264.851100001,
+                            5675457.7143
+                        ],
+                        [
+                            -8451239.885199998,
+                            5675478.242899999
+                        ],
+                        [
+                            -8451039.714700002,
+                            5675659.218099996
+                        ],
+                        [
+                            -8450845.2778,
+                            5675831.6831
+                        ],
+                        [
+                            -8450805.020599999,
+                            5675898.3763
+                        ],
+                        [
+                            -8450760.0632,
+                            5676006.889799997
+                        ],
+                        [
+                            -8450718.843300002,
+                            5676104.325900003
+                        ],
+                        [
+                            -8450691.9444,
+                            5676158.2447
+                        ],
+                        [
+                            -8450662.657899998,
+                            5676209.4045
+                        ],
+                        [
+                            -8450614.8361,
+                            5676274.503399998
+                        ],
+                        [
+                            -8450561.2972,
+                            5676355.979199998
+                        ],
+                        [
+                            -8450514.750599999,
+                            5676422.502099998
+                        ],
+                        [
+                            -8450491.465099998,
+                            5676452.635700001
+                        ],
+                        [
+                            -8450485.0314,
+                            5676459.800800003
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "origin": "Named after <b>Omond Solandt</b> (2 September 1909 - 12 May 1993), chairman of the Defence Research Board and the Science Council of Canada.<br><br>Born in Winnipeg, Manitoba, Solandt studied at the University of Toronto and won a scholarship to England in 1939. While in England, he became superintendent of the British Army Operational Research Group after discovering the gas released from tank gun fired would enter the tank and cause the crew to faint.<br><br>The Canadian government recruited Solandt in 1946 and appointed him chairman of the Defence Research Board in 1947. He also served as vice president for research and development at Canadian National Railways (1956-1963) and at De Havilland Aircraft (1963-66). He was chancellor of the University of Toronto from 1965 to 1971. Between 1966 to 1972, Solandt was chairman of the Science Council of Canada. Solandt remained active as a company director and consultant even into retirement. He died at age 83 in Alliston, Ontario.",
+                "photos": [
+                    {
+                        "date": "1936-01-01",
+                        "caption": "Graduation portrait of Omond McKillop Solandt, c. 1936.",
+                        "photo_id": 134,
+                        "photo_url": "http://www.kballantyne.ca/geomatics/maps/ottawa-street-names/photos/omond-solandt.jpg",
+                        "source_url": "https://thecanadianencyclopedia.ca/en/article/omond-mckillop-solandt",
+                        "orientation": "portrait",
+                        "source_name": "The Canadian Encyclopedia - Omond McKillop Solandt",
+                        "primary_image": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "url": "https://www.newspapers.com/image/466735345",
+                        "city": "Ottawa, Ontario",
+                        "date": "2000-09-24",
+                        "title": "Boomtown",
+                        "author": "Roswell, Randy",
+                        "accessed": "2025-05-04",
+                        "publisher": "The Ottawa Citizen",
+                        "source_id": 167,
+                        "source_type": "webpage"
+                    },
+                    {
+                        "url": "https://thecanadianencyclopedia.ca/en/article/omond-mckillop-solandt",
+                        "city": "",
+                        "date": "2008-03-03",
+                        "title": "Omond McKillop Solandt",
+                        "author": "Phillipson, Donald J.C.",
+                        "accessed": null,
+                        "publisher": "The Canadian Encyclopedia",
+                        "source_id": 214,
+                        "source_type": "webpage"
+                    }
+                ],
+                "photo_st_id": 126,
+                "street_name": "Solandt Road"
             }
         },
         {
