@@ -93,6 +93,37 @@ function addBaseLayers(lyrList=null) {
 	return lyrList
 }
 
+function addBoundaryLayer(lyrList=null) {
+	var newLayer = new ol.layer.Vector({
+		title: 'City of Ottawa Boundary',
+		source: new ol.source.Vector({
+			url: '../../files/City_of_Ottawa_Boundary.geojson', 
+			format: new ol.format.GeoJSON({
+				dataProjection: 'EPSG:4269', 
+				featureProjection: 'EPSG:3857'
+			})
+		}),
+		style: new ol.style.Style({
+			stroke: new ol.style.Stroke({
+				//color: '#FFA24B',
+				color: '#7D1300', 
+				width: 1,
+				//lineDash: [5]
+			})
+		})
+	})
+
+	newLayer.set('name', 'boundary');
+
+	if (lyrList == null) {
+		lyrList = [newLayer];
+	} else {
+		lyrList.push(newLayer);
+	}
+	
+	return lyrList
+}
+
 function addLayer(opts, lyrList=null, styleFunction=null) {
 	
 	// Create the rail layer from the GeoJSON file
@@ -388,6 +419,11 @@ function closePopup(featId) {
 };
 
 function createMap(lyrList, viewInfo, custControl) {
+
+	console.log("lyrList: " + lyrList);
+	for (var i in lyrList) {
+		console.dir(lyrList[i]);
+	}
 	
 	// Create the OL map object
 	var map = new ol.Map({

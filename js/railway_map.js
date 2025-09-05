@@ -190,6 +190,18 @@ years = ['Intro', '1855', '1870', '1871', '1880', '1883',
 // Add all the base layers
 lyrList = addBaseLayers()
 
+lyrList = addBoundaryLayer(lyrList)
+
+// Add Ottawa boundary layer
+// var bound_opts = {};
+// bound_opts['Name'] = 'boundary'
+// bound_opts['Title'] = 'City of Ottawa Boundary'
+// bound_opts['URL'] = '../../files/City_of_Ottawa_Boundary.geojson'
+// bound_opts['dataProj'] = 'EPSG:4269'
+// bound_opts['featProj'] = 'EPSG:3857'
+
+// lyrList = addLayer(bound_opts, lyrList, styleFunction);
+
 // Add the railways layer
 var opts = {};
 opts['Name'] = 'rails'
@@ -238,7 +250,9 @@ lyrList = addLayer(opts, lyrList, styleFunction);
 // Set the zoom, centre and rotation of the map
 var viewInfo = {};
 viewInfo['zoom'] = 10;
-viewInfo['centre'] = ol.proj.transform([-75.67824, 45.41501], "EPSG:4326", "EPSG:3857");
+// viewInfo['centre'] = ol.proj.transform([-75.67824, 45.41501], "EPSG:4326", "EPSG:3857");
+viewInfo['centre'] = ol.proj.transform([-75.7762, 45.2908], 
+	"EPSG:4326", "EPSG:3857");
 viewInfo['rotation'] = 0;
 
 //var custContr = createCustControl();

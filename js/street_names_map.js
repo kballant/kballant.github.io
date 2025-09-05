@@ -354,6 +354,9 @@ var info = $('#info');
 // Add all the base layers
 lyrList = addBaseLayers()
 
+// Add Ottawa boundary layer
+lyrList = addBoundaryLayer(lyrList)
+
 // Add the railways layer
 var streetOpts = {};
 streetOpts['Name'] = 'streets'
