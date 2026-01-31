@@ -4,7 +4,7 @@
 <!--<![endif]-->
 	<head>
 		<title>{{ page.title }}</title>
-		<link rel=icon href="/favicon.png">
+		<link rel=icon href="/favicon.ico">
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 		{% include fonts.html %}
@@ -125,14 +125,24 @@
 				</div>
 			</div>
 			{% include nav.html %}
-			<div class="row">
-				<div class="col-md-9">
-					<div id="content">
-						{{ content }}
+			{% if page.url contains "forgotten-ottawa" %}
+				<div class="row">
+					<div class="col-md-12">
+						<div id="content">
+							{{ content }}
+						</div>
 					</div>
 				</div>
-				{% include sidebar.html %}
-			</div><!-- /.container -->
+			{% else %}
+				<div class="row">
+					<div class="col-md-9">
+						<div id="content">
+							{{ content }}
+						</div>
+					</div>
+					{% include sidebar.html %}
+				</div><!-- /.container -->
+			{% endif %}
 			<div class="row">
 				<div class="col-md-9">
 					{% include footer.html %}
@@ -185,7 +195,9 @@
 			<!--<script src="/bootstrap/js/thumbnails.carousel.js"></script>-->
 			<!--<script src="/js/street_popup.js"></script>-->
 			<!--<script src="/js/rSlider.js"></script>-->
+			<!--<script src="/sql-js-httpvfs/dist/bundle.js"></script>-->
 			<script src="/js/rSlider.min.js"></script>
+			<!-- <script type="module" src="/js/railway_map.js"></script> -->
 			<script src="/js/railway_map.js"></script>
 		{% endif %}
 		{% if page.url == "/geomatics/maps/ottawa-street-names/" %}
