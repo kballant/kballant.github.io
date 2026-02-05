@@ -1,12 +1,16 @@
 /* @import url("fonts.css"); */
 
 body {
-	background: #3a3434 !important; 
-	/*background-image: url("../images/back-blurred_dark.jpg") !important;*/
+	/* background: #3a3434 !important; */
+	/*background-image: url("../images/back-blurred_dark.jpg") !important;
 	background-size: cover !important;
-	background-repeat: no-repeat !important;
+	background-repeat: no-repeat !important;*/
     /* margin: 20px auto; */
     /* width: 60%; */
+	background-image: url("../forgotten-ottawa/files/1448x2574_background.jpg") !important;
+    background-size: 100% 100% !important;            /* stretches image across div */
+    background-position: center !important;
+    background-repeat: no-repeat !important;
 }
 a {
     text-decoration: underline !important;
@@ -46,7 +50,11 @@ header {
 #content {
 	border-radius: 5px;
 	padding: 10px 30px 30px 30px;
-	background-color: rgba(0, 0, 0, 0.4);
+	background-color: rgba(0, 0, 0, 0.8);
+	/* background-image: url("../forgotten-ottawa/files/1692x3008_brighter.jpg");
+    background-size: 100% 100%;            /* stretches image across div
+    background-position: center;
+    background-repeat: no-repeat; */
 }
 
 .title {
@@ -127,6 +135,15 @@ h1 {
     align-items: center;
 }
 
+.logo-centre {
+	padding-top: 10px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;     /* Centers horizontally */
+	justify-content: center;    /* Centers vertically */
+	text-align: center;
+}
+
 .logo-img {
 	margin: 0px !important; 
 	/*padding-left: 45px !important;
@@ -181,7 +198,7 @@ h1 {
 }
 
 h2 {
-	color: #8b3232 !important;
+	color: #FFFFFF !important;
 	padding: 10px;
     font-size: 5em !important;
     /* font-family: 'Segoe UI', Frutiger, 'Frutiger Linotype', 'Dejavu Sans', 'Helvetica Neue', Arial, sans-serif !important; */
@@ -190,7 +207,7 @@ h2 {
 	font-family: 'ForgottenOttawaSC' !important;
 	text-align: center;
 	font-weight: bold !important;
-	-webkit-text-stroke: 7px rgb(255, 255, 255);
+	-webkit-text-stroke: 9px #8b3232;
 	paint-order: stroke fill;
 }
 .title-img {
@@ -222,16 +239,68 @@ td {
 .right-align {
 	text-align: right !important;
 }
+
 .pg-title {
+    width: 100%;
+    /* min-height: 220px;                 /* controls banner height */
+    display: flex;
+    align-items: center;               /* vertical centering */
+    justify-content: center;           /* horizontal centering */
+
+    /* background-image: url("../forgotten-ottawa/files/banner.png");
+    background-size: 100% 100%;            /* stretches image across div
+    background-position: center;
+    background-repeat: no-repeat;*/
+}
+
+.pg-title h2 {
+    margin: 0;
+    color: #fff;
+    text-align: center;
+}
+
+/* .pg-title {
 	border-radius: 30px;
+	/* Use relative positioning for text overlay
+  	position: relative;
+  	/* Ensure text and image do not overflow
+  	overflow: hidden;
+	/* background-image: url("../forgotten-ottawa/files/banner.png");
+    /*background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+	object-fit: fill; */
 	/* background-color: #DDEEFF; */
 	/* background: linear-gradient(top, #6688BB 0%, #446688 100%);
 	background: -moz-linear-gradient(top, #6688BB 0%, #446688 100%);
 	background: -webkit-linear-gradient(top, #6688BB 0%,#446688 100%);
 	background: -ms-linear-gradient(top, #6688BB 0%,#446688 100%); */
 	/*border-style: solid;
-    border-color: #55CCFF;*/
+    border-color: #55CCFF;
 }
+
+.pg-title img {
+	/* Stretch the image to fill the container while maintaining aspect ratio
+  	object-fit: cover;
+  	/* Ensure the image covers the entire width and height of the container
+  	width: 100%;
+  	height: 100%;
+}
+
+.pg-title h2 {
+	/* Use absolute positioning to place text over the image
+	position: absolute;
+	top: 90%; /* Center the text vertically
+	left: 90%; /* Center the text horizontally
+	transform: translate(-10%, -10%); /* Precisely center the text */
+	/* color: white; /* Make text visible on most images
+	text-align: center;
+	z-index: 10; /* Ensure text is above the image */
+	/* Add styling for better readability (optional) */
+	/* font-size: 2em;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); 
+}*/
+
 .pg-subtitle {
 	text-align: center;
 	font-size: 2em;
@@ -249,13 +318,15 @@ td {
 	/* text-decoration: underline !important; */
 	text-shadow: 1px 1px #FFFFFF !important;
 }
-h3 {
+
+/* h3 {
 	font-family: Catamaran !important;
 	color: #FFFFFF !important;
     font-size: 2em !important;
 	font-weight: bold !important;
 	text-align: left !important; 
-}
+} */
+
 h3.center {
 	text-align: center !important;
 }
@@ -278,8 +349,8 @@ h4.sidebar {
 }
 p {
 	font-family: Catamaran;
-    font-size: 1.3em;
-    line-height: 1.4em;
+    font-size: 1.4em;
+    line-height: 1.5em;
     color: #FFFFFF;
 }
 p.sidebar {
@@ -444,15 +515,42 @@ li.open.dropdown>a {
 	color: #EEEEFF !important;
 }
 
-h3.fottawa {
+h3.fottawa-heading {
 	/*text-align: center !important;*/
-	margin-bottom: 10px;
+	font-size: 3em;
+	/*margin-bottom: 10px;*/
+	margin: 0px !important;
+	display: inline-block;          /* Shrinks banner to text width */
+    padding: 15px 30px;              /* Space around text */
+    /* background-image: url("../forgotten-ottawa/files/banner.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; */
+    color: #fff;
+	font-family: 'ForgottenOttawaSC' !important;
+	font-weight: bold !important;
+	-webkit-text-stroke: 7px #8b3232;
+	paint-order: stroke fill;
 }
+
+div.fottawa {
+    text-align: center;
+}
+
+/*div.fottawa {
+	height: 50%;
+	padding: 10px 0px 10px 0px;
+	object-fit: cover;
+	background-image: url("../forgotten-ottawa/files/banner.png");
+	/*background-size: cover; /* Ensures the image covers the entire h3 area 
+    background-position: center; /* Centers the image 
+    background-repeat: no-repeat;
+}*/
 
 figure.fottawa {
 	/*border: 1px solid;
 	border-color: #FFFFFF;*/
-	padding: 5px;
+	padding: 10px;
 	/*width: 75%;*/
 	display: block;
   	margin-left: auto;
@@ -529,8 +627,29 @@ figcaption.fottawa {
 .home-img {
 	border: 1px solid;
 	/* margin-right: 15px; */
-	box-shadow: 3px 3px 5px #000000;
-	width: 220px;
+	/* box-shadow: 3px 3px 5px #000000; */
+	/* width: 300px; */
+	width: 100%; 
+    height: auto; /* Maintains aspect ratio */
+    display: block;
+}
+
+.thumbnail-img {
+	width: 100%;
+}
+
+.thumbnail-text {
+	/* color: #FFFFFF; */
+	padding: 5px;
+	font-size: 1.1em;
+	text-align: center;
+	border: 1px solid;
+	border-color: #666666;
+	background-color: #555555;
+}
+
+.thumbnail-row {
+	padding: 10px;
 }
 
 .main-img {
@@ -663,6 +782,7 @@ figcaption.fottawa {
 	.visible-custom {
 		display: none !important;
 	}
+}
 @media (min-width: 1031px) {
 	.title {
 		background-size: 100%;
