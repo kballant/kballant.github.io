@@ -125,24 +125,14 @@
 				</div>
 			</div>
 			{% include nav.html %}
-			{% if page.url contains "forgotten-ottawa" %}
-				<div class="row">
-					<div class="col-md-12">
-						<div id="content">
-							{{ content }}
-						</div>
+			<div class="row">
+				<div class="col-md-9">
+					<div id="content">
+						{{ content }}
 					</div>
 				</div>
-			{% else %}
-				<div class="row">
-					<div class="col-md-9">
-						<div id="content">
-							{{ content }}
-						</div>
-					</div>
-					{% include sidebar.html %}
-				</div><!-- /.container -->
-			{% endif %}
+				{% include sidebar.html %}
+			</div><!-- /.container -->
 			<div class="row">
 				<div class="col-md-9">
 					{% include footer.html %}

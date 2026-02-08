@@ -377,7 +377,8 @@ p.center {
 footer {
 	/* background: rgba(50, 113, 231, 0.6);  */
 	/* background-color: #3355AA; */
-	background: rgba(170, 51, 51, 0.6);
+	/* background: rgba(170, 51, 51, 0.6); */
+	background: #581a1a;
 	/* background-color: transparent;
 	/*background: linear-gradient(left top, #000022 0%, #0000cc 100%);  
 	background: -moz-linear-gradient(left top, #000022 0%, 0000cc 100%);
